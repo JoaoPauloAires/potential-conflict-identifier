@@ -1,0 +1,189 @@
+
+
+Independent Contractor
+
+Services Agreement
+
+effective 05/09
+
+AGREEMENT dated:
+	PARTIES
+
+This is an Agreement between the FLINDERS UNIVERSITY of Bedford Park, Adelaide, South Australia ("University")
+
+and
+
+NameACN [if applicable]ABN [if applicable]Of [address]Trading as [business name][if applicable]
+("Contractor")
+
+	AGREEMENT
+
+The University engages the Contractor to provide the Services on the terms and conditions set out below and in the attached document headed "Standard Terms and Conditions for the Supply of Services" ("Standard Conditions").  The Standard Conditions form part of this Agreement.
+
+
+	SERVICES
+
+The Contractor will provide the following services ("Services") to the University:
+
+[expand as necessary]
+[describe services in detail and indicate the outcome or agreed result]
+
+
+	TIME REQUIREMENT
+
+The Contractor must start providing services on[insert date] ("Starting Date")and must complete the Services by[insert date] ("Completion Date").
+	OR
+
+The Contractor must provide the Services for a Term ofmonths commencingon ("Term").
+
+
+	PRICE
+
+5.1	The price to be paid by the university for the services is $			("contract price GST included").
+
+5.2	The contract price includes: 
+
+(a)	all expenses which the Contractor is responsible for under clause 14 of the Standard Conditions;
+
+(b)	all insurance costs which the Contractor is liable for under clause 13 of the Standard Conditions; 
+
+(c)	all amounts payable for the use (whether in the course of performance of the Services or their enjoyment) of patents, copyright, registered designs, trade marks and other intellectual property rights; and
+
+(d)	all charges for the provision of the Services.
+
+
+	TERMS OF PAYMENT
+
+6.1	The University must pay the contract price in accordance with: 
+
+(a)	Clause 7.3 of the standard conditions
+
+or
+
+(b)	the following:
+
+[If (b) applies, insert payment terms]
+
+6.2	The contractor must comply with the following specific invoice requirements: 
+
+[insert details of any invoice requirement not covered by clause 7.2.2 of the Standard Conditions]
+
+
+EXECUTED as an Agreement
+
+SIGNED for and on behalf of the)SignatureFlinders University by an officer)Duly authorised by the Vice)NameChancellor in the presence of)PositionWitness
+
+SIGNED for and on behalf of the)SignatureContractor by a duly authorised)Officer in the presence of)NamePositionWitness
+To be Attached:  Standard terms and conditions for the supply of services
+
+STANDARD TERMS AND CONDITIONS FOR THE SUPPLY OF SERVICES 
+
+
+1.	INTERPRETATION
+In these Standard Terms and Conditions ("Conditions") unless the context requires otherwise:
+(a)	words importing the singular number include the plural number and vice versa;
+(b)	reference to a person includes the executors, administrators, successors and assigns of that person and includes corporations and associations;
+(c)	where any party comprises more than one person then the liability of those persons is both joint and several;
+(d)	headings are for ease of reference only and do not affect the construction of these Conditions; and
+(e)	all words commencing with a capital letter have the meaning assigned to those words in the Services Agreement.
+2.	WHEN CONDITIONS APPLY
+These Conditions apply to and form part of the Services Agreement between the Flinders University ("University") and the Contractor referred to in the Services Agreement ("Contractor") ("Services Agreement"), which is attached to these Conditions.
+3.	CONDITIONS TO PREVAIL
+These Conditions prevail in any conflict between them and the terms of any offer by the Contractor.
+4.	PROVISION OF SERVICES
+Unless the Services Agreement states otherwise, the Services may be provided by the Contractor either personally or through the employment/sub contracting of other persons.
+5.	CONTRACTOR'S OBLIGATIONS
+5.1	The Contractor warrants that it will exercise skill, care and diligence to a high standard in providing the Services.
+5.2	In providing the Services the Contractor must:
+5.2.1	comply with the University's Occupational Health and Safety Requirements (as per the University's Contractor Safety Requirements, which can be accessed at: http://www.flinders.edu.au/campus/buildings-and-property/contractor-safety.cfm );
+5.2.2	comply with any reasonable directions given by or on behalf of the University from time to time;
+5.2.3	comply with all policies procedures and directives of the University so far as they are made known to the Contractor;
+5.2.4	comply with all applicable standards, laws and regulations;
+5.2.5	take all reasonable practical measures to ensure the Contractor's own safety and the safety of the Contractor's employees;
+5.2.6	provide and use appropriate safety equipment and clothing and require employees of the Contractor to use that equipment;
+5.2.7	provide all labour, materials, plant and equipment necessary to perform the Contractor's obligations under the Agreement;
+5.2.8	provide the University on request with written evidence of Work Cover and prescribed payments taxation registration (if applicable).
+5.3	The Contractor must either complete the Services by the Completion Date or provide the services at all agreed times during the Term, as specified in the Services Agreement.
+5.4	The Services must:
+(a)	be free from defects in performance;
+(b)	meet their purpose; and
+(c)	be complete and in accordance with the description in clause 3 of the Services Agreement.
+5.5	The University may inspect the performance and outcome of the Services at any time.
+5.6	If there is a defect in performance of the Services the University may by notice require the Contractor to remedy the defect at no additional cost to the University.
+5.7	If the Services do not meet their purpose or are not in accordance with the Services Agreement, the University may by notice require the Contractor to redo the Services at no additional cost to the University.
+5.8	Where the Contractor fails to:
+5.8.1	remedy a defect in performance of the Services; or
+5.8.2	redo the Services;
+within the time specified in a notice given by the University under clause 5.6 or clause 5.7, the University may arrange for the performance of the necessary work and recover the cost from the Contractor.
+6.	INTELLECTUAL PROPERTY
+6.1	All intellectual property created under the Services Agreement and relating to the Services is, from the time of creation of the right, owned by the University.
+6.2	The Contractor indemnifies the University, its officers, employees and agents against all loss, damage or expense arising in respect of any action or claim for alleged infringement of any patent, copyright, registered design, trade mark or any other intellectual property rights, by reason of the University's receipt or enjoyment of the Services.
+7.	INVOICING REQUIREMENTS 
+7.1	The Contractor must submit to the University correctly rendered invoices.
+7.2	An invoice will be correctly rendered if:
+7.2.1	it complies with the requirements of the Services Agreement;
+7.2.2	(if appropriate and required by the University), it is accompanied by documentation substantiating the amount claimed.
+7.3	Unless the Services Agreement states otherwise, the University will pay for the Services within 30 days after:
+7.3.1	completion of the Services; or
+7.3.2	receipt of a correctly rendered invoice for the Services;
+whichever is later.
+8.	SUMMARY TERMINATION 
+8.1	At any time after a default event occurs the University may terminate the Services Agreement with immediate effect by giving notice in writing to the Contractor.
+8.2	A default event will be taken to have occurred if any of the following events occurs:
+8.2.1	the Contractor fails to start providing the Services on the date specified in the Services Agreement;
+8.2.2	the Contractor fails to proceed at a rate likely to achieve completion of the Services by the Completion Date (if any) specified in the Services Agreement;
+8.2.3	the Contractor fails to complete the Services by the Completion Date (if any) specified in the Services Agreement;
+8.2.4	the Contractor ceases to provide the Services at any time during the Term (if any) specified in the Services Agreement;
+8.2.5	the Contractor fails to:
+8.2.5.1	provide and pay for appropriate insurance as required by clause 13.1; or
+8.2.5.2	provide the University with proof of appropriate insurance upon request by the University as required by clause 13.2;
+8.2.6	the Contractor breaches any other provision of the Services Agreement (including these Conditions) and fails to remedy the breach within 30 days after receiving written notice requiring that to be done;
+8.2.7	any step is taken to enter into any arrangement between the Contractor and the Contractor's creditors;
+8.2.8	the Contractor ceases to be able to pay the Contractor's debts as they become due;
+8.2.9	the Contractor ceases to carry on business; or
+8.2.10	any step is taken to appoint a receiver, a  receiver and manager, a trustee in bankruptcy, a liquidator, a provisional liquidator or other like person of the whole or any part of the Contractor's assets or business.
+8.3	Where, before its termination of the Services Agreement under this clause 8 the University has paid an amount on account of the Contract Price to the Contractor, the Contractor must on termination repay that amount to the University.  If not so paid, the amount is recoverable by the University from the Contractor as a debt.
+8.4	If the Services Agreement is terminated under this clause 8:
+8.4.1	the parties are relieved from future performance without prejudice to any right of action that has accrued at the date of termination;
+8.4.2	rights to recover damages are not affected; and
+8.4.3	the Contractor indemnifies the University in respect of any loss the University may incur in purchasing similar services from alternative suppliers.
+9.	SUBCONTRACTING
+9.1	The Contractor is able to subcontract or delegate work to others but remains responsible for the agreed contract outcomes.
+9.2	The Contractor is liable to the University for the acts and omissions of any subcontractor as if they were the acts or omissions of the Contractor.
+
+10.	ASSIGNMENT
+The Contractor must not assign or attempt to assign any rights under the Services Agreement without the University's written consent.
+11.	RELATIONSHIP
+11.1	Nothing in the Services Agreement (including these Conditions) constitutes a relationship of employer and employee, principal and agent, or partnership between the University and the Contractor.
+11.2	The Contractor acknowledges that the Services Agreement (including these Conditions) do not give the Contractor or the Contractor's employees authority to bind the University.
+11.3	The Contractor must not, and must ensure that the Contractor's employees do not, directly or indirectly assume or create or attempt to assume or create any obligation on behalf of or in the name of the University.
+12.	BENEFITS
+As an independent contractor the Contractor has no entitlement to any benefits, payments or allowances (including, but not limited to, annual leave, sick leave, long service leave or any other leave to which the Contractor might otherwise have been entitled if the Contractor was an employee and not an independent contractor)  other than payment of the Contract Price.
+13.	INDEMNITY
+13.1	The Contractor agrees to indemnify the University against any liability, loss or claim arising under any statute or common law in respect of:
+13.1.1	loss or damage to property; or
+13.1.2	bodily injury to or death of any person
+where the loss, damage, injury or death arises out of or as a consequence of the performance of the Services Agreement.  This indemnity will not be defeated or reduced by reason of any negligence, omission or default by the University, its servants or agents.
+13.2	The Contractor agrees to the extent permitted by law that it will not have or make any claim against the University, its servants or agents for personal injury or for property loss or damage suffered by the Contractor, its servants or agents arising out of or as a consequence of the performance of the Services Agreement regardless of how the loss or injury occurs and whether or not the loss or injury is in any way due to a negligent act, breach of duty, default or omission on the part of the University, its servants or agents.
+14.	INSURANCE
+14.1	The Contractor will provide and pay for all insurance which a reasonable and prudent person would consider to be appropriate in the conduct of a business the same as or similar to the Contractor's business in providing the Services, including (but not limited to) public liability and workers' compensation insurance.
+14.2	The Contractor will on request provide the University with proof of appropriate insurance.
+15.	ALL EXPENSES TO BE MET BY CONTRACTOR
+The Contractor will be responsible for and will indemnify the University against all costs, taxes, imposts, levies, payments and other outgoings and expenses (including, but not limited to income tax, PAYGWT, pay-roll tax, sales tax, superannuation guarantee charge, WorkCover charges, annual and other leave payments and loadings) incurred in or in consequence of the performance by the Contractor of the Services Agreement.
+16.	ENTIRE AGREEMENT AND VARIATIONS
+16.1	The Services Agreement (including these Conditions) constitutes the entire understanding and agreement between the parties as to its subject matter.
+16.2	No agreement or understanding varying the Services Agreement is legally binding on either party unless in writing and signed by both parties.
+17.	CONTINUING OBLIGATIONS
+Clauses 6, 13 and 15 of these Conditions will survive the termination of the Services Agreement.
+18.	APPLICABLE LAW
+The Services Agreement (including these Conditions) is governed by and construed in accordance with the laws of the State of South Australia.
+19.	SEVERABILITY
+The whole or any part of any clause of the Services Agreement (including these Conditions) that is illegal or unenforceable will be severed from it and will not affect the continued operation of its remaining provisions.
+20.	WAIVER
+The failure of either party at any time to insist on performance of any provision of the Services Agreement (including these Conditions) is not a waiver of its right at any later time to insist on performance of that or any other provision of the Agreement. 
+
+
+
+		
+MIS 5	1	Last Modified June 2009
+

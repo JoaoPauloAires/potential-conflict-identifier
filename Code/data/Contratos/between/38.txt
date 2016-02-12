@@ -1,0 +1,134 @@
+Deed of Confidentiality and Assignment of Intellectual Property (Employees and Contractors)
+THIS DEED is made on ...................................................................................(Date)
+BETWEEN	....................................................................................(Full Name)
+       of ................................................................................................
+       (Address) ("Recipient")
+AND		....................................................................................(Participant)
+       of ................................................................................................
+(Address) ("Participant")
+AND	THE CRC GROUP as defined in clause 1.1 of this Deed c/o The CRC for Diagnostics, c/o Queensland University of Technology, 2 George Street, Brisbane, Queensland ("CRC Group")
+AND	DIATECH PTY LTD ACN 069 052 197 c/o Queensland University of Technology, 2 George Street, Brisbane, Queensland ("Company")
+RECITALS:
+A.	The CRC for Diagnostics ("Centre") is established as an unincorporated joint venture between the members of the CRC Group on the terms of an agreement dated 7 June 1995 (as amended by a deed of variation dated 8 August 2001 and a deed of variation dated 24 January 2002) ("CRC Agreement").
+B.	The Participant is a member of the CRC Group and is involved in the research and other activities to be undertaken by the Centre in the field of diagnostic technologies.
+C.	The Company was established by the CRC Group to hold all Centre Intellectual Property on trust for the CRC Group beneficially in accordance with the CRC Agreement.
+D.	The Recipient has been engaged by the Participant to participate in the Activities, or to participate in the management of the Centre on the Participant's behalf.
+E.	The Recipient has agreed, on the terms set out in this Deed, to:
+(a) keep the Confidential Information confidential; and
+(b) assign all Intellectual Property created or acquired by the Recipient during the course of his or her involvement in the Centre to the Company.
+OPERATIVE PROVISIONS 
+1	Definitions and Interpretation
+1.1	In this Deed:
+"Activities" is a term defined in the CRC Agreement and means the research, training and Commercialisation activities of the CRC as defined in the CRC Agreement.
+"Background Confidential Information" is a term defined in the CRC Agreement and means Confidential Information comprised in Background Intellectual Property.
+"Background Intellectual Property" is a term defined in the CRC Agreement and means that Intellectual Property which is made available for the Activities by a Party, either at the Commencement Date or during the Term, and which has been adequately identified by that Party before being made available.
+"Centre Confidential Information" is a term defined in the CRC Agreement and means Confidential Information comprised in Centre Intellectual Property.
+"Centre Intellectual Property" is a term defined in the CRC Agreement and means Intellectual Property developed pursuant to the Activities.
+"CEO" is a term defined in the CRC Agreement and means the Chief Executive Officer of the Centre appointed pursuant to clause 10 of the CRC Agreement.
+"Confidential Information" is a term defined in the CRC Agreement and, in this Deed, means all trade secrets and know-how, financial information and other commercially valuable information of whatever description and in whatever form whether disclosed in writing, orally or in eye or in machine readable form relating to the Centre, the Activities or the CRC Group, and includes the Background Confidential Information and the Centre Confidential Information.
+"CRC Group" means the participants in the Centre being the Parties to the CRC Agreement from time to time.
+"Intellectual Property" is a term defined in the CRC Agreement and includes all copyright and neighbouring rights, and all rights in relation to inventions (including patents), plant varieties, registered and unregistered trade marks, registered designs, confidential information (including trade secrets and know-how) and circuit layouts and all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields.
+"Party" is a term defined in the CRC Agreement and means a party to the CRC Agreement and its successors and permitted assigns and includes any person admitted as a new participant pursuant to clause 32 of the CRC Agreement and its successors and permitted assigns.
+"Recipient Intellectual Property" means all Intellectual Property created or acquired by the Recipient during the course of the Recipient's involvement in the Activities or management of the Centre (as the case may be).
+"Term" is a term defined in the CRC Agreement and means the term of the CRC Agreement being the period ascertained in accordance with clause 6 of the CRC Agreement.
+1.2	In this Deed:
+(a) wording importing the singular include the plural and vice versa; and
+(b) headings do not affect the interpretation of this Deed.
+2	Recipient's Obligations of Confidentiality
+2.1	The Recipient must:
+(a) keep the Confidential Information confidential, unless and until it becomes public knowledge (other than through a breach of a confidentiality obligation owed to the CRC Group); and
+(b) only use the Confidential Information for the purposes of participating in the Activities or the management of the Centre (as the case may be).
+2.2	The Recipient must not disclose or allow to be disclosed any Confidential Information to any person except:
+(a) as required by law;
+(b) with the prior written consent of the CEO; or
+(c) as necessary to participate in the Activities, or the management of the Centre (as the case may be).
+2.3	The Recipient must:
+(a) not copy or extract any Confidential Information without the prior written consent of the CEO; and
+(b) whenever the CEO asks, and if the Recipient's involvement with the Centre is terminated for any reason, promptly deliver to the Participant or the CRC Group all materials containing any of the Confidential Information, or (if the CEO asks) promptly destroy those materials and notify the CEO of their destruction.
+2.4	The Recipient must immediately notify the Participant or the CEO in writing if the Recipient becomes aware of any unauthorised use or disclosure of any Confidential Information by any third party, or any possible or actual breach of the terms of this Deed.
+3	Intellectual Property
+3.1	In consideration of the Recipient's engagement to participate in the Activities or the management of the Centre (as the case may be), the Recipient assigns all Recipient Intellectual Property to the Company, to be held in accordance with the terms of the CRC Agreement.
+3.2	Where the Recipient is an employee of the Participant:
+(a) the Recipient acknowledges that all Recipient Intellectual Property is owned by the Participant;
+(b) to avoid any doubt and to ensure that all Recipient Intellectual Property is assigned to the Company, the Recipient grants the assignment given under clause 3.1; and
+(c) the Participant assigns all of the Participant's right title and interest in all Recipient Intellectual Property to the Company, to be held in accordance with the terms of the CRC Agreement.
+3.3	The Recipient agrees to assist the Participant and the CRC Group in every possible way (at the CRC Group's expense) to obtain and enforce any patent or other form of intellectual property protection of the Recipient Intellectual Property, including where it comprises part of Centre Intellectual Property, both during and after the period of the Recipient's involvement in the Centre.
+3.4	The Recipient and the Participant agree to execute any document and to do all things that may be necessary to give effect to the assignments in clause 3.1 and 3.2 and, in the case of the Recipient, to provide assistance under clause 3.3.
+4	Warranties and Authorisation
+4.1	The Recipient warrants and represents to the CRC Group and the Company that the Recipient:
+(a) is entitled to enter into this Deed, perform all of the Recipient's obligations under this Deed; and
+(b) does not breach any other agreement to which the Recipient is a party by entering into this Deed, and will not enter into any subsequent agreement whether written or oral which is inconsistent with, or will cause the Recipient to breach the terms of, this Deed.
+4.2	The Recipient authorises the CRC Group to disclose the existence and the terms of this Deed to any person or organisation for the purposes relating to the Centre including, but not limited to, the Recipient's future employers, and customers and prospective customers of any CRC Group member.
+4.3	The Participant warrants and represents to the CRC Group and the Company that it is entitled to enter into this Deed and grant the assignment given under clause 3.2.
+5	Governing Law
+This Deed is governed by and is to be construed in accordance with the laws applicable in Queensland.
+
+EXECUTED as a deed.
+SIGNED SEALED AND DELIVERED by the RECIPIENT in the presence of:
+)
+)
+)
+)......................................................................
+Witness
+
+......................................................................
+Name of Witness (print)
+......................................................................
+Recipient
+
+......................................................................
+Name of Recipient (print)
+
+EXECUTED for and on behalf of the PARTICIPANT by its duly authorised officer in the presence of:
+)
+)
+)
+)......................................................................
+Witness
+
+......................................................................
+Name of Witness (print)
+......................................................................
+Signature of officer
+
+......................................................................
+Name of officer (print)
+
+EXECUTED for and on behalf of the CRC FOR DIAGNOSTICS by its Chief Executive Officer in the presence of:
+)
+)
+)
+)......................................................................
+Witness
+
+......................................................................
+Name of Witness (print)
+......................................................................
+Chief Executive Officer
+
+......................................................................
+Name of Chief Executive Officer (print)
+
+EXECUTED by DIATECH PTY LTD by its attorney pursuant to power of attorney dated [date] who states that no notice of revocation of the power of attorney has been received in the presence of:)
+)
+)
+)
+)
+)
+......................................................................
+Witness
+
+......................................................................
+Name of Witness (print)
+......................................................................
+Attorney
+
+......................................................................
+Name of Attorney (print)
+
+6
+
+B/549373/1
+
+B/549373/1 - Employees and Contractors Deed of Confidentiality
+

@@ -1,0 +1,550 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	MAGNet DATABASE AGREEMENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			VARRO CLARKE & CO
+			Solicitors
+			Eighth Level
+			379 Queen Street
+			BRISBANE              4000
+	
+			Telephone	:	(07) 3229 3877
+			Facsimile	:	(07) 3229 5264
+
+GEO-MAG.Net\PRINCIPL.AGR
+
+
+
+
+
+
+
+
+
+THIS AGREEMENT is made the                   day of                        , 2001.
+
+
+
+BETWEEN	The Party more particularly described in Attachment 5 as the Contributor hereinafter called the "Contributor"
+
+AND		The Party more particularly described in Attachment 5 as the Manager hereinafter called the "Manager"
+
+AND		The Party more particularly described in Attachment 5 as the Custodian hereinafter called the "Custodian"
+
+
+
+WHEREAS
+
+A.	The Contributor at the request of the Manager has agreed from time to time in its discretion to provide the Custodian with copies of the Contributor's privately funded airborne geophysical datasets ("AGS Datasets") to assist in the establishment of a centralised airborne geophysical database ("MAGNet Database") to be accessible to purchasers under the terms and conditions (including the price) set forth in this Agreement.
+
+B.	The Manager at the request of the Custodian and with the knowledge and agreement of the Contributor shall be responsible for the establishment of MAGNet Database and the ongoing management of the MAGNet Database and the Manager will take all reasonable steps to gather other available privately-funded airborne geophysical data for inclusion in the MAGNet Database and to re-process, compile, catalogue and display as images and maps all such data and to make reprocessed data available for sale and to prepare a comprehensive description of each data set.
+
+C.	The Contributor, the Custodian and the Manager all acknowledge that the AGS Datasets will be held by the Custodian in trust for the Contributor but subject always to the terms of this Agreement.
+
+
+IT IS AGREED as follows:-
+
+1.	THE CONTRIBUTOR'S DATA AND LICENCE
+
+1.1	Delivery of AGS Datasets
+
+	At any time, from time to time, after the date of this Agreement, the Contributor may provide the Custodian with the AGS Datasets.  The data delivery shall conform where possible to the specification outlined in Attachment 3.  Contribution of the survey data will be on a voluntary, survey-by-survey basis, and may at the discretion of the Contributor include currently confidential data.  All survey data delivered to the Custodian will be accompanied by a statement of ownership in the form set out in Attachment 4.
+
+1.2	Inclusion of AGS Datasets 
+
+	The manager shall incorporate all AGS Datasets into the MAGNet Database, unless the contributor otherwise agrees in writing..
+
+1.3	No Dealings by Contributor
+
+	The Contributor will not sell its own AGS Datasets through any other organised Database facility the duration of this Agreement.  This clause shall not preclude the Contributor from providing copies of its own Datasets to any other participant in the Robe River Iron Associates Joint Venture or to any Related body Corporate (as the term is defined in the Corporations Law) or to other companies for the purposes of negotiating bona fides joint venture agreements with these companies.
+
+1.4	Contributor's Indemnity
+
+	The Contributor shall indemnify and keep indemnified the Custodian and the Manager and each of them against any actions, suits, claims, demands, proceedings, losses and all liability for special, incidental, or consequential damages (including loss of profit) incurred by them should it be established that the Contributor is not the owner of the intellectual property in the AGS Datasets.
+
+1.5 No Representations or warranty
+
+The parties acknowledge and agree that the Contributor makes no representations and gives no warranty whatsoever relating to the accuracy, completeness or correctness of any of the AGS Datasets and (without limitation) does not warrant that:
+(a) the Datasets are or will be free from error
+(b) the Datasets are or will be suitable for the Manager's purpose.
+
+1.6 No Liability
+The Contributor shall have no liability to the manager or the Custodian for or in respect of any loss or damage to which may be suffered or incurred or otherwise arise out of or in connection with the use or the provision of the AGS Datasets or any error, omission, inaccuracy or fault in the Datasets and the manager and the Custodian release the Contributor from any such liabilty which but for this clause may have otherwise existed or arisen.
+
+2.	THE LICENCE
+
+2.1	The Contributor grants to the Manager an exclusive licence:-
+
+	(a)	to use the AGS Datasets for the purpose of generating derived products including without limitation, digital profile data, gridded data, image data maps and reports for sale to purchasers (the "Derived Products") on the condition that the Derived Products will be added to and form part of the AGS Database. Full particulars of  Derived Products generated from the AGS Datasets will be notified by the Manager to the Contributor as soon as reasonably practical after their completion.
+
+	(b)	to sell copies of the AGS Datasets to third parties ("purchasers")
+
+	(c)	to sell Derived Products to third parties who have purchased copies of the AGS Datasets from which those Derived Products have been generated.
+
+		The Contributor warrants that it has the requisite legal capacity to grant such an exclusive licence.
+
+All sales by the Manager pursuant to paragraphs (b) and (c) above shall be made as the Manager as principal and on terms and conditions under which the Contributor is satisfied (in its discretion) that no liability may attach directly or indirectly to the Contributor. Full particulars of any sale by the Manager pursuant to paragraph (b) above, including the terms and conditions of the sale, shall be notified by the Manager to the Contributor as soon as reasonably practicable after the date of sale.
+
+2.2	The copyrights of all products derived from the MAGNet Database during the terms of this Agreement will remain solely with the Manager the earlier of the date of termination of this Agreement and until midnight on 31 December 2100.
+
+
+3.	THE MANAGER'S DUTIES
+
+3.1	The Manager will for the benefit of the Contributor and the Manager at the Manager's own cost:-
+
+	(a) 	Data Processing
+
+		perform the data processing, presentation and management tasks outlined in Attachment 1 on the AGS Datasets.
+
+	(b)	Promotion and Sales
+
+		sell data and derived products from the MAGNet Database at the prescribed rate set out in Attachment 2 and generally promote the MAGNet Database to the mineral exploration industry. The manager shall not in any promotional or sales activity refer to the Contributor or this Agreement unless on each occasion reference is to be made, the prior written consent of the Contributor is obtained.
+
+	(c)	Payment of Royalties
+
+		manage the sale of data and products derived from the MAGNet Database, and 
+
+		(i)	collect payment from the sale of data and products derived from the MAGNet Database, and
+
+		(ii)	account quarterly to the Contributor for the moneys collected from sales, and
+
+		(iii)	pay royalties to the Contributor quarterly calculated in the manner prescribed in Attachment 2.
+
+	(d)	Supervision and the Provision of Services
+
+		take responsibility for the overall supervision of the establishment of the MAGNet Database and performance of MAGNet Database as a commercial enterprise.  To this end, the Manager will at its expense provide:-
+
+		(i)	All necessary computer processing, duplicating, printing, office accommodation and other facilities for the project.
+
+		(ii)	Those persons named in Attachment 5 or such other persons nominated by the Manager from time to time of equal standing to supervise the establishment and the working of the MAGNet Database and the marketing of data out of the MAGNet Database.
+
+		(iii)	Suitably qualified geophysicists and geophysical data processing staff.
+
+		(iv)	Consultants and other technical staff for digitising maps and secretarial staff as and when needed.
+
+	(e)	Accuracy
+
+		use its best endeavours to ensure the accuracy of the work performed by the Manager under this Agreement without warranting that:-
+
+		(i)	its work will be without error, and
+
+		(ii)	it will be responsible for any loss resulting from any error.
+
+	(f)	Reporting
+
+		provide the Contributor, at least half yearly, with an index of the airborne geophysical datasets held in the MAGNet Database.
+
+	(g)	Open-File Data
+
+		use its best endeavour to broaden the information of the MAGNet Database by adding to the MAGNet Database, where allowed by law, open-file data held by or on behalf of the various State Governments in Australia.
+
+
+4.	AGS DATASETS - GENERAL PROVISIONS
+
+4.1	Delivery cost
+
+	The Contributor shall pay the cost of shipping the AGS Datasets to the Manager and the Contributor shall bear the risk of loss or damage to such data until received by the Manager.
+
+4.2	Insurance 
+
+	The Contributor shall provide the Manager with "COPIES ONLY" of the AGS Datasets and shall notify the Manager's collection centre (see Attachment 3) before the AGS Datasets are dispatched.  It is for the Contributor to ensure that no irreplaceable AGS Datasets are dispatched without the prior agreement of the Manager and without the appropriate insurance cover first being taken out by the Contributor.
+
+4.3	Storage of data
+
+	The Manager shall use due care in the handling and the storage of the AGS Datasets provided by the Contributor to the Manager and shall take  all reasonable steps to preserve that data by copying that data on media suitable for long-term storage.
+
+4.4	No Liability 
+
+	The Manager shall exercise due care of the Contributor's AGS Datasets whilst they are in the Manager's possession and shall take reasonable steps to preserve the data and in the absence of wilful negligence neither the Custodian or the Manager will be liable for loss, theft, damage or destruction of that data.
+
+4.5	Ownership
+
+	(a)	Subject to the licence granted to the Manager by the Contributor the AGS Datasets shall at all times remain the property of the Contributor.
+
+	(b)	Subject to the payment of royalties to the Contributor products derived from the AGS Datasets shall be and shall remain the sole property of the Manager for the duration of this Agreement.
+
+	(c)	The Custodian shall have no claim to any royalty or any fee in relation to its custodial role under this Agreement on the understanding that the Manager will honour all obligations imposed on the Manager under this Agreement.
+
+
+5.	CONFIDENTIALITY
+
+5.1	Authorised Use
+
+	(a)	The Manager is specifically authorised by this Agreement to use the AGS Datasets and such use will not constitute a breach of right of the Contributor in the AGS Datasets or otherwise.  Any aeromagnetic data submitted in digital format by the Contributor may be used by the Manager in the provision of digital data products or map products.  Location of flight lines along which data sets are collected will be treated as non-confidential.
+
+	(b)	The Manager warrants that it will use the AGS Datasets for those purposes specifically authorised by this Agreement and not otherwise.  The Manager shall at the request of the Contributor deliver to the Contributor the irrevocable undertaking of both its consultants, Geoimage Pty Ltd ACN 010 840 294 and Pitt Research Pty Ltd ACN 070 275 179 to use the AGS Datasets for no purpose other than that envisaged by this Agreement.
+
+	(c)	Unless otherwise provided in this Agreement, purchasers shall be permitted to use all final products for their internal use only, in any way they so wish.
+
+5.2	Disclosure
+	Nothing in this Agreement shall prevent disclosure by either the Contributor or by any purchaser when required by law or when disclosure is made to a data processing centre or professional consultant retained by such a party, provided that such centre or consultant undertakes in writing to keep the information strictly confidential.
+
+
+.	ASSIGNMENT OF INTEREST
+
+6.1	No party to this Agreement shall assign, mortgage or otherwise deal with or encumber its right and entitlement under this Agreement without the written consent of the other Parties to the Agreement.
+
+
+7.	NOTICE
+
+7.1	All notices which are required to be given under the Agreement shall be in writing and shall be:
+
+	(a)	delivered to the other party personally; or
+
+	(b)	 sent by facsimile to the facsimile number of the other party, in which case notice shall be deemed to have been received on the receipt of confirmation from the answering machine; or 
+
+	(c)	sent by electronic mail embedded or as an attachment, in which case notice shall be deemed to have been received on confirmation from the mail server.
+
+	(d)	forwarded by registered mail to the address of the other party, in which case notice shall be deemed to have been received 48 hours after it was posted.
+
+7.2	Addresses and facsimile numbers of the Parties to the Agreement, shall be as specified in Attachment 5, or as otherwise notified in writing during the currency of the Agreement.
+
+
+8.	TERMINATION OF AGREEMENT
+
+8.1	The Contributor shall have the right by giving 28 days notice in writing to terminate the licence granted to the Manager under this Agreement should the Manager fail:-
+
+	(a)	to pay royalties by the due date, or
+
+	(b)	to report as required
+
+	or should the Manager otherwise breach any material obligation on its part to be performed under the Agreement.
+The Contributor may in any event terminate the licence granted to the Manager by this Agreement and this Agreement at any time, with or without cause, by giving two months notice in writing to the Manager and the Custodian.
+
+8.2	The Manager will have the right to terminate this Agreement if:
+
+	(a)	the granting of the licence to the Manager under this Agreement  breaches any intellectual property rights of a third party; or
+
+	(b)	the Manager in the exercise of its absolute discretion forms the view that the establishment and operation of the MAGNet Database is no longer commercially viable but only after the Manager shall have given the Contributor three (3) months notice of its intention to terminate the Agreement for this reason.
+
+8.3	Should any Parties to this Agreement become insolvent and/or commit an act of bankruptcy then, the other Parties or anyone of them shall have the right to terminate this Agreement forthwith by notice in writing to the other Parties whereupon all the rights and entitlements of the Parties save and except for any accrued right and or entitlement shall be at an end.
+
+
+9.	JURISDICTION
+
+	The proper law of this Agreement is the law of the State of Western Australia and the rights of the parties in and to this Agreement and the construction and effect of each and every provision hereof shall be subject to those laws.
+
+10. RELATIONSHIP OF PARTIES
+
+Nothing in this Agreement shall be construed as placing the parties in the relationship of partners or co-joint venturers or principal and agent
+
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement:
+
+
+Signed for and on behalf of		
+	ACN		
+	By		
+Who warrants that he/she is authorised to sign this agreement:
+	on behalf of		
+
+The Common Seal of MAGNet		)
+DATABASE SERVICES PTY LTD 	)
+ACN 085 510 783 is affixed in 		)
+accordance with its articles of 		)
+association in the presence of:		)
+
+
+.......................				........................
+Director					Director/Secretary
+
+
+The Common Seal of MAGNet		)
+DATABASE NOMINEES PTY LTD 	)
+ACN 085 510 827 is affixed in 		)
+accordance with its articles of 		)
+association in the presence of:		)
+
+
+.......................				........................
+Director					Director/Secretary
+
+
+
+	ATTACHMENT 1
+
+DATA PROCESSING, PRESENTATION AND MANAGEMENT
+
+The Manager shall perform the following tasks on the multi-client datasets incorporated into the MAGNet Database.
+
+(a)	Data collection
+	Receive data, catalogue and send acknowledgment of receipt of the survey data to the contributor company
+
+(b)	Data validation
+	Review survey quality and document work programme
+
+(c)	Data re-processing
+	Review data correction and levelling for aeromagnetic surveys and re-process aeromagnetic data where beneficial.
+
+(d)	Data organisation
+	Generate a graphical index to all survey contributed by Contributors and incorporated into the MAGNet Database.
+
+(e)	Data presentation
+	Generate a series of standard grid products and a flight-line diagram for each incorporated survey at a nominated resolution.  These standard products shall be included in the purchase price of the data.
+
+	These products shall be specific to each survey and shall include:
+
+	GRIDDED DATA
+	for aeromagnetic data,
+
+
+
+.	TMI grid and for radiometric data (where supplied),
+.	Total Count grid, K grid, U grid, and Th grid
+
+	The default grid format is to be BIL (Band Interleaved by Line), with a header for ER-Mapper.
+
+	Any further products required from the data, including digital grids, images and maps, will be charged at normal commercial rates for these products.
+
+(f)	Data archive
+
+	The final processed data will be stored on CD-ROM.  Two copies will be made and one copy will be stored off-site in a secure facility.  The physical storing of the data shall be determined from time to time by the Custodian in connection with the Manager and each contribution to the MAGNet Database
+
+(g)	Quality/Quality Control
+
+	Issues of data quality relate to the original acquisition and processing of the survey, and are not the responsibility of the Manager.
+
+	A QA system will be devised to ensure data deliveries conform to industry standards, and to an agreed flat ASCII format.
+
+	No liability for data errors will be accepted by the database managers.  Purchasers of the data will sign a licence agreement to this effect at the time of sale.
+
+
+
+	ATTACHMENT 2
+
+DATA SALES AND ROYALTIES
+
+1.	Data and map products will be available for sale to the whole mineral exploration industry.  The sell rate and Royalty will be calculated as follows:-
+
+_____________________________________________________________________
+
+DATA TYPE		Propr. Multi-client	Open-File
+			Sell rate - Royalty	Sell rate - Royalty
+_____________________________________________________________________
+
+Airborne mag/4ch, 256-ch 
+rad - as is*		$1.75/km	$1.30/km	$250.00	$0
+_____________________________________________________________________
+
+Airborne mag/4ch rad - 
+as is			$1.45/km	$1.00/km	$150.00	$0
+_____________________________________________________________________
+
+Airborne mag only - as is	$1.35/km	$1.00/km	$150.00	$0
+_____________________________________________________________________
+
+Airborne mag/4ch rad - 
+reprocessed		$1.65/km	$1.00/km	$0.20/km	$0
+_____________________________________________________________________
+
+Airborne mag only - 
+reprocessed		$1.45/km	$1.00/km	$0.10/km	$0
+_____________________________________________________________________
+
+Airborne EM		P.O.A.	P.O.A.	P.O.A.	$0
+_____________________________________________________________________
+
+
+The above price structure is indicative only. It includes provision of located and gridded data, but does not include any provision of value-added map products, etc.  These may be ordered at normal commercial rates.
+Where it can be demonstrated that the above prices are inappropriate (for example because of poor recovery techniques) the sale price may be varied, but only with the approval of the contributor.
+
+Rates for supply of EM data will depend on a range of factors including ownership, data volumes and type of survey.  It is noted that current prices for new EM surveys range from $55/km to $70/km.
+
+*	These rates assume re-processing work to be funded by the manager
+*	Statistical Noise Reduction for 256-channel radiometrics negotiated on request
+
+2.	Royalties will be payable on a quarterly basis, with payments being due on or before 31st March, 30th June, 30th September and 31st December.  A statement of data sold from the scheme, cross-referenced to survey details, will be issued quarterly on the 31st March, 30th June, 30 September and 31st December.  
+
+3.	No entry fees or up-front payments are required from any purchaser.
+
+4.	The Manager will engage the services of:-
+
+	(a)	Pitt Research Pty Ltd ACN 070 275 179
+		3/39 Holland St,
+		Thebarton  SA
+
+		and
+
+	(b)	Geoimage Pty Ltd ACN 010 840 294
+		13/180 Moggill Road
+		Taringa  QLD
+
+	to jointly but independently market data (including products derived) from the MAGNet Database.  For this purpose a joint index and Internet website will be established for the airborne geophysical surveys meta data.  This index will be developed from Pitt Research's current index available on the Internet for its public data holdings.
+
+
+
+	ATTACHMENT 3
+
+DATA FROM MEMBERS
+
+AEROMAGNETIC DATA
+The aeromagnetic data supplied by Members should ideally be in located profile forms as described below and should contain the following information.
+
+1.	Line number
+2.	Date
+3.	Fiducial number
+4.	Time (local samn)
+5.	Total field reading location, latitude and longitude (units).  If AMG or other UTM-based co-ordinate system is used, please state zone.
+6.	Total magnetic field as recorded during survey.
+7.	Aircraft-compensated total magnetic field
+8.	Diurnal magnetic data.
+9.	Corrected total magnetic field (diurnal & IGRF removed)
+10.	Height at each point (radar and barometric/GPS height)
+
+Any multipliers/base-levels used in calculation of corrected total field magnetics.
+
+
+RADIOMETRIC DATA
+
+Radiometric data supplied by Members should also be in located profile form as described below and should contain the following information:
+
+1.	Line number
+2.	Date
+3.	Fiducial number
+4.	Time (local samn)
+5.	Observation reading location, latitude and longitude (units).  If AMG or other UTM-based co-ordinate system is used, please state zone.
+6.	Raw Total count as recorded during survey.
+7.	Raw Potassium Count as recorded during survey
+8.	Raw Uranium Count as recorded during survey
+9.	Raw Thorium Count as recorded during survey
+10.	Corrected Total Count
+11.	Corrected Potassium Count
+12.	Corrected Uranium Count
+13.	Corrected Thorium Count
+14.	Height at each point (radar and barometric/GPS height)
+15.	Atmospheric data (temperature, air pressure, humidity).
+
+
+
+
+COMPUTER FORMAT AND MEDIA
+
+Data should be sent in ASCII format on any of the following computer media.
+
+1.	Exabyte 8mm tape (2.3gig or 5.0gig density)
+2.	9-track tape (800/1600/6250bpi) please state record and block length.
+3.	Colorado Trakker QIC-80 tape
+4.	QIC-120 1/4 inch tape
+5.	CD-ROM ISO 9660 format
+6.	DAT 4mm DDS format tape
+
+
+ADDRESSES FOR DATA
+
+Mr Mark Deuter				Mr Max Bye
+Pitt Research Pty Ltd			Geoimage Pty Ltd
+3/39 Holland St				65 Brockway Rd
+THEBARTON  SA      5031			FLOREAT WA 6014
+
+
+CONTACT DETAILS
+
+Ph:	(08) 8152 0422			Ph:	(08)  9383 9555
+Fax:	(08) 8152 0433			Fax:	(08)  9383 9666
+
+e-mail:mjd@pitt.com.au			e-mail:perth@geoimage.com.au
+
+
+
+
+	ATTACHMENT 4
+
+STATEMENT OF OWNERSHIP
+
+
+
+I, the duly authorised representatives of the Contributor, declare that to the best of the Contributor's knowledge the ownership rights for the survey data identified below reside with the Contributor, and that contribution of the survey data to the Project for public release shall not contravene the rights or interests of any other company or individual.
+
+				__________________________________________
+
+By:
+
+Designation:
+	in the presence of:
+Date:
+
+SURVEY DETAILS
+
+Where possible please provide the following survey details:
+1.	Survey Name
+2.	Survey identifier/number
+3.	Survey Date
+4.	Flight line spacing (traverses)
+5.	Flight line direction
+6.	Nominal terrain clearance
+7.	Aeromagnetic only/radiometric only/Aeromagnetic and 
+	Radiometric
+8.	Spheroid used
+9.	AMG Zone
+10.	Tape identifier/number 
+
+
+	ATTACHMENT 5
+
+
+
+"Contributor"	:
+
+
+
+
+
+
+
+"Manager"	:	MAGNet DATABASE SERVICES PTY LTD 
+			ACN 085 510 783
+
+
+
+
+
+
+
+"Custodian"	:	MAGNet DATABASE NOMINEES PTY LTD
+			ACN 085 510 827
+
+	16.
+
+
+
+
+
+
+

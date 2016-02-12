@@ -1,0 +1,58 @@
+Licence Agreement
+IMPORTANT:  YOU MUST READ AND AGREE TO THE LICENCE CONDITIONS SET OUT BELOW BEFORE USING THE ASSOCIATED CAMFor MODELS.
+
+Licence Conditions Relating to CAMFor Software
+1. IMPORTANT:
+THESE CONDITIONS REPRESENT A LEGAL AGREEMENT ("the Agreement") BETWEEN THE AUSTRALIAN GREENHOUSE OFFICE ("AGO") AND YOU ("the Licensee") IN RELATION TO THE CAMFor SOFTWARE DOWNLOADED BY YOU ("CAMFor").  BY CLICKING ON THE "I AGREE" BUTTON THAT INITIATES THE DOWNLOAD YOU INDICATE YOUR ACCEPTANCE OF THE LICENCE CONDITIONS ("the Conditions").
+2. Duration
+2.1 	The Agreement commences when you click on the "I Agree" button to initiate the download, and continues in force indefinitely unless terminated in accordance with Condition 11.
+3. Licence
+3.1 	AGO grants to the Licensee a non-exclusive, non-transferable licence:
+(a) to use, reproduce, and Commercialise CAMFor in unaltered form (except for changes to the 'Stand Inputs' and 'Species Inputs' worksheets); and
+(b) subject to Condition 7, to adapt CAMFor and/or develop derivative products and to Commercialise those adapted or derivative products.
+3.2	 AGO warrants that the grant of the Licence does not infringe the intellectual property rights of any person.
+4. Intellectual Property Rights
+4.1 	All rights not expressly granted to the Licensee under Condition 3 are  reserved.
+4.2 	The Licensee acknowledges that CAMFor is a special, unique and valuable product in which the copyright vests in AGO.
+4.3 	AGO retains ownership of copyright in CAMFor in its original form.
+4.4 	Subject to clause 4.3, copyright in any Derivative product of CAMFor made under clause 7 vests in the Licensee or as it might arrange.
+4.5 	The Licensee acknowledges that all trade mark and analogous rights in the name "CAMFor" vest in AGO.
+5. Custody of CAMFor
+5.1 	The Licensee shall maintain CAMFor in safe custody.
+5.2 	The Licensee shall take all reasonable steps to ensure that any person given access to CAMFor is aware of these Conditions and uses CAMFor only in accordance with the Agreement.
+6. Commercialisation of CAMFor in Unaltered Form
+6.1 	The Licensee may Commercialise CAMFor in unaltered form in accordance with this clause.
+6.2 	The Licensee shall not remove, obscure or interfere with any copyright notice, trademark, warning or disclaimer affixed to, incorporated in or otherwise applied in connection with CAMFor.
+6.3 	Any agreement under which CAMFor is supplied, sub-licensed or Commercialised to any third party shall incorporate a notification of precautions substantially identical to that set out in clause 8.
+7. Commercialisation of Adaptations or Derivative Products
+7.1 	The Licensee may Commercialise CAMFor in an adapted form, or a product derived from or incorporating CAMFor, ("the Derivative"), but only in accordance with this clause.
+7.2 	The Licensee shall remove from the Derivative all copyright notices and trademarks affixed to, incorporated in or otherwise applied in connection with CAMFor.
+7.3 	The Derivative may not be Commercialised under the name "CAMFor".
+7.4 	Except where expressly agreed, the Licensee shall not represent to anyone that the Derivative has been approved or endorsed by AGO or the Commonwealth.
+8. IMPORTANT PRECAUTIONS
+8.1 	AGO does not guarantee that CAMFor is suited to all site and management conditions. Suitability is a matter for determination by the Licensee.
+8.2 	AGO cannot guarantee that CAMFor is free from errors, and does not warrant the quality, performance or suitability of CAMFor for any purpose.
+8.3 	The Licensee assumes responsibility for selection of CAMFor to achieve any intended results, and for its installation and use.
+8.4 	The Licensee assumes responsibility for the interpretation of any results obtained from use of CAMFor, and must exercise all appropriate precautions before placing reliance on those results.
+9. RELEASE
+9.1 	The Licensee releases AGO, the Commonwealth and their employees and agents in respect of all liability for loss, damage or injury which may be suffered by it arising from the Licensee's use or Commercialisation of CAMFor or a Derivative.
+10. INDEMNITY
+10.1 	The Licensee indemnifies AGO, the Commonwealth and their employees and agents in respect of all liability for loss, damage or injury, which may be suffered by any person arising from the Licensee's  Commercialisation of CAMFor or a Derivative.
+11. Termination
+11.1 	If the Licensee breaches any of these Conditions, AGO may terminate the Agreement immediately by notice in writing to the Licensee.
+11.2 	The termination of the Agreement under Condition 11.1 shall be without prejudice to the rights of either party accrued under the Agreement prior to termination.
+11.3 	The Licensee shall cease using CAMFor for any purpose from the date of termination of the Agreement and shall return CAMFor and any copies made of it to AGO within 30 days of the date of termination.
+12. Additional Clauses
+12.1	The Agreement supersedes all prior agreements and understandings between the parties relating to CAMFor and constitutes the entire agreement between the parties.
+12.2 	No addition to or modification of any provision of the Agreement shall be binding unless in writing signed by both parties.
+12.3 	The Agreement shall be governed by and construed in accordance with the laws for the time being in force in the Australian Capital Territory.
+12.4 	No forbearance, delay or indulgence by a party in enforcing the provisions of the Agreement shall prejudice or restrict the rights of that party, nor shall waiver of those rights operate as a waiver of any subsequent breach.
+12.5 	Any reading down or severance of a particular provision does not affect the remaining provisions of the Agreement.
+13. Definitions
+13.1 	In these Conditions, unless the contrary intention appears:
+"AGO" means the Australian Greenhouse Office, and includes any agency which succeeds to the functions of that agency.
+"Commercialise" includes communicating, distributing, giving away, selling, letting for hire, or by way of trade, offering or exposing for sale or hire any article embodying a product, and sub-licensing of intellectual property rights in that product to the extent necessary for the ordinary use of the product.
+"CAMFor" means the CAMFor stand-based carbon assessment model which is licensed under these conditions.
+"Derivative" means  an adapted form, or a product derived from or incorporating CAMFor, made pursuant to clause 7.
+"Licence" means the licence referred to in Condition 3.
+

@@ -1,0 +1,330 @@
+BAREFOOT LICENSING AGREEMENT
+
+
+1. AGREEMENT
+
+This Agreement is made and entered into on the <<DAY>> day of <<MONTH>>, 2007 ("Execution Date"), by and between:
+
+1. <<PARTNER NAME>> <<COMPANY REGISTRATION NUMBER>>, a company having its registered office at <<ADDRESS>> (hereinafter known as "PARTNER") as the first part. 
+
+2. Barefoot Asia Holdings Limited, a company having its registered office at 3106, 31/f, Alexandra House; 16-20 Chater Road; Central Hong Kong (hereinafter known as "BAREFOOT") of the second part..
+
+3. BAREFOOT and PARTNER shall be referred together to as the ("Parties").
+
+2. BACKGROUND AND TERMINOLOGY
+
+    Whereas:
+
+PARTNER is engaged in the business of mobile application and format service provision to companies such as new media companies, TV channels, operators and mobile aggregators <<ADD ANY OTHER DETAILS>>.
+
+BAREFOOT is a mobile technology and application development and licensing company specialising in portable and highly advanced, device independent, applications and content for mobile phones, smartphones, PDA and other consumer devices.
+
+Terminology: 
+
+Client: new media company, TV channel, operator, mobile aggregator, or any other third party purchasing services from Partner. 
+
+Products: BAREFOOT portfolio of mobile applications listed in Appendix 3 to this Agreement.  
+
+Territory:  <<TERRITORY>>.
+
+3. TERM AND CONDITIONS
+
+3.1	BAREFOOT hereby grants to PARTNER a non exclusive (see Clauses 3.16 and 3.17) - and non-transferable right, privilege and license, during the Term as specified in Clause 5 of this Agreement throughout the "Territory" to utilize its Products detailed in Appendix 3 as follows: - 
+
+(a) To Distribute Barefoot mPublishing Titles throughout the Territory; and
+
+(b) To sell/license standalone mPublishing applications using Barefoot business models on a case-by-case basis to PARTNER's clients.
+
+3.2 BAREFOOT and PARTNER duties and responsibilities are listed in Appendix 1. Parties acknowledge that their respective duties and responsibilities are subject to change during the term of the Agreement, depending on Client, market and technical requirements. Any change requires mutual acceptance in written form (email, fax).  
+3.3 The parties agree that all fees, charges and payments received by PARTNER from Client as a) the royalty fee; b) as part of the Service fee; or c) as revenue share from mobile phone operator(s) and/or sponsors and/or other relevant media or Clients shall be shared BAREFOOT <<50%>> and PARTNER <<50%>> plus any fees listed under Revenue Share Business Model stated in Appendix 4. PARTNER shall make payment to BAREFOOT in accordance with Clause 3.11.
+
+The exception is for the non-revenue sharing model for mPublishing packaging services, terms and conditions for fees and licensing of which are set out in Appendix 4.
+
+Unusual or exceptional business models not covered by this Clause 3.3 or Appendix 4 shall fall within the scope of Appendix 2 which may be updated on a case-by-case basis where mutually agreed by the parties. Client's share shall be subject to written mutual acceptance. 
+
+PARTNER shall invoice PARTNER's clients regularly with the term of payment common and usual within the field of this kind of business, but no greater than thirty (30) days from date of invoice.
+3.4 Unless otherwise stated in writing (email), PARTNER is not allowed to use third party add-ons and/or other additional services to alter or modify a Product. 
+
+3.5 The Parties acknowledge that all Service delivery terms shall be mutually agreed between the Parties before making commercial arrangements with a Client. BAREFOOT may have some guidelines and minimum requirements that the Parties need to follow. Such requirements are end user fee and Client's revenue share. Such requirements shall be stated on separate documentation and informed to BAREFOOT clearly and accurately before entering into any commercial arrangements, delivered case by case without BAREFOOT's separate request. 
+
+3.6 BAREFOOT is responsible for the technical and artistic quality of the Products and warrants that all Products to be of the same high quality as applications which BAREFOOT has provided to its other partners and clients. The Product portfolio shall be updated with the latest releases without any delay after the newest release.
+
+3.7 PARTNER is solely responsible for ensuring that the Services offered by Clients under this Agreement always conform to law and good custom in the Territory.
+
+3.8 In case of revenue sharing agreement, revenue to be paid to BAREFOOT shall be calculated based on the total funds received from billed volume, based on the monthly report coming from each Client.
+
+3.9 All fees and payment shall be paid in <<AGREED CURRENCY>>.
+
+3.10 PARTNER shall organize online reporting tools for BAREFOOT to use indicating the number of downloaded transactions of the Licensed Products.
+
+3.11 PARTNER shall make payment to BAREFOOT within ten (10) working days from the end of every month of its share entitlements to all revenue accrued for that month from all Clients or other forms of distribution. In case of any other payment terms such as sponsor payment, set up fee, integration fee, customization fee, or similar, those shall be treated similarly as revenue share if outside the scope of Clause 3.3.
+
+3.12 PARTNER shall keep all the usual proper records and books of account relating to distribution and downloading of the Products under this Agreement.
+
+3.13 BAREFOOT may audit those books and records and conduct such audit only during PARTNER's usual business hours, and at the place where it keeps the books and records to be examined, after providing at least thirty (30) days prior notice. 
+
+3.14 Such audit shall be conducted at BAREFOOT's sole expense, except that if any audit reveals an error resulting in an underpayment to BAREFOOT of five percent (5%) or more of the total amount accounted to BAREFOOT during the accounting periods audited, then PARTNER shall pay to BAREFOOT all reasonable audit costs, including travel, hotel together with the underpayment. 
+
+3.15 The Parties represent, warrant and agree that they have the full right, power and authority to enter into this Agreement and fulfill the duties and responsibilities stated hereunder.
+
+3.16 BAREFOOT shall not in any circumstances contact directly PARTNER's Clients or prospects (that have been brought to the attention of BAREFOOT by PARTNER) without PARTNER's prior consent and knowledge and all inquiries received from said companies must be brought to PARTNER's attention by BAREFOOT for servicing and follow up. Such Clients will be subject to revenue share fee stated in Clause 3.3.
+
+3.17 Each party hereunder will hold the other party, its successors, assigns, agents and licensees, free and harmless from and against any and all claims, demands, damages, expenses, losses or costs (including reasonable attorney's fees and costs), or any sums paid in settlement, arising out of or incurred as a direct result of any actual breach of the representations, warranties, agreements and undertakings of or by the party concerned.
+
+4. 	INTELLECTUAL PROPERTY RIGHTS 
+
+4.1 The parties acknowledge and agree that the trademark, service mark, logo and trade name as applied to this Agreement are the property of the original titleholders and each party is committed to avoiding any infringement of trademark, service mark and trade name.
+4.2 PARTNER shall take all steps to secure and maintain protection of the Products as permitted pursuant to copyright and equivalent or similar laws through the Territory. 
+
+5. TERM AND TERMINATION
+
+5.1 This Agreement shall become effective on the date of execution of this Agreement, and shall continue in force for a period of twelve (12) months ("Initial Term").  Upon the expiry of the Initial Term, this Agreement shall automatically and annually be renewed for another 12 months  ("Renewal Term") unless either party wishes to terminate the Agreement by giving at least thirty (30) days prior written notice.
+5.2 For a period of eighteen (18) months after the agreement termination, any BAREFOOT products/services sale to PARTNER's Client will be subject to the revenue share fee as stated in Clause 3.3.
+5.3 Either party may by written notice terminate this Agreement with immediate effect if the other party has committed a material breach of this Agreement, and not rectified the same within a time which shall be reasonable taking into account previous technical and other relevant conditions after receipt of a written request specifying the breach from the other party.
+
+5.4 From the date of termination of this agreement as described in Clauses 5.1 and 5.3, the parties shall account for all outstanding monies due within 15 working days after receiving payment from mobile network operators or Clients.
+
+5.5 After the termination of this Agreement, the Parties will refrain from further direct or indirect use of the information obtained from the other Party. Also, either Party must immediately give up all the copies of the Products, Product guides, books, and goods, correspondence and other documents in the wider sense of the word that it has in its possession when this Agreement terminates (for example documents, diskettes, CD's, DVD's and so on), which are connected to the other Party, or copies of any such documents or notes.
+
+5.6 Except for termination due to the breach of this Agreement by PARTNER, PARTNER may complete transactions that have already been initiated with Clients and the applicable terms and conditions of this Agreement shall be extended for the time necessary to complete such transactions.
+
+6. CONFIDENTIALITY
+Each party shall keep confidential all provisions of this Agreement and shall not make any public announcement of it or its subject matter without the other party's prior written consent.
+6.1	"Confidential Information" means: any information, technical data, or know-how, including, but not limited to, that which relates to research, product plans, product, services, customers, markets, software, developments, inventions, process, designs, drawing, engineering, hardware configuration information, marketing or finances, or other business or technical information which is treated confidentially.  Confidential information does not include information that: 
+(i) is in the possession of the receiving party at the time of the disclosure;
+(ii) becomes part of the public knowledge or literature, not as a result of any inaction of the receiving party;
+(iii) is approved by the disclosing party, in writing, for release;
+(iv) becomes available to the receiving party from a third source not bound by any obligation of confidentiality with respect to such information;
+(v) was independently developed or prepared by a party; or
+(vi) is required to be disclosed by law.
+6.2 Each party agrees not to use or disclose the Confidential Information disclosed to it by the other party for any purpose except to further the objective of this Agreement.  Each party agrees that it will take all reasonable measures to protect the secrecy of and avoid disclosure or use of confidential Information of the other in order to prevent it from falling into the public domain or possession of persons other that those persons authorized thereunder to have any such information, which measures shall include at least a reasonable degree of care.  This provision shall be binding on the parties and shall be treated and safeguarded thereunder by the Receiving Party for a period, which shall coincide with the entire duration of this Agreement.
+
+7. INDEMNIFICATION
+
+Both Parties shall indemnify, hold harmless and defend the other Party and its partners, principals, employees or agents thereof (each of the foregoing being hereinafter referred to individually as an "Indemnified Party") against all claims, liabilities, losses, expenses (including attorney's fees and legal expenses related to such defense), fines, penalties, taxes or damages (collectively "Liabilities") asserted by any third party where such Liabilities arise out of (i) the negligence or willful misconduct of either Party or its personnel; (ii) the representations or warranties made by either Party; (iii) the violation by either Party, or violation caused by the exploitation of work, information or materials provided by either Party, of any third party's trade secrets, proprietary information, trademark, copyright, or patent rights; or (iv) a third party claim by any employee, independent contractor or invite of either Party including without limitation those seeking employer-employee claims or benefits from either Party.
+
+8. NO PARTNERSHIP
+
+Nothing contained or implied in this Agreement shall constitute or be deemed to constitute a partnership/Joint Venture between the parties and no party shall have authority to bind or commit the other party except as provided herein.
+
+9. GOVERNING LAW
+
+This agreement shall be interpreted and construed in all respects in accordance with Hong Kong law and any dispute arising hereunder shall be subject to the exclusive jurisdiction of the Special Administrative Region of Hong Kong court.
+
+10. MODIFICATIONS AND ADDITIONS
+
+All modifications and additions to this Agreement and appendices must be made in writing and must be signed by both Parties.
+
+11. FORCE MAJEURE
+
+A case of a release from obligations (Force Majeure) is deemed to have been caused by an overwhelming and abnormal impediment or occurrence that prevents the fulfilment of the Agreement and which neither party had reason to take into account when entering into the Agreement and which is independent of any action by either party and could not be averted or prevented without unreasonable expense or loss of time ("an event of Force Majeure").
+
+Such occurrences may be but shall not be limited to war, mutiny, internal unrest, expropriation, or confiscation for public needs, embargo, discontinuation of public transportation, or supply of energy, labour conflict or fire or some unusual event with equally drastic effects beyond the Parties' control.
+
+12. NOTICE
+Any notice, consent, approval, or correspondence between relating parties shall be in writing in English and shall be deemed served if sent to addresses indicated herebelow by personal delivery or registered mail or electronic mail or facsimile, provided that if sent by facsimile a registered or personal confirmation must be sent within twenty-four (24) hours after the transmission to the following addresses:
+
+
+PARTNER
+				
+<<PARNER NAME>>
+<<PARTNER ADDRESS>>
+Tel <<PARTNER TELEPHONE>> Fax <<PARTNER FAX>> 
+Email <<PARTNER EMAIL>>
+ 
+
+BAREFOOT
+
+BAREFOOT ASIA HOLDINGS LIMITED
+3106, 31/f, Alexandra House; 16-20 Chater Road; Central Hong Kong 
+Tel <<BAREFOOT SALES>> Fax <<BAREFOOT SALES>> Email <<BAREFOOT SALES>>
+
+Both parties may change their addresses for the purpose of their communication hereunder by giving prior notice to the other party in writing not less than 15 days in the same manner as specified in aforemention.
+
+13.  ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement of the Parties hereto and supersedes all prior and contemporaneous representations, proposals, discussions, and communications, whether oral or in writing.
+
+The Parties have executed this Agreement in duplicate by their duly authorized representatives with their company seals affixed (if applicable) on the day and dated mentioned above.
+
+For and on behalf of
+
+
+
+BAREFOOT					PARTNER							
+
+												
+<<BAREFOOT OFFICER>>			<<PARTNER OFFICER>>
+<<BAREFOOT TITLE>>			<<PARTNER TITLE>>
+
+This is an official Appendix of the Licensing Agreement made between BAREFOOT and PARTNER. 
+
+Appendix 1:	Responsibilities
+
+By signing this Appendix the Parties confirm their acceptance of their tasks duties and responsibilities.
+
+PARTNER responsibilities at no expense to BAREFOOT:
+
+* Provide PARTNER Created Content to Barefoot as per agreed Specifications 
+* Promote PARTNER Created Content Titles within Barefoot Applications
+* Market & Promote Barefoot Products from Catalog for Distribution via PARTNER Channels
+* Propose the product to new PARTNER Clients at its own expenses
+* Maintain commercial relationships with PARTNER's Clients at its own expense
+
+BAREFOOT responsibilities at no expense to PARTNER:
+
+* Package PARTNER Created Content as mBookX Titles
+* Provide JAR & JAD files for mBookX Titles from PARTNER Created Content within two (2) working days
+* Provide JAR & JAD files for eBookX Titles from PARTNER Created Content within three (3) working days
+* Provide all collateral material in electronic form associated with its Products in reasonable quantities, including promotional and advertising materials, data sheets, user manuals and other related materials
+* Provide technical assistance in the form of a written reply or telephone support to any question regarding its Products
+
+Outside the scope of responsibilities provided for free, BAREFOOT will provide additional services for agreed compensation not stated under Clause 3.3 which involves:
+o Training PARTNER on mPublishing products
+o Concepts and design strategy to secure clients
+o Travel and out of pocket expenses for BAREFOOT attendance requested by PARTNER
+
+Mutual Responsibilities 
+
+* Ensuring that all Products are free from Virus and all content packaged as mBookX/ eBookX titles do not infringe any copyright laws.
+* Be clear on any distribution models for mBookX/ eBookX products.
+* Work towards a mutual and amicable business relationship.
+
+
+BAREFOOT					PARTNER						
+
+												
+<<BAREFOOT OFFICER>>			<<PARTNER OFFICER>>
+
+This is an official Appendix of the Licensing Agreement made between BAREFOOT and PARTNER. 
+
+Appendix 2:	Exceptional business model
+
+Parties agree that exceptional business model is used for following case: 
+
+* BAREFOOT may introduce some of its Clients or other business partners to PARTNER for the purpose of coordination of defined projects and boosting the sales (all duties referred to hereinafter as "Sales Promoter Activities"). 
+* In any circumstances PARTNER may not use appointed Clients or BAREFOOT's business partners for its own use without BAREFOOT's prior consent. Violation shall be considered a material breach of this Agreement and grounds for termination as set out in 5.3. 
+* All other terms and roles shall be agreed case by case once they are appointed to PARTNER.  
+
+
+
+
+BAREFOOT					PARTNER						
+
+												
+<<BAREFOOT OFFICER>>			<<PARTNER OFFICER>>
+
+This is an official Appendix of the Licensing Agreement made between BAREFOOT and PARTNER.
+
+Appendix 3:	Product Specifications
+
+Specifications for packaging mBookX and eBookX titles using Barefoot's iFunComposer! Suite:
+
+mBookX - A series of images to make up a title:
+
+Image recommendations for best results on mainstream new devices with a screen resolution of 240(w) x 320(h) pixels.
+
+* Image formats supported PNG/JPG/GIF - best is PNG8, 32 colors
+* Maximum Image file size recommended - 20kb
+* Maximum file for Image series - 120kb - will give a net build file size of 160-165kb
+* Splash Screen - PNG8 lowest number of colours possible - Splash Screen is required to include a Barefoot logo unless otherwise agreed by both parties.
+* Application icons (if required) - this will vary between devices however, the most supported dimensions are; 32x32, 42x29, 16x16 or no icon (4 builds per title) exported as PNG8
+* mBookX Title text - This is the name of the Jar that will be displayed in the application menu
+* mBookX JAR File Name - keep this short as possible.
+
+eBookX - support for image and text
+
+BAREFOOT will provide demo projects given that more detail is required to publishing these types of titles. General specifications are;
+
+* Background Image for first screen - 240 x 300 - JPG image to be less than 10kb
+* Cover Images for each section saved as cover.png (PNG8) 105 (w) x 140 (h)
+* Each section that will be displayed on the first screen will be driven by number of folders.
+* Each Folder (section) will contain a text file call content.txt containing TAGS for Headers (which are displayed in the Table of Contents section, within the section), placement of Images within the section.
+* Images should be a maximum of 240 pixels wide, and 260 pixels high for best results on a 240 x 320 screen. Best image formats are PNG8 and JPG and GIF (PNG8 for best results)
+* Application icons, plus JAR title and file name are same specifications used in mBookX 
+
+For each eBookX title tweaking will be required between BAREFOOT and the PARTNER to get the desired results for final build.
+
+Interactive additions for both mBookX and eBookX titles:
+
+SMS - Text to display on Options screen plus, number to designate the delivery, and any additional short code text that will be sent to the designated number
+Phone call - Text to display on Options screen plus, number to designate the call
+HTTP - Text to display on Options screen plus, HTTP link to WAP site or supported mobile phone media such as video, wallpaper, ringtone, mBookX/eBookX titles hosted on server.
+
+BAREFOOT					PARTNER				
+
+												
+<<BAREFOOT OFFICER>>			<<PARTNER OFFICER>>
+
+This is an official Appendix of the Licensing Agreement made between BAREFOOT and PARTNER. 
+
+Appendix 4:	mPublisher Packaging Services
+
+Barefoot has designed the following business models for clients requiring either a branded demo application or a royalty free title for commercial benefit such as distribution via retail mobile service channels or free to download promotion.
+
+Any mPublishing packaging service fees set forth below are on a per title basis. Fees shall be paid by PARTNER and PARTNER shall either absorb the cost or on-charge PARTNER's client. Fees payable shall be mutually agreed on a case by case basis by the parties prior to the commencement of the project.
+
+Definition for Each mPublishing Product:
+
+mBookX Standard:
+A selection of images which make up a series of pages compiled within a J2ME MIDP 2.0 Mobile Application (refer Appendix 3. Specification Guidelines)
+
+mBookX Interactive:
+mBookX Standard with the inclusion of an Options menu to trigger a "Call 2 Action" via SMS, Voice Call, WAP Access and linked downloadable mobile phone supported formats
+
+eBookX Standard:
+A combination of Text and Images presented in an eBook format compiled as a J2ME MIDP 2.0 Mobile Application (refer Appendix 3. Specification Guidelines)
+
+eBookX Interactive:
+eBookX Standard with the inclusion of an Options menu to trigger a "Call 2 Action" via SMS, Voice Call, WAP Access and linked downloadable mobile phone supported formats
+
+
+mPublishing License Fee (Non-commercial Demo)
+
+This service is producing a "Draft" title based on packaging a title for Demo purposes only. The demo product is not to be distributed unless mutually agreed by BARFOOT and PARTNER.
+
+The fees listed below cover the packaging fee with final Artwork supplied by PARTNER from Client as per the Specifications in Appendix 3. Artwork requested to be prepared by Barefoot will attract an additional fee on a time and materials basis; BAREFOOT to provide an initial cost estimate before proceeding.
+
+Fees:
+* mBookX Interactive - US$ 500
+* mBookX Standard - US$ 300
+* eBookX Interactive - US$ 800
+* eBookX Standard - US$ 500
+
+mPublishing License Fee (Commercial Royalty Free Title)
+
+This model allows mobile services, content providers and corporations the option to pay a fee upfront that will entitle them to distribute on a royalty free basis.
+
+
+The fees listed would cover the packaging fee with final Artwork supplied by PARTNER from Client as per the Specifications in Appendix 3. Artwork requested to be prepared by BAREFOOT will attract an additional fee on a time and materials basis: BAREFOOT to provide an  initial cost estimate before proceeding.
+ 
+Fees:
+* mBookX Interactive - US$ 1,500
+* mBookX Standard - US$ 900
+* eBookX Interactive - US$ 2,400
+* eBookX Standard - US$ 1,500
+
+Revenue Share Business Model (Packaging Fee Commitment)
+
+This model allows for a longer term business strategy with the PARTNER and/or PARTNER's client. BAREEFOOT with the intention of all parties sharing the risk and the upside.
+
+The fees listed below cover the packaging fee with final Artwork supplied by PARTNER from Client as per the Specifications in Appendix 3. Artwork requested to be prepared by Barefoot will attract an additional fee on a time and materials basis; BAREFOOT to provide an  initial cost estimate before proceeding.
+
+Under this model, BAREFOOT will charge a commitment fee which covers the cost of packaging (same as Non-commercial Demo model). The published titles will be marketed directly by PARTNER or PARTNER's clients to gain "commercial" revenue.
+
+Fees:
+* mBookX Interactive - US$ 500
+* mBookX Standard - US$ 300
+* eBookX Interactive - US$ 800
+* eBookX Standard - US$ 500
+plus, agreed revenue share percentage as per Clause 3.3.
+
+BAREFOOT					PARTNER						
+
+												
+<<BAREFOOT OFFICER>>			<<PARTNER OFFICER>>
+
+
+		
+
+Barefoot Licensing Agreement	Page 11
+

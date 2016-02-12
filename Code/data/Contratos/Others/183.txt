@@ -1,0 +1,548 @@
+CONTRACT FOR SERVICES CONTRACT FOR SERVICES IN RELATION TO (CONTRACT DESCRIPTION) FOR THE AUSTRALIAN ANTARCTIC DIVISION The Commonwealth of Australia through the Australian Antarctic Division of the Department of Environment and Heritage 
+     
+
+(Company/Organisation)  
+    
+Channel Highway
+Kingston TAS 7050
+Contact: (name)
+Tel: 03 62323(xxx)
+(name)@aad.gov.au
+
+
+
+File reference: (Number)
+
+CONTENTS
+1.	Interpretation	2
+1.1.	Definitions	2
+1.2.	Interpretation	3
+1.3.	Guidance on construction of this contract	4
+2.	Provision of Services	5
+2.1.	Obligations of the Service Provider	5
+2.2.	Specified Personnel	5
+2.3.	Liaison with the Project Officer	5
+2.4.	Conduct at Agency premises	5
+2.5.	Responsibility of Service Provider	6
+3.	Fees, allowances and assistance	6
+3.1.	Fees, allowances and assistance	6
+3.2.	Agency's right to defer payment	6
+3.3.	Taxes, duties and government charges	6
+4.	Material	7
+4.1.	Commonwealth Material	7
+4.2.	Intellectual Property in Contract Material	7
+4.3.	Dealing with Copies	7
+5.	Confidential Information	8
+5.1.	Interpretation of clause	8
+5.2.	Confidential Information not to be disclosed	8
+5.3.	Written undertakings	8
+5.4.	Exceptions to obligations	9
+5.5.	Additional Confidential Information	9
+5.6.	Period of confidentiality	9
+5.7.	No reduction in privacy obligations	10
+6.	Protection of Personal Information	10
+6.1.	Application of clause	10
+6.2.	Interpretation of this clause	10
+6.3.	Obligations of Service Provider in relation to Personal Information	10
+7.	Indemnity	11
+8.	Dispute resolution	12
+8.1.	Procedure for dispute resolution	12
+8.2.	Costs	12
+8.3.	Continued performance	12
+8.4.	Exemption	12
+9.	Termination or reduction in scope of the Services	13
+9.1.	For convenience	13
+9.2.	Termination for Fault	13
+10.	General provisions	14
+10.1.	Compliance with other laws	14
+10.2.	Conflict of interest	14
+10.3.	Audit and Access	14
+10.4.	Insurance	15
+10.5.	Subcontractors	15
+10.6.	Relationship of the parties	15
+10.7.	Waiver	16
+10.8.	Assignment and novation	16
+10.9.	Survival	16
+10.10.	Notice	17
+Schedule 1.	18
+Service Level Agreement.	18
+Key Performance Indicators.	18
+Customer Support Plan.	18
+
+
+
+
+           CONTRACT FOR SERVICES
+CONTRACT FOR SERVICES IN RELATION TO (CONTRACT DESCRIPTION) FOR THE AUSTRALIAN ANTARCTIC DIVISION
+          Date
+This Contract for Services is dated (Date).
+
+          Parties
+This Contract for Services is made between and binds the following parties:
+1. Commonwealth of Australia (the Commonwealth) represented for the purposes of this contract by the Australian Antarctic Division of the Department of Environment and Heritage    
+Channel Highway Kingston (the Agency)
+2. (Organisation Name) ABN: (Number)     
+(Address)  (the Service Provider)
+
+          Context
+This Contract for Services is made in the following context:
+A. The Agency wishes to engage the Service Provider to provide the Services.
+B. (Organisation) has agreed to assist the AAD in the conduct of the contract on the terms and conditions set out in this agreement.
+C. The Service Provider has fully informed itself about the Services.
+          Operative provisions
+In consideration of the mutual promises contained in this document, the parties to this contract agree as follows:
+1. Interpretation
+1.1. Definitions
+1.1.1. In this contract, unless the context indicates otherwise:
+Agencyincludes the Agency and any department or agency of the Commonwealth which is from time to time responsible for administering this contract;Business Dayin relation to the doing of any action in a place, means a weekday other than a public holiday in that place;Commencement Datemeans the date on which this contract is made, unless otherwise specified in Item C [Commencement and Time-frame];Commonwealth Materialmeans any Material:
+a.	provided by the Agency to the Service Provider for the purposes of this contract; or
+b.	derived at any time from the Material referred to in paragraph a;Contract Materialmeans any Material:
+a.	created for the purposes of this contract;
+b.	provided or required to be provided to the Agency as part of the Services; or
+c.	derived at any time from the Material referred to in paragraphs a or b;Instalmentmeans an instalment of fees payable under clause 3 in relation to part of the Services;Intellectual Propertyincludes: 
+a. all copyright (including rights in relation to phonograms and broadcasts);
+b. all rights in relation to inventions, plant varieties, trademarks (including service marks), designs and circuit layouts; and 
+c. all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields, 
+but does not include:
+d. Moral Rights; 
+e. the rights of performers; or 
+f. rights in relation to Confidential Information;Materialmeans the subject matter of any category of Intellectual Property rights;Personal Informationhas the same meaning as the term 'personal information' in the Privacy Act 1988 (Cth), that is: information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about a natural person whose identity is apparent, or can reasonably be ascertained, from the information or opinion;Personnelmeans a party's officers, employees, agents, contractor staff or professional advisers engaged in, or in relation to, the performance or management of this contract;Project Officermeans the person specified (by name or position) in Item H [Project/Contract Officer] or any substitute notified to the Service Provider; Servicesmeans the services described in Item A [Services] and includes the provision to the Agency of the Material specified in Item B [Required Contract Material]; Service Providermeans the contracted organisation responsible for the provision of services described in Item A [Services]; andSpecified Personnelmeans the Personnel specified in Item G [Specified Personnel] as required to perform all or part of the work constituting the Services.1.2. Interpretation
+1.2.1. In this contract, unless the contrary intention appears:
+a. words importing a gender include any other gender;
+b. words in the singular include the plural and words in the plural include the singular;
+c. clause headings are for convenient reference only and have no effect in limiting or extending the language of provisions to which they refer;
+d. words importing a person includes a partnership and a body whether corporate or otherwise;
+e. a reference to dollars is a reference to Australian dollars;
+f. a reference to any legislation or legislative provision includes any statutory modification, substitution or re-enactment of that legislation or legislative provision;
+g. if any word or phrase is given a defined meaning, any other part of speech or other grammatical form of that word or phrase has a corresponding meaning;
+h. a reference to an Item is a reference to an Item in the Schedule;
+i. the Schedule and any attachments form part of this contract;
+j. if any conflict arises between the terms and conditions contained in the clauses of this contract and any part of the Schedule (and attachments if any), the terms and conditions of the clauses prevail;
+k. if any conflict arises between any part of the Schedule and any part of an attachment, the Schedule prevails;
+l. a reference to the Schedule (or an attachment) is a reference to the Schedule (or an attachment) to this contract, including as amended or replaced from time to time by agreement in writing between the parties; and
+m. a reference to writing is a reference to any representation of words, figures or symbols, whether or not in a visible form.
+1.3. Guidance on construction of this contract
+1.3.1. This contract records the entire agreement between the parties in relation to its subject matter.
+1.3.2. A variation of this contract is binding only if agreed in writing and signed by the parties.
+1.3.3. Any reading down or severance of a particular provision does not affect the other provisions of this contract.
+1.3.4. This contract is to be construed in accordance with the laws of Tasmania.
+1.3.5. The terms of this contract apply on and from the Commencement Date.
+1.3.6. A provision of this contract shall not be construed to the disadvantage of a party solely on the basis that it proposed that provision.
+2. Provision of Services
+2.1. Obligations of the Service Provider
+2.1.1. The Service Provider agrees to: 
+a. perform the Services as specified in Item A [Services];
+b. provide to the Agency the Material specified in Item B [Required Contract Material];
+c. comply with the time frame for the performance of the Services specified in Item C [Commencement and Time-frame]; and
+d. submit invoices, and any required supporting documents, in the manner specified in Item F [Invoicing and Payment].
+2.2. Specified Personnel
+2.2.1. The Service Provider agrees that the Specified Personnel will perform work in relation to the Services in accordance with this contract.
+2.2.2. If Specified Personnel are unable to perform the work as required under clause 2.2.1, the Service Provider agrees to notify the Agency immediately.
+2.2.3. The Agency may, at its absolute discretion, request the Service Provider to remove Personnel (including Specified Personnel) from work in relation to the Services. 
+2.2.4. If clause 2.2.2 or clause 2.2.3 applies, the Service Provider will provide replacement Personnel acceptable to the Agency at no additional cost and at the earliest opportunity.
+2.3. Liaison with the Project Officer
+2.3.1. The Service Provider agrees to liaise with and comply with directions of the Project Officer as reasonably required from time to time.
+2.4. Conduct at Agency premises
+2.4.1. When using the Agency's premises or facilities, the Service Provider will comply with all directions and all current procedures relating to occupational health and safety that apply to those premises or facilities.
+2.5. Responsibility of Service Provider
+2.5.1. The Service Provider is fully responsible for the performance of the Services and for ensuring compliance with the requirements of this contract, and will not be relieved of that responsibility because of any:
+a. involvement by the Agency in the performance of the Services;
+b. payment made to the Service Provider on account of the Services;
+c. subcontracting of the Services; or
+d. acceptance by the Agency of replacement Personnel.
+3. Fees, allowances and assistance
+3.1. Fees, allowances and assistance
+3.1.1. The Agency agrees to:
+a. pay the fees in the Instalments (if any) specified in Item D [Fees];
+b. make all payments in the manner specified in Item F [Invoicing and Payment]; and
+c. provide the facilities and assistance specified in Item E [Facilities and Assistance].
+3.2. Agency's right to defer payment
+3.2.1. The Agency will be entitled (in addition and without prejudice to any other right it may have) to defer payment or reduce the amount of any Instalment if and for so long as the Service Provider has not completed, to the satisfaction of the Agency, that part of the Services to which the Instalment relates.
+3.3. Taxes, duties and government charges
+3.3.1. Except as provided by this clause 3.3, the Service Provider must pay all taxes, duties and government charges imposed or levied in Australia or overseas in connection with the performance of this contract.
+3.3.2. The following terms have the meanings respectively given to them in the A New Tax System (Goods and Services Tax) Act 1999:
+consideration;GST;input tax credit;supply;taxable supply; andtax invoice.3.3.3. Unless otherwise indicated, all consideration for any supply made under this contract is exclusive of any GST imposed on the supply.
+3.3.4. If one party (the supplier) makes a taxable supply to the other party (the recipient) under this contract, on receipt of a tax invoice from the supplier, the recipient must pay without setoff an additional amount to the supplier equal to the GST imposed on the supply in question.
+3.3.5. No party may claim from the other party under this contract any amount for which the first party may claim an input tax credit.
+4. Material
+4.1. Commonwealth Material
+4.1.1. The Agency agrees to provide Material to the Service Provider as specified in Item I [Required Commonwealth Material].
+4.1.2. The Agency grants (or will procure) a royalty-free, non-exclusive licence for the Service Provider to use, reproduce and adapt the Commonwealth Material for the purposes of this contract. 
+4.2. Intellectual Property in Contract Material
+4.2.1. Intellectual Property in all Contract Material vests or will vest in the Agency.
+4.2.2. The Service Provider grants to (or will procure for) the Agency a permanent, irrevocable, royalty-free, world-wide, non-exclusive licence (including a right of sub-licence) to use, reproduce, adapt and exploit any existing Material, in conjunction with the Contract Material.
+4.2.3. The Service Provider agrees, on request by the Agency, to create, sign, execute or otherwise deal with any document necessary or desirable to give effect to this clause 4.2.
+4.2.4. The Service Provider warrants that:
+a. it is entitled; or
+b. it will be entitled at the relevant time, 
+to deal with the Intellectual Property in the Contract Material in the manner provided for in this clause 4.2.
+4.3. Dealing with Copies
+4.3.1. In this clause 4.3:
+Copymeans any document, device, article or medium in which Commonwealth Material, Contract Material or Confidential Information of the Agency is embodied.4.3.2. Property in each Copy vests or will vest in the Agency.
+4.3.3. The Service Provider agrees to establish and maintain procedures to secure all Copies against loss and unauthorised access, use, modification or disclosure.
+4.3.4. The Service Provider agrees, on expiration or termination of this contract, to ensure that all Copies are delivered to the Agency or otherwise dealt with as directed by the Agency, subject to any requirement of law binding on the Service Provider relating to such Copies.
+5. Confidential Information
+5.1. Interpretation of clause
+5.1.1. In this clause 5:
+Third Party Interestmeans any legal or equitable right, interest, power or remedy in favour of any person other than the Agency or the Service Provider in connection with the contract, including, without limitation, any right of possession, receivership, control or power of sale, and any mortgage, charge, security or other interest.5.2. Confidential Information not to be disclosed
+5.2.1. Subject to clause 5.4, a party must not, without the prior written consent of the other party, disclose any Confidential Information of the other party to a third party. 
+5.2.2. The Agency may impose any conditions it considers appropriate when giving consent under this clause 5.2 and the Service Provider agrees to comply with these conditions. 
+5.3. Written undertakings
+5.3.1. The Service Provider agrees, on request by the Agency at any time, to arrange for:
+a. its Personnel; or 
+b. any person with a Third Party Interest,
+to give a written undertaking in a form acceptable to the Agency relating to the use and non-disclosure of the Agency's Confidential Information.
+5.4. Exceptions to obligations
+5.4.1. The obligations on the parties under this clause 5 will not be taken to have been breached to the extent that Confidential Information:
+a. is disclosed by a party to its Personnel solely in order to comply with obligations, or to exercise rights, under this contract;
+b. is disclosed to a party's internal management Personnel, solely to enable effective management or auditing of contract-related activities;
+c. is disclosed by the Agency to the responsible Minister;
+d. is disclosed by the Agency, in response to a request by a House or a Committee of the Parliament of the Commonwealth of Australia;
+e. is shared by the Agency within the Agency's organisation, or with another agency, where this serves the Commonwealth's legitimate interests;
+f. is authorised or required by law to be disclosed; or
+g. is in the public domain otherwise than due to a breach of this clause 5.
+5.4.2. Where a party discloses Confidential Information to another person pursuant to clauses 5.4.1.a - 5.4.1.e, the disclosing party must notify the receiving person that the information is confidential.
+5.4.3. In the circumstances referred to in clauses 5.4.1.a, 5.4.1.b and 5.4.1.e, the disclosing party agrees not to provide the information unless the receiving person agrees to keep the information confidential.
+5.5. Additional Confidential Information 
+5.5.1. The parties may agree in writing after the date of this contract that certain additional information is to be Confidential Information for the purposes of this contract.
+5.6. Period of confidentiality
+5.6.1. The obligations under this clause 5 continue, notwithstanding the expiry or termination of this contract:
+a. in relation to an item of information described in Item M [Confidential Information] - for the period set out in Item M [Confidential Information] in respect of that item; and
+b. in relation to any item of information referred to in clause 5.5 - for the period agreed by the parties in writing in respect of that item.
+5.7. No reduction in privacy obligations
+5.7.1. This clause 5 does not detract from any of the Service Provider's obligations under the Privacy Act 1988 (Cth), or under clause 6, in relation to the protection of Personal Information.
+6. Protection of Personal Information
+6.1. Application of clause
+6.1.1. This clause 6 applies only to the extent that the Service Provider deals with Personal Information in providing Services under this contract.
+6.2. Interpretation of this clause
+6.2.1. In this clause 6, the following terms have the same meaning as they have in the Privacy Act 1988 (Cth) (the Privacy Act):
+an agency;APC(approved privacy code);contracted service provider;IPPs(Information Privacy Principles); andNPPs(National Privacy Principles).6.3. Obligations of Service Provider in relation to Personal Information
+6.3.1. The Service Provider acknowledges that it is a contracted service provider and agrees, in providing Services under this contract:
+a. to use or disclose Personal Information obtained in the course of providing Services under this contract only for the purposes of this contract;
+b. to carry out and discharge the obligations contained in the IPPs as if it were an agency;
+c. not to do any act or engage in any practice which, if done or engaged in by an agency, would be a breach of an IPP;
+d. not to use or disclose Personal Information in breach of section 16F [Direct marketing] of the Privacy Act (where applied to the Service Provider), unless that use or disclosure is explicitly required under this contract;
+e. not to engage in an act or practice that would breach an NPP (particularly NPPs 7 to 10) or an APC (where applied to the Service Provider), unless that act or practice is explicitly required under this contract;
+f. to comply with any request under section 95C of the Privacy Act (relating to disclosure of any provisions of this contract that are inconsistent with an NPP or an APC binding on a party to this contract);
+g. to notify the Agency immediately if the Service Provider becomes aware of a breach or possible breach of any of the obligations contained in, or referred to in, this clause 6, whether by the Service Provider or its Personnel;
+h. to comply with any directions, guidelines, determinations or recommendations referred to or relating to the matters in this agreement if any, to the extent that they are consistent with the requirements of this clause 6; and
+i. to ensure that all Personnel required to deal with Personal Information for the purposes of this contract are made aware of the obligations of the Service Provider set out in this clause 6.
+6.3.2. The Service Provider agrees to ensure that any subcontract entered into by the Service Provider for the purpose of fulfilling its obligations under this contract imposes on the subcontractor the same obligations that the Service Provider has under this clause (including this requirement in relation to subcontracts).
+7. Indemnity
+7.1.	The Service Provider indemnifies the Agency from and against any:
+a. cost or liability incurred by the Agency; 
+b. loss of or damage to property of the Agency; or
+c. loss or expense incurred by the Agency in dealing with any claim against it including legal costs and expenses on a solicitor/own client basis and the cost of time spent, resources used or disbursements paid by the Agency,
+arising from either:
+d. a breach by the Service Provider of this contract; or
+e. an act or omission involving fault on the part of the Service Provider or its Personnel in connection with this contract.
+7.2	The Service Provider's liability to indemnify the Agency under clause 7.1.1 will be reduced proportionately to the extent that any act or omission involving fault on the part of the Agency or its Personnel contributed to the relevant cost, liability, loss, damage or expense.
+7.3	The right of the Agency to be indemnified under this clause 7 is in addition to, and not exclusive of, any other right, power or remedy provided by law, but the Agency is not entitled to be compensated in excess of the amount of the relevant cost, liability, loss, damage or expense.
+8. Dispute resolution
+8.1. Procedure for dispute resolution
+8.1.1. The parties agree that a dispute arising under this contract will be dealt with as follows:
+a. the party claiming that there is a dispute will give the other party a notice setting out the nature of the dispute;
+b. within 7 Business Days each party will nominate a representative not having any prior involvement in the dispute;
+c. the representatives will try to settle the dispute by direct negotiation between them;
+d. failing settlement within a further 14 Business Days, the parties may agree to refer the dispute to an independent third person with power:
+A. to intervene and direct some form of resolution, in which case the parties will be bound by that resolution; or
+B. to mediate and recommend some form of non-binding resolution;
+e. the parties will cooperate fully with any process instigated under clause 8.1.1.d in order to achieve a speedy resolution;
+f. if a resolution is not reached within a further 28 Business Days, either party may commence legal proceedings.
+8.2. Costs
+8.2.1. Each party will bear its own costs of complying with this clause 8, and the parties must bear equally the cost of any third person engaged under clause 8.1.1.d.
+8.3. Continued performance
+8.3.1. Despite the existence of a dispute, the Service Provider must (unless requested in writing by the Agency not to do so) continue to perform the Services.
+8.4. Exemption
+8.4.1. This clause 8 does not apply to:
+a. action by the Agency under or purportedly under clause 9.1;
+b. action by either party under or purportedly under clause 9.2; or
+c. legal proceedings by either party seeking urgent interlocutory relief.
+9. Termination or reduction in scope of the Services
+9.1. For convenience
+9.1.1. The Agency may, at any time by notice, terminate this contract or reduce the scope of the Services immediately.
+9.1.2. The Service Provider agrees, on receipt of a notice of termination or reduction:
+a. to stop or reduce work as specified in the notice;
+b. to take all available steps to minimise loss resulting from that termination or reduction; and
+c. to continue work on any part of the Services not affected by the notice.
+9.1.3. In the event of termination under clause 9.1.1, the Agency will be liable only:
+a. to pay any Instalment relating to Services completed before the effective date of termination;
+b. to reimburse any expenses the Service Provider unavoidably incurs relating entirely to Services not covered under clause 9.1.3.a;
+c. to pay any allowance and meet any costs unavoidably incurred before the effective date of termination;
+d. to provide the facilities and assistance necessarily required under Item E [Facilities and Assistance] before the effective date of termination.
+9.1.4. The Agency will not be liable to pay compensation under clause 9.1.3.a and 9.1.3.b in an amount which would, added to any fees already paid to the Service Provider under this contract, together exceed the fees set out in Item D [Fees].
+9.1.5. In the event of a reduction in the scope of the Services under clause 9.1.1, the Agency's liability to pay fees or allowances, meet costs or provide facilities and assistance under clause 3 will, unless there is agreement in writing to the contrary, reduce in accordance with the reduction in the Services. 
+9.1.6. The Service Provider will not be entitled to compensation for loss of prospective profits.
+9.2. Termination for Fault
+9.2.1. If a party fails to satisfy any of its obligations under this contract, then the other party - if it considers that the failure is:
+a. not capable of remedy - may, by notice, terminate this contract immediately; 
+b. capable of remedy - may, by notice require that the failure be remedied within the time specified in the notice and, if not remedied within that time, may terminate this contract immediately by giving a second notice.
+10. General provisions
+10.1. Compliance with other laws
+10.1.1. The Service Provider agrees, in carrying out this contract, to comply with all relevant legislation of the Commonwealth or of any State, Territory or local authority, and in particular:
+a. the Crimes Act 1914 (Cth);
+b. the Racial Discrimination Act 1975 (Cth);
+c. the Sex Discrimination Act 1984 (Cth);
+d. the Disability Discrimination Act 1992 (Cth);
+e. the Equal Opportunity for Women in the Workplace Act 1999 (Cth).
+10.1.2. The Service Provider must be cognisant of the Australian Public Service (APS) Values and Code of Conduct. The service provider will be expected to behave in accordance with the relevant value and code of conduct.
+10.2. Conflict of interest
+10.2.1. In this clause 10.2:
+Conflictmeans any matter, circumstance, interest, or activity affecting the Service Provider (including its Personnel) which may or may appear to impair the ability of the Service Provider to provide the Services to the Agency diligently and independently.10.2.2. The Service Provider warrants that, to the best of its knowledge after making diligent inquiry, at the Commencement Date no Conflict exists or is likely to arise in the performance of the Services.
+10.2.3. If, during the period of this contract a Conflict arises, or appears likely to arise, the Service Provider agrees:
+a. to notify the Agency immediately;
+b. to make full disclosure of all relevant information relating to the Conflict; and 
+c. to take any steps the Agency reasonably requires to resolve or otherwise deal with the Conflict. 
+10.3. Audit and Access
+10.3.1. The Service Provider agrees:
+a. to give the Project Officer, or any persons authorised in writing by the Project Officer, access to premises occupied by the Service Provider where the Services are being performed; and 
+b. to permit those persons to inspect and take copies of any Material relevant to the Services.
+10.3.2. The rights referred to in clause 10.3.1 are subject to:
+a. the Agency providing reasonable prior notice;
+b. the Service Provider's reasonable security procedures; and
+c. if appropriate, execution of a deed of confidentiality relating to non-disclosure of the Service Provider's Confidential Information.
+10.3.3. Without in any way affecting the statutory powers of the Auditor-General under the Auditor-General Act 1997 (Cth), and subject to the provisions of that Act, the Auditor-General is a person authorised for the purposes of this clause 10.3.
+10.4. Insurance
+10.4.1. The Service Provider agrees, without limiting the generality or effect  of clause 7:
+a. to undertake a risk assessment consistent with the nature and scope of the contract;
+b. to effect and maintain insurance consistent with clause 10.4.1(a), such insurance to be no less than the minimum level of insurance specified in Item J [Insurance]; and
+c. on request, to provide proof of insurance acceptable to the Agency and to further authorise the Insurer, on request, to release any additional information to the Agency to facilitate an assessment of acceptability and continuity.
+10.4.2. This clause 10.4 continues in operation for so long as any obligations remain in connection with the contract.
+10.5. Subcontractors
+10.5.1. The Service Provider agrees not to subcontract the performance of any part of the Services without the Agency's prior written approval.
+10.5.2. The Agency may impose any terms and conditions it considers appropriate when giving its approval under clause 10.5.1.
+10.5.3. The Service Provider will ensure that any subcontract for the performance of any part of the Services contains provisions equivalent to clauses 5, 5.7.1, 6, 9.1 and 10.3 of this contract.
+10.6. Relationship of the parties
+10.6.1. The Service Provider is not by virtue of this contract an officer, employee, partner or agent of the Agency, nor does the Service Provider have any power or authority to bind or represent the Agency.
+10.6.2. The Service Provider agrees:
+a. not to misrepresent its relationship with the Agency; and
+b. not to engage in any misleading or deceptive conduct in relation to the Services.
+10.7. Waiver
+10.7.1. A failure or delay by a party to exercise any right or remedy it holds under this contract or at law does not operate as a waiver of that right.
+10.7.2. A single or partial exercise by a party of any right or remedy it holds under this contract or at law does not prevent the party from exercising the right again or to the extent it has not fully exercised the right.
+10.8. Assignment and novation
+10.8.1. The Service Provider cannot assign its obligations, and agrees not to assign its rights, under this contract without the Agency's prior written approval.
+10.8.2. The Service Provider agrees to consult the Agency before entering negotiations with any other person regarding any arrangement that might require novation of the contract.
+10.8.3. The Agency will not withhold approval of an assignment to a wholly owned subsidiary of the Service Provider if:
+a. the proposed assignee is sufficiently capitalised to meet all of the Service Provider's obligations under the contract, including indemnities;
+b. the Specified Personnel continue to provide the Services, subject to the terms of this contract;
+c. the Service Provider guarantees the performance of this contract by the assignee and any liability on the part of the assignee arising under this contract;
+d. the proposed assignee fully complies with all criteria applied to the Service Provider as a tenderer for provision of the Services; and
+e. the Service Provider provides to the Agency all information reasonably required to determine compliance under clause 10.8.3.d.
+10.9. Survival
+10.9.1. Unless the contrary intention appears, the expiry or earlier termination of this contract will not affect the continued operation of any provision relating to:
+a. licensing of Intellectual Property;
+b. Confidential Information;
+c. the protection of Personal Information;
+d. audit;
+e. information security;
+f. an indemnity; or
+g. any other provision which expressly or by implication from its nature is intended to continue.
+10.10. Notice
+10.10.1. A notice under this contract is only effective if it is in writing, and dealt with as follows:
+a. if given by the Service Provider to the Agency - addressed to the Project/Contract Officer at the address specified in Item K [Agency's Address for Notices] or as otherwise notified by the Agency; or
+b. if given by the Agency to the Service Provider - given by the Project/Contract Officer (or any superior officer to the Project/Contract Officer) and addressed (and marked for attention) as specified in Item L [Service Provider's Address for Notices] or as otherwise notified by the Service Provider.
+10.10.2. A notice is to be:
+a. signed by the person giving the notice and delivered by hand; or
+b. signed by the person giving the notice and sent by pre-paid post; or
+c. transmitted electronically by the person giving the notice by electronic mail or facsimile transmission.
+10.10.3. A notice is deemed to be effected:
+a. if delivered by hand - upon delivery to the relevant address;
+b. if sent by post - upon delivery to the relevant address;
+c. if transmitted electronically - upon actual receipt by the addressee.
+10.10.4. A notice received after 5.00 pm, or on a day that is not a Business Day, is deemed to be effected on the next Business Day.
+
+SCHEDULE 1 TO XXXXXXXXXXXX
+A. Services
+(see clause 2.1)
+(Short description of contract) to the Australian Antarctic Division 
+The AAD wished to engage a service provider to undertake (Short description of contract).
+Background
+The service provider will (Background).
+Project Cooperative
+The Contract will be managed by means of a Project Co-operative which consists of representatives of both the service provider and the Agency and which is formed for the sole purpose of administering the agreement in a mutually acceptable manner.
+The objectives of the Project Co-operative are:
+1. To confirm a set of common objectives for the (description of contract services) Australian Antarctic Division facilities located at Channel Highway, Kingston;
+2. To establish a Co-operative to improve the level of project performance comprising the following steps:
+a. Establish a set of benchmarks for project performance;
+b. Install a series of performance measurements against the benchmarks;
+c. Identify strategies in areas of:
+i. performance improvement
+ii. risk management
+iii. safety issues
+d. Implement these strategies;
+e. To avoid disputes, unnecessary variations and contractual claims by identifying and solving problems as early as possible;
+f. To identify better planning processes for improved cost and time efficiencies;
+g. To develop an equitable businesslike approach encompassing all members; and
+h. To conduct the Co-operative in an environment where all members feel confident in stating their concerns and potential issues without fear of retribution.
+To commit to the following philosophies:
+Quality of service
+Customer satisfaction
+Teamwork and co-operation
+Integrity and trust
+Open, honest communication and sharing of information
+Continuous improvement and the reduction of total cost
+Professionalism
+Achievement of our common objectives
+COMMON OBJECTIVES:
+Reduction of total cost (value for money)Friendliness and cooperativenessTimely reportingSingle point of contactSmooth transition to new arrangementLong term preservation of Commonwealth AssetsConsistently meet response timesDevelop a long term relationshipDevelop an effective contract frameworkIntegrity of the contracting processAvailability of information for asset management planningReduce unwanted breakdowns through preventative maintenance planningContinuous improvement and innovation
+Composition of Project co-operative
+The Project Co-operative will comprise the following:
+(Position) Manager (AAD)
+(Position) Manager (Contractor)
+The Project Co-operative will operate through Meetings to be held at four (4) weekly intervals for the purpose of implementing the objectives as described in Clause 18.2.2.  Meetings will be convened by the (Position) Manager and (Position) Manager (Contractor) jointly.
+The Project Co-operative will keep written records of matters addressed at each meeting, and decisions made, including implementation procedures and the party nominated to take responsibility for each matter decided.
+Scope of Works
+(Overview of Scope of Works)
+Statement of Works
+(Detailed Statement of Works or reference to an Attachment)
+Subcontractors
+The AAD shall approve all subcontractors employed by the service provider.
+The service provider shall ensure that the AAD receives value for money from the sub-contractors employed to work at the AAD.
+In all instances, subcontractors will comply with all legal and statutory requirements associated with the services provided to the AAD including the (List of industry standards, regulatory or legislative requirements), Commonwealth, State and Local Government acts and regulations; the Australian Standards and all environmental and occupational health and safety requirements for the Kingston site (if applicable).
+All contractors shall complete the AAD's induction program before commencing any work at the AAD Kingston (if applicable).
+Performance Standards
+The service provider will be required to work to and maintain services to standards determined by agreement between the AAD and the service provider.  However, in general the service provider will be required to:
+* undertake all works to the appropriate Australian and industry standards;
+* maintain all critical equipment thereby ensuring the ongoing operations of the AAD; (if applicable)
+* action and resolve all requests for repairs, maintenance and other works in a timely manner; (if applicable)
+* provide quotations and advice on works programmes in an expeditious manner. (if applicable)  
+
+Note: timeframes for completion of work will form part of a service agreement, which will be negotiated as part of the contract. (if applicable)
+Warranties
+All work undertaken by the service provider will be warranted against defects.
+Quality Assurance Audit Reports
+The service provider shall provide to the AAD a quarterly quality assurance report.  The report will cover maintenance standards, adequacy of maintenance, the performance of maintenance to the correct standards and/or specifications, safety and environmental issues, etc. (amend as required)
+Occupational Health and Safety
+The service provider and associated sub-contractors shall comply with all the relevant occupational health and safety legislation, AAD policies and procedures.  It is preferred that the service provider will hold an appropriate OH&S certification or be willing to gain such certification within 12 months of commencing the contract. (amend as required)
+Environmental Management
+The service provider and associated sub-contractors will comply with all relevant environmental laws and regulations.
+The service provider will be required to meet the requirements of the AAD's ISO14001 Environmental Management certification. (amend as required)
+B. Required Contract Material
+(see clause 2.1.1.b)
+As set out in Item A
+C. Commencement, Time-frame and Extension
+(see clause 2.1.1.c)
+Commencement Date:	(Date)
+Cessation Date:			(Date)
+Time frame: The effective date of the contract shall start on the date of award and shall end 3 years later. However, the structure of the contract will be such that there will be opportunity to extend the life of the contract on a yearly basis for a maximum 2 x one yearly extension periods. (amend as required)
+The yearly extension period will be dependant on the Service Provider meeting pre identified Key Performance Indicators (KPI). Such KPI are:
+1. Innovative and creative solutions to the supply of services;
+2. Commitment to assisting the AAD in achieving it's goals and programmes; 
+3. Continual demonstration of capability to provide a high standard of reliability and performance; and
+4. Provide value for money services
+If the Agency chooses to exercise an extension option of this agreement, the Agency will:
+1. notify the service provider in writing at least six (6) months prior to the expiry of this Contract; and 
+2. will seek to agree with the service provider on the terms and conditions to apply to the agreement during the extension period and based on the principles of this agreement.
+D. Fees
+(see clauses 3.1.1.a & 9.1.5)
+The total fee for the Services will remain fixed for a period of 3 years. The fee for services is ($), not including GST, as identified in (Service Providers reference).
+The due date for payments is 30 days after delivery of a correctly rendered invoice to the Agency.
+All invoices and fees paid are subject to the approval of the Project/Contract Officer.  
+E. Facilities and Assistance (amend as required)
+(see clause 3.1.1.c)
+
+a. The Agency will provide accommodation at Agency premises for Personnel of the Service Provider;
+b. any normal office services and facilities that the Service Provider satisfies the Project Officer are reasonable for the performance of the Services; and
+c. The Agency will provide the following equipment: 
+A. Access to the Antarctic Division Computer Network.
+B. Access to the Antarctic Division Library
+d. The Agency will provide in-kind support, if required, to facilitate the Project. The Support will include, but is not limited to, access to the staff and the equipment of the Agency.
+e. The (Organisation) will provide the following equipment: 
+A. Access to the (Organisation) Computer Network.
+B. Access to the Antarctic Climate and Ecosystems CRC Computer Network
+C. Access to the (Organisation) Libraries
+F. Invoicing and Payment
+(see clause 3.1.1.b)
+Invoices will be issued by the Service Provider each month.
+Invoices should include the following information:
+a. title of Services;
+b. name of Project/Contract Officer;
+c. details of fees, allowances and costs;
+d. contract number or purchase order number (if any); and
+e. formal written certification by a duly authorised officer of the Service Provider that the Service Provider has paid all remuneration, fees or other amounts payable to an employee, agent or subcontractor performing Services under this contract (and a confirming Statutory Declaration if the Agency requests).
+The due date for payment by the Agency is 30 days after delivery of a correctly rendered invoice.
+Payment will be effected by electronic funds transfer (EFT) to the following bank account of the Service Provider:___________.
+G. Specified Personnel 
+(see clause 2.2)
+The Service Provider agrees that the Services will be undertaken by  (Name and position).
+H. Project/Contract Officer
+(see clause 2.3)
+The Project/Contract Officer is the person for the time-being holding, occupying or performing the duties of AAD (Position title) or his approved delegate as set out in Item K [Agency's Address for Notices].
+I. Required Commonwealth Material (amend as required)
+(see clause 4.1)
+The Agency will provide access to the field scientific and engineering data and other material, as described in the Project, and will make all reasonable endeavours to ensure that the Service Provider has continued access to the required data during the period of the Service.
+The Service Provider acknowledges that the field data has been made available to the Agency or has been collected by the Agency or in collaboration with other researchers under the Antarctic Treaty 1959 ("the Treaty") and under the Treaty, each Treaty party shall enjoy peaceful cooperation, mutual assistance, the free exchange of scientific information and freedom of scientific research. 
+Furthermore, the Agency acknowledges, and the Service Provider asserts, that Article III of the Treaty gives the Service Provider access to the Material for the period of the Service. In order to promote international cooperation in scientific investigation in Antarctica, as provided for in Article II of the Treaty, the Treaty Parties agree that, to the greatest extent feasible and practicable, scientific observations and results from Antarctica shall be exchanged and made freely available.
+J. Insurance (amend as required)
+(see clause 10.4)
+
+- workers' compensation as required by law
+- public liability insurance to a minimum value of $10 million
+- professional negligence insurance to a minimum value of $10 million
+K. Agency's Address for Notices
+(see clause 10.10.1.a)
+
+Clearly specify all relevant addresses, including:
+Physical addressChannel Highway, Kingston, TAS 7050Postal addressChannel Highway, Kingston, TAS 7050Email(name)@aad.gov.auFacsimile(Number)L. Service Provider's Address for Notices
+(see clause 10.10.1.b)
+
+Clearly specify all relevant addresses, including:
+Physical address(Address)Postal address(Address)Email(name)Facsimile(Number)
+M. Confidential Information (amend as required)
+(see clause 5)
+Ref to the guidance specifically concerned with potential contractors' commercial information and the circumstances in which the Commonwealth should agree to a contractual commitment to protect such information from general disclosure.
+
+          
+Signatures
+SIGNED for and on behalf of  The Commonwealth of Australia through the Australian Antarctic Division of the Department of Environment and Heritage by:
+
+Name of signatory)
+)
+)
+Signature In the presence of:
+
+Name of witness
+Signature of witness
+SIGNED for and on behalf of (Organisation) by:
+
+Name of signatory)
+)
+)
+Signature In the presence of:
+
+Name of witness
+Signature of witness
+
+ANNEX A - STATEMENT OF WORKS AND SERVICES
+Statement of Works and Services
+
+
+
+
+
+
+
+
+Commercial-in-Confidence
+
+
+     Commercial-in-Confidence									1
+
+
+
+	
+
+Commercial-in-Confidence	Page i
+
+
+
+
+
+Commercial-in-Confidence	Contract for Services 04/xxx
+
+
+Commercial-in-Confidence	Page 27 of 27
+
+
+

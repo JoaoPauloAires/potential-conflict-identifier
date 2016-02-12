@@ -1,0 +1,59 @@
+[FORM 3]
+
+[DRAFT LETTER FROM SCHOOL]
+[Provision of services to the School]
+
+{date}
+
+
+{Addressee}
+{Address}
+
+
+Dear                       ,
+
+I wish to confirm the offer of a cleaning services contractor agreement on the following terms:
+
+*1.	This offer is made by:  {Insert Name of contracting party on behalf of School}.
+*2.	Contractor:  Services under this agreement will be provided by {insert name of independent contractor}.
+*3.	Period:  {Term dates or other agreement period etc, to be inserted}.
+*4.	Services:  Cleaning services as set out below:
+[Identify - type and frequency of cleaning, areas to be cleaned, any special services required, etc.]
+*5.	Fees:  The School will pay {$         }  {per hour/per day/per week} within 14 days of provision of an invoice in respect of services provided under this agreement.  
+[The fee of {$   } {per hour/per day/per week} is exclusive of GST which is payable in addition to this amount pursuant to the GST clause contained in this agreement.]
+OR
+[The fee of {$     } {per hour/per day/per week} is inclusive of GST.]
+*6.	GST:
+6.1 	The terms "GST", "Adjustment", Adjustment Event", "Adjustment Note" and "Tax Invoice", where appearing in this clause and elsewhere in this agreement, have the same meaning as in the A New Tax System (Goods and Services Tax) Act 1999 (Cth).
+6.2	Notwithstanding any other clause in this agreement, if GST has application to any supply made by you under or in connection with this agreement, and the consideration payable or to be provided under this agreement is not otherwise expressly stated to be inclusive of GST, you may, in addition to the consideration payable or to be provided for the supply, subject to issuing a Tax Invoice, recover from the School an additional amount on account of GST, such amount to be calculated by multiplying the amount or consideration payable or to be provided by the School for the supply by the prevailing GST rate. 
+6.3	If it is determined on reasonable grounds that the amount of GST paid or payable by you on any supply made under or in connection with this agreement differs for any reason from the amount of GST recovered or recoverable from the School then the amount of GST recovered or recoverable from the School shall be adjusted accordingly.  
+6.4	Where the amount of GST recovered or recoverable from the School is adjusted pursuant to clause 6.3 and this gives rise to an Adjustment from an Adjustment Event you must provide an Adjustment Note to the School.
+6.5	All amounts payable by the School to you by way of reimbursement of any expenses paid or payable by you to any other person shall be calculated on the basis of such amounts paid or payable by you but excluding such part of such amounts to the extent to which you are entitled to an input tax credit under the A New Tax System (Goods and Services Tax) Act 1999 (Cth).
+7.	Status as Independent Contractor:  You are engaged as an independent contractor and not as an employee of the School.
+8.	Non-exclusivity of services:  During the period of this agreement, services of the type described in paragraph 4 are to be provided to the School, but you may provide similar services to any person during the period, if provision of such services does not interfere with the performance of obligations under this agreement.
+*9.	Provision of equipment:  You will be required to provide all necessary cleaning equipment, including appropriate cleaning agents for each task.
+10.	WorkCover premiums:  In accordance with statutory requirements, the School will pay WorkCover premiums in respect of the fees to be paid to you under this agreement.
+*11.	Superannuation:  In addition to the fees referred to above, the School will make contributions to a complying superannuation fund nominated by you at the level prescribed in the superannuation guarantee legislation.
+12.	Agency:  You are not authorised to act on behalf of the School in dealings with third parties except to the extent provided by this agreement.
+13.	Delegation:  Ordinarily, you will undertake the provision of the services personally.  However, you may arrange for another person to provide the services at your cost.
+*14.	PAYG Deductions:  The School is authorised to deduct or withhold from any amount payable to you under this agreement, any amount required by law to be deducted or withheld from such payments. 
+*15.	Termination:  This agreement may be terminated:
+(a)	on 28 days' notice in writing by either party to the other;
+(b)	immediately where you commit a material breach of the terms of this agreement; or
+(c)	immediately where you fail to carry out the services for a period of one week.
+*16.	Liaison within the School:  You should liaise with {person to be nominated, eg, business manager, bursar} in respect of the provision of your services under this contract.
+17.	Standards of service:  You will ensure that the services are performed in a diligent, efficient and commercially reasonable manner in accordance with generally accepted practices appropriate to the performance of the services.
+18.	School Policies:  You will be required to act in a diligent efficient and commercially reasonable manner in accordance with School policies [Ideally, mention which ones.  Should cover occupational health and safety, harassment, equal opportunity etc] as amended from time to time and provided to you and if not so provided, generally accepted practices appropriate to the performance of the services.
+19.	General Care and Safety:  You will exercise reasonable care to protect the property of the School and the well being and safety of the School's staff and students whilst performing the services.  You should comply with your obligations under applicable occupational health and safety legislation.
+20.	Governing Law:  This agreement will be construed and governed by the law of Victoria.
+If you wish to accept this offer, please sign, date and return the enclosed copy of this letter to me.
+If you have any queries, please let me know.
+Yours faithfully
+
+
+
+
+{Signatory}
+{Position held by Signatory}
+Enc
+

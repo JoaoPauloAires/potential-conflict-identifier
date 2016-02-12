@@ -1,0 +1,569 @@
+
+CONTRACT
+BETWEEN
+THE COMMONWEALTH OF AUSTRALIA represented by
+the CRIMTRAC AGENCY
+an Executive Agency established pursuant to section 65 of the Public Service Act 1999 (Cth)
+AND
+NAME OF ACCREDITED AGENCY
+
+FOR THE PROVISION OF CRIMINAL HISTORY
+INFORMATION BY CRIMTRAC
+ON BEHALF OF
+AUSTRALIAN POLICE SERVICES
+
+ 
+
+
+CONTENTS
+1.	Interpretation	3
+1.1.	Definitions	3
+1.2.	Term of Contract	7
+1.3.	Interpretation	7
+1.4.	Guidance on construction of this Contract	7
+2.	NCHRC	8
+2.1.	NCHRC Services	8
+2.2.	Limitations of NCHRC Services	8
+3.	Property in Criminal History Information	8
+3.1.	Property Ownership	8
+3.2.	Copies	8
+4.	Obligations of the Accredited Agency	8
+4.1.	Requesting a NCHRC	8
+4.2.	Use of the NCHRC	9
+4.3.	Identification of Applicant	9
+4.4.	Informed Consent	9
+4.5.	Freedom of Information and laws relating to Privacy	9
+4.6.	Protection of Criminal History Information	10
+4.7.	Retention of Information	10
+4.8.	Audit and Assurance Processes	10
+4.9.	Authorised Officer and Agency Personnel	10
+4.10.	Non-Release of CrimTrac Personnel Information	12
+5.	Obligations of CrimTrac	12
+5.1.	Provision of NCHRC Services	12
+5.2.	Performance Standard	12
+5.3.	Freedom of Information and laws relating to Privacy	12
+5.4.	CrimTrac Authorised Officer	12
+6.	Fees and allowances	13
+6.1.	Fees and allowances.	13
+6.2.	Taxes, duties and government charges	13
+7.	Security	13
+7.1.	Interpretation of this clause	13
+7.2.	Security Reports	13
+8.	Indemnity	14
+9.	Review of the Contract	14
+9.1.	Review of the contract	14
+10.	Dispute resolution	14
+10.1.	Procedure for dispute resolution	14
+10.2.	Costs	15
+10.3.	Exemption	15
+11.	Termination or reduction in scope of the Services	15
+11.1.	Termination for Convenience	15
+11.2.	Termination for Fault	15
+12.	Confidential Information	16
+12.1.	Interpretation of clause	16
+12.2.	Confidential Information not to be disclosed	16
+12.3.	Written undertakings	16
+12.4.	Exceptions to obligations	16
+12.5.	Additional Confidential Information	17
+12.6.	Period of confidentiality	17
+12.7.	No reduction in privacy obligations	17
+13.	General provisions	17
+13.1.	Compliance with other laws	17
+13.2.	Insurance	17
+13.3.	Subcontractors	18
+13.4.	Relationship of the parties	18
+13.5.	Waiver	18
+13.6.	Assignment and novation	18
+13.7.	Survival	19
+13.8.	Notice	19
+Schedule		21
+A.	Procedures for Requesting a NCHRC	21
+B.	Purpose for which the NCHRC is being requested	21
+C.	Information Disclosed by Police Services through CrimTrac	21
+D.	Protection of Criminal History Information	23
+E.	Retention and Recording of Information by the Accredited Agency	23
+F.	Authorised Officers	24
+G.	Fees	25
+H.	Confidential Information	25
+I.	Insurance	26
+J.	CrimTrac's Address for Notices	27
+K.	Accredited Agency's Address for Notices	27
+Annexure 1		28
+1.	Use of Criminal History Information Received from CrimTrac	28
+
+
+          Date
+This Contract is dated [Insert date].
+          Parties
+This Contract is made between and binds the following parties:
+Commonwealth of Australia (the Commonwealth) represented for the purposes of this Contract by the CrimTrac Agency an Executive Agency established under section 65 of the Public Service Act 1999 (Cth) (ABN 171 93 904 699)
+  (herein referred to as 'CrimTrac')
+      Name of Accredited Agency
+  (herein referred to as 'the Accredited Agency')
+herein referred to as 'the Parties'.
+          Recitals
+a. CrimTrac maintains a central index of information that identifies whether a particular individual is recorded in the relevant police records of any jurisdiction as a person of interest.
+b. CrimTrac in cooperation with the Australian Police Services uses the central index to provided National Criminal History Record Checking Services (NCHRC Services) to accredited third-party agencies, principally for the purpose of ensuring that persons in positions of trust or specified fields of endeavour or who are required to meet mandated requirements, are adequately screened for criminal records.
+c. In order to access NCHRC Services the Accredited Agency must be an Accredited Agency as approved by CrimTrac on behalf of the Australian Police Services.
+          Operative provisions
+The Parties agree as follows:
+1. Interpretation
+1.1. Definitions
+1.1.1. In this Contract, unless the contrary intention appears, a term in bold type has the meaning shown opposite it:
+Accredited Agencymeans an agency approved by CrimTrac and the Australian Police Services to access NCHRC Services through CrimTrac in accordance with the document Accreditation Procedures to Access NCHRC Services;Agency Personnelmeans Personnel of the Accredited Agency who are authorised by the Accredited Agency's Authorised Officer to handle Criminal History Information and other Data relevant to Applicants;Applicantmeans an individual who provides written Informed Consent to a NCHRC of their Name being conducted, or an individual for whom a NCHRC is mandated by legislation;Authorised Officermeans an officer authorised to request, access or use information released under this Contract in accordance with clause 4;Business Daymeans, in relation to the doing of any action in a place, a weekday other than a public holiday in that place;Chief Executive Officermeans the head of CrimTrac appointed under the Public Service Act 1999 (Cth);Confidential Informationmeans:
+a.	the information described in Item H of the Schedule; and
+b.	information that the Parties agree in writing after the date of this Contract is confidential information for the purposes of this Contract;Contractmeans this agreement including the Schedule and Annexures;Copymeans any document, device, article or medium in which Criminal History Information of CrimTrac is embodied;Criminal History Informationmeans information relating to Disclosable Court Outcomes, or other information regarding the Name provided to a Police Service and included within a NCHRC. This information will only be released subject to relevant spent convictions/ non-disclosure legislation and/or information release policies in individual jurisdictions;CrimTrac Board of Managementmeans the Board of Management established under the CrimTrac Inter-Governmental Agreement to oversee CrimTrac;Datameans a sequence of elements of information that has meaning relating to an Applicant whose Name is checked;Disclosable Court Outcomesmeans the record of court convictions and findings of guilt, to which provisions of relevant spent convictions/non-disclosure legislation and/or information release policies have been applied;Enquirymeans the submission of an Applicant's Name for checking;Government NCHRCmeans a NCHRC submitted by a Commonwealth, State, Territory or Local government department or agency;Individual NCHRCmeans a NCHRC submitted by an individual person on that person's own behalf.  Individual Checks are not conducted under this Contract;Informed Consentmeans that the Applicant has signed a consent form that sets out:
+a. the nature of a NCHRC;
+b. the purpose(s) for which the information is being collected (to authorise the Accredited Agency to obtain Criminal History Information);
+c. any person to whom, or agency to which, the information will be disclosed (CrimTrac, Federal, State or Territory Police); and
+d. any law which requires that their Personal Information be collected and the consequences of not complying;Namemeans the name(s) provided by the Applicant;National Criminal History Record Check (NCHRC)means a criminal history record check carried out in accordance with clause 2 and Item A of the Schedule. NCHRCs are one of four types which attract different fees:
+a. Individual (used by Police Services only)
+b. Government (Commonwealth, State, Territory and Local)
+c. Non-Government
+d. Volunteer;NCHRC Servicesmeans the services provided by CrimTrac under clause 2;Non-Government NCHRCmeans a NCHRC submitted by a non-government entity;Personal Informationhas the same meaning as the term 'personal information' in the Privacy Act 1988 (Cth), that is: information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about a natural person whose identity is apparent, or can reasonably be ascertained, from the information or opinion;Personnelmeans a Party's officers, employees, agents, contractor staff or professional advisers;Police Servicemeans the Police Service of any State or Territory of Australia and of the Commonwealth of Australia in respect of the Australian Federal Police;Potential Matchmeans the result of an Enquiry of the central index of names of persons of interest that has produced a name to be referred to Police Services;Privacy, laws relating tomeans the relevant laws of the Commonwealth, or a State or Territory that make provision with respect to the collection, holding, use, correction, disclosure or transfer of Personal Information;Routine NCHRCmeans a NCHRC submitted by the Accredited Agency with the expectation that the NCHRC will be finalised within a period of 10 Business Days subject to clause 5.2;Urgent NCHRCmeans a NCHRC submitted by the Accredited Agency with the request that the NCHRC will be finalised within a period of 5 Business Days, subject to clause 5.2, and indicating that:
+a. time is of the essence; and
+b. the consequences of finalising the check as a Routine NCHRC are unacceptable to the Accredited Agency; 
+and where CrimTrac is satisfied that the request is urgent.Volunteer NCHRCmeans a NCHRC submitted by an individual person, government or non-government entity where:
+a. the employment provides no remuneration to the Applicant for work undertaken except out-of-pocket expenses; and
+b. the work undertaken fulfils a charity or community service good.1.2. Term of Contract
+1.2.1. This Contract covers a period of three years, and commences on [Insert date].
+1.2.2. Three months before this Contract expires, and without obligation, the Parties will enter into negotiations, in good faith, with a view to entering into a further contract relating to the provision of NCHRC Services.
+1.2.3. All previous Contracts and Annexures between the Parties are hereby terminated.
+1.3. Interpretation
+1.3.1. In this Contract, unless the contrary intention appears:
+a. words importing a gender include any other gender;
+b. words in the singular include the plural and words in the plural include the singular;
+c. clause headings are for convenient reference only and have no effect in limiting or extending the language of provisions to which they refer;
+d. words importing a person includes a partnership and a body whether corporate or otherwise;
+e. a reference to dollars is a reference to Australian dollars;
+f. a reference to any legislation or legislative provision includes any statutory modification, substitution or re-enactment of that legislation or legislative provision;
+g. if any word or phrase is given a defined meaning, any other part of speech or other grammatical form of that word or phrase has a corresponding meaning;
+h. the Schedule and Annexures form part of this Contract;
+i. if any conflict arises between the terms and conditions contained in the clauses of this Contract and any part of the Schedule (and attachments if any), the terms and conditions of the clauses prevail;
+j. if any conflict arises between any part of the Schedule and any part of any attachment, the Schedule prevails;
+k. a reference to the Schedule (or an attachment) is a reference to the Schedule (or an attachment) to this Contract, including as amended or replaced from time to time by agreement in writing between the parties; and
+l. a reference to writing is a reference to any representation of words, figures or symbols, whether or not in a visible form.
+1.4. Guidance on construction of this Contract
+1.4.1. This Contract records the entire agreement between the Parties in relation to its subject matter.
+1.4.2. A variation of this Contract is binding only if agreed in writing and signed by the Parties.
+1.4.3. Any reading down or severance of a particular provision does not affect the other provisions of this Contract.
+1.4.4. This Contract is to be construed in accordance with the laws of the Australian Capital Territory subject to the relevant Commonwealth, State and Territory laws relating to Privacy and Criminal History Information.
+1.4.5. The terms of this Contract apply on and from the Commencement Date.
+1.4.6. A provision of this Contract shall not be construed to the disadvantage of a Party solely on the basis that it proposed that provision.
+2. NCHRC
+2.1. NCHRC Services
+2.1.1. NCHRC Services involve:
+a. CrimTrac searching a central index of names of persons of interest to Police Services for Potential Matches with the Name(s) of the Applicant;
+b. The relevant Police Service comparing Name matches with its Criminal History Information records to determine if the matched Name is that of the Applicant;
+c. Identifying any relevant Criminal History Information (subject to relevant spent convictions/non-disclosure legislation and/or information release policies);
+d. CrimTrac providing a report to the Accredited Agency which indicates either that no record is held or that Criminal History Information exists in relation to the Applicant as appropriate; and
+e. CrimTrac providing Criminal History Information to the Accredited Agency, if Criminal History Information exists in relation to the Applicant.
+2.2. Limitations of NCHRC Services
+2.2.1. A NCHRC does not purport to be a complete and comprehensive search of all Australian police records.  Its accuracy and coverage are contingent upon accurate identification of the Applicant and the quality of police records.
+3. Property in Criminal History Information
+3.1. Property Ownership
+3.1.1. Property in Criminal History Information provided to the Accredited Agency vests in CrimTrac.
+3.2. Copies
+3.2.1. Property in each Copy vests or will vest in CrimTrac.
+4. Obligations of the Accredited Agency
+4.1. Requesting a NCHRC
+4.1.1. The Accredited Agency must only request a NCHRC in accordance with the procedure set out in Item A of the Schedule.
+4.2. Use of the NCHRC
+4.2.1. The Accredited Agency can only request or use information from a NCHRC for the purpose(s) as specified in Item B of the Schedule.
+4.2.2. The Accredited Agency understands and accepts the provisions regarding accuracy and use of Criminal History Information that are specified in Item C of the Schedule.
+4.3. Identification of Applicant
+4.3.1. The Accredited Agency must establish the true identity of the Applicant prior to the check being conducted.  The 100-point check available from http://www.austrac.gov.au/files/201_point_check.pdf is the minimum standard for determining identity.
+4.4. Informed Consent
+4.4.1. The Accredited Agency must ensure that the Applicant provides Informed Consent to the NCHRC and to CrimTrac disclosing any Criminal History Information to the Accredited Agency, unless the NCHRC is mandated by relevant legislation.
+4.4.2. The Accredited Agency must retain the original completed Informed Consent form signed by the Applicant as part of its permanent records.  The existence of a completed Informed Consent form must be indicated in the Enquiry submitted to CrimTrac.
+4.4.3. Where the Accredited Agency fails to obtain the Informed Consent of the Applicant, CrimTrac will not provide the NCHRC Services, unless the NCHRC is mandated by relevant legislation.
+4.5. Freedom of Information and laws relating to Privacy
+4.5.1. The Accredited Agency will comply with relevant Commonwealth, State and Territory legislation, including laws relating to Privacy. Relevant legislation includes the Commonwealth Privacy Act 1988 (Cth) and the Freedom of Information Act 1982 (Cth) and State and Territory freedom of information legislation.
+4.5.2. In the event that an Accredited Agency is not subject to the Privacy Act 1988, the Accredited Agency shall be obliged to act in a manner consistent with and take all actions as if it were bound by that Act, noting in particular the National Privacy Principles as defined by that Act.
+4.5.3. Where the Criminal History Information is subject to any legal processes, including but not limited to, a subpoena or a Freedom of Information request, the Accredited Agency will consult to the extent allowable under the law in the first instance with CrimTrac and all other parties whose interest in the documents or information is either obvious or apparent, upon receipt of such action or application and prior to its finalisation.
+4.6. Protection of Criminal History Information
+4.6.1. The Accredited Agency must ensure that the Criminal History Information is protected through the implementation of the procedures set out in Item D of the Schedule and this clause 4.6.
+4.6.2. Without limiting clause 4.6.1, the Accredited Agency must ensure that:
+a. Only Personnel employed by the Accredited Agency who have been appropriately authorised by the Accredited Agency's Authorised Officer (Agency Personnel) have access to the Criminal History Information;
+b. The Criminal History Information is only used by Agency Personnel for the purposes identified in Item B of the Schedule;
+c. The Criminal History Information is not disclosed to any other agency, entity or person not covered by this Contract without the prior written agreement of CrimTrac and, where disclosure is required by law, CrimTrac is informed.
+4.6.3. The Accredited Agency must comply with further CrimTrac security requirements in relation to the NCHRC Services as advised to the Accredited Agency from time to time, and must not depart from meeting those requirements without the prior written approval of CrimTrac.
+4.7. Retention of Information
+4.7.1. The Accredited Agency will manage the Criminal History Information at all times so as to protect the privacy of Applicants and the confidentiality of the Criminal History Information and will dispose of the Criminal History Information in accordance with the requirements set out in Item E of the Schedule.  
+4.8. Audit and Assurance Processes
+4.8.1. The Accredited Agency must comply with any record-keeping requirements for the purpose of auditing and monitoring compliance with this Contract as set out in Item E of the Schedule.
+4.8.2. The Accredited Agency must fully participate in an annual external audit arranged by CrimTrac to assess compliance with this Contract. The requirements of the audit process are set out in the document NCHRC Audit and Review Program, as updated from time to time by CrimTrac.  The external audit shall be undertaken by an external auditor appointed by CrimTrac or by CrimTrac Personnel.
+4.9. Authorised Officer and Agency Personnel 
+4.9.1. The Accredited Agency will identify an Authorised Officer at Item F of the Schedule.
+4.9.2. Access to, and the handling of, the Criminal History Information provided under this Contract is subject to the control of the Authorised Officer.
+4.9.3. An Authorised Officer may be identified at Item F of the Schedule by description of their position held in the Accredited Agency.
+4.9.4. The Accredited Agency must ensure that any person nominated as an Authorised Officer:
+a. is of good fame and character; and
+b. will act in all circumstances in a fit and proper manner in relation to any Criminal History Information to which they have access under this Contract.
+4.9.5. As conditions of acquiring and maintaining their status as an Authorised Officer, the person nominated by the Accredited Agency will be subject to:
+a. a NCHRC conducted on their appointment as an Authorised Officer and subsequently at least once every five years;
+b. reviews of their suitability for acting as an Authorised Officer from time to time; and
+c. any other security measures as deemed necessary from time to time by CrimTrac.
+4.9.6. The Authorised Officer may appoint Agency Personnel to work under the authority or direction of the Authorised Officer.
+4.9.7. As conditions of acquiring and maintaining their status as Agency Personnel, the persons to be appointed by the Authorised Officer will be subject to:
+a. a NCHRC conducted on their appointment as Agency Personnel and subsequently at least once every five years;
+b. reviews of their suitability for acting as Agency Personnel from time to time; and
+c. any other security measures as deemed necessary from time to time by CrimTrac.
+4.9.8. The Accredited Agency must promptly notify CrimTrac of any change in the circumstances of the Authorised Officer or Agency Personnel that, in the Accredited Agency's reasonable opinion, is likely to affect their ability to carry out their obligations under the Contract.
+4.9.9. CrimTrac may, at its absolute discretion, request the Accredited Agency to remove Agency Personnel from work in relation to access to, and handling of, the Criminal History Information provided under this Contract.
+4.9.10. In the event referred to in clause 4.9.9, and subject to clause 4.9.7, the Accredited Agency will appoint other Agency Personnel to fulfil the Accredited Agency's obligations under the Contract. 
+4.9.11. The Accredited Agency will maintain a current list of Authorised Officer and Agency Personnel.  The list will be provided to CrimTrac, at any time, on request.  The list will include details of:
+a. the name of the Authorised Officer;
+b. the name of each Agency Personnel;
+c. the date on which the Authorised Officer and the Agency Personnel were appointed; and
+d. the date on which the most recent NCHRC was conducted.
+4.10. Non-Release of CrimTrac Personnel Information
+4.10.1. The Accredited Agency will not disclose to any Applicant the name or contact details of any staff member of CrimTrac.
+5. Obligations of CrimTrac
+5.1. Provision of NCHRC Services
+5.1.1. CrimTrac will: 
+a. Upon receipt of Data concerning an Applicant, commence the NCHRC Services;
+b. Perform the NCHRC Services pursuant to clause 2.1.1.
+5.2. Performance Standard
+5.2.1. CrimTrac will use its best endeavours to deliver NCHRC Services to meet the following performance standards: 
+a. 95% of Routine NCHRCs completed in 10 Business Days; and 
+b. 95% of Urgent NCHRCs completed in 5 Business Days. 
+5.2.2. The Accredited Agency understands that the wide variety of sources and media on which Criminal History Information is held, including but not limited to hard copy files, microfilm, offline electronic storage and online database systems, means that delays may occur in extracting information to finalise a NCHRC. Delays are more likely in the case of a NCHRC that requires more than one Police Service to access and assess Criminal History Information.
+5.3. Freedom of Information and laws relating to Privacy
+5.3.1. CrimTrac will comply with relevant State, Territory and Commonwealth legislation. This includes the Freedom of Information Act 1982 and laws relating to Privacy such as the Commonwealth Privacy Act 1988.
+5.3.2. In the event of a request for access to documents or information under legal processes, including but not limited to a subpoena or freedom of information law, however described or characterised, being received, CrimTrac will consult with all other parties whose interest in the documents or information is either obvious or apparent.
+5.3.3. Clause 5.3.2 does not prevent CrimTrac from giving access to documents without consultation in circumstances where there is clearly no basis to deny access to the documents to which access is sought under the relevant freedom of information law or other process.
+5.4. CrimTrac Authorised Officer
+5.4.1. CrimTrac will identify its Authorised Officer under this Contract in Item F of the Schedule.
+6. Fees and allowances
+6.1. Fees and allowances.
+6.1.1. The Accredited Agency will:
+a. pay the fees specified in Item G of the Schedule, and
+b. make all payments in the manner specified in Item G of the Schedule.
+6.2. Taxes, duties and government charges
+6.2.1. Subject to this clause the Accredited Agency must pay all taxes, duties and government charges imposed or levied in Australia or overseas in connection with the performance of this Contract.
+6.2.2. The following terms have the meanings respectively given to them in the A New Tax System (Goods and Services Tax) Act 1999 (Cth):
+consideration;GST;input tax credit;supply;Taxable supply; andtax invoice.6.2.3. Unless otherwise indicated, all consideration for any supply made under this Contract is exclusive of any GST imposed on the supply.
+6.2.4. If one party (the supplier) makes a taxable supply to the other party (the recipient) under this Contract, on receipt of a Tax Invoice from the supplier, the recipient must pay without setoff an additional amount to the supplier equal to the GST imposed on the supply in question.
+6.2.5. No Party may claim from the other Party under this Contract any amount for which the first Party may claim an input tax credit.
+7. Security
+7.1. Interpretation of this clause
+7.1.1. In this clause 7:
+Security Incidentmeans a security breach, violation, contact or approach from those seeking or gaining unauthorised access to Criminal History Information.7.2. Security Reports 
+7.2.1. The Accredited Agency must provide a written security report to CrimTrac immediately if it becomes aware that a Security Incident has occurred.
+7.2.2. The security report will include the following information:
+a. details regarding all Security Incidents, including steps taken by the Accredited Agency to address these;
+b. perceived security problems;
+c. where appropriate, recommendations for security improvements;
+d. proposed and actual changes of Agency Personnel; and
+e. any other information that CrimTrac reasonably requires.
+8. Indemnity
+8.1. The Accredited Agency indemnifies CrimTrac from and against any:
+a. cost or liability incurred by CrimTrac; 
+b. loss of or damage to property of CrimTrac; or
+c. loss or expense incurred by CrimTrac in dealing with any claim against it including legal costs and expenses on a solicitor/own client basis and the cost of time spent, resources used or disbursements paid by CrimTrac,
+arising from either:
+a. a breach by the Accredited Agency of this Contract; or
+b. an act or omission involving fault on the part of the Accredited Agency or its Agency Personnel in connection with this Contract.
+8.2. The Accredited Agency's liability to indemnify CrimTrac under clause 8.1 will be reduced proportionately to the extent that any act or omission involving fault on the part of CrimTrac or its Personnel contributed to the relevant cost, liability, loss, damage or expense.
+8.3. The right of CrimTrac to be indemnified under this clause 8 is in addition to, and not exclusive of, any other right, power or remedy provided by law, but CrimTrac is not entitled to be compensated in excess of the amount of the relevant cost, liability, loss, damage or expense.
+9. Review of the Contract
+9.1. Review of the contract
+9.1.1. This Contract may be varied at the request of either Party, by the agreement of both Parties, in writing.  The variation will form an annexure to this Contract.
+9.1.2. Amendment to this Contract may include amendment to the Schedule and Annexures.
+10. Dispute resolution
+10.1. Procedure for dispute resolution
+10.1.1. Where there is a dispute arising under this Contract, it will be dealt with as follows:
+a. the Party claiming that there is a dispute will give the other Party a notice setting out the nature of the dispute;
+b. within 5 Business Days, each Party will nominate a delegate;
+c. the delegates will try to settle the dispute by direct negotiation between them;
+d. failing settlement by the delegates within a further 10 Business Days, the Parties may agree to refer the dispute to an independent third person to mediate and recommend some form of non-binding resolution;
+e. the Parties will cooperate fully with any process instigated under clause 10.1.1.d in order to achieve a speedy resolution;
+f. if a resolution is not reached within a further 20 Business Days, either Party may commence legal proceedings.
+10.2. Costs
+10.2.1. Each Party will bear its own costs of complying with this clause 10, and the Parties must bear equally the cost of any third person engaged under clause 10.1.1.d.
+10.3. Exemption
+10.3.1. This clause 10 does not apply to:
+a. action by CrimTrac under or purportedly under clause 11.1;
+b. action by either Party under or purportedly under clause 11.2; or
+c. legal proceedings by either Party seeking urgent interlocutory relief.
+11. Termination or reduction in scope of the Services
+11.1. Termination for Convenience
+11.1.1. CrimTrac may, at any time by notice, terminate this Contract or reduce the scope of the NCHRC Services immediately.
+11.1.2. The Accredited Agency agrees, on receipt of a notice of termination or reduction to take all available steps to minimise loss resulting from that termination or reduction; and
+11.1.3. In the event of termination under clause 11.1.1, CrimTrac will be liable only to repay any fees paid for the NCHRC Services requested but not received before the effective date of termination.
+11.1.4. CrimTrac will not be liable to pay compensation under clauses 11.1.1 and 11.1.2 in an amount that would exceed the compensation payable under clause 11.1.3.
+11.2. Termination for Fault
+11.2.1. If the Accredited Agency fails to satisfy any of its obligations under this Contract, then CrimTrac - if it considers in good faith and on reasonable grounds that the failure is:
+a. not capable of remedy - may, by notice, terminate this Contract immediately; 
+b. capable of remedy - may, by notice require that the failure be remedied within the time specified in the notice and, if not remedied within that time, may terminate this Contract immediately by giving a second notice.
+11.2.2. CrimTrac may also by notice terminate this Contract immediately (but without prejudice to any prior right of action or remedy which either party has or may have) if the Accredited Agency:
+a. being a corporation - comes under one of the forms of external administration referred to in chapter 5 of the Corporations Act 2001 (Cth), or has an order made against it for the purpose of placing it under external administration; or
+b. being an individual - becomes bankrupt or enters into a scheme of arrangement with creditors; or 
+c. being any other entity - becomes bankrupt or enters into a scheme of arrangement with creditors.
+12. Confidential Information
+12.1. Interpretation of clause
+12.1.1. In this clause 12:
+Third Party Interestmeans any legal or equitable right, interest, power or remedy in favour of any person other than the Accredited Agency or CrimTrac in connection with the Contract, including, without limitation, any right of possession, receivership, control or power of sale, and any mortgage, charge, security or other interest.12.2. Confidential Information not to be disclosed
+12.2.1. Subject to clause 12.4, a Party must not, without the prior written consent of the other Party, disclose any Confidential Information of the other Party to a third party. 
+12.2.2. CrimTrac may impose any conditions it considers appropriate when giving consent under this clause 12.2 and the Accredited Agency agrees to comply with these conditions. 
+12.3. Written undertakings
+12.3.1. The Accredited Agency must ensure that the Authorised Officer and all Agency Personnel who have access to the Criminal History Information, sign a Deed of Confidentiality not to access, use, disclose or retain Criminal History Information except for the purposes set out in Item B of the Schedule.  The Deed of Confidentiality is set out at Annexure 1 to the Schedule.
+12.4. Exceptions to obligations
+12.4.1. The obligations on the Parties under clause 12.2 will not be taken to have been breached to the extent that Confidential Information:
+a. is disclosed by a Party to its Personnel solely in order to comply with obligations, or to exercise rights, under this Contract;
+b. is disclosed to a Party's internal management Personnel, solely to enable effective management or auditing of Contract-related activities;
+c. is disclosed by CrimTrac to the responsible Minister;
+d. is disclosed by CrimTrac, in response to a request by a House or a Committee of the Parliament of the Commonwealth of Australia;
+e. is shared by CrimTrac within CrimTrac's organisation;
+f. is authorised or required by law to be disclosed; or
+g. is in the public domain otherwise than due to a breach of this clause 12.
+12.4.2. Where a Party discloses Confidential Information to another person pursuant to clauses 12.4.1.a - 12.4.1.e, the disclosing Party must notify the receiving person that the information is confidential.
+12.4.3. In the circumstances referred to in clauses 12.4.1.a, 12.4.1.b and 12.4.1.e, the disclosing Party agrees not to provide the information unless the receiving person agrees to keep the information confidential.
+12.5. Additional Confidential Information 
+12.5.1. The Parties may agree in writing after the date of commencement of this Contract that certain additional information is to be Confidential Information for the purposes of this Contract. The agreement will form an annexure to and will be part of this Contract.
+12.6. Period of confidentiality
+12.6.1. The obligations under this clause 12 continue, notwithstanding the expiry or termination of this Contract:
+a. in relation to an item of information described in Item H of the Schedule - for the period set out in Item H of the Schedule in respect of that item; and
+b. in relation to any item of information referred to in clause 12.5 - for the period agreed by the Parties in writing in respect of that item.
+12.7. No reduction in privacy obligations
+12.7.1. This clause 12 does not detract from any of the Accredited Agency's obligations under relevant laws relating to Privacy.
+13. General provisions
+13.1. Compliance with other laws
+13.1.1. The Accredited Agency agrees, in carrying out this Contract, to comply with all relevant legislation of the Commonwealth or of any State, Territory or local authority, and in particular:
+a. the Crimes Act 1914 (Cth);
+b. the Privacy Act 1988 (Cth);
+c. the Racial Discrimination Act 1975 (Cth);
+d. the Sex Discrimination Act 1984 (Cth);
+e. the Disability Discrimination Act 1992 (Cth);
+f. the Equal Opportunity for Women in the Workplace Act 1999 (Cth).
+13.2. Insurance
+13.2.1. The Accredited Agency agrees:
+a. to effect and maintain the insurance specified in Item I of the Schedule; and
+b. on request, to provide proof of insurance acceptable to CrimTrac.
+13.2.2. This clause 13.2 continues in operation for so long as any obligations remain in connection with the Contract.
+13.3. Subcontractors
+13.3.1. The Accredited Agency agrees not to subcontract the performance of any part of its obligations under this Contract without CrimTrac's prior written approval.
+13.3.2. CrimTrac may impose any terms and conditions it considers appropriate when giving its approval under clause 13.3.1.
+13.3.3. The Accredited Agency will ensure that any subcontract for the performance of any part of its obligations under this Contract contains, so far as they are relevant to the subcontracted obligations, provisions equivalent to this Contract.
+13.4. Relationship of the parties
+13.4.1. The Accredited Agency is not by virtue of this Contract an officer, employee, partner or agent of CrimTrac, nor does the Accredited Agency have any power or authority to bind or represent CrimTrac.
+13.4.2. The Accredited Agency agrees:
+a. not to misrepresent its relationship with CrimTrac; and
+b. not to engage in any misleading or deceptive conduct in relation to the NCHRC Services.
+13.5. Waiver
+13.5.1. A failure or delay by a Party to exercise any right or remedy it holds under this Contract or at law does not operate as a waiver of that right.
+13.5.2. A single or partial exercise by a Party of any right or remedy it holds under this Contract or at law does not prevent the Party from exercising the right again or to the extent it has not fully exercised the right.
+13.6. Assignment and novation
+13.6.1. The Accredited Agency cannot assign its obligations, and agrees not to assign its rights under this Contract without CrimTrac's prior written approval.
+13.6.2. The Accredited Agency agrees to consult CrimTrac before entering into negotiations with any other person regarding any arrangement that might require novation of the Contract.
+13.6.3. CrimTrac will not withhold approval of an assignment to a wholly owned subsidiary of the Accredited Agency if:
+a. the proposed assignee is sufficiently capitalised to meet all of the Accredited Agency's obligations under this Contract, including indemnities;
+b. only the Authorised Officer and Agency Personnel continue to access Criminal History Information, subject to the terms of this Contract;
+c. the Accredited Agency guarantees the performance of this Contract by the assignee and any liability on the part of the assignee arising under this Contract;
+d. the proposed assignee fully complies with all criteria applied to the Accredited Agency for receipt of the NCHRC Services; and
+e. the Accredited Agency provides to CrimTrac all information reasonably required to determine compliance under this Contract.
+13.7. Survival
+13.7.1. Unless the contrary intention appears, the expiry or earlier termination of this Contract will not affect the continued operation of any provision relating to:
+a. Confidential Information;
+b. the protection of Criminal History Information;
+c. audit;
+d. information security;
+e. an indemnity; or
+f. any other provision which expressly or by implication from its nature is intended to continue.
+13.8. Notice
+13.8.1. A notice under this Contract is only effective if it is in writing, and dealt with as follows:
+a. if given by the Accredited Agency to CrimTrac - addressed to the CrimTrac Authorised Officer at the address specified in Item J of the Schedule or as otherwise notified by CrimTrac; or
+b. if given by CrimTrac to the Accredited Agency - given by the CrimTrac Authorised Officer as previously specified (or any superior officer to the CrimTrac Authorised Officer) and addressed (and marked for attention) as specified in Item K of the Schedule or as otherwise notified by the Accredited Agency.
+13.8.2. A notice is to be:
+a. signed by the person giving the notice and delivered by hand; or
+b. signed by the person giving the notice and sent by pre-paid post; or
+c. signed by the person giving the notice and sent by facsimile transmission.
+13.8.3. A notice is deemed to be effected:
+a. if delivered by hand - upon delivery to the relevant address;
+b. if sent by post - upon delivery to the relevant address;
+c. if sent by facsimile transmission - upon actual receipt by the addressee.
+13.8.4. A notice received after 5.00 pm, or on a day that is not a Business Day, is deemed to be effected on the next Business Day.
+
+
+SIGNED for and on behalf of the Commonwealth of Australia by the CrimTrac Agency by:
+)
+)
+)Ben McDevitt, Chief Executive OfficerSignatureIn the presence of:
+Name of witnessSignature of witnessSIGNED for and on behalf of Name of Accredited Agency by:
+)
+)
+)Name and positionSignatureIn the presence of:
+Name of witnessSignature of witnessand byName of company officer and position
+SignatureIn the presence of
+Name of witnessSignature of witness			SCHEDULE
+A. Procedures for Requesting a NCHRC
+A.1. The Accredited Agency will provide those personal details as set out in A.2 in relation to each Applicant. These details will be sent to CrimTrac via secure electronic transfer of Data.
+A.2. The Accredited Agency will provide CrimTrac with the following information for each Applicant:
+a. Surname (including all names under which the Applicant has been known)
+b. Given Name(s) (including all names under which the Applicant has been known)
+c. Date of Birth
+d. Gender
+e. Place of Birth
+f. Current Residential Address
+g. Confirmation that Informed Consent for the check is held
+h. Confirmation of identity in accordance with the Financial Transaction Reports Act 1988 (Cth)
+i. Previous Residential Address(es) (if applicable)
+j. Driver's Licence Number (if applicable)
+k. Passport Number (if applicable).
+B. Purpose for which the NCHRC is being requested
+B.1. The Accredited Agency may only request an NCHRC for the following purposes:
+a. Employment screening, probity checking and personnel security vetting of potential/existing employees, volunteers, contractors and consultants to assess their suitability for employment/engagement with the Accredited Agency; and
+b. Employment screening and probity checking of work experience placements.
+[Delete whichever is not applicable]
+C. Information Disclosed by Police Services through CrimTrac
+C.1. Accuracy of Criminal History Information
+C.1.1. Criminal History Information is compiled from the records of Police Services. These records are drawn from various sources including historical information held by the Police Services, and are held by Police Services for use as an investigative tool. It was not necessarily intended that these records be used for the purposes of providing Criminal History Information outside the relevant Police Services. In addition, Criminal History Information was not necessarily intended to be used in the identification of persons for reasons other than ongoing police investigations. In that context, Criminal History Information is inherently limited and the Accredited Agency should recognise this limitation.
+Consequently, in receiving Criminal History Information the Accredited Agency recognises that while a Police Service providing Criminal History Information through CrimTrac will make every practicable endeavour to ensure that the information relates to the Applicant in question and is correct in its detail, neither the Police Service nor CrimTrac accepts any responsibility or liability for any error or omission whatsoever in the information.
+C.1.2. Information provided in relation to a NCHRC under this Contract may not, for one reason or another, relate to the Applicant and further validation may be required.
+C.1.3. The Accredited Agency will bring to the Applicant's notice any matters relating to Criminal History Information obtained from a NCHRC that could cause an adverse decision in respect to their assessment.
+C.1.4. Where the Applicant disputes the accuracy of the information provided from police records, either in part or in full, the Accredited Agency shall take all steps necessary to provide the Applicant with information about the steps the Applicant must take to establish a comparison fingerprint check, and the Accredited Agency will then liaise with CrimTrac in the first instance to determine whether the Criminal History Information released relates to that Applicant.
+C.2. Assessment of the Applicant
+C.2.1. Subject to any relevant legislation, the Accredited Agency may use the Criminal History Information provided about an Applicant in decision processes related to the assessment of suitability for a profession, an undertaking, appointment, or employment. However, CrimTrac recommends that consideration of the Criminal History Information form only one part of the assessment processes for an Applicant's suitability.
+C.2.2. In forming assessments, the Accredited Agency should consider the relevance of the Criminal History Information to the specific nature of the decision. Where Criminal History Information is provided, the Accredited Agency will take into account:
+a. the scope of the Applicant's criminal history;
+b. the nature of the offence and the relationship of the offence to the particular position/profession or other decision under consideration;
+c. the period of time that has elapsed since the offence took place;
+d. whether the offence was committed as an adult or a juvenile;
+e. the type of penalty imposed by the court such as whether the court elects not to record a conviction where the person enters into and successfully completes a conditional order such as bond or probation, and whether the Applicant has successfully completed the order;
+f. the severity of any penalty imposed; and
+g. whether the offence has been decriminalised or removed from the statutes.
+C.2.3. The Accredited Agency acknowledges that the initial check of the Name provided by the Accredited Agency against the central index of names of persons of interest to Police Services may indicate that further investigation may be required with one or more Police Services. Subsequent enquiries may show that no Criminal History Information is available for release regarding the Applicant. In these instances the Accredited Agency will not take the fact that an Applicant is not immediately cleared into account in its assessment.
+C.3. Exemptions from spent convictions legislation
+C.3.1. The Accredited Agency acknowledges that where the Commonwealth or States/Territories have spent convictions/non-disclosure legislation or information release policies, it will not receive details of spent convictions unless there is an applicable exemption or exclusion from such legislation or policies.
+D. Protection of Criminal History Information
+D.1. The Accredited Agency will ensure that only the Authorised Officer and Agency Personnel manage Criminal History Information and will restrict access to Criminal History Information and Data on a strict 'need-to-know' basis.
+D.2. The Accredited Agency will keep the Criminal History Information secure and protected by implementing safeguards to prevent loss, unauthorised access, use, modification, disclosure or other misuse, including unauthorised reproduction by any means within their respective agencies.  Safeguards are to include:
+a.    information to be filed in such a manner as to be accessible only to the Authorised Officer and Agency Personnel;
+b. files to be marked 'Personnel-In-Confidence'; and
+c. the use of lockable filing systems.
+D.3. CrimTrac will transfer Criminal History Information obtained from Police Services to the Accredited Agency by: 
+a. facsimile sent to a dedicated (and, where physically possible, isolated) facsimile number designated by the Accredited Agency; or
+b. secure electronic means including but not restricted to encrypted email; or
+c. direct access to an appropriate CrimTrac system.
+D.4. The Accredited Agency will transfer Criminal History Information obtained from CrimTrac by: 
+a. facsimile sent to a dedicated (and, where physically possible, isolated) facsimile number; or
+b. secure electronic means including but not restricted to encrypted email; or
+c. direct access to an appropriate CrimTrac system.
+D.5. The Accredited Agency, in consultation with CrimTrac, will implement a system of tracking the despatch, receipt, handling, storage and disposal of the Criminal History Information provided by the Police Services.
+E. Retention and Recording of Information by the Accredited Agency
+E.1. The Accredited Agency shall retain as permanent records documents, including but not limited to, original completed Informed Consent forms, confirmation that a NCHRC has been conducted and how the Criminal History Information affected any associated decision making processes within the Accredited Agency.  
+E.2. The Accredited Agency will not make Criminal History Information or Copies a permanent part of its records and will retain such Criminal History Information or Copies for a period not exceeding three months of receipt from CrimTrac unless approval to retain the Criminal History Information or Copies for a longer period has been given by CrimTrac in writing.
+E.3. The Accredited Agency is aware that if Criminal History Information is retained for an indefinite time, there is the likelihood that some convictions could become spent and therefore non-disclosable under Commonwealth and some State spent convictions legislation.  Once a conviction becomes spent and thus non-disclosable, the Accredited Agency and its staff risk being in breach of spent convictions legislation, should details of a spent conviction be inadvertently disclosed.
+E.4. Criminal History Information will be destroyed by the Authorised Officer or Agency Personnel authorised to have access to the information by any method that will prevent the identity of the Applicant being deduced from reconstitution of the residue.
+F. Authorised Officers
+CRIMTRAC AGENCYNAME OF ACCREDITED AGENCYManager Criminal History Title496 Northbourne AvenueAddressDICKSON ACT 2602Ph:	(02) 6268 7729Ph:   phone numberFax:	(02) 6268 7989Fax:  fax number	F.1. Without limiting the operation of any other provision of this Contract, the Authorised Officer shall also have responsibility for:
+a. receiving notices in relation to this Contract
+b. receiving reports of breaches of this Contract
+c. receiving reports concerning dispute resolution in the first instance
+d. protection of Criminal History Information
+e. contact for consultation on the disclosure of information under subpoena, freedom of information or other legal processes
+f. generally acting as first contact point for all communication between the Parties.
+[NB - CrimTrac's strong preference will be to agree to one Authorised Officer only being identified under the Contract.]
+G. Fees
+G.1. CrimTrac will provide a tax invoice to the Accredited Agency on a monthly basis for all NCHRC Services undertaken during that month.  The charge for each NCHRC Service shall be calculated according to the type of NCHRC and is inclusive of any follow up processing conducted by CrimTrac or individual Police Service for provision of hard copy reports in respect of the records that match with the Applicant.
+G.2. CrimTrac will include the following information in the invoice:
+- number of Applicants checked;
+- type of NCHRC; and
+- applicable fees.
+G.3. Invoices will be addressed to:
+
+Name of Accredited Agency
+Contact Title / Dept.
+Postal address of Accredited Agency
+Ph:				Fax:
+
+[NB - CrimTrac's strong preference will be to agree to one Invoice address only being identified under the Contract.]
+G.4. The due date for payment will be thirty (30) days after delivery of a correctly rendered invoice, monthly in arrears.
+G.5. Disputes regarding invoices may be referred to:
+
+Manager Criminal History
+CrimTrac Agency
+Ph:  	(02) 6268 7729
+Fax:	(02) 6268 7989
+G.6. The Accredited Agency agrees to pay an invoice under dispute and, when the dispute is resolved in the Accredited Agency's favour, reimbursement on credit will apply.
+G.7. The NCHRC fee structure is subject to review by the CrimTrac Board of Management annually.  The Accredited Agency will be informed of any variations to the fee structure with a minimum six months notice.
+G.8. Subject to G.7 the fee (GST exclusive) is $25.75 per Non-Government NCHRC, $20.60 per Government NCHRC and $5.15 per Volunteer NCHRC.
+G.9. Payment will be effected by electronic funds transfer (EFT) to the following bank account of CrimTrac: BSB No: 092009 Account No: 114792.
+H. Confidential Information 
+(see clause 12)
+CrimTrac's Confidential Information
+(a)	Contract Provisions/Schedules/Attachments
+ItemPeriod of ConfidentialityTerms and conditions of the ContractDuration of contract Contact details of CrimTrac personnelDuration of contract (b)	Contract-related material
+ItemPeriod of ConfidentialityCriminal History InformationUntil disposed of as specified at Item E of the ScheduleThe Accredited Agency's Confidential Information
+(a)	Contract Provisions/Schedules/Attachments
+ItemPeriod of Confidentialityinsert relevant items(b)	Contract-related material
+ItemPeriod of Confidentialityinsert relevant itemsI. Insurance
+(see clause 13.2)
+
+The Accredited Agency must effect and maintain general liability / public liability insurance that covers the Accredited Agency's liability to compensate third parties for personal injury and/or property damage arising from the insured business activities, including coverage for, but not limited to: 
+a. Personal injury including mental anguish or mental injury;
+b. Defamation, libel and slander;
+c. Sexual or physical abuse, molestation or harassment, or attempt thereat;
+d. Breach of privacy
+to a value of $20 million each and every occurrence during the policy period.
+
+and/or
+
+The Accredited Agency must effect and maintain professional indemnity insurance that covers the Accredited Agency's civil liability arising from a claim against the Accredited Agency with respect to the conduct of their professional business including but not limited to background and criminal history record checking services, including coverage for, but not limited to: 
+a. Personal injury including mental anguish or mental injury;
+b. Defamation, libel and slander;
+c. Breach of privacy
+to a value of $10 million each and every claim and $20 million in the aggregate during the policy period.
+J. CrimTrac's Address for Notices
+(see clause 13.8.1.a)
+
+Physical address496 Northbourne Avenue
+DICKSON  ACT  2602Postal addressGPO Box 1573
+CANBERRA  CITY  ACT 2601Facsimile(02) 6268 7989K. Accredited Agency's Address for Notices
+(see clause 13.8.1.b)
+
+Physical addressInsertPostal addressInsertEmailinsertFacsimileInsert
+          
+          Annexure 1
+1. Use of Criminal History Information Received from CrimTrac
+DEED OF CONFIDENTIALITY
+I, ____________________________ undertake to the CrimTrac Agency (CrimTrac) that:
+1.	Unless:
+(a) required by the law to do so; or
+
+(b) permitted in accordance with the terms of the Contract dated.........................between CrimTrac and Name of Accredited Agency concerning the release of Criminal History Information ("the Contract") to do so -
+	I will not:
+(c) access, use, disclose to any person (including any corporation or other entity) or retain criminal history information received from CrimTrac; 
+	or
+(d) allow any other person to access, use, disclose to any person (including me and any corporation or other entity) or retain Criminal History Information received from CrimTrac.
+2.	I understand that:
+(a) this Deed continues to have effect after I cease my employment with Name of Accredited Agency.
+3.	Applicable Law
+This Deed will be governed in accordance with the law in [specify jurisdiction].
+Signature:	___________________________   Date: __________________
+
+Print name:	___________________________________________________
+and position	
+
+Witness:	___________________________   Date: __________________
+(Senior Officer)
+
+Print name:	___________________________________________________
+and position
+	
+
+
+
+	
+
+	i
+
+
+
+
+
+	3
+
+	
+

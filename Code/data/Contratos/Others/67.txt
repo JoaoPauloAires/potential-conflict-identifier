@@ -1,0 +1,107 @@
+Powerlink Queensland
+(QLD BN 5568869) ("Powerlink")
+Power Data Service End-User Trial Agreement
+28 Day Free Trial
+Licencee Details
+Name
+ABN*
+Address*
+Phone / Fax
+Contact NameDeclaration
+The Licencee wishes to enter into the Power Data Service End-User Trial Agreement and understands that it will be on the terms and conditions attached, which the Licencee has read and understood.Signature**
+Name
+Position*
+Date*  If applicable
+**  By executing this agreement the signatory warrants that he/she is duly authorised to do so on behalf of the Licencee.Return agreement to:
+
+
+
+
+
+Powerlink use only:
+Accepted by
+Powerlink
+
+Powerlink Queensland
+ABN 82 078 849 233
+33 Harold St
+VIRGINIA QLD 4014
+Attention: Mr Geoff Bostrom	
+
+Signature
+Name
+Position
+Date
+
+
+1 Licence
+1.1	Powerlink grants to the Licencee a non-exclusive and non-transferable licence to use the data described in clause 1.2  (the "Data") within the Licencee's own organisation and for the Licencee's own purposes only, subject to the terms of this Agreement.
+1.2	For the purposes of this Agreement, the Data is historical and near-realtime zonal load and inter-zonal transfer data measured by Powerlink on Powerlink's network. 
+1.3 	The Licencee agrees not to use the Data in any way other than in accordance with the terms of this Agreement. 
+2	Access
+2.1	Powerlink will provide the Licencee with an instruction manual ("Instruction Manual") setting out how the Data can be accessed and the technical specifications for the Data.   The Licencee must comply with the current Instruction Manual. 
+2.2	The Licencee is responsible for establishing and maintaining its own network connection with the Internet, and its own computer and communications equipment, so as to access the Data on Powerlink's server. 
+3	Powerlink's obligations
+3.1	Powerlink will create the Data and provide electronic access to the Data to the Licencee.  
+3.2	The parties acknowledge that this a trial agreement, for a new service that has not been tested commercially.  The parties also acknowledge that computers are sometimes unreliable, and many well-written computer programs contain bugs.  Accordingly, due to technical issues, the Data may not be available at all times or may contain errors, and the Licencee accepts this.  
+3.3	The Licencee must notify Powerlink if it is aware of any unavailability of or inaccuracy in the Data so as to assist Powerlink prevent future problems, if possible.  Powerlink will not correct past Data errors.  
+3.4	There will be planned and unplanned outages.  Powerlink may not always notify the Licencee of an interruption in the measurement or availability of Data. 
+3.5	Powerlink may modify the means of access to the Data, the format of the Data and the content of the Data upon notice to the Licencee.
+4 Liability and indemnity
+4.1	The Licencee acknowledges that the manner in which the Data is collected and provided to the Licencee is subject to uncertainties.  Powerlink provides the  Data 'as is' and access to it on a 'reasonable efforts' basis only.  Except as set out in clause 4.3, the Licencee agrees not to make a claim against or sue Powerlink due to a failure to provide the Data or the provision of inaccurate or incomplete Data.   
+4.2	EXCEPT AS REQUIRED BY LAW, POWERLINK DOES NOT WARRANT THE ACCURACY, TIMELINESS, AVAILABILITY OR SUITABILITY OF THE DATA FOR ANY PURPOSE OR TRANSACTION.  POWERLINK IS NOT LIABLE  FOR ANY LOSS OR DAMAGE THAT THE LICENCEE MAY SUFFER, HOWEVER CAUSED, AS A RESULT OF THE LICENCEE'S USE OF THE DATA, OR ANY INACCURACIES IN OR BY THE  UNAVAILABILITY OF THE DATA.  POWERLINK WILL NOT BE LIABLE FOR DECISIONS TAKEN OR ADVICE GIVEN THAT RELIES UPON THE DATA.  ALL LIABILITY OF POWERLINK FOR INDIRECT, CONSEQUENTIAL OR SPECIAL DAMAGES, INCLUDING LOST PROFITS OR REVENUE, AND UNREALISED SAVINGS, ARE EXCLUDED, WHETHER OR NOT SUCH LOSSES WERE REASONABLY FORESEEABLE OR REASONABLY WITHIN THE CONTEMPLATION OF THE PARTIES AT THE DATE OF THIS AGREEMENT.
+4.3	Where any Act of Parliament implies in this agreement any term, and that Act voids or prohibits provisions under a contract which exclude or modify the operation of such term, such term is deemed to be included in this agreement.  However, a party's liability for breach of such term will be, if permitted by law, limited to one of the following remedies (at that party's option):
+(a) if the breach relates to services:
+(i) the resupply of the services; or
+
+(ii) the payment of the cost of resupplying the services; and
+(b) if the breach relates to goods:
+(i) the replacement of the goods or the supply of equivalent goods;
+
+(ii) the repair of such goods;
+
+(iii) the payment of the cost of replacing the goods or of acquiring equivalent goods; or
+
+(iv) the payment of the cost of having the goods repaired.
+4.4	TO THE MAXIMUM EXTENT PERMITTED BY LAW, AND OTHER THAN BY OPERATION OF CLAUSE 4.3, POWERLINK'S LIABILITY FOR LOSS OR DAMAGE OF ANY KIND (INCLUDING THAT CAUSED BY NEGLIGENCE) ARISING FROM OR RELATING IN ANY WAY TO THIS AGREEMENT OR THE USE OR FAILED USE OF THE DATA IS LIMITED IN AGGREGATE FOR ANY AND ALL CLAIMS TO $AUD1,000.
+4.5	The Licencee agrees to indemnify Powerlink against any actions, proceedings, claims, demands, costs, losses or damages which may be brought against or made upon Powerlink arising from or relating to the use or misuse of the Data by the Licencee or any party to whom the Licencee gives advice or makes representations in relation to, or based on, the Data.
+5	Intellectual Property
+5.1	The Licencee obtains no ownership of the intellectual property rights in the Data, and no licence to use the Data other than as provided for in this Agreement.
+6	Confidentiality
+6.1	In this agreement, Confidential Information means all confidential, non-public or proprietary information, regardless of how the information is stored or delivered, provided by Powerlink to the Licencee or learnt by the Licencee from Powerlink, on or after the date of this Agreement relating to the business, technology or other affairs of Powerlink.  Confidential Information includes the Data.
+6.2	The Licencee acknowledges that the Confidential Information of Powerlink  is valuable.  The Licencee undertakes to keep the Confidential Information of Powerlink confidential.
+6.3	The Licencee may use Powerlink's Confidential Information for the purposes described in clause 1.1 of this Agreement.  
+6.4	Nothing in this Agreement prohibits the use or disclosure of any Confidential Information to the extent that the Licencee can demonstrate that:
+(a)	the information is received by the Licencee from a third party who is not under an obligation of confidence in relation to such information;
+(b)	the information is generally and publicly available other than as a result of a breach of confidence by the person disclosing or receiving the information;
+(c)	the information is independently developed by the Licencee's Personnel who do not have access to any of Powerlink's Confidential Information; or
+(d)	the information was lawfully known to the Licencee prior to receipt of the information from Powerlink.	
+6.5	In the event that Powerlink is under an obligation of confidence to the Licencee or Powerlink has agreed with the Licencee to keep information confidential, then such obligation or agreement does not apply to any such information that comprises or is used to create the Data, whether for the purpose of this Agreement or otherwise, including the supply of Data by Powerlink to third parties.  The Licencee will not object to Powerlink's use or disclosure of the Data in any way.
+6.6	The Licencee's obligations under this clause 6 remain in force in respect of all instances of the Data, regardless of the amount of time that has passed since the Data was collated.
+7	Term and Termination
+7.1	This Agreement commences on the execution date of this Agreement
+7.2	The Agreement will continue for a period of 28 days.
+7.3	Powerlink may terminate or suspend the trial, or immediately terminate this Agreement without cause by written notice to the Licencee.
+7.4	On termination of this Agreement under clause 7.3, or upon expiration of the term of the Agreement,
+(a)	the Licencee may continue to use the Data already obtained from Powerlink, subject to the limitations of use in this Agreement.
+(b)	the Licencee must stop retrieving Data from Powerlink.
+8	General
+8.1	The Licencee may not assign, transfer or sub-licence its rights under this agreement. 
+8.2	Notices, consents or variations in connection with this agreement must be in writing.
+8.3	This agreement is the entire agreement between the parties with respect to the subject matter hereof and is governed by the laws in force in Queensland, and the parties submit to the non-exclusive jurisdiction of the courts of Queensland and courts of appeal from them for determining any dispute concerning this agreement.
+8.4	Clauses 3.2, 4, 5, 6, 7.4 and 8.4 survive the termination of this Agreement (for any reason), as do any rights or remedies that have accrued prior to termination. 
+ 
+
+
+Power Data Service Agreement	4
+
+6247780_1.doc
+
+
+
+Power Data Service End-User Trial Agreement	1
+
+6247780_1.doc
+
+Future Access CACTIS Software Licence and Maintenance Agreement	1
+

@@ -1,0 +1,516 @@
+
+
+
+
+DVA GRANT AGREEMENT
+
+Template No 5
+(Version: June 2004)
+
+
+
+Contract Advisory Unit
+Department of Veterans' Affairs
+
+
+
+CAU Clearance - Please ensure you have complied with Chief Executive Instructions 5.3 and 5.22 in relation to CAU clearance of contracting documentation.
+
+Clean Copy - To ensure that the final document is a clean copy ready for signing, please:
+* make sure you have turned off the "Track changes while editing" mode;
+* remove this  cover page;
+* delete the words "Draft Only" from the header;
+* delete all of the guidance and drafting notes and tips; and
+* generate a new table of contents.
+
+
+
+
+
+
+
+
+
+
+
+
+GRANT AGREEMENT
+
+
+between 
+
+
+the Commonwealth as represented by the Department of
+Veterans' Affairs,
+ the Repatriation Commission 
+and 
+the Military Rehabilitation and Compensation Commission
+(Australian Business Number 23 964 290 824)
+
+
+and
+
+
+[Insert name of Grantee and ABN]
+
+Important Note - This Agreement, when completed, constitutes a legal document and as such creates legal obligations between the parties involved.  Each person signing on behalf of the Grantee must make themselves aware of the terms and conditions of the Agreement. 
+
+
+
+
+DOCUMENT OVERVIEW - HOW IS IT STRUCTURED?
+
+The nature of this document: The Agreement contained in this document (once completed by the parties) records the Grant Agreement, including its purpose (see clause 2.1 and Schedule Part A [Purpose]).
+
+Schedule and Clauses: The Agreement starts with the "Schedule", which describes the specific purpose, parties, services, payment details and standards applying to the Agreement in respect of an individual deal. 
+The Schedule Parts precede the standard clauses (the "Clauses") for providing services to, or for, the Department of Veterans' Affairs (DVA).
+
+The Schedule allows for the specific details to be entered that make the Clauses effective. 
+
+Some Parts of the Schedule describe essential issues (eg, the Grant and Payment). Others enable the parties to cover optional issues (eg, financial incentives or IT connectivity). Some Schedule Parts relate to Clauses that spell out the Commonwealth's requirements (eg, ensuring access to records for auditors and protecting privacy).
+
+Signatures Page and Agreement Date: The Signature Page is where the parties indicate assent to this Agreement (ie, that they entered this Agreement from the "Agreement Date").
+
+Under Schedule Part D, the parties' obligations may be expressed to occur before the specific "Agreement Date".
+
+Cross-referencing names: Cross-referencing from the provisions of the Schedule Parts and the Clauses of the Agreement include a shorthand description for ease of reference.  This style of cross-referencing is encouraged for use in drafting Schedule Parts.
+
+
+
+TABLE OF CONTENTS -
+
+THE SCHEDULE	1
+- PURPOSE, PARTIES AND TASK -	1
+Part A.	What is this Agreement's purpose?	1
+Part B.	Who is the Grantee?	1
+B(a)	What is the Grantee's legal identity?	1
+B(b)	Who represents the Grantee?	2
+B(c)	Are Specified Personnel required?	2
+Part C.	How is  DVA represented?	2
+C(a)	Details of Australian Government entities	2
+C(b)	Who represents  DVA as a delegate or for liaison?	3
+Part D. Project and Timing	3
+Part E. Deliverables	3
+-  FINANCE -	4
+Part F. Payment of Grant	4
+Part G. Invoices for GST purposes	4
+Where a Tax Invoice to be issued by the Grantee	4
+Where DVA shall issue a Recipient Created Tax Invoice (RCTI)	4
+Part H. Assistance	5
+Part I. Audit	5
+-  STANDARDS -	5
+Part J. Quality Standards	5
+Part K. Communications and Dispute Resolution	5
+Part L. Accountability and Risk Management	5
+Part M. Managing Assets and Project Material	6
+Part N. Intellectual Property Ownership and Rights	6
+Part O. Applicable Law	6
+THE CLAUSES	6
+1.    Parties and Starting Date	6
+2.    Project, Timing and Standards	6
+3.    Grant Payment and Assistance	6
+4.    Audit and Monitoring	7
+5.    GST Invoice Requirements	7
+6.    Liaison	7
+7.    Notices	7
+8.    Specified Personnel	8
+9.    Accountability	8
+10.  Dispute Resolution	8
+11.  Property and Assets	8
+12.  Intellectual Property Management	9
+13.  Privacy and Confidentiality	9
+14.  Indemnity and Insurance	10
+15.  Conflict of Interest	10
+16.  No Employee, Partner or Agent Status	10
+17.  Default	10
+18.  Interpretation, Variation and Severability	11
+19.  Definitions	11
+THE SIGNATURES PAGE	14
+
+
+
+THE SCHEDULE
+
+- PURPOSE, PARTIES AND TASK -
+Part A.	What is this Agreement's purpose?
+	Relates to clause 2.1
+
+The purpose of this Agreement is to provide a Grant of financial assistance to the Grantee for ..................................................
+Part B.	Who is the Grantee?
+B(a)	What is the Grantee's legal identity?
+Relates to clause 1.1(a) [Parties and Starting Date] and clause 7.1.(b) (Notices)
+
+Full legal name of GranteeLegal identity (eg, individual, company, partnership etc)Trading or business nameAny relevant licence, registration or provider numberAustralian Company Number (ACN) or other entity identifier(s)Australian Business Number (ABN)Registered for GST?Yes/NoDate from which GST registration was effectiveRegistered office (physical/postal)Relevant business place (if different)Telephone (General)Fax (General)E-mail (General)
+B(b)	Who represents the Grantee? 
+Relates to clause 6.1(a) [Liaison].
+
+Grantee's representative (name)Position Postal/physical address(es)Business hours telephoneMobileFaxE-mail
+B(c)	Are Specified Personnel required?
+Relates to clause 8 [Specified Personnel].
+The Personnel listed below are Specified Personnel for purposes of this Agreement:
+
+Full legal name of personLegal identity (eg, individual, company, partnership etc)Trading or business nameAny relevant qualifications, skills or licencesNature of work to be performed under this AgreementOR 
+
+(1) There are no Specified Personnel for this Agreement.
+Part C.	How is  DVA represented?
+C(a)	Details of Australian Government entities
+Relates to clauses 1.2 [Parties and Starting Date] and 19.1 [Definitions: "DVA"].
+
+(1) The undertaking of the Project is  required by the:
+
+* Repatriation Commission - a body corporate continued in existence under the Veterans' Entitlements Act 1986 (VEA); 
+* Military Rehabilitation and Compensation Commission - a Commonwealth body corporate established by the Military Rehabilitation and Compensation Act 2004 (MRCA); and
+* Commonwealth of Australia as represented by the Department of Veterans' Affairs, which, among other matters, assists the Repatriation Commission, and the Military Rehabilitation and Compensation Commission with the administration of their respective Acts.
+
+(2) These bodies have the Australian Business Number (ABN) of 23 964 290 824 and are described collectively as DVA. 
+
+C(b)	Who represents  DVA as a delegate or for liaison?
+Relates to clause 6.1(a) [Liaison], 7.1 [Notices] and 19.1 [Definitions: "Delegate" and "Liaison Person"].
+
+Delegate (Name)PositionAddressPostal AddressTelephone (business hours)FaxMobileE-mail
+Liaison Person (Name)PositionAddressPostal AddressTelephone (business hours)FaxMobileE-mailPart D. Project and Timing 
+       Relates to clause 2.1 (a) [Project, Timing and Standards].
+
+Part E. Deliverables 
+       Relates to clause 2.1 (b) [Deliverables].
+
+(1) The Grantee will provide the following:
+
+* XXXX
+
+-  FINANCE -  
+Part F. Payment of Grant 
+       Relates to clause 3.1  [Grant Payment and Assistance].
+Part G. Invoices for GST purposes 
+       Relates to clause 5 [GST Invoice Requirements].
+
+* A tax invoice is necessary where the Grantee is registered for GST. Where the Grantee is NOT registered for GST, this Part does not apply. 
+* A tax invoice can be issued by the Grantee or DVA.
+* Depending on which invoice is to be issued for GST purposes, it shall include the following details: 
+
+Where a Tax Invoice to be issued by the Grantee
+* Tax invoices forwarded by the Grantee to DVA must be correctly addressed and shall include the:
+(a) words 'tax invoice' prominently stated;
+(b) date of issue;
+(c) name of the Grantee;
+(d) ABN of the Grantee;
+(e) full name of DVA;
+(f) address and ABN of DVA;
+(g) brief description of purpose of Grant; and
+(h) GST inclusive price.
+OR
+
+Where DVA shall issue a Recipient Created Tax Invoice (RCTI) 
+* RCTIs forwarded by DVA to the Grantee must be correctly addressed and shall include the:
+(a) words 'recipient created tax invoice';
+(b) date of issue;
+(c) name of the Grantee;
+(d) ABN of the Grantee;
+(e) full name of DVA;
+(f) address and ABN of DVA;
+(g) brief description of purpose of Grant; and
+(h) GST inclusive price.
+
+* DVA agrees to issue a copy of the RCTI to the Grantee and must retain the original for a period of 5 years. 
+
+* If there are any adjustments, DVA must issue an adjustment note to the Grantee. 
+Part H. Assistance 
+       Relates to clause 3.3 [Grant Payment and Assistance].
+Part I. Audit
+       Relates to clause 4 [Audit and Monitoring].		
+-  STANDARDS -
+Part J. Quality Standards 
+       Relates to clause 2.1 (c) [Project, Timing and Standards].
+
+All Grantee activities in relation to this Agreement shall be consistent with DVA's Service Charter and the Australian Public Service Values and APS Code of Conduct (see in particular the Public Service Act 1999, ss 10 and 13).
+Part K. Communications and Dispute Resolution
+Relates to clause 6 [Liaison], clause 7 [Notices], clause 8 [Specified Personnel] and clause 10 [Dispute Resolution]
+Part L. Accountability and Risk Management
+Relates to clause 9 [Accountability] and clause 14 [Indemnity and Insurance]
+
+(1) The Grantee must maintain full levels of insurance cover to properly protect its and DVA's interests for the Project.  The Grantee will also be expected to comply with all relevant insurance requirements, including conducting and improving relevant risk management practices and incident notification processes.
+
+(2)	Specifically, the Grantee warrants that it has, and will maintain:
+
+* public risk/liability insurance for not less than $10,000,000 per claim covering liability owed to another person who suffers loss or damage by reason of the Grantee's activities under this Agreement;
+* professional indemnity type insurance for not less than $5,000,000 per claim covering acts or omissions of the Grantee in the exercise of its trade or profession that give rise to liability (eg, negligence); and
+* workers' compensation insurance as required by State/Territory law, sufficient for any place that its relevant Personnel are involved with this Agreement.
+
+(3)	The Grantee agrees to provide copies of certificate/s of currency, including details of limits on cover to the Delegate upon request, including details of limits on cover.
+Part M. Managing Assets and Project Material 
+
+Part N. Intellectual Property Ownership and Rights 
+       Relates to clause 12. [Intellectual Property Management].
+Part O. Applicable Law
+       Relates to clause 18.2 [Interpretation, Variation and Severability].
+The applicable law shall be the law of the State or Territory involved.
+THE CLAUSES
+1.    Parties and Starting Date
+1.1 This Agreement begins on the Starting Date stated on the Signatures Page upon signature by the representatives for:
+(a)	 the Grantee, as described in Part B(a) [Grantee's legal identity];   and
+(b) DVA as described in Part C [How is DVA represented?] and any other entity, in particular, the Repatriation Commission. 
+
+2.    Project, Timing and Standards
+2.1	The Grantee agrees to:
+(a)	use the Grant for the purpose of the Project and follow the timing stated in Part D [Project and Timing];
+(b)	provide appropriate deliverables about the Project, including reports and evaluation stated in Part E [Deliverables];
+(c) meet standards and comply with any governmental requirements stated in Part J [Quality Standards]; and
+(d) to participate in a DVA evaluation, if required, after the completion of the Project.
+
+3.    Grant Payment and Assistance
+3.1 DVA agrees to pay the Grant to the Grantee in the manner described in Part F [Payment of the Grant].  The Grantee agrees to place the Grant into a suitable account at a financial institution.
+3.2 The Delegate may require the account referred to in clause 3.1 to be used solely for the Project.
+3.3 DVA agrees to provide assistance described in Part H [Assistance].
+3.4 Where the Grantee has unspent moneys belonging to the Grant, recovery of the moneys may be made.
+
+4.    Audit and Monitoring
+4.1 The Grantee agrees to keep a complete record of expenditure of the Grant.
+4.2 The Grantee agrees to include the relevant statements relating to the expenditure of the Grant in its Annual Report. 
+4.3 After the completion of the Project, the Grantee agrees to send to the Delegate:
+(a) final financial statements relating to the expenditure of the Grant;
+(b) an independently qualified auditor's certificate relating to the expenditure of the Grant and whether the financial statements are true and fair; and 
+(c) a declaration signed by the Grantee to the effect that all terms of this Agreement have been complied with and the Project has been completed.
+4.4	The Grantee agrees to pay the cost of the audit.
+
+5.    GST Invoice Requirements
+5.1 Where a goods and services tax (the GST) is collected from the Grantee for the Grant, then the Grantee agrees to do all things necessary to ensure that the DVA is entitled to a full input tax credit.
+5.2 The Grantee agrees to issue a tax invoice to DVA within 28 days of the request of DVA in relation to the Grant unless it has been agreed between the parties by a Deed of Agreement that the DVA shall issue a Recipient Created Tax Invoice (RCTI).
+5.3 A tax invoice must include the information as set out in Part G [Invoices for GST Purposes].
+5.4	Where a RCTI is to be issued by DVA, each party must acknowledge to the other party that it is registered for GST purposes at the Starting Date of the Agreement.
+5.5	For the purposes of a RCTI for this Grant: 
+(a) the Grantee agrees to notify DVA if it ceases to be registered; and
+(b) DVA agrees to notify the Grantee if it ceases to be registered or if it ceases to satisfy the requirements of the relevant RCTI tax ruling.
+5.6 A RCTI shall include the information as set out in Part G [Invoices for GST Purposes]
+5.7 	In the event that a RCTI is issued by DVA, on or after a date, where either party has failed to comply with any of the requirements of the relevant determination of the Commissioner for Taxation, that RCTI will not be treated as being a tax invoice. 
+5.8	No tax invoice or RCTI is required where the Grantee is not registered for GST.
+
+6.    Liaison
+6.1	The Grantee agrees to:
+(a) nominate an individual authorised to receive notices and represent it; and
+(b) maintain good record keeping practices to assist with the contract management and accountability requirements generally.
+
+7.    Notices
+7.1	Notices made for written communication will be:
+(a) signed by the Delegate and sent to the Grantee as stated in Part B(b) [Who represents  the Grantee?] (or as otherwise notified by the Grantee); or
+(b) sent to the Delegate as stated in Part C(b) [Who represents DVA?], or as otherwise notified in writing by the Delegate.
+
+8.    Specified Personnel
+8.1	The Grantee agrees to:
+(a) ensure that Personnel stated in Part B (c) [Specified Personnel] are appropriately qualified and conduct the relevant Project in relation to the Grant under this Agreement; 
+(b) notify DVA promptly if Specified Personnel cannot, for any reason, meet their obligations; and
+(c) notify DVA promptly of any  proposed or actual change in the Specified Personnel.
+
+9.    Accountability
+9.1	The Grantee agrees to act in the best interests of DVA and do all things necessary to protect and preserve DVA's good name regarding any people the DVA deals with and the public generally.
+9.2	The Grantee and its Personnel agree to provide prompt and reasonable access for the Delegate or Personnel (including "Accountability Personnel" as defined in clause 9.4), to any:
+(a) premises where the Project under the Grant are being undertaken or delivered, including for inspecting performance or outcomes; and
+(b) Material that relates to this Agreement, including as stated in Part L (Accountability and Risk Management).
+9.3 If "Accountability Personnel" approach the Grantee directly, then the Grantee agrees to immediately seek directions from the Delegate about appropriate steps to take. For example, the Commonwealth may need to raise issues such as privacy, confidentiality, security, immunity from disclosure or the need for appropriate warnings.
+9.4	In clauses 9.2 and 9.3, "Accountability Personnel" means an individual performing statutory or Parliamentary functions, including as authorised by the Auditor-General, the Ombudsman, the National Archives of Australia, the Privacy Commissioner, Parliament, or a Parliamentary Committee.
+
+10.  Dispute Resolution 
+10.1	Before resorting to external dispute resolution processes, the parties agree to attempt dispute settlement by negotiation, including with relevant senior Personnel.
+10.2	If the parties do not resolve a dispute within 10 working days, or a period specified in Part K [Communications and Dispute Resolution], then the parties may:
+(a) preferably, adopt an alternative dispute resolution (ADR) process as specified in Part K [Communications and Dispute Resolution] or otherwise agreed in writing; or
+(b) if critical, start court  proceedings.
+
+11.  Property and Assets
+11.1	DVA Material ownership will remain vested at all times in DVA.
+11.2 The ownership of the Project Material shall vest in the Grantee.
+11.3 The Grantee agrees to provide DVA access to the Project Material as set out in Part M [Managing Assets and Project Material].
+11.4	The Grantee agrees to:
+(a)	ensure that DVA Material or Project Material is used, copied or disclosed to any other person only as authorised under this Agreement;
+(b)	use DVA Material and Project Material according to any conditions notified by DVA; and
+(c) promptly deliver to the Delegate any DVA Material in its possession or control on the relevant End Date, or when any relevant part of the Project is completed or no longer required.
+11.5	This clause 11 may be supplemented by procedures agreed, including specifically to manage assets in Part M [Managing Assets and Project Material].
+
+12.  Intellectual Property Management
+12.1	Ownership of Intellectual Property in the Project Material vests in the Grantee.
+12.2	The Grantee agrees to provide to DVA a licence regarding the Project  Material that is:
+(a) an "Existing Material Licence" defined in clause 12.3; and
+(b) for any relevant Intellectual Property right inherent in the Project Material.
+12.3 The "Existing Material Licence" provided in clause 12.2 is permanent, non-exclusive, irrevocable, royalty-free and worldwide, including a right of sub-licence.
+12.4 This clause 12 may be supplemented by information agreed to in Part N [Intellectual Property Ownership and Rights].
+
+13.  Privacy and Confidentiality 
+13.1	The Grantee agrees (with words in inverted commas in this clause adopting definitions from the Privacy Act 1988) to act as if it were a "record-keeper" regarding "personal information" and to comply with:
+(a)	the "Information Privacy Principles" (regulating collection, solicitation, security, use and disclosure of personal information);
+(b)  policies of DVA or the "Privacy Commissioner" relating to managing "personal information", including cooperating with reasonable requests from the "Privacy Commissioner";
+(c)   the Delegate's directions about managing "personal information", in particular involving "Privacy Commissioner" recommendations about this Agreement;
+(d)  DVA's prohibition against trans-border flows of "personal information" without prior approval by DVA; and
+(e)	section 95C, and acknowledge section 95B, of the Privacy Act 1988.
+13.2 	The Grantee agrees not to:
+(a)	use, develop or exploit "confidential information" (including not to solicit further business), other than as expressly required for this Agreement; or
+(b)	disclose "confidential information" to anyone other than the Delegate, unless compelled by Law.
+13.3	In clause 13.2, the phrase "confidential information":
+(a)	includes any information (created or existing in any form) -
+* considered confidential by its nature, at Law, 
+* designated confidential by DVA, or 
+* that the Grantee knows, or ought to know, is confidential; 
+                   and
+(b)	excludes information that has no restriction on its use, development, exploitation or disclosure and that, without breaching Law (including any fiduciary duty) or this Agreement -
+* is, or becomes, public knowledge, or
+* the Grantee substantiates, in writing, that it possesses, 
+        obtained or created independently and in good faith.
+13.4	The Grantee agrees to ensure its Personnel understand this clause 13 and that they agree to give undertakings, or consent to personal checks, in a form DVA may require, to sustain this clause 13.
+
+14.  Indemnity and Insurance
+14.1  The Grantee agrees to indemnify DVA and its Personnel against any Loss reasonably incurred from any Claim associated with the delivery of the Project under this Agreement.
+14.2 The Grantee's liability under this clause 14 will reduce proportionally to the extent that DVA was at fault in contributing to the Loss.
+14.3 The Grantee agrees, in ensuring its own viability as well as to support its commitments under this Agreement, to:
+(a)   obtain and maintain appropriate insurance, including as agreed            in Part L [Accountability and Risk Management]; and 
+(b)  promptly prove, upon DVA's request, that its insurance is current. 
+
+15.  Conflict of Interest
+15.1	The Grantee agrees to warrant that, after diligent inquiry, no potential conflict of interest exists for it or its Personnel, including anything restricting the fair conduct or delivery of the Project or affecting DVA adversely.
+15.2	The Grantee agrees not to, and agrees to ensure its Personnel do not, engage in any activity or obtain any interest creating a potential conflict of interest.
+15.3	DVA may terminate this Agreement under clause 17 [Default] if it is satisfied that the Grantee has not complied with this clause 15.
+
+16.  No Employee, Partner or Agent Status
+16.1	The Grantee agrees not to represent itself, and agrees to ensure that its Personnel do not represent themselves, as:
+(a)    being an employee or partner of DVA or its Personnel; or
+(b)  able to bind or represent DVA or its Personnel (beyond any  express authority provided in Part D [Project and Timing]).
+16.2	This Agreement does not:
+(a)	make the Grantee an employee, partner or agent of DVA;
+(b)	authorise the Grantee to bind or represent DVA; nor
+(c)	entitle the Grantee to annual, sick or long service leave, or any other DVA employment entitlements.
+
+17.  Default
+17.1  [Cooperation] Where a party has breached this Agreement in any way (default) it should take active measures to rectify the default as soon as possible, including discussing appropriate options with the other parties.
+
+17.2	[Rectification notice] Where a party may reasonably rectify a default under this Agreement, the other parties may give it a written notice requiring rectification within:
+
+(a) 10 working days; or
+(b) any other period to which the parties agree, including as agreed under Part L [Accountability and Risk Management] in relation to the relevant form of default.
+
+17.3	If a party defaults in a way that cannot be rectified, then the other party may, by a notice in writing, terminate this Agreement:
+(a) completely; or
+(b) in part, where the default involves portions of the Project that are sufficiently severable.
+
+17.4 DVA may, by notice in writing, terminate this Agreement, if the Grantee:
+(a)  as an individual, becomes bankrupt (or enters into a scheme or arrangement with creditors), or as a corporation, becomes subject to a form of external administration under the Corporations Law; or
+(b)   breaches any clauses or requirements providing DVA with a right to terminate under this clause 17.
+17.5	If this Agreement is terminated, DVA shall:
+(a) not pay the Grantee any outstanding portion of the Grant; and
+(b) be entitled to recover from the Grantee:
+(i) any unspent portion of the Grant; or
+(ii) an amount where DVA believes the Grantee has not complied with the purpose of the Grant.
+
+18.  Interpretation, Variation and Severability
+18.1 The parties agree that mutual consideration exists under this Agreement to create a valid contract, and elements of the consideration include:
+(a) the payment to the Grantee; and 
+(b) the reporting obligations, licences and conduct of the Project in accordance with the Agreement by the Grantee, meeting DVA's policy outcomes and accountability requirements.
+18.2	The law applicable to interpreting this Agreement is that of the State or Territory jurisdiction stated in Part O [Applicable Law].
+18.3	This Agreement:
+(a)	constitutes the parties' entire understanding, superseding oral or written communications, negotiations or arrangements about the purpose of the Grant;
+(b) can be varied only in writing signed by the parties' authorised representatives;
+(c) where the variation is to the purpose of the Grant, has first been approved by the Minister; and
+(d)  is not to be taken to imply any future obligation on DVA for a further grant to the Grantee beyond the requirements in this Agreement.
+18.4	No variation to or substitution of the Grantee can be made for the purposes of a Grant unless approval for the change has first been obtained from the Minister.
+18.5	In this Agreement, unless the contrary intention appears, references to:
+(a)	the singular includes the plural and vice versa;
+(b)	a gender includes male (eg, 'he'), female (eg, 'she') or indefinite (eg, 'it'); and
+(c) a person includes a partnership, body corporate or body politic.
+18.6	In this Agreement::
+(a)	the exercise of any right or power by DVA does not derogate from its other rights or powers under this Agreement, under the Law or, where relevant, regarding future uses of that right or power,
+(b)	examples after the word 'including' do not limit the relevant meaning; and
+(c)	reference to any "potential" occurrence includes an actual occurrence.
+18.7	Clauses that survive the expiration or termination of this Agreement are clause 9 [Accountability], clause 10 [Dispute Resolution], clause 13 [Privacy and confidentiality], clause 14 [Indemnity and Insurance], this clause 18 and clause 19 [Definitions].
+
+19.  Definitions
+19.1	In this Agreement, unless the contrary intention appears:
+
+AgreementMeans this document, including the clauses and the information in the Signatures Page and the Schedule, plus any Attachments.AssetsMeans any Material purchased or resulting from the conduct of the Project as defined in Part D [Project and Timing] for which particular accounting or management requirements apply as specified there.ClaimIncludes potential claim, suit, demand, action or proceeding from any person.CommonwealthMeans the Commonwealth of Australia..DelegateMeans the individual with the position  described in Part C (b) [DVA's Details] or as the Secretary nominates. .DVAMeans the Commonwealth(as represented by and acting through the Department of Veterans' Affairs, including its Personnel) as well as the Repatriation Commission and its Personnel and the Military Compensation and Rehabilitation Commission and its Personnel.DVA MaterialMeans Material that the Commonwealth, including DVA provides under this Agreement or that the Grantee obtains from DVA, or Material copied or derived from the Material provided or obtained.End DateMeans the date when both the Project and obligations under the Grant have been completed or an earlier date where the Agreement has been terminated .  Existing MaterialMeans Material existing before the Starting Date or other Material specified under clause 12 [Intellectual Property Management].Financial YearMeans the financial year of the Grantee.GrantMeans the amount of financial assistance payable to the Grantee as specified in Part F [Payment of Grant]. GranteeMeans the organisation for which the financial assistance has been approved and includes its Personnel, and specific references to the Grantee's Personnel do not limit other references to the Grantee only.GSTMeans the Goods and Services Tax under A New Tax System (Goods and Services Tax) Act 1999.Intellectual PropertyIncludes, regarding in any country in the world and including the ability to register these rights (where applicable):
+(a) patents and plant varieties, 
+(b) trademarks (including service marks), design rights, business names and official emblems and crests,
+  (c) copyright (including neighbouring rights), circuit layouts, and  confidential information (including trade secrets and know how) and l (d) other rights resulting from industrial, scientific, literary or artistic intellectual activity. .LawIncludes any relevant:
+(a) legislation (whether primary or delegated, from any Australian government, eg Commonwealth, State, Territory or local) and 
+(b) judicial ruling (including under the common law or the rules of equity).
+Liaison PersonMeans the individual with the position described in Part C(b) [Who represents DVA?] or as the Delegate nominates.LossIncludes any damage, liability or loss, injury or death, economic loss and  legal costs or expenses on a solicitor/own client basis.MaterialMeans any object ( including any goods,    equipment and deliverables), record (including as defined under the Archives Act 1983) document, software, information or subject matter in which Intellectual Property Rights subsist..Military Rehabilitation and Compensation CommissionMeans the body corporate established by the Military Rehabilitation Compensation Act 2004 (MRCA) or any other government agency that carries out functions equivalent to the Military Rehabilitation and Compensation Commission.PersonnelIncludes a party's officer, partner,  employee, agent, volunteer, bailee, contractor,  subcontractor,
+Executor, administrator, substitute, successor, licensee or assignee but -  when applied to one party - does not include the other party or that other party's  Personnel.ProjectMeans the Project approved by the Minister and described in Part D [Project and Timing] and provided through clause 2 [Project, Timing and Standards].Project MaterialMeans all Material:
+(a) brought into existence for this Agreement, or
+(b) incorporated in, supplied or required to be supplied along with the Material referred to in paragraph (a), or
+(c) copied or derived from Material referred to in paragraphs (a) or (b)
+including Material described in Part E [Deliverables].Repatriation CommissionMeans the body corporate continued in existence by the Veterans' Entitlements Act 1986 or any other government agency that carries out functions equivalent to what was the Repatriation Commission at the Starting Date.SecretaryMeans the individual performing the duties of Secretary to DVA or any individual the  Secretary designates  in writing in relation to  this Agreement.Signatures PageMeans the page signed by the parties to form this Agreement as from the Starting Date.Specified PersonnelMeans Personnel of the Grantee specified under clause 8 [Specified Personnel].Starting DateMeans the date on which the parties intended this Agreement to start as stated on the Signatures Page.
+THE SIGNATURES PAGE
+
+The parties have entered this Agreement on the Starting Date of: ____/____/________
+
+Signed by:Name of the Grantee:
+(To be signed by 2 signatories representing the Grantee, unless the Grantee is an individual)
+Signatory 1 Name:
+Please print
+
+Position:
+Please print
+
+Signature and date:
+	
+
+
+	
+
+
+	
+Witnessed by:
+Name:
+Please print
+Signature and date:
+
+	
+
+	
+Signatory 2 Name:
+Please print
+
+Position:
+Please print
+
+Signature and date:
+	
+
+
+	
+
+
+	
+Witnessed by:
+Name:
+Please print
+Signature and date:
+
+	
+
+	
+Signed for and on behalf of:
+The Commonwealth as represented by the Department of Veterans' Affairs 
+
+Name:
+
+Position:
+
+Signature and date:
+...........................................................................
+
+	Witnessed by:
+Name:
+Please print
+Signature and date:
+
+	
+
+	
+
+- Draft Only -
+
+
+
+
+		
+
+_____________________________________________________________________
+Version: June 2004 		page ii
+
+_____________________________________________________________________
+Version: June2004		page15
+

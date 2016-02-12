@@ -1,0 +1,571 @@
+DRAFT V.1 4 February 2008
+Private Health Insurance Administration Council
+Example Deed of Arrangement for 
+section 146-5 of the Private Health Insurance Act 2007
+
+Table of contents
+Parties	1
+Background	1
+Operative provisions	2
+2	Interpretation	2
+Rules for Interpreting this Deed	11
+References concerning this Deed	13
+References to legislation	13
+3	Transfer	14
+4	PHIAC Approval	14
+5	Conduct of Business before the Transfer Date	15
+Transferor must continue the Business	15
+Transferor must not do various things	15
+Transferee must continue its health insurance business	16
+Transferee Insurer must not do various things	17
+6	Access to records etc	18
+7	Transferee covenants regarding Policy Holders	18
+8	The Arrangement	20
+Obligations before the PHIAC Approval Date	20
+Obligations on the Transfer Date	21
+Policy Holders	21
+Assets and Liabilities	21
+[Where employees are to be employed by the Transferee]	24
+Transferring Employees	24
+Excluded Assets and Excluded Liabilities	24
+9	Contracts	24
+10	Property Leases	25
+11	Bank Accounts	25
+12	Holding on trust	26
+13	Other obligations after the Transfer Date	27
+Retention of Business Records	27
+Access to Business Records by Transferor	27
+Correspondence and enquiries	28
+14	Indemnities	28
+15	Termination	29
+16	Representations and Warranties	30
+Representations and Warranties	30
+Reliance	34
+17	Costs and stamp duty	35
+Stamp Duty	35
+Other Costs	35
+18	GST	36
+Supply of a going concern	36
+Responsibility for GST	36
+Claims and Indemnities	36
+19	Notices	37
+Giving notices	37
+Change of address or fax number	38
+Time notice is given	38
+Giving notices by email	39
+20	General	40
+Operation of Indemnities	40
+Consents	40
+No Merger of clauses	41
+Inconsistency with other documents	41
+Attorneys	41
+Entire agreement	41
+Counterparts	42
+Exercise of rights	42
+Further acts	42
+Governing law and jurisdiction	43
+Severability	43
+Variation	43
+Waiver	44
+Joint and several	44
+References to and calculations of time	44
+Business day	45
+Transferring Employees	52
+Offer of employment	52
+Release of Transferring Employees and Entitlements of Transferring Employees	53
+The Transferee responsible for Transferring Employees	54
+The Transferee to indemnify the Transferor in respect of Transferring Employees	54
+The Transferor to indemnify the Transferee in respect of Transferring Employees	55
+Continuity	55
+Superannuation	56
+The Transferor's Obligations at the Transfer Date	56
+Superannuation arrangements	56
+Definitions	57
+
+
+Parties
+[Insert name of the Transferor] [Insert ACN and ABN] of [insert address]  (Transferor)
+[Insert name of the Transferee] [Insert ACN and ABN] of [insert address] (Transferee)
+[Amendments will be necessary if not all policies are being transferred and/or if there is more than one Receiving Fund]
+Background
+A Each Party is a private health insurer under the Private Health Insurance Act 2007 (the Act).
+B The Transferor wishes to transfer all of the policies that are referable to the Transferring Fund to the Receiving Fund (conducted by the Transferee)
+C The Transferee wishes to accept the transfer of the policies that are referable to the Transferring Fund so that those policies become referrable to the Receiving Fund.
+D Under the Act, the arrangement for the transfer of the Policies and other assets and liabilities requires the approval of the Private Health Insurance Administration Council (PHIAC).
+E This Deed of Arrangement sets out the terms of the arrangement under which the Policies and other assets and liabilities of the Transferor, will be transferred to the Receiving Fund, and particulars of other matters necessary to give effect to the arrangement.
+F The arrangement has effect on the Transfer Date, but only if:
+(a) the Parties have applied jointly to PHIAC in the approved form, for approval of the arrangement;
+(b) PHIAC has approved the arrangement in writing; and
+(c) the Parties have complied with the requirements of the Private Health Insurance (Health Benefits Fund Administration) Rules 2007 as in force at the date of this Deed.
+
+
+
+Operative provisions
+2 Interpretation
+2.1 The following definitions apply in this Deed:
+Act means the Private Health Insurance Act 2007 as in force from time to time.
+Administrator includes a manager, as defined in the Act.
+Arrangement means the arrangement, as referred to in section 146-5 of the Act for the transfer on the Transfer Date to the Receiving Fund of:
+(a) all of the health insurance policies which immediately before the Transfer Date are referable to the Transferor Fund; and
+(b) other assets and liabilities of the Transferor to be transferred to the Transferee,
+as contemplated in clause 8 of this Deed.
+Assets means all interest, right and title of the Transferor to the following:
+(a) Plant and Equipment;
+(b) Intellectual Property;
+(c) Property Leases;
+(d) Contracts;
+(e) Business Records;
+(f) Goodwill;
+(g) Bank Accounts; and
+(h) Other Assets.
+However, none of the Excluded Assets is an Asset.
+Assumed Liabilities means the items listed in Schedule 2.
+Bank Account means the bank account maintained by the Transferor in respect of the Transferring Fund as required by section 137-1(2) of the Act and, if the insurer has any other back account holding moneys in respect of the Transferring Fund, includes that bank account.  The bank accounts are listed in paragraph 7 in Schedule 1 and include all moneys standing to the credit of the account holder in those accounts.
+Business means the health insurance business and health-related business, if any, operated through the Transferring Fund, and includes assets and liabilities in respect of such businesses.
+Business Records means, to the extent that they relate to the Business, each of the items listed in paragraph 5 of Schedule 1.
+Claim means any claim, notice, demand, action, proceeding, litigation, investigation or judgment whether based in contract, tort, or under statute or otherwise.
+Contracts means the contracts listed in paragraph 4 of Schedule 1
+Controller means, in relation to a person's property or to a health benefits fund conducted by a person:
+(a) an administrator or administrator and manager of that property;
+(b) anyone else who (whether or not as agent for the person) is in possession, or has control, of that property to enforce an encumbrance.
+Corporations Act means the Corporations Act 2001 (Cth).
+Excluded Assets means the items listed in Schedule 3.
+Excluded Liabilities means all the Liabilities of the Transferor which are not listed in Schedule 2.
+Goodwill has the meaning given in paragraph 6 of Schedule 1.
+GST means the same as that term means in the GST Act.
+GST Act means the A New Tax System (Goods and Services Tax) Act 1999 (Cth).
+Insolvency Event in relation to a person means anything that reasonably indicates that there is a significant risk that that person, or a health benefits fund conducted by the person, is or will become unable to pay debts as they fall due.  This includes any of the following:
+(a) a meeting of the person's creditors being called or held;
+(b) a step being taken to make the person bankrupt;
+(c) an application is presented or an order is made for the sequestration of the person's estate;
+(d) a step being taken to wind the person up;
+(e) a step being taken to have a receiver, receiver and manager, administrator, liquidator or provisional liquidator appointed to the person or any of its assets or such an appointment taking place;
+(f) the person entering into any type of agreement, composition or arrangement with, or assignment for, the benefit of all or any of its creditors; and
+(g) the person ceases or threatens to cease to carry on its main business. 
+Intellectual Property Rights means all intellectual property rights used or owned by the Transferor in respect of the Business, including all and any patents, patent applications, trade marks, service marks, trade names, registered designs, unregistered design rights, copyrights, know how, trade secrets, domain names, internet addresses, rights in confidential information, and all and any other intellectual property rights, whether registered or unregistered, and including all applications and rights to apply for any of the same.
+Intellectual Property means the intellectual property rights listed in paragraph 2 of Schedule 1 and any other information and documentation required for the continued service of Policy Holders by the Transferee after transfer to the Transferee.
+Leasehold Properties means the leasehold properties listed in Schedule 4.
+Liabilities means all liabilities, losses, damages, outgoings, costs and expenses of whatever description.
+Other Assets means the other assets listed in paragraph 8 of Schedule 1.
+Party means the Transferee or the Transferor as the context requires.
+PHIAC Approval means the approval, in writing, of the Arrangement given by PHIAC under section 146-5 of the Act.
+Plant and Equipment means the plant, equipment, machinery, tools, furniture, fittings and motor vehicles used or owned by the Transferor in connection with the Business as at the Transfer Date [listed in paragraph 1 of Schedule 1] [including those listed in paragraph 1 of Schedule 1] (wherever situated).
+Policy Holder, in relation to the policies that are to be transferred under the Arrangement, has the same meaning as in the Act.
+Policies means all the health insurance policies in all policy groups, as defined in the Act, that are referable to the Transferring Fund.  [If not all policy groups are to be transferred, identify the policy groups.]
+Private Health Insurance Administration Council has the same meaning as in the Act.
+Property Leases means the property leases or licences listed in paragraph 3 of Schedule 1.
+Public Authority means any of the following:
+(a) any government in any jurisdiction whether national, federal, state, regional, territorial or local;
+(b) any minister, department, office, commission, delegate, instrumentality, agency, board, authority or organisation of any government or any State-owned enterprise; and
+(c) any regulatory body or trade union,
+and includes PHIAC.
+Receiving Fund means the Transferee's health benefits fund, as defined in section 131-10 of the Act, to which the Policies will become referable on the Transfer Date. 
+Security Interest includes a mortgage, debenture, charge, encumbrance, lien, pledge, assignment or deposit by way of security, bill of sale, lease, hypothecation, hire purchase, credit sale, agreement for sale on deferred terms, option, right of pre-emption, caveat, claim, covenant, interest or power in or over an interest in an asset and any agreement or commitment to give or create any such security interest or preferential ranking to a creditor including set off.
+Takeover Proposal for the Transferee means:
+(a) any proposal for a takeover bid, change of membership, share purchase, arrangement of arrangement, capital reconstruction, buy-back, merger, amalgamation, consolidation or other business combination involving the Transferee or any of its subsidiaries; or
+(b) any proposal which could result in a person having control of more than 20% of the voting power or board seats in the Transferee.
+Transfer Date means  [identify the date or the means of determining the date, on which the arrangement is to take effect, which must not be before PHIAC approves the arrangement in writing] and, for the avoidance of doubt, the Arrangement takes effect immediately on the expiration of the day before the transfer date specified in this definition.
+Transferee Material Adverse Change means an event or circumstance which (when taken alone or together with any other prevailing event or circumstance) constitute(s) an adverse change in the assets, financial or trading position of the Transferee of such significance that it is likely that the Transferee will become unable to comply with any of its other material obligations under this Deed.
+Transferee Material Adverse Occurrence means any of the following:
+(a) the Transferee ceases to be a registered private health insurer for the purposes of the Act;
+(b) the Transferee fails to comply with solvency standards or directions or capital adequacy standards or directions under the Act;
+(c) an Insolvency Event occurs in respect of the Transferee or its subsidiary; or
+(d) an external manager of the Transferee, or of a subsidiary of the Transferee, is appointed under the Act.
+Transferring Fund means the Transferor's health benefits fund, as defined in section 131-10 of the Act, to which the policies to be transferred under the Arrangement are referable.
+Rules for Interpreting this Deed
+2.2 In the interpretation of this Deed, the following provisions apply unless the context otherwise requires:
+2.2.1 unless otherwise indicated, if a word is defined in the Corporations Act, it has the same meaning in this Deed;
+2.2.2 unless otherwise indicated, if a word is defined in the Act, it has the same meaning in this Deed;
+2.2.3 where a word or phrase is defined, another part of speech or other grammatical form in respect of that word or phrase has a corresponding meaning;
+2.2.4 a word which denotes the singular denotes the plural, a word which denotes the plural denotes the singular, and a reference to any gender denotes the other genders;
+2.2.5 an expression importing a natural person includes any company, trust, partnership, joint venture, association, body corporate or Public Authority;
+2.2.6 a reference to any deed, agreement, or document is to that deed, agreement or document as amended, novated, supplemented, or replaced from time to time;
+2.2.7 a reference to dollars or $ means Australian dollars and all amounts payable under this Deed are payable in Australian dollars;
+2.2.8 references to the word 'include' or 'including' are to be construed without limitation;
+2.2.9 if an example is given of anything (including a right, obligation, or concept), the example does not limit the scope of that thing; and
+2.2.10 references to and expressions used in connection with financial calculations, valuations, accounting or financial reporting functions or their description in this Deed bear the respective meanings given to like expressions under GAAP in the place whose laws govern the construction of this Deed.
+References concerning this Deed
+2.3 In this Deed, unless the context otherwise requires:
+2.3.1 a reference to a clause, part, schedule or attachment is a reference to a clause, part, schedule or attachment of or to this Deed;
+2.3.2 the schedules and attachments form part of this Deed; and
+2.3.3 headings are inserted for convenience only and do not affect the interpretation of this Deed.
+References to legislation
+2.4 In this Deed, unless the context otherwise requires, a reference to any law or legislation or legislative provision includes any statutory modification, amendment or re-enactment, and any subordinate legislation or regulations issued under that legislation or legislative provision, in either case whether before, on or after the date of this Deed.
+3 Transfer
+3.1 Subject to this Deed, the Parties acknowledge and covenant that the Transferor will transfer to the Transferee the Policies, Assets and Assumed Liabilities on the Transfer Date in accordance with clause 8.
+3.2 Title to, property in and risk of the Assets to be transferred in accordance with clause 8, remain with the Transferor until the Transfer Date and pass to the Transferee on transfer from the Transfer Date.
+4 PHIAC Approval
+4.1 The obligations of the Parties under clause 8 are subject to and conditional upon obtaining PHIAC Approval and the Parties acknowledge that the Arrangement has no force or effect until PHIAC Approval is obtained. 
+4.2 The Parties must use their best endeavours, cooperate in good faith and provide all reasonable assistance to each other to obtain PHIAC Approval.
+4.3 If PHIAC Approval is not obtained by [insert date] or such later date as agreed in writing by the Parties, then a Party may, by written notice to the other Party, terminate this Deed.
+4.4 Subject to clause 4.5, from the date of the notice referred to in clause 4.3:
+4.4.1 each Party is relieved of any further obligation under this Deed; and
+4.4.2 all money (if any) received by or on behalf of a Party before that date must be refunded in full.
+4.5 This termination does not affect accrued rights arising from any breach of this Deed occurring before the termination.
+5 Conduct of Business before the Transfer Date
+Transferor must continue the Business
+5.1 The Transferor must from the date of this Deed until the Transfer Date continue to operate the Business  as a going concern and in the ordinary and normal course, having regard to the nature of the Business and the Transferor's previous practice, in order to preserve the value of the Business and to maintain the Transferor's trading and financial position.
+Transferor must not do various things
+5.2 Without limiting clause 5.1, the Transferor must not, from the date of this Deed until the Transfer Date, do any of the following in respect of the Business without the prior written consent of the Transferee, which consent must not be unreasonably withheld or delayed:
+5.2.1 enter into, vary or terminate any contract, except in the ordinary course of business;
+5.2.2 enter into any unusual contract or commitment;
+5.2.3 enter into any joint venture, partnership or similar arrangement;
+5.2.4 incur an expenditure or incur any liability in excess of $100,000;
+5.2.5 grant a Security Interest over any of the Assets;
+5.2.6 initiate any procedure for its winding up; or
+5.2.7 pay or commit to pay, any director or officer of the Transferor a benefit within the meaning of section 9 of the Corporations Act in connection with that person's loss of office or employment or resignation from office or employment.
+Transferee must continue its health insurance business
+5.3 The Transferee must from the date of this Deed until the Transfer Date continue to operate its health insurance business as a going concern and in the ordinary and normal course, having regard to the nature of the business and the Transferee's previous practice, in order to preserve the value of the business, and assets and to maintain the Transferor's trading and financial position.
+Transferee Insurer must not do various things 
+5.4 Without limiting clause 5.3, the Transferee must not, from the date of this Deed until the Transfer Date, do any of the following in respect of its health insurance business without the prior written consent of the Transferor, which consent must not be unreasonably withheld or delayed:
+5.4.1 enter into, vary or terminate any contract, except in the ordinary course of business;
+5.4.2 enter into any unusual contract or commitment;
+5.4.3 enter into any joint venture, partnership or similar arrangement;
+5.4.4 incur an expenditure or incur any liability in excess of $100,000;
+5.4.5 grant a Security Interest over any of its assets;
+5.4.6 initiate any procedure for its winding up; or
+5.4.7 pay or commit to pay, any director or officer of the Transferee a benefit, within the meaning of section 9 of the Corporations Act in connection with that person's loss of office or employment or resignation from office or employment.
+6 Access to records etc
+6.1 The Transferor must give the Transferee and its representatives and agents reasonable access to all Business Records and documents relating to the Business, the Assets and the Assumed Liabilities, and provide any additional information in connection with the Business, any Asset and the Assumed Liabilities that the Transferee may require to act as insurer for the transferred Policies.
+7 Transferee covenants regarding Policy Holders
+7.1 The Transferee covenants that:
+7.1.1 it will accept each Policy on the Transfer Date;
+7.1.2 it will continue to meet the requirements of the capital adequacy standard and solvency standard after the Arrangement takes effect;
+7.1.3 premiums payable by and benefits offered to each Policy Holder will remain unchanged until the date of the next allowed premium increase, being [insert date], unless such change is requested earlier by PHIAC and is approved under the Act;
+7.1.4 after [insert date], and without limiting its capacity to seek an increase in the pricing of benefits presently offered by the Transferor, it will offer each Policy Holder, a Policy or Policies on terms no less favourable than those offered by the Transferor;
+7.1.5 each transferred Policy will be deemed to be a transfer as referred to in Division 75 (waiting period requirements) and Division78 (portability requirements) of the Act;
+7.1.6 it will maintain, for a minimum period of [12] months from the Transfer Date, the service outlets and Policy Holders' webpage maintained by the Transferor as at the Transfer Date; and
+7.1.7 [Either]
+it will accept transfer of the Transferor's information technology and fund database to the Transferee's information technology and fund database such that the services to the Policy Holders are not adversely affected;
+ [Or]
+[state what arrangements will be in place to ensure the seamless transfer for the Policy Holders.] 
+8 The Arrangement
+Obligations before the PHIAC Approval Date
+8.1 Before the PHIAC Approval Date, the Transferor must:
+8.1.1 if the consent of a third party is required for the assignment or novation of a Contract, use its best endeavours to obtain that consent; 
+8.1.2 if the consent of a landlord is required for the assignment or novation of a Property Lease, use its best endeavours to obtain that consent;
+8.1.3 obtain the consent of the relevant bank to the transfer of the Bank Accounts;
+8.1.4 [Either]
+Before the PHIAC Approval Date, the Transferee must make offers to the Transferor Employees as contemplated in [Schedule 5 - if employees are to be transferred, Schedule 5 will need to be removed into this Deed].
+[Or]
+[State what arrangements will be in place in respect of any employees and liabilities to them]. 
+Obligations on the Transfer Date
+8.2 On the Transfer Date:
+Policy Holders
+8.2.1 the Policy Holders will become Policy Holders of the Transferee as contemplated in clause 7 and the Transferee will comply with the covenants set out in clause 7;
+8.2.2 the Transferor will be liable for all Liabilities of the Transferor to Policy Holders;
+Assets and Liabilities
+8.2.3 the Assets and Assumed Liabilities are transferred to the Transferee free from all Security Interests and the title to, property in and risk of the Policies, Assets and Assumed Liabilities pass to the Transferee, and the Transferor must:
+(a) let the Transferee into the occupation of the Leasehold Properties;
+(b) deliver to the Transferee all certificates of title, registration certificates and other documents or instruments evidencing the ownership and use of the Assets;
+(c) deliver to the Transferee duly executed assignments or novations of the Contracts and evidence of the written consent of the third party to the assignment or novations of the Contracts;
+(d) deliver to the Transferee duly executed assignments or novations of the Property Leases and evidence of the written consent of the landlord to the assignment or novations of the Property Leases;
+(e) deliver to the Transferee duly executed assignments of or change of ownership forms reasonably required to transfer the Intellectual Property to the Transferee;
+(f) deliver to the Transferee a notice of cancellation of all signatories in respect of each Bank Account addressed to the relevant bank and a notice of consent to the appointment of the Transferee's nominees as signatories;
+(g) deliver to the Transferee an irrevocable written direction addressed to the relevant bank to act on and from the Transfer Date only on the directions of the signatories of the Bank Accounts;
+(h) deliver to the Transferee all notices, executed transfers in registrable form, certificates and other instruments or documents as may be required under any applicable law in connection with the transfer of the Assets and Assumed Liabilities required to transfer title to the Transferee; 
+(i) deliver to the Transferee the Business Records (except any records that the Transferor is required by law to retain, in which case the Transferor may deliver copies to the Transferee);
+8.2.4 the Transferee will be liable for the Assumed Liabilities; 
+8.2.5 the Transferee becomes entitled to the rights, benefits and income of the Business and the Transferor ceases to be entitled to the rights, benefits and income of the Business; and
+[Where employees are to be employed by the Transferee] 
+Transferring Employees
+8.2.6 the Transferee will be liable for the Transferor's liability for the Transferring Employee Entitlements [see Schedule 5].
+Excluded Assets and Excluded Liabilities
+8.3 In spite of any provision of this Deed, the Excluded Assets will remain the Transferor's property and the Excluded Liabilities will remain the Transferor's liability.
+9 Contracts
+9.1 The Transferor indemnifies and must keep the Transferee indemnified against all Liabilities in respect of any act or omission on the part of the Transferor in relation to the Contracts before the Transfer Date, and the Transferee indemnifies the Transferor against all Liabilities in respect of any act or omission on the part of the Transferee in relation to the Contracts on or after the Transfer Date.
+9.2 For a period of [insert] years after the Transfer Date, the Transferor must ensure that it has sufficient cash and Assets, and appropriate insurance, to comply with its obligations under clause 9.1.
+10 Property Leases
+10.1 The Transferor indemnifies and must keep the Transferee indemnified against all Liabilities in respect of any act or omission on the part of the Transferor in relation to the Property Leases before the Transfer Date and the Transferee indemnifies the Transferor against all Liabilities in respect of any act or omission on the part of the Transferee in relation to the Property Leases on or after the Transfer Date.
+10.2 For a period of [insert] years after the Transfer Date, the Transferor must ensure that it has sufficient cash and assets, and appropriate insurance, to satisfy its obligations under clause 10.1.
+
+11 Bank Accounts
+11.1 The Transferor indemnifies and must keep the Transferee indemnified against all Liabilities in respect of any act or omission on the part of the Transferor Insurer in relation to the Bank Accounts including overdrafts before the Transfer Date, and the Transferee indemnifies the Transferor against all Liabilities in respect of any act or omission on the part of the Transferee in relation to the Bank Accounts on or after the Transfer Date.
+11.2 For a period of [insert] years after the Transfer Date, the Transferor must ensure that it has sufficient cash and assets, and appropriate insurance, to satisfy its obligations under clause 11.1.
+11.3 From the Transfer Date, the Bank Accounts will be held solely by or for the benefit of the Transferee and form assets of the Receiving Fund, and the Transferee will have control and the exclusive right to withdraw moneys from the Bank Accounts.
+12 Holding on trust
+12.1 In relation to the Assets being transferred under this Deed, to the extent the Transferor is unable to procure a third-party consent for an assignment, novation or other transfer, or is otherwise unable to perform its obligations under clause 8.2, until such third-party consent for an assignment, novation or other transfer is procured or the Transferor otherwise performs its obligations under clause 8.2:
+12.1.1 the Transferor will hold those Assets on trust for the Transferee;
+12.1.2 the Transferor must, at the Transferee's expense (including the Transferor's internal costs and any legal fees), enforce or exercise any rights relating to those Assets against any third party in the manner that the Transferee reasonably directs;
+12.1.3 the Transferor must, if the Transferee cannot lawfully perform an obligation or exercise a right of the Transferor in relation to those Assets, at the request and expense of the Transferee, perform that obligation or exercise that right;
+12.1.4 the Transferor must pay all benefits arising from those Assets to the Transferee;
+12.1.5 the Transferee must duly perform any obligations in relation to those Assets on behalf of the Transferor at its own expense.
+13 Other obligations after the Transfer Date
+Retention of Business Records
+13.1 The Transferee must, and must procure that any subsequent transferee of the Transferee will, retain possession of all Business Records for a period of 7 years following the Transfer Date.
+Access to Business Records by Transferor
+13.2 For a period of 7 years from the Transfer Date the Transferee must after reasonable notice from the Transferor, allow the Transferor, its representatives and its directors or former directors, during normal business hours to inspect and take copies of the Business Records, to the extent that they relate to the period before the Transfer Date.  The Transferee must ensure that any subsequent transferee has the same obligations improved upon it to allow the parties specified in this clause to inspect and copy the Business Records.
+Correspondence and enquiries
+13.3 From the Transfer Date the Transferor must forward or redirect all deliveries, mail, faxes, telephone calls, email messages, inquiries and other correspondence received by it that relate to the Business after transfer to the Transferee.
+14 Indemnities
+14.1 The Transferee indemnifies the Transferor on a full indemnity basis against any Claims or Liabilities incurred by that Party because of:
+14.1.1 a breach by the Transferee of its obligations under this Deed or in respect of the transactions contemplated by this Deed; or
+14.1.2 any failure to satisfy a liability of the Transferor transferred or assumed by this Deed, and any Claims made which are allegedly based on a transferred Liability with the obligation to indemnify being conditional on the Transferor responding to the Claim in such manner as the Transferee may reasonably require, including, without limitation, allowing the Transferee at its own expense to settle the Claim, take over any litigation to defend the Claim, or both.
+14.2 The Transferor indemnifies the Transferee on a full indemnity basis against any Claims or Liabilities incurred by that Party because of a breach by the Transferor of its obligations under this Deed or in respect of the transactions contemplated by this Deed.
+14.3 For a period of [insert] years after the Transfer Date, the Transferor must ensure that it has sufficient cash and assets, and appropriate insurance, to satisfy its obligations under clause 14.2.
+15 Termination
+15.1 A Party may terminate this Deed by giving notice in writing to the other Party:
+15.1.1 if, before the Transfer Date, the other Party is in material breach of this Deed; or
+15.1.2 if before the Transfer Date, any representation and warranty given to a party under clause 16 is established to be false; or
+15.1.3 in accordance with clause 4.3.
+15.2 Subject to clause 15.3, from the date of the notice referred to in clause 15.1, each Party is relieved of any further obligation under this Deed.
+15.3 This termination does not affect accrued rights arising from any breach of this Deed occurring before the termination.
+16 Representations and Warranties
+Representations and Warranties
+16.1 Each Party represents and warrants to the other Party that:
+16.1.1 it has full corporate power and authority to enter into and give effect to this Deed and to complete the transactions contemplated by it;
+16.1.2 no Controller is currently appointed in relation to any of its property; 
+16.1.3 the Australian Competition and Consumer Commission has not indicated in writing that it considers that the Arrangement contravenes or may contravene section 50 of the Trade Practices Act 1974 (Cth) or that it intends to take any action to intervene in or oppose the Arrangement; and
+16.1.4 all information concerning it which it or any of its representatives has furnished to the other Party is true and correct and is not misleading or deceptive, and that it has not withheld from the other Party any information concerning it which might reasonably be supposed to be material to the other Party in considering the Arrangement.
+16.2 The Transferee represents and warrants:
+16.2.1 no Transferee Material Adverse Occurrence has occurred;
+16.2.2 no Transferee Material Adverse Change has occurred; and
+16.2.3 no Takeover Proposal for the Transferee is made or announced.
+16.3 The Transferor represents and warrants that:
+16.3.1 the details relating to the Transferor, Business, Assets and Liabilities set out in Schedules are complete and accurate in every material respect;
+16.3.2 it does not own any of the Assets as trustee of any trust;
+16.3.3 none of the Assets is subject to any Security Interest;
+16.3.4 it has complied with the requirements of any applicable law, regulation or Public Authority in all material respects;
+16.3.5 it is not engaged in any litigation, arbitration or other dispute resolution proceedings, and there are no proceedings pending, threatened by or against it;
+16.3.6 there is no unsatisfied judgment, order, arbitration award or decision of any court, tribunal or arbitrator against it;
+16.3.7 its accounts have been prepared in accordance with GAAP, the Corporations Act and other applicable legal requirements and give a true and fair view of the state of affairs of the Business as at [insert date];
+16.3.8 all accounts, books, ledgers, and other financial records of the Transferor have been properly maintained and contain accurate records of all matters required to be entered in them by law;
+16.3.9 all of the Contracts are valid, subsisting, legal and binding obligations in accordance with their terms;
+16.3.10 none of its activities (or the activities of any licensee under any licence granted by it) in respect of the Business infringe or are likely to infringe any Intellectual Property Rights of any third party and no Claim has been made against the Transferor or any such licensee in respect of such infringement;
+16.3.11 it has complied with the requirements of all applicable privacy laws and contractual requirements regulating the collection, storage, use and disclosure of personal information (as that term is defined in the applicable privacy laws);
+16.3.12 all personal information (as that term is defined in the applicable privacy laws) held by or under the control of the Transferor is able to be used by the Transferee and that such use is within the primary and secondary purposes disclosed at the time of its collection in accordance with the privacy principles under the applicable privacy laws; and
+16.3.13 it has advised the Transferee of all:
+(a) investigations and determinations by a Commonwealth, State or Territory Privacy Commissioner, approved Privacy Code Adjudicator or other public privacy authority concerning the Business; and
+(b) unresolved complaints or disputes concerning the collection, storage, use or disclosure of personal information by the Business.
+Reliance
+16.4 Each of the warranties in clause 16 are separate and independent and except as expressly provided to the contrary in this Deed, is not limited by reference to any other warranty.
+16.5 Each of the representations and warranties in clause 16 will be deemed to be repeated on the PHIAC Approval Date and the Transfer Date.
+16.6 Each Party acknowledges that the other Party has executed this Deed and agreed to take part in the transactions that it contemplates in reliance on the representations and warranties that are made in this clause.
+17 Costs and stamp duty
+Stamp Duty
+17.1 If stamp duty is payable on this Deed, or any instrument or transaction contemplated in or necessary to give effect to this Deed, the Transferor will bear the cost of and be responsible for that stamp duty.
+Other Costs
+17.2 [Either]: 
+Except as otherwise set out in this Deed, each Party must pay its own costs and expenses in relation to preparing, negotiating, executing and completing this Deed and any other document related to this Deed.
+[Or]
+If the Parties are related bodies corporate, then the Transferor must reimburse the Transferee on a full indemnity basis for all reasonable costs and expenses (including legal costs on a solicitor-client basis) the Transferee incurs in relation to preparing, negotiating, executing and completing this Deed and any other document related to this Deed.  The Transferor must pay these costs and expenses immediately upon receiving a written request to do so.
+18 GST
+Supply of a going concern
+18.1 The Parties agree that this Deed provides for the supply of a going concern for the purposes of the GST Act, and the Transferor must carry on the Business as a going concern until the Transfer Date.
+18.2 The Transferee warrants to the Transferor that it is registered or is required to be registered under the GST Act. 
+Responsibility for GST
+18.3 To the extent that there is consideration to be paid or provided under this Deed and such consideration is not expressed to be GST inclusive, a Party must also pay the GST payable on a taxable supply made to it.
+Claims and Indemnities
+18.4 If a payment to satisfy a Claim or a right to Claim under or in connection with this Deed gives rise to a liability to pay GST, the payer must pay, and indemnify the payee against the amount of that GST.
+18.5 If a Party has a Claim under or in connection with this Deed for a cost on which that Party must pay GST, the Claim is for the cost plus all GST (except any GST for which that Party is entitled to an input tax credit).
+18.6 If a Party has a Claim under or in connection with this Deed whose amount depends on actual or estimated revenue or which is for a loss of revenue, revenue must be calculated without including any amount received or receivable as reimbursement for GST (whether that amount is separate or included as part of a larger amount).
+19 Notices
+Giving notices
+19.1 Any notice or communication given to a Party under this Deed is only given if it is in writing and sent in one of the following ways:
+19.1.1 delivered or posted to that Party at its address and marked for the attention of the relevant department or officer (if any) set out below;
+19.1.2 faxed to that Party at its fax number and marked for the attention of the relevant department or officer (if any) set out below.
+Transferor
+Name:[Name]Address:[Postal address]Fax number:[Fax number]Attention:[Name]Transferee
+Name:[Name]Address:[Postal address]Fax number:[Fax number]Attention:[Name]Change of address or fax number
+19.2 If a Party gives the other Party three business days' notice of a change of its address or fax number, any notice or communication is only given by that other Party if it is delivered, posted or faxed to the latest address or fax number.
+Time notice is given
+19.3 Any notice or communication is to be treated as given at the following time:
+19.3.1 if it is delivered, when it is left at the relevant address;
+19.3.2 if it is sent by post, two (or, in the case of a notice or communication posted to another country, nine) business days after it is posted;
+19.3.3 if it is sent by fax, as soon as the sender receives from the sender's fax machine a report of an error free transmission to the correct fax number.
+19.4 However, if any notice or communication is given, on a day that is not a business day or after 5pm on a business day, in the place of the Party to whom it is sent it is to be treated as having been given at the beginning of the next business day. 
+Giving notices by email
+19.5 Any notice or communication given to a Party under this Deed may be made by electronic mail or other electronic means if, prior to any notice or communication being given, the parties have done the following:
+19.5.1 agreed that electronic communication is to be an acceptable form of communication; and
+19.5.2 notified each other of their respective electronic mail addresses and any other information required to enable the sending and receipt of information by electronic means.
+19.6 Any electronic communication is to be treated as given when received in readable form addressed in the manner specified in clause 19.5.2, or as notified under clause 19.7.
+19.7 Each Party must promptly notify the other Party of any change to their electronic mail address or any other such information supplied by them.
+20 General
+Operation of Indemnities
+20.1 Each indemnity in this Deed survives the expiry or termination of this Deed.
+20.2 A Party may recover a payment under an indemnity in this Deed before it makes the payment.
+Consents
+20.3 Where this Deed contemplates that a Party may agree or consent to something (however it is described), the Party may:
+20.3.1 agree or consent, or not agree or consent, in its absolute discretion;  and
+20.3.2 agree or consent subject to conditions, 
+unless this Deed expressly contemplates otherwise.
+No Merger of clauses
+20.4 Clauses 2, 17, 18, 19 and 20 of this Deed do not merge on the Arrangement being affected.
+Inconsistency with other documents
+20.5 If this Deed is inconsistent with any other deed or agreement between the Parties, this Deed prevails to the extent of the inconsistency.
+Attorneys
+20.6 Each person who executes this Deed on behalf of a Party under a power of attorney declares that he or she is not aware of any fact or circumstance that might affect his or her authority to do so under that power of attorney.
+Entire agreement
+20.7 This Deed contains everything the Parties have agreed on in relation to the matters it deals with.  No Party can rely on an earlier document, or anything said or done by another party, or by a director, officer, agent or employee of that party, before this Deed was executed, save as permitted by law.
+Counterparts
+20.8 This Deed may be executed in counterparts.
+Exercise of rights
+20.9 A Party may exercise a right, power or remedy at its discretion, and separately or concurrently with another right, power or remedy.
+20.10 A single or partial exercise of a right, power or remedy by a Party does not prevent a further exercise of that or of any other right, power or remedy and failure by a Party to exercise, or delay by a Party in exercising, a right, power or remedy does not prevent its exercise.
+20.11 Except where expressly stated to the contrary in this Deed, the rights of a Party under this Deed are cumulative and are in addition to any other rights available to that Party whether those rights are provided for under this Deed or by law.
+Further acts
+20.12 Each Party must promptly execute all documents and do or use reasonable endeavours to cause a third party to do all things that another party from time to time may reasonably request in order to give effect to, perfect or complete this Deed and all transactions incidental to it.
+Governing law and jurisdiction
+20.13 This Deed is governed by the law of [insert].  The Parties submit to the non-exclusive jurisdiction of its courts and courts of appeal from them.  The Parties will not object to the exercise of jurisdiction by those courts on any basis.
+Severability
+20.14 Each provision of this Deed is individually severable.  If any provision is or becomes illegal, unenforceable or invalid in any jurisdiction, it is to be treated as being severed from this Deed in the relevant jurisdiction, but the rest of this Deed will not be affected.  The legality, validity and enforceability of the provision in any other jurisdiction will not be affected.
+Variation
+20.15 Before the PHIAC Approval Date:
+20.15.1 any variation of this Deed proposed by either Party will only be of any force or effect if it is in writing and signed by each Party to this Deed; and
+20.15.2 any variation of this Deed proposed by PHIAC must be considered by the Parties in good faith.
+20.16 After the PHIAC Approval Date this Deed can be varied only with the prior written approval of PHIAC.
+20.17 The Parties must provide a copy of the variation of this Deed to PHIAC on the date the variation of this Deed is signed by both Parties.
+Waiver
+20.18 A waiver of any right, power or remedy under this Deed must be in writing signed by the Party granting it.  A waiver is only effective in relation to the particular obligation or breach in respect of which it is given.  It is not to be taken as an implied waiver of any other obligation or breach or as an implied waiver of that obligation or breach in relation to any other occasion.
+Joint and several
+20.19 A reference to any party to this Deed, where that party is made up of more than one person, includes each of them severally.
+20.20 Except as otherwise set out in this Deed, any agreement, covenant, representation or warranty under this Deed by two or more persons binds them jointly and each of them individually, and any benefit in favour of two or more persons is for the benefit of them jointly and each of them individually. 
+References to and calculations of time
+20.21 In this Deed, unless the context otherwise requires:
+20.21.1 a reference to a time of day means that time of day in the place whose laws govern the construction of this Deed;
+20.21.2 where a period of time is specified and dates from a given day or the day of an act or event it must be calculated exclusive of that day; and
+20.21.3 if the day on or by which a person must do something under this Deed is not a business day:
+(a) if the act involves a payment that is due on demand, the person must do it on or by the next business day; or
+(b) in any other case, the person must do it on or by the previous business day.
+Business day
+20.22 In this Deed, unless the context otherwise requires, a reference to a business day means a day other than a Saturday or Sunday or public holiday in the place whose laws govern the construction of this Deed.
+Schedule 1
+Assets
+
+1 Plant and Equipment
+1.1 [Insert]
+1.2 [Insert]
+
+2 Intellectual Property
+2.1 [Insert]
+2.2 [Insert]
+
+3 Property Leases
+3.1 [Insert]
+3.2 [Insert]
+
+4 Contracts
+4.1 [Insert]
+4.2 [Insert]
+
+5 Business Records 
+5.1 Records of the Assets.
+5.2 Records relating to the Policy Holders .
+5.3 Records of the Assumed Liabilities.
+6 Goodwill, being the goodwill of the Transferor at the Transfer Date relating to the Business and includes the exclusive right of the Transferee to carry on the Business as the successor of the Transferor.
+
+7 Bank Accounts 
+7.1 [Note: include the account name, bank name, BSB and account number]
+7.2 [Insert]
+
+8 Other Assets
+8.1 All the rights of the Transferor in respect of the Policy Holders.
+8.2 All the rights of the Transferor in relation to the receipt of premiums from the Policy Holders, including premiums in arrears.
+8.3 All the rights of the Transferor to receive the cash proceeds of the sale of any investments held by the Transferor in connection with the Transferring Fund to the extent that such cash proceeds have not been received by the Transferor before the Transfer Date.
+8.4 All the rights of the Transferor in respect of any government rebates receivable by the Transferor in respect of the provision of private health insurance.
+8.5 [Insert]
+[Note:  this Schedule should be amended as applicable]
+Schedule 2
+Assumed Liabilities
+1 All the 'policy liabilities', as defined in the Act, in respect of the Policy Holders.
+2 All the Liabilities of the Transferor in relation to premiums paid in advance by Policy Holders for a period commencing on or after the Transfer Date.
+3 [Insert]
+
+[Note:  this Schedule should be amended as applicable]
+Schedule 3
+Excluded Assets
+1 [Insert]
+
+2 [Insert]
+[Note:  this Schedule should be amended as applicable]
+Schedule 4
+Leasehold Properties
+1  [Insert]
+
+2 [Insert]
+
+[Note:  this Schedule should be amended as applicable]
+Schedule 5
+Transferring Employees
+1 The Transferee will be liable for the Transferor's liability for the Transferring Employee Entitlements.
+Offer of employment
+2 The Transferee must offer each of the Transferor Employees employment with the Transferee as follows:
+2.1 the offer must be conditional on the employee being employed by the Transferor on the Transfer Date and on PHIAC Approval being obtained;
+2.2 the employment offered must commence from the Transfer Date;
+2.3 the offer must be on terms no less favourable to the employee than the terms on which the employee was employed by the Transferor immediately before the Transfer Date;
+2.4 the offer of employment must be in a form approved by PHIAC and the Transferor;
+2.5 the Transferee must make the offer within [insert number] business days after the date of this Deed so that Transferor Employees are afforded a reasonable opportunity to consider the offer of employment; and
+2.6 the Transferor and the Transferee must do their best to procure the acceptance by the Transferor Employees of the Transferee's offer of employment before the Transfer Date. 
+Release of Transferring Employees and Entitlements of Transferring Employees
+3 On the Transfer Date, the Transferor must:
+3.1 release each Transferring Employee from employment with the Transferee; and
+3.1.1 pay to each Transferring Employee all wages, salary, remuneration, superannuation contributions, compensation and benefits (other than annual leave and leave loading, accumulated sick leave or long service leave) due to or accrued by them before the Transfer Date;
+3.1.2 give the Transferee a written statement detailing all accrued entitlements as at the Transfer Date of each Transferring Employee to annual leave and leave loading, accumulated sick leave or long service leave together with a certificate from each Transferring Employee certifying that they agree with these written details (Transferring Employee Entitlements).
+The Transferee responsible for Transferring Employees
+4 From the Transfer Date the Transferee will be liable for and must when due pay to all Transferring Employees the following:
+4.1 Transferring Employee Entitlements; and
+4.2 all wages, salary, remuneration, superannuation contributions, compensation and benefits payable, annual leave and leave loading, accumulated sick leave, long service leave, redundancy or termination payments and all other employee entitlements of any nature accruing from the Transfer Date.
+The Transferee to indemnify the Transferor in respect of Transferring Employees
+5 The Transferee must indemnify the Transferor against any Claims by any Transferring Employee, or any liability that the Transferor may have to any Transferring Employee or a Public Authority, in respect of the entitlements which the Transferee has assumed responsibility for under clause 4 of this Schedule. 
+The Transferor to indemnify the Transferee in respect of Transferring Employees
+6 The Transferor must indemnify the Transferee against any Claims by any Transferring Employee in respect of any entitlement of a Transferring Employee which arose or accrued prior to the Transfer Date, other than those entitlements expressly assumed by the Transferee under this schedule.
+7 The Transferor will remain liable for any employee who is not named among the Transferring Employees.
+8 For a period of [insert] years after the Transfer Date, the Transferor must ensure that it has sufficient cash and Assets, and appropriate insurance, to comply with its obligations under clauses 6 and 7 of this schedule.
+Continuity 
+9 In calculating any benefit arising under any statute, award or contract of employment between the Transferee and each Transferring Employee, the period of service which a Transferring Employee has had with the Transferor before the Transfer Date is deemed to be service with the Transferee.  The continuity of the prior service is deemed not broken as a result of the Transferring Employee ceasing to be an employee of the Transferor and becoming an employee of the Transferee pursuant to an offer of employment made under this schedule.
+Superannuation 
+The Transferor's Obligations at the Transfer Date
+10 The Transferor must:
+10.1 pay to the relevant superannuation fund(s) on the Transfer Date an amount equal to any unpaid Superannuation Commitment of the Transferor in respect of the Transferring Employees (except for any amount payable to the Commissioner of Taxation under clause 10.2 below); and
+10.2 pay to the Commissioner of Taxation on or before the Transfer Date any amount which represents the liability of the Transferor immediately before the Transfer Date to the Commissioner under the SGA Act in relation to the Transferring Employees (except to the extent that amount represents penalties).
+Superannuation arrangements
+10.3 With effect from Transfer Date the Transferee must put in place superannuation arrangements which are no less favourable to Transferring Employees than those offered to Transferring Employees by the Transferor immediately before the Transfer Date.
+Transferor Employees
+11  [insert names of employees]
+Definitions
+12 The following definitions apply in this Schedule:
+Transferor Employees means the Transferor's employees named in Schedule 5.
+Transferring Employees means the employees of the Transferor who accept offers of employment from the Transferee pursuant to clause 8.1.4 of this Deed.
+Transferring Employee Entitlements is as defined in clause 3.1.2of this schedule.
+SGA Act means the Superannuation Guarantee (Administration) Act 1992 (Cth).
+Superannuation Commitment means every amount:
+(a) needed to satisfy any actual or contingent liability (including under the governing rules of a superannuation fund, a contract of employment, an industrial instrument such as an award or agreement, or any law) for any superannuation contribution; or
+(b) needed so that, on the date concerned, the employer is free of actual and contingent liability (making the assumption that the superannuation guarantee charge accrues from day to day during each contribution period) for the superannuation guarantee charge under the SGA Act for any contribution period under the SGA Act (or part period) up to that date.
+
+Execution and date 
+EXECUTED as a deed.    
+
+Date:	[insert date] 
+
+[NOTE:  Insert appropriate signature clauses for the Parties]
+
+
+1
+
+
+
+
+116856238									1
+
+
+DRAFT V.1 4 February 2008
+Private Health Insurance Administration Council
+Example Deed of Arrangement for 
+section 146-5 of the Private Health Insurance Act 2007
+
+
+116856238									1
+
+DRAFT V.1 4 February 2008
+Private Health Insurance Administration Council
+Example Deed of Arrangement for 
+section 146-5 of the Private Health Insurance Act 2007
+
+
+
+DRAFT V.1 4 February 2008
+Private Health Insurance Administration Council
+Example Deed of Arrangement for 
+section 146-5 of the Private Health Insurance Act 2007
+
+

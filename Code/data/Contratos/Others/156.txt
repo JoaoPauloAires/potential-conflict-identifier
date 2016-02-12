@@ -1,0 +1,219 @@
+Standard charter terms and conditions
+1. 
+1. Definitions
+Agreement means the charter agreement entered into by Toll and the Customer for the provision of Services by Toll to the Customer, including the Terms and the Schedule.
+Aircraft means the Aircraft described in the Schedule provided by an Aircraft Operator or Toll and any other aircraft replacing the same under the Terms.
+Aircraft Operator means any person who at any time owns or operates the Aircraft and provides the Aircraft to Toll or any contractor of Toll. 
+Aircrew means the flight crew provided with the Aircraft.
+Arrival Point means the arrival point for a Flight identified in the Flight Schedule.
+ Aviation Authority means the Civil Aviation Safety Authority of Australia established under the Civil Aviation Act 1988 (Cth), Airservices Australia established under the Air Services Act 1995 (Cth) and each other Government Agency (whether in replacement of the Civil Aviation Authority, Airservices Australia or not) which is vested under Australian law with the control and supervision of, or which has jurisdiction over, the registration, navigation, airworthiness, or operation of, or other matters relating to, the Aircraft and any Government Agency responsible for the regulation and control of civil aviation under whose jurisdiction the Aircraft is subject.
+ Block Hour means each hour or part of an hour (with fractions measured in tenths of an hour) elapsing from the moment that the Aircraft moves from its parking position ("off blocks") being the commencement of a Flight until the Aircraft ceases movement at the parked position ("on blocks") at the completion of a Flight and in the case of dispute, entries on the Aircraft logbook maintained by the Captain are conclusive evidence of Aircraft movement. 
+Cancellation Fee means the cancellation fee specified in the Schedule.
+Captain means the captain in command of the Aircraft.
+ Cargo means goods transported or to be transported on the Aircraft pursuant to the Agreement with any container, packaging or pallets supplied by the Customer.
+ Cargo Manifest means the cargo manifest that the Customer must deliver under clause 6.1.
+ Carrier's Agent means any person who is a contractor, sub-contractor or who at any time during the provision of the Services is or becomes a servant, representative or agent of Toll or any contractor of Toll.
+Charges means: 
+(a) if the Block Hour option is not selected in the Schedule, the estimated charges specified in the Schedule; or 
+(b) if the Block Hour option is selected in the Schedule, the estimated charges per Block Hour specified in the Schedule.
+ Claim includes a claim, notice, demand, action, proceeding, litigation, investigation, judgment, damage, loss, cost, expense or liability however arising, whether present, unascertained, immediate, future or contingent, whether based in contract, bailment, tort (including negligence) or statute and whether involving a third party or a party to the Agreement.   
+ Consequential Loss means any loss of use, loss of goodwill, loss of production, loss of profit or revenue, loss of business opportunity or reputation, loss of data, loss of contract or anticipated saving, loss of any financing costs or increase in operating costs, loss or damage due to business interruption or any other economic, special, indirect, punitive or exemplary loss or damage, howsoever incurred in connection with the Agreement or the Services (including through negligence) and regardless of whether the loss or damage was reasonably foreseeable.
+ Convention means, unless the context requires otherwise, whichever of the following instruments is applicable to the Services under the Civil Aviation (Carriers Liability) Act 1959 (Cth):
+(a) the Convention for the Unification of Certain Rules Relating to International Carriage by Air, signed at Warsaw, 12 October 1929 (Warsaw Convention);
+(b) the Warsaw Convention as amended at The Hague on 28 September 1955 and by Additional Protocol No. 1, No.2, No. 3 and No. 4 of Montreal 1975; 
+(c) the Convention Supplementary to the Warsaw Convention signed at Guadalajara on 18 September 1961; and
+(d) the Convention for the Unification of Certain Rules Relating to International Carriage by Air, signed at Montreal on 28 May 1999. 
+ Customer means a person, firm, entity or government authority acquiring Services from Toll under the Agreement.
+ Dangerous Goods means dangerous goods as defined by the International Civil Aviation Organisation's standards and by the Australian Dangerous Goods Code, including, without limitation, goods forbidden or restricted by IATA or any Aviation Authority and any goods which are or which may become dangerous, volatile, explosive, inflammable or offensive or which may become harmful to any person, property or the environment whatsoever.
+Departure Point means the departure point for a Flight identified in the Flight Schedule. 
+ Departure Time means the departure time for a Flight identified in the Flight Schedule. Flight means the use of the Aircraft as part of the Services in accordance with the Agreement. 
+ Flight Schedule means:
+(a) the airport(s) designated for departure and arrival; and
+(b) the departure and arrival times;
+as specified in the Schedule.
+Governmental Agency means a government or government department, a governmental, semi-governmental or judicial person or a person (whether autonomous or not) charged with the administration of any applicable law.
+IATA means the International Air Transport Association or any of its successors.
+Insolvency Event means in respect of the Customer, it is the subject of or an order is made for a winding up, dissolution, liquidation, provisional liquidation, administration, bankruptcy or other proceeding for which an administrator, controller or managing controller, receiver, receiver and manager, trustee, provisional liquidator, liquidator or any other person holding or appointed to an analogous office or acting or purporting to act in an analogous capacity is appointed to it or any of its assets, or an analogous or equivalent event or proceeding in any jurisdiction or where the Customer makes an arrangement, moratorium, assignment or composition with or for the benefit of creditors or any class or group of them or the Customer becomes insolvent, or presumed by a court to be insolvent, or stops or suspends payment to creditors generally or is taken to be unable to pay its debts as and when they fall due.
+ Liabilities means all liabilities (whether actual, contingent or prospective), losses, damages, outgoings, charges, fees, costs, penalties, compensation, fines and expenses of whatever description, including legal costs on a full indemnity basis.
+Owner means a person who, at any time during the Agreement, owns or has any proprietary, legal or beneficial ownership or possession interest in or any contractual or equitable right to or in respect of the Cargo and includes any deliveree of the Cargo. 
+Related Bodies Corporate has the same meaning as in the Corporations Act 2001 (Cth).
+Schedule means the schedule attached to the Agreement entitled Reference Schedule.
+Scheduled Flight Dates means the date(s) specified in the Schedule.
+Services means the provision and operation of the Aircraft for the carriage of Cargo in the Aircraft and the provision of the Aircrew and the whole of the operations, activities and services undertaken by Toll, its Related Bodies Corporate or any Carrier's Agent in any way connected with or concerning the Aircrew, Aircraft, Cargo and the Flight under the Agreement.
+Terms means these standard charter terms and conditions.
+Toll means Toll Transport Pty Limited ACN 006 604 191 (trading as Toll Air Express).
+2. Applicability
+(a) The Terms and the Schedule form part of and apply exclusively to any Agreement and the Services performed by or on behalf of Toll, provided however that if the Services are 'International Carriage' as defined in the applicable Convention, the Services, the Schedule and the Terms shall be subject to the provisions of the applicable Convention,  together with the Terms and the Schedule (to the extent that the Terms and the Schedule are not inconsistent with the provisions of such Convention). 
+(b) All Services performed by or on behalf of Toll are subject to:
+(i) applicable laws (including national laws implementing a Convention or extending the rules of the applicable Convention to carriage which is not 'International Carriage' as defined in the applicable Convention), government regulations, orders and requirements; and
+(ii) the Agreement and other applicable conditions, rules, regulations and timetables of Toll.
+(c) The Agreement may include additional terms in the Schedule and to the extent of any inconsistency with the Terms, the details and terms in the Schedule prevail.  
+3. Charter of Aircraft
+(a) Subject to the Agreement and the availability of the Aircraft and the Aircrew, Toll agrees to provide the Services to the Customer.  The Aircraft will be fully manned, equipped and fuelled to undertake the Flight.  Toll reserves the right to substitute the Aircraft, aircraft type and registration.  If the Aircraft or the Aircrew is unavailable at any time for any reason, Toll will use its reasonable endeavours to procure another similar aircraft or similar aircrew respectively, in which case Toll may review the Charges and the Flight Schedule.  If Toll is unable to procure another aircraft or aircrew, the Agreement will terminate without any Claim against Toll.
+(b) The Customer agrees the Aircraft will be used to carry Cargo on the Scheduled Flight Dates in accordance with the Flight Schedule. 
+4. Charges
+(a) The Customer must pay Toll the Charges in respect of the Services.  
+(b) Toll shall invoice the Customer for all Charges (or an estimate of the Charges) before the provision of the Services with payment due upon presentation of invoice.  All payments under the Agreement must be made in Australian dollars in cleared funds without deduction, abatement or setoff to an account specified by Toll in the Schedule.  The Customer acknowledges that any part of any money prepaid to Toll by or on behalf of the Customer in connection with the Agreement may be paid to one or more third parties prior to the commencement of the Services.
+(c) If the Block Hour option is selected in the Schedule and if, upon arrival of the Cargo at the Arrival Point, Toll determines that the Block Hours have been: 
+(i) understated, the Customer must on invoice pay Toll the difference between the prepaid Charges for the estimated Block Hours and the Charges for the actual Block Hours; or
+(ii) overstated, Toll must refund to the Customer the difference between the prepaid Charges for the estimated Block Hours and the Charges for the actual Block Hours. 
+(d) All fuel, oil, Aircrew salary, Aircrew expenses, Aircraft maintenance, terminal expenses, meteorological expenses, airport fire and emergency levies, Aircraft landing fees and Aircraft parking fees and aeronautical navigation charges shall be paid by Toll with the exception of any duties or taxes charged or costs referred to in the Schedule.  Subject to the Schedule, ground handling for loading and unloading the Cargo and demurrage charges are included in the Charges.  All other expenses, charges and costs, including, without limitation, in connection with the Cargo, or expenses to comply with any relevant law or regulation or with the requirement of any market, port, airline, customs or excise authority or other person and any duties and taxes and other Governmental Agency charges levied directly on a supply under the Agreement shall be paid for by the Customer in addition to the Charges.
+(e) If all or part of any money prepaid to Toll by or on behalf of the Customer in connection with the Agreement is prepaid by Toll prior to the commencement of the Services to any third party contracting with Toll including in relation to the provision of the Aircraft or Aircrew to Toll and that party is in breach of such contract with Toll, Toll's liability to the Customer will be limited to using its best endeavours to recover such prepaid money and upon receipt thereof will account to the Customer for the same subject to Toll being entitled to deduct all costs and expenses incurred by Toll in recovering such prepayment.
+(f) If the Customer fails to pay any sum payable to Toll or any of its Related Bodies Corporate in accordance with the Agreement or if the Customer suffers any Insolvency Event, then all money which would become payable by the Customer to Toll at a later date on any account becomes immediately due and payable without the requirement for notice, Toll may cease or suspend, for such period as it thinks fit, further supply of the Services to the Customer and the Customer must, without prejudice to any other remedy available to Toll, pay interest on the sum from the due date of payment until the sum is paid in full, at the interest rate prescribed by the Penalty Interest Rates Act 1983 (Vic) from time to time plus four percent per annum (4%) and such interest will accrue and be payable from day to day and shall be calculated on the basis of actual days elapsed and a 365 day year. 
+(g) Toll has a general lien on the Cargo and any other documents relating to the Cargo for all Charges and other payments due or which become due to Toll or any of its Related Bodies Corporate under the Agreement.  If the Charges or other payments owing to Toll or any of its Related Bodies Corporate are not paid when due, Toll may, without notice to the Customer, remove all or part of the Cargo and store it as Toll thinks fit at the Customer's risk and expense or, except in respect of any amount under an invoice which is genuinely disputed by the Customer, sell all or any of the Cargo as Toll thinks fit and apply the proceeds to discharge the lien and costs of sale without any Liability to any person.
+5. Toll's Rights and Responsibilities
+5.1 Operation of Aircraft and instructing Aircrew
+Toll or any Carrier's Agent shall procure and manage the navigation, operation, maintenance and insurance of the Aircraft.  All ground and operating personnel, including any Aircrew, are authorised to take instructions from Toll or any Carrier's Agent only, unless any such rights are delegated in writing by Toll or any Carrier's Agent to the Customer.  Toll or any Carrier's Agent may, but is not obliged to, complete for the Customer any documents required to comply with any laws (but only as authorised to do so by those laws).  
+5.2 Aviation Authority
+Flights will be operated at all times, and in all respects in compliance with regulations and requirements of the Aviation Authority, the Toll Operations Manual and Standard Operating Procedures, the Operating Manual for the Aircraft, and any and all other applicable laws.
+5.3 Flight Plans
+(a) All decisions regarding flight plans (including decisions to omit or alter a stopping place in cases of necessity), changes in the route of any Flight or the Arrival Point, how and when to take off and land the Aircraft, preparation of the Aircraft for flight, airworthiness, weather, congestion, faults in the Aircraft or any other operational matter or matter that could affect the safe operation of the Aircraft and safety of the Aircrew shall be made by the Captain in the Captain's absolute discretion.  
+(b) Charges are based on the premise that the Flight will proceed normally in accordance with the Flight Schedule, without undue delays beyond Toll's or any Carrier's Agent's control.  Where any event referred to in clause 5.3(a) or clause 5.4 occurs, the Customer shall be liable to pay any increase in the Charges, as determined by Toll, and any other costs, expenses, losses and damages occasioned by any deviations from the Flight Schedule, extra flight time or delays or Flight diversions to another airfield which the Captain deems necessary and the Customer indemnifies Toll for any Liabilities it sustains or incurs in respect thereof.  
+(c) If any Flight is diverted to another airfield or delayed for reason which the Captain deems necessary, the Flight shall nevertheless be deemed to be complete in accordance with the Flight Schedule, no compensation or reduction in the Charges shall be given to the Customer and the Customer will be liable for any additional costs resulting from any deviation, delay or diversion of the Flight.
+5.4 Right to Postpone/Cancel
+Without limiting clause 5.3, Toll or any Carrier's Agent may postpone, cancel or redirect the Flight due to war, warlike events, strikes, civil war, civil unrest, riots, sabotage, quarantine, hijacking, terrorist actions, weather conditions, traffic restrictions or other restrictions imposed by any Government Agency or air traffic controller, the unavailability of fuel at the Departure Point, or other force majeure events of the same or similar nature, technical reasons, detention or similar measures, accidents with the Aircraft, or due to other factors over which Toll or any Carrier's Agent have no control, or when the safety of the Cargo or the Aircrew from the Aircraft can reasonably be assessed to be in danger, at the discretion of the Captain or Toll's personnel or any Carrier's Agent.  Unless otherwise required by applicable laws and regulations, both parties are not responsible for damage or loss as a result of, or arising, directly or indirectly, in connection with, the abovementioned circumstances.
+5.5 Right of Refusal 
+Toll, the Captain or any Carrier's Agent may refuse carriage of any Cargo which, in its sole discretion is improperly packaged, contains undeclared or incorrectly packed, incorrectly classified, incorrectly labelled, incorrectly marked or incorrectly certified Dangerous Goods, is not suitable for carriage, is hazardous/dangerous including any Dangerous Goods, exceeds the operational capacity of the Aircraft, cannot be loaded or cannot be transported in accordance with applicable laws and regulations.
+5.6 Cancellation
+(a) The Customer must pay the Cancellation Fee  if the Customer cancels or requests any variation to any Scheduled Flight Date or Flight Schedule, including if the Customer fails to deliver either the Cargo Manifest to Toll at least 24 hours before the scheduled Departure Time or the Cargo to the check-in point specified by Toll at the Departure Point at least two hours before the scheduled  Departure Time.  If the Cargo fails to arrive in sufficient time as specified in this clause, Toll or any Carrier's Agent will not be obliged to make any alternative arrangements for the Cargo.
+(b) If the Customer is required to pay the Cancellation Fee, Toll shall be entitled to set off and apply the Charges prepaid to Toll under clause 4(b) against the Cancellation Fee and any other money owing to Toll by the Customer under the Agreement.  
+(c) Toll may cancel any Flight Schedule if Toll, in its sole discretion, determines that the transportation of the Cargo would be unsafe or in violation of any applicable law, rule or regulation.  In the event of cancellation pursuant to this subsection, the Cargo shall be returned by Toll to the Customer, its agent or assign, at the Customer's sole cost and expense, to a collection point specified by Toll at the Departure Point.
+(d) If any Flight Schedule is cancelled, Toll may, in its sole discretion, reschedule the cancelled Flight and any additional costs associated with the rescheduling will be borne by the Customer.  Toll will make all reasonable effort to reschedule any cancelled Flights or any Flights that fail to commence or if commenced being abandoned due to a fault in the Aircraft or the unavailability of the Aircrew. 
+5.7 Termination
+Toll may immediately terminate the Agreement upon notice without prejudice to its other rights under the Agreement if the Customer: 
+(a) breaches any provision of the Agreement, including the Terms; 
+(b) fails to pay the Charges on due date for payment; or 
+(c) suffers any Insolvency Event.
+6. Customer's Rights and Responsibilities 
+6.1 Cargo Manifest
+At least 24 hours prior to the scheduled Departure Time, the Customer must deliver to Toll a completed and signed Cargo Manifest setting out:
+(a)  the Aircraft and the Flight Schedule, including the port of loading/origin and the port of unloading/destination;
+(b) the description, dimensions, number of items and weight of the Cargo;
+(c) a declaration as to whether the Cargo includes Dangerous Goods; 
+(d) any other special circumstances/conditions/handling information.
+The Customer warrants the completeness and accuracy of the information provided to Toll or any Carrier's Agent in the Cargo Manifest and indemnifies Toll for any Liability whatsoever as a result of, or arising out of the Cargo Manifest being inaccurate, incomplete or misleading.  Toll or any Carrier's Agent shall not be responsible for checking or confirming the Customer's disclosures and shall be entitled to rely upon the completeness and accuracy of the Cargo Manifest.  The Cargo Manifest shall be considered a receipt only and not a contract for transportation of the Cargo.  
+6.2 Hazardous Cargo
+(a) The Customer shall ensure that all cargo presented for carriage has been examined by qualified personnel and is in compliance with the IATA Dangerous Goods Regulations or the Australian Dangerous Goods Codes for Transport.
+(b) The Customer must ensure that all cargo classed as Dangerous Goods must be listed on the Notice To Captain (NOTOC) in accordance with the requirements of the IATA Dangerous Goods Regulations, including the proposed location of the Dangerous Goods in the Aircraft and on the loadsheet, and the category and labelling of the Dangerous Goods and all applicable segregation requirements.
+(c) The Customer shall indemnify Toll from all Liability resulting from the hazardous/dangerous character of the Cargo, including any Dangerous Goods, whether to Toll and/or its employees and property, or any Carrier's Agent or to other persons or property.
+(d) Toll or any Carrier's Agent may, without any Liability to the Customer:
+(i) open any document, package or other container of the Cargo to inspect the item to determine its nature and condition or to determine its ownership or destination or if required by any Governmental Agency or law; and
+(ii) Toll or any Carrier's Agent may abandon or release any Cargo which is unacceptable for Service or any Dangerous Goods, or which the Customer undervalues for customs purposes or which is misdescribed. 
+6.3 Preparation and Delivery of Cargo
+The Customer shall at the Customer's cost and expense deliver the Cargo to Toll or any Carrier's Agent at the Departure Point, properly prepared, labelled, securely packaged, loaded and ready for transportation by the Aircraft.  
+6.4 Customs
+The Customer must comply with all customs, import, export and other laws and regulations of all countries to, from, through or over which the Cargo may pass and to ensure that all Cargo has the necessary customs and the quarantine paperwork and complies with all applicable airport security, health, import, export, customs and excise requirements of any Government Agency.  
+6.5 Risk
+The Customer will bear the sole risk of any damage, loss or destruction of the Cargo and the Cargo will at all times be ground handled and carried in any Aircraft at the Customer's risk.  The Customer must insure the Cargo against loss, damage and theft.  Toll reserves the right to request evidence from the Customer as to the currency of the contract of insurance for the Cargo prior to the provision of the Services.  The Customer must, when requested by Toll, promptly satisfy Toll that such contract of insurance is current by producing a certificate of currency. 
+6.6 Compliance with laws and regulations
+The Customer warrants that: 
+(a) it is the Owner or the authorised agent of each Owner and accepts the Agreement for itself and as authorised agent for each Owner;
+(b) it has complied with all the laws and regulations relating to the nature, classification, packaging, labelling, storage or carriage of Cargo, including the IATA Dangerous Goods Regulations, the Australian Dangerous Goods Codes for Transport and the Aviation Transport Security Act 2004 (Cth) and will provide all information and do all acts necessary for Toll or any Carrier's Agent to comply with its obligations under them;
+(c) the Cargo is packed in a manner adequate to withstand the ordinary risks of carriage having regard to its nature; 
+(d) the Customer will fully declare all Dangerous Goods or Cargo which may become Dangerous Goods. 
+The Customer indemnifies Toll for any Liability whatsoever as a result of, or arising out of, any breach of the warranties in this clause 6.6, including but not limited to compliance with applicable Dangerous Goods regulations.
+7. Exclusions 
+7.1 Conventions
+For the avoidance of doubt, the provisions of this clause 7 only apply to the extent they are not inconsistent with an applicable Convention. 
+7.2 Claims
+(a) If there is any damage to, or loss of, the Cargo or any part of the Cargo, no Claim for the loss or damage may be made and Toll shall have no Liability to the Customer or any Owner unless notice of the Claim is lodged in writing within 2 days of the date of the delivery to the Arrival Point.
+(b) The failure to notify a Claim within that time under clause 7.2(a) is evidence of satisfactory performance by Toll or any Carrier's Agent of its obligations.
+(c) Despite any other condition, Toll will be discharged from all Liability in respect of any Flight unless an action is brought by the Customer within 6 months of completion of the Flight.
+(d) Time is of the essence in relation to all time periods in this clause 7.2. 
+7.3 Exclusions
+(a) To the extent permitted by law, Toll excludes all Liability to any person, including the Customer and any Owner, for, and the Customer releases Toll from all Claims by any person, including any Owner in relation to caused by, arising from or in respect of:
+(i) loss of, damage to or deterioration of any property, including the Cargo, injury to, or death of any person, including but not limited to any loss or damage arising out of any acts or omissions of Toll or in relation to the Services; 
+(ii) any delay, misdelivery, non-delivery or other failure to supply the Services, including, without limitation, any Flight being cancelled or delayed or any deviations in the Flight Schedule for any decision made by the Captain under clause 5.3 or for any other reason in clause 5.4; or 
+(iii) any third party that contracts with Toll for the provision of the Aircraft or the Aircrew to Toll being in breach of such contract.
+(b) Toll is not liable if the destruction, loss or damage to Cargo is proved to have resulted solely from the inherent defect, quality, nature or vice of that Cargo. 
+(c) If damage to Cargo is caused or contributed to by the negligence or other wrongful act or omission of the Customer or its Related Bodies Corporate, any Owner or any person from whom the Customer's rights are derived, Toll shall be wholly or partly exonerated from Liability to the Customer to the extent that such negligence or wrongful act or omission, caused or contributed to the damage. 
+(d) Toll will use reasonable endeavours to meet the Flight Schedule but will, in no circumstances whatsoever, incur or suffer any Liability suffered by the Customer, any Owner or any third party for failure to meet the Flight Schedule. 
+7.4 Consequential Loss 
+Toll will not, in any circumstances be liable to the Customer for:
+(a) anything other than provable and direct losses; or
+(b) any Consequential Loss as a result of or in connection with the Services or the Agreement.
+7.5 Implied terms
+(a) To the extent permitted by law and except to the extent that any law would cause this clause 7.5(a) to be or become void, all conditions, warranties and terms implied by statute, general law, trade usage or custom in respect of the Services are expressly excluded from the Agreement.  
+(b) Notwithstanding any other clause in the Terms, nothing in the Terms excludes, restricts or modifies, or is to be interpreted as excluding, restricting or modifying any statutory obligation of Toll or any Carrier's Agent or the application of law applicable to the Services which cannot lawfully be excluded, restricted or modified.
+(c) If Toll is liable to the Customer for a breach of a condition or warranty implied by Division 2, Part V of the Trade Practices Act 1974, Toll's Liability is limited to supplying the Services again or the payment of the cost of having the Services supplied again, subject to section 68 of that Act.
+(d) In this clause, references to the Trade Practices Act 1974 are deemed to include references to comparable provisions under the legislation of any other jurisdiction.  
+7.6 Indemnity
+(a) The Customer shall indemnify Toll against all Claims by any person, including any Owner, and for all Liabilities suffered or incurred by Toll, any of its Related Bodies Corporate, or any Carrier's Agent caused or contributed to by, or arising from or in respect of:  
+(i) the Cargo, including any loss or damage to any property of any person, including but not limited to Toll's or any Carrier's Agent's property, or injury to, or death of any person; 
+(ii) any delay, misdelivery or prevention of delivery of the Cargo or other failure to supply the Services caused or contributed to by the Customer or any Owner or their employees, agents or representatives, including the Customer's failure to take delivery of the Cargo at the Arrival Point, including but not limited to costs associated with delivery, storage and insurance of the Cargo or any other costs incurred while making further attempts to deliver the Cargo; and
+(iii) any other act or omission of the Customer, any Owner, or their respective employees, agents or representatives, including any breach of the Agreement.
+(b) The Customer shall indemnify Toll against, and pay to Toll on demand, the Liabilities suffered or incurred by any Aircraft Operator, including any loss or damage to the Aircraft or any other property, caused or contributed to by, or arising from or in respect of the Cargo or any other act or omission of the Customer, any Owner, or their respective employees, agents or representatives, including for any breach of the Agreement. 
+(c) Toll or any Carrier's Agent may sell, dispose of or return to a collection point specified by Toll at the Departure Point any uncollected or undeliverable Cargo within 7 days after making reasonable efforts to contact the Customer and will not be required to account to the Customer for the sale, disposal or return of the Cargo unless required to do so by law. 
+7.7 General
+(a) The limitations and exclusions of Toll's Liability in this clause 7 apply in respect of and in favour of Toll's Related Bodies Corporate and any Carrier's Agent.  For the purpose of these Terms, Toll contracts on its own behalf and also as trustee for each of Toll's Related Bodies Corporate and each Carrier's Agent and, accordingly, may take action in that capacity to recover on behalf of Toll's Related Bodies Corporate and any Carrier's Agent, including in respect of clause 7. 
+(b) Even if Toll breaches any of the Terms, all the rights, immunities and limitations of Liability in the Terms continue to have their full force and effect in all circumstances.
+(c) Toll is not liable for, nor bound by, any instructions to collect cash on delivery or any other payments for any person.
+(d) All the exclusions and limitations of Toll's Liability in this clause 7 apply in respect of any Liability suffered or incurred in any way by the Customer or any Owner however caused, including, but not limited to, for defective services or defective performance, breach of contract, negligence at law or equity, lost, damaged or stolen goods and any other Liability which may arise in connection with its performance or non performance under the Agreement, other than as a result of fraud or deliberate misconduct by Toll.
+(e) The Customer acknowledges that Toll is not a common carrier and that Toll does not have any Liability as a common carrier.
+(f) In the case of loss of, damage to or delay in the delivery of or failure to deliver the Cargo, the weight to be taken into consideration in determining the amount to which Toll's Liability is limited shall only be the weight of the affected part of the Cargo where unpackaged, or otherwise the package or packages concerned.  However when the loss, damage or delay of part of the shipment, or of an object contained in the shipment, affects the value of other packages covered by the same airway bill, the total weight of such package or packages shall also be taken into consideration when determining the limit of Liability. 
+(g) The Customer must not make and must ensure that no Owner makes a Claim against Toll which is inconsistent with this clause 7.
+(h) All clauses and provisions in this clause 7 and clause 6.5 are separate and independent and do not limit each other. 
+8. GST
+(a) In this clause 8, a word or expression defined in the A New Tax System (Goods and Services Tax) Act 1999 (Cth) has the meaning given to it in that Act.
+(b) For the purposes of the Agreement, where the expression GST inclusive is used in relation to an amount payable or other consideration to be provided for a supply under the Agreement, the amount or consideration will not be increased on account of any GST payable on that supply. 
+(c) Any consideration to be paid or provided for a supply made under or in connection with the Agreement, unless specifically described in the Agreement as GST inclusive, does not include an amount on account of GST. 
+(d) Despite any other provision in the Agreement, if Toll makes a supply under or in connection with the Agreement in respect of which GST is imposed (not being a supply the consideration for which is specifically described in the Schedule as GST inclusive):
+(i) the consideration payable or to be provided for that supply under the Agreement but for the application of this clause 8(d) (GST exclusive consideration) is increased by, and the Customer must also pay to Toll, an amount equal to the GST payable by Toll on that supply; and
+(ii) the amount by which the GST exclusive consideration is increased must be paid to Toll by the Customer without set off, deduction or requirement for demand, at the same time as the GST exclusive consideration is payable or to be provided. 
+(e) If a party must reimburse or indemnify another party for a loss, cost or expense, the amount to be reimbursed or indemnified is first reduced by any input tax credit the other party is entitled to for the loss, cost or expense, and then increased in accordance with clause 8(d).
+(f) A party need not make a payment for a taxable supply made under or in connection with the Agreement until it receives a tax invoice for the supply to which the payment relates.
+(g) For the avoidance of doubt, this clause 8 applies irrespective of how a supply made under or in connection with the Agreement is treated for GST purposes at the time of attribution.
+9. Miscellaneous
+(a) The Customer acknowledges all the information in the Agreement is confidential and the Customer must not disclose such information to any third party without Toll's prior written consent.
+(b) Every covenant, agreement or obligation expressed or implied in the Agreement by which two or more persons covenant, agree or are bound binds those persons jointly and each of them severally and every provision expressed or implied in the Agreement which applies to two or more persons applies to those persons jointly and each of them severally.
+(c) The Agreement constitutes the entire agreement between the parties in connection with its subject matter, supersedes any prior agreement or understanding between the parties in connection with the subject matter and cannot be varied except by written agreement of the parties.  
+(d) Any Term by its nature intended to survive termination, including any indemnity, survives termination of the Agreement.
+(e) A term or part of a term of the Agreement that is illegal or unenforceable may be severed from the Agreement and the remaining terms or parts of the terms of the Agreement continue in force.
+(f) A party does not waive a right, power or remedy if it fails to exercise or delays in exercising the right, power or remedy.  A waiver of a right, power or remedy must be in writing and signed by the party giving the waiver.
+(g) The Agreement is governed by the laws of Victoria, Australia.  The parties irrevocably submit to the exclusive jurisdiction of the courts of Victoria.
+(h) Toll or the Customer may not assign or transfer all or any part of their respective rights or obligations under the Agreement without the prior written consent of the other party, except that Toll may assign its rights or obligations under the Agreement without obtaining the consent of the other party to any of its Related Bodies Corporate.  
+(i) Toll may sub-contract on any terms the performance of part or all of its obligations under the Agreement in its absolute discretion, including to any Carrier's Agent and without obtaining the consent of the Customer. 
+(j) Any stamp duty, duties or other taxes of a similar nature (including fines, penalties and interest) in connection with the Agreement or the Services must be paid by the Customer.  Each party must pay its own costs in relation to preparation and signing of the Agreement. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ME_78066093_14 (W2003)
+
+
+
+
+
+ME_78066093_14 (W2003)
+
+	Page 2
+
+ME_78066093_14 (W2003)
+
+
+
+ME_78066093_14 (W2003)
+

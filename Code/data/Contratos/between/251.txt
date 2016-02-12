@@ -1,0 +1,538 @@
+DETAILED FACILITY STUDY AGREEMENT
+
+THIS CONTRACT is made on the 				day of 		200_
+
+BETWEEN	[NAME OF ESCO] (ACN *** *** ***) a company duly incorporated in the State of [State] having its registered office at [address] in the said State ("ESCO")
+
+AND	[NAME OF CUSTOMER] (ACN *** *** ***) a company duly incorporated in the State of [State] having its registered office at [address] in the said State ("Customer")
+
+WHEREAS
+
+A.	The Customer has called for expressions of interest from contractors as part of the Customer's review of the energy needs of the premises specified in the Schedule to this Agreement in its Request for Proposals issued on [date].
+
+B.	The ESCO has submitted its Proposal dated [date], which appears as Annexure A to this Agreement, pursuant to which it has agreed to undertake a Detailed Facility Study ("DFS") of the premises.
+
+C.	The parties have agreed that the DFS, subject to the terms and conditions contained in this Agreement, is to be conducted as a prerequisite to negotiating a proposed Energy Performance Contract ("EPC") for the premises, to be based upon the draft EPC attached to this Agreement as Annexure 1.
+
+OPERATIVE PROVISIONS
+
+1.	DEFINITIONS & INTERPRETATION
+
+1.1	Definitions
+
+	The following words have these meanings in this Agreement unless the contrary intention appears:
+
+	contract material means all material used or brought into existence by either party as part of, or for the purpose of performing the Services, including but not limited to documents, equipment, information and data stored by any means including all intellectual property rights therein, but does not include computer software programmes or models owned, developed or used in a unique way by the ESCO in connection with the provision of the Services under this Agreement;
+
+	Customer's materials means any documentation, information or material supplied by the Customer to the ESCO by whatever means whether for the purposes of the performance of this Agreement or otherwise;
+
+	DFS Fee means the remuneration payable to the ESCO in accordance with Clause 5 in the amount specified in Item 6 of the Schedule;
+
+	ESCO's representative means the person named in Item 7 of the Schedule or any other person substituted or additionally appointed to liaise with the Customer as notified in writing from time to time;
+
+	intellectual property means all rights in copyright, patents, registered and unregistered trademarks, registered designs, trade secrets and all other rights of intellectual property as recognised by the law in force from time to time in New South Wales (or other State or Territory specified in Clause 13);
+
+	premises means the site(s) identified in Item 1 of the Schedule at which the Customer conducts its business and in relation to which the Customer has issued its Request for Proposals and is inclusive of the existing equipment and systems on the said site(s).
+
+	Proposal means the expression of interest submitted to the Customer by the ESCO to perform the work required under the Request for Proposals;
+
+	Request for Proposals means the document(s) issued by the Customer to the ESCO for the purpose of obtaining the Proposal and which defines the scope of the Customer's requirements and describes the Services to be performed by the ESCO;
+
+	Services means those obligations of the ESCO described in Clause 3.1 of this Agreement.
+
+1.2	Interpretation
+
+	The following rules of interpretation shall apply to this Agreement:
+
+(a)	Reference to any person or to any party to this Agreement shall include that person's or party's legal personal representatives, executors, administrators, successors and permitted assigns.
+
+(b)	Words importing the singular shall include the plural and vice versa and words importing any gender will include all genders.
+
+(c)	Where the day on or by which any act, matter or thing is required to be done is a day other than a business day in the place in which the act, matter or thing is to be done, such act, matter or thing shall be done on the next succeeding business day unless specifically provided for to the contrary in this Agreement.
+
+(d)	Headings and underlinings are for convenience only and shall not affect the interpretation of this Agreement.
+
+(e)	Where a word or phrase is given a defined meaning, any other part of speech or grammatical form in respect of such word or phrase shall have a  corresponding meaning.
+
+(f)	References to any statute or statutory provision include that statute or statutory provision as amended, extended, consolidated or replaced by subsequent legislation and any orders, regulations, instruments or other subordinate legislation made under the relevant statute and further includes any equivalent statute in any other Australian state or territory where that state or territory has jurisdiction over this Agreement pursuant to the operation of Clause 13.
+
+(g)	The word person means and includes any natural person, company, firm or any other legal entity whether acting as a trustee or not.
+
+(h)	When a party comprises two or more persons, the rights and obligations of such persons pursuant to this Agreement shall have effect for the benefit of and bind all of them jointly and each of them severally.
+
+2.	ENGAGEMENT
+
+2.1	ESCO to provide Services
+
+	The Customer engages the ESCO to provide the Services in accordance with the terms and conditions of this Agreement and to prepare and submit the DFS to the Customer.
+
+2.2	Objectives of the Detailed Facility Study
+
+	Subject to Clause 3 of this Agreement, the ESCO, in preparing and conducting the DFS, is to ensure the following:
+
+(a)	provision of a full and detailed description of the energy consumption and facility operational characteristics of the premises utilising the Energy Conservation Measures ("ECMs") that it proposes to install;
+
+(b)	detailed description of the energy savings that the ESCO intends to deliver under the EPC between the parties; and
+
+(c)	establishment of a Measurement and Verification Plan ("MVP") for guaranteeing and verifying savings from ECMs.
+
+3.	ESCO's OBLIGATIONS
+
+3.1	ESCO to provide Services
+
+	The ESCO must provide the Services and document the results and outcomes of the provision of the Services in the DFS and must ensure that the DFS includes at least the following information:
+
+(a)	a detailed description of those equipment and energy systems in place at the premises that will be impacted by the Services, their condition at the time of the DFS and their operating methods;
+
+(b)	the energy consumption and demand profile and the space conditions of the facilities on the premises;
+
+
+(c)	a description of the ECMs and improvements proposed by the ESCO, the cost of the installation of the ECMs and improvements, the projected Internal Rate of Return for each site on the premises and the impact of the proposed ECMs and improvements on the energy consumption and demand profile of each site and on the space conditions of the facilities on the premises;
+
+(d)	a brief description of the intended purpose of each of the modifications proposed by the ESCO to the equipment or systems and/or to the operating methods of the equipment or systems;
+
+(e)	a projection as to any changes in capacity of the existing equipment due to the modifications or improvements contemplated;
+
+(f)	an outline of training programmes or instruction required for the Customer's facilities managers and operators and summary of the involvement of facilities managers and operators likely to be necessary to effect the improvements;
+
+(g)	estimated figures projected as the annual energy savings which will result from the modifications or improvements together with an indication of how these figures are arrived at, with performance criteria defined in terms of lumens, l/sec of air temp, etc;
+
+(h)	a summary of the intended schedule for implementing the modifications and improvements including the timing and estimated duration of on-site work in respect of each distinct location or facility;
+
+(i)	an indication of altered or new operating or maintenance requirements which will apply due to implementation of the improvements and an estimate of the cost of any upgrading or maintenance work that the ESCO recommends to be undertaken prior to or during the implementation of the modifications/improvements in order to maximise their effect;
+
+(j)	a full description of all new equipment which is to be installed to effect the improvements together with an estimate of the expected lifetime of that new equipment, including engineering summaries and detailed equipment data sheets,  as well as the effect its installation may have on the expected lifetime of the existing equipment and a full description of the warranty and servicing arrangements which will apply to the existing equipment and to the new equipment installed.  The provision of full equipment data sheets is subject to the final negotiation of the EPC, and hence should the ESCO not be able to provide a complete and final equipment data sheet, a draft sheet shall be provided, with complete details provided after negotiation of the EPC;
+
+(k)	an MVP for monitoring, verifying and guaranteeing savings from the implementation of the ECMs, which is to be based on the International Performance Measurement & Verification Plan (IPMVP) which is acceptable to both parties.
+
+3.2	ESCO calculations must meet certain benchmarks
+
+The ESCO must ensure that:
+
+(a)	the maximum project costs identified in the DFS do not exceed the cost limit specified in Item 3 of the Schedule;
+
+(b)	the minimum energy savings identified are at least the amount specified in Item 4 of the Schedule;
+
+(c)	the Internal Rate of Return is no less than the rate specified in Item 5 of the Schedule; and
+
+(d)	the proposed ECMs and the other procedures specified in the DFS will not diminish the effective operation of the Customer and its facilities on the premises nor impede or diminish the effectiveness of existing operational projects.
+
+3.3	Due Diligence
+
+	The ESCO must perform the Services diligently, with all the skill and care expected as necessary for provision of such Services, and in accordance with all representations and warranties as to the ESCO's experience and ability expressly or impliedly made by reference to its Proposal and this Agreement, or by law.
+
+3.4	Timely Provision of Services
+
+	The ESCO must perform the Services expeditiously and in accordance with the time limits, if any, specified in Item 2 of the Schedule.
+
+3.5	Customer's Materials
+
+The ESCO warrants that throughout the duration of its engagement: 
+
+(a)	it must keep the Customer's Materials secure and free from interference at all times and the ESCO hereby indemnifies the Customer for any liability the Customer may incur as a result of any breach of this clause;
+
+(b)	upon the completion or earlier termination of this Agreement, the ESCO must as soon as practicable return the Customer's Materials and the Contract Material to the Customer; and
+
+(c)	neither Clause 3.5(b) nor Clause 3.6 shall be construed as prohibiting the ESCO from making and keeping a copy of the Contract Material for its records.
+
+3.6	Sub-contracting
+
+(a)	The ESCO may not assign or sub-contract the performance of any part of the Services without the prior written consent of the Customer.
+
+(b)	If requested by the Customer, the ESCO will provide to the Customer the names and addresses of any sub-contractors appointed by the ESCO.
+
+(c)	By sub-contracting any part or parts of the provision of the Services, the ESCO will not be relieved of any of its liabilities or obligations under this Agreement.
+
+3.7	Statutory and Other Requirements
+
+(a)	The ESCO must ensure that all work done in connection with the Services complies with all relevant legislation, regulations, codes of conduct and all relevant Australian Standards applicable to the performance of the Services.
+
+(b)	The ESCO must further ensure that all work done in connection with the Services complies with any policy and procedures of the Customer.  The Customer must provide its policy and procedures to the ESCO on or before the date of execution of this agreement and provide any changes made from time to time as soon as reasonably practicable.
+
+3.8	Conflict of Interest
+
+(a)	The ESCO warrants that, as at the date of execution of this Agreement, it is not aware of any conflict of interest which would affect its ability to provide the Services in accordance with the terms and conditions of this Agreement.
+
+(b)	As soon as the ESCO becomes aware of the existence, or the possibility, of a conflict of interest, the ESCO must give written notice of this to the Customer, in which event the Customer reserves its rights under Clause 11.
+
+3.9	Access to ESCO
+
+	Immediately upon receipt of reasonable notice from the Customer during the term of this Agreement, the ESCO must  provide the Customer with access to the ESCO or the ESCO's Representative in order for the Customer to inspect, discuss or assess the status of the provision of the Services.
+
+4.  	CUSTOMER'S OBLIGATIONS
+
+4.1	Customer to co-operate
+
+	The Customer must fully co-operate with the ESCO in connection with the conduct and completion of the DFS by the ESCO and undertakes to ensure that neither it nor any of its agents, servants, sub-contractors or employees shall unreasonably impede the ESCO in providing the Services in accordance with this Agreement.
+
+
+4.2	Premises and Equipment
+
+	The Customer will ensure at all times that it is the owner or lessee of the premises and the existing equipment and energy systems in place at the premises during the continuance of this Agreement and that it will obtain and provide evidence of the consent of any mortgagee, chargee, owner or other party whose consent may be required in relation to the carrying out of the Services in accordance with this Agreement as reasonably required by the ESCO.
+
+4.3	Provide Information
+
+(a)	Upon receipt of any request by the ESCO or otherwise as required by this Agreement the Customer must make available to the ESCO all relevant instructions, information, documentation, data or any other material which the ESCO requires to facilitate performance of the Services including, but not limited to:
+
+(i)	contracts for facilities management, maintenance, energy supply or other contracts that may impact on the provision of the Services;
+
+(ii)	all energy bills, tariff sheets and rate schedules, etc.; and
+
+(iii)	details of the operation of the premises including hours of operation, floor areas, number of occupants, usage patterns, etc.
+
+(b)	The Customer must ensure that all relevant material referred to in Clause 4.3(a) and requested by the ESCO for the purposes of providing the Services is true and accurate and that it is not aware of anything in that relevant material which will hinder the ESCO in providing the Services in accordance with this Agreement.
+
+4.4	Errors and Misdescriptions
+
+	The ESCO shall not be liable for any inaccuracies, errors or misdescriptions in its projections or other information contained in the DFS that arise wholly or principally as a result of deficiencies in or omissions from the Customer's Materials.  The Customer shall be obliged to inform the ESCO in the event that it is or becomes aware of any deficiencies or omissions from the Customers Materials. 
+
+5.	FEES
+
+5.1	Payment of DFS Fee upon satisfactory delivery of the Services
+
+	Subject to the provisions of Clauses 5.2 and 5.3 below, the Customer must pay to the ESCO the DFS Fee specified in Item 6 of the Schedule within thirty (30) days of the delivery to it of the DFS by the ESCO PROVIDED THAT the Customer is satisfied that the ESCO has delivered the Services in accordance with the terms and conditions of this Agreement and that the DFS meets or exceeds the objectives set out in this Agreement, in the Proposal, or the Request for Proposals, whether or not the parties proceed to execute an EPC.
+
+5.2	DFS Fee to be incorporated in costs of any resultant EPC
+
+(a)	Should the Customer wish to negotiate an EPC following submission of the DFS, the Customer must notify the ESCO in writing within twenty one (21) days of its receipt of the DFS in which case payment of the DFS Fee will be deferred pending the conclusion of the negotiation of the EPC.
+
+(b)	Provided the parties proceed to execution of an EPC:
+
+(i)	the amount of the DFS Fee will be incorporated within the project costs associated with that EPC; and
+
+(ii)	payment of the DFS Fee will then be governed by the terms of the EPC as concluded between the parties.
+
+5.3	Termination of Negotiations
+
+Should the parties not proceed to execution of an EPC, the Customer shall pay the Fee within fourteen (14) days of the termination of negotiations as referred in Clause 5.2(a), such termination to be effected by notice in writing given by either party to the other party.
+
+5.4	DFS or delivery of Services unsatisfactory
+
+(a)	Subject to Clause 5.3, where the ESCO has failed to adequately deliver the Services as defined in this Agreement or the DFS fails to meet the objectives set out in this Agreement, the Proposal or the Request for Proposals, then the Customer may immediately terminate this Agreement without any liability arising on its part to make payment of the DFS Fee to the ESCO.
+
+(b)	The Customer may elect to instruct the ESCO to amend the DFS so as to adequately deliver the Services and/or meet the objectives set out in this Agreement, the Proposal or the Request for Proposals, in which case the ESCO shall be liable for payment of all costs of any work required to be done to rectify the DFS and the Customer shall be liable to pay no more than the DFS Fee specified in Item 6 of the Schedule upon the satisfactory rectification of the DFS and payment in accordance with Clause 5.1 shall not be required until the Customer determines that the Services have been satisfactorily provided.
+
+6.	VARIATIONS
+
+6.1	Request
+
+(a)	The Customer may at any time during the term of this Agreement make a written request to the ESCO to vary the Services to be delivered pursuant to this Agreement.
+
+(b)	The Services will only be varied if the ESCO is of the reasonable opinion that the requested variation will not substantially affect the objectives originally agreed upon before the Agreement was executed.
+
+6.2	Variation Fees 
+
+	Any such variation that, in the reasonable opinion of the ESCO or the Customer, extends beyond or markedly reduces the objectives set out in Clause 2.2 or substantially broadens or narrows the scope of the Services required pursuant to Clause 3.1, shall entitle the ESCO or the Customer to renegotiate the DFS Fee payable pursuant to Clause 5.1 and the ESCO shall not be required to perform the variation until such time as the DFS Fee has been renegotiated.
+
+6.3	In the event that the parties cannot agree on the DFS Fee payable in respect of the variation, the Customer shall not thereby be entitled to terminate this Agreement unless or until a determination has been made pursuant to Clause 15.
+
+7.	ENTITLEMENT TO USE DATA CONTAINED IN THE DFS
+
+7.1	Customer may make full use of DFS data
+
+(a)	Subject to this Agreement and to the terms of the Request for Proposals, on or as soon as practicable after the expiration or earlier termination of this Agreement, the ESCO must deliver to the Customer all Contract Material and the Customer's Materials and the parties acknowledge that the Customer may make full use in any manner it chooses of the data contained in the DFS.
+
+(b)	The parties acknowledge that, subject to the ESCO's obligations contained in Clause 3.6, the ESCO may keep a copy of the Contract Material for its own records.
+
+7.2	ESCO retains intellectual property rights
+
+(a)	The parties agree that the ESCO retains all intellectual property rights in relation to all modelling software, other computer programmes, any equipment, materials, systems and any other document or thing used to generate the data incorporated in the DFS.
+
+(b)	Provided the parties proceed to execute an EPC, the ESCO may grant to the Customer a licence to use any of the property rights referred to in Clause 7.2(a).  The licence is personal to the Customer and the Customer may not sublicense any of those property rights.  Subject to the terms of the Request for Proposals, the licence is limited to the premises and the Customer may not use the property rights referred to in Clause 7.2(a) other than on or in relation to the premises.
+
+(c)	The Customer must not modify, copy, merge or reverse engineer the property referred to in Clause 7.2(a) with any other software programme, equipment or material.
+
+8.	CONFIDENTIALITY
+
+(a)	The parties each agree not to disclose any information confidential to the other party disclosed pursuant to this Agreement without the prior written consent of the other party except where such information is:
+
+(i)	publicly available other than through breach of this Contract;
+
+(ii)	lawfully known to the party to which it is disclosed;
+
+(iii)	approved for release in writing by an authorised representative of the party owning the information;
+
+(iv)	disclosed only to a party's employees, board members, auditors, insurers, lawyers, lenders or other persons having a legitimate reason to know such information;
+
+(v)	required by law to be disclosed; or
+
+	(vi)	where disclosure is necessary to the performance of the 	Services by the ESCO. 
+
+(b)	The Customer acknowledges and consents to the use by the ESCO of any data and information relating to the energy consumption at the premises, whether provided by the Customer or obtained by the ESCO, for the purposes of benchmarking and compilation of a national data base, or for the purposes of use of the ESCO as a reference. 
+
+(c)	If the Customer breaches this Clause, the Customer agrees that it shall be liable to pay liquidated damages to the ESCO in the sum  of [figure to be negotiated on a case by case basis],
+
+	and it is agreed by the parties that the obligations set out in this Clause 8 will survive the completion or earlier termination of this Agreement.
+
+9.	INDEMNITY
+
+9.1	The ESCO's indemnity
+
+	Subject to Clause 4.4 and Clause 9.3, the ESCO indemnifies the Customer against any damage, liability, loss, claim or expense suffered or incurred by the Customer arising from any wilful or negligent act, error or omission of the ESCO or its employees, agents or subcontractors except to the extent that the damage, liability, loss, claim or expense is caused or contributed to by the Customer, its employees, agents, subcontractors or invitees.
+
+9.2	Customer's indemnity
+
+	Subject to Clause 9.3, the Customer indemnifies the ESCO against any damage, liability, loss, claim or expense suffered or incurred by the ESCO arising from any wilful or negligent act, error or omission of the Customer or its employees, agents, subcontractors or invitees except to the extent that the damage, liability, loss, claim or expense is caused or contributed to by the ESCO, its employees, agents or subcontractors.
+
+9.3	Liability Limited to Level of Insurance
+
+	Neither party shall be liable for loss or damage of any kind beyond the amounts for which it is required to be insured in respect of those types of loss or damage as set out in Item 8 of Schedule.
+
+10.	INSURANCE
+
+10.1	Workers' Compensation
+
+	The ESCO must ensure that an insurance policy is effected prior to commencing performance of the Services and remains current until the expiration of the period, if any, specified in Item 2 of the Schedule, covering liability for loss, damage, claims and all direct or associated costs and expenses arising at common law or under workers compensation legislation in respect of persons employed by the ESCO.
+
+10.2	Public Liability
+
+	The ESCO must obtain a policy of public liability insurance for at least the amount specified in Item 8 of the Schedule and in terms approved by the Customer (which approval will not be unreasonably withheld) prior to commencing performance of the Services and must maintain that policy for the duration of this Agreement.
+
+10.3	Proof of Insurance
+
+	The ESCO must provide the Customer with proof of all insurance required to be maintained by the ESCO under this Agreement.
+
+11.  	KEEPING OF RECORDS
+
+	The ESCO must keep proper accounts, records (including information stored by computer and other devices) and time sheets in accordance with accounting principles generally applied in relevant commercial practice in respect of its charges, fees and/or billing, and any disbursements payable pursuant to this Agreement.
+
+12.  	TERMINATION
+
+12.1	Termination Without Prejudice
+
+	The termination of this Agreement by either party shall be without prejudice to any accrued rights or remedies of each party including, without limiting the generality of this clause, the right of the ESCO to be paid in accordance with the terms of this Agreement.
+
+
+12.2	Termination by the Customer other than for Default by the ESCO
+
+	The Customer may terminate the whole or any part of the performance of the Services at any time by giving written notice to the ESCO and, absent any default by the ESCO, the Customer must pay to the ESCO, within (7) seven days of notice of termination being given, a sum equivalent to half the Fee specified in Item 6 of the Schedule.
+
+12.3	Termination by the Customer for Default by the ESCO
+
+	If the ESCO:
+
+(a)	becomes bankrupt, or insolvent, or enters into a scheme or arrangement with its creditors;
+
+(b)	subject to Clause 5.4, fails to carry out the Services with due diligence and competence;
+
+(c)	without reasonable cause, suspends or ceases to carry out the Services; or
+
+(d)	commits a substantive breach of this Agreement;
+
+	then the Customer may forthwith terminate this Agreement by written notice served on the ESCO.
+
+12.4	Termination by the ESCO
+
+	If the Customer:
+
+(a)	fails to pay the ESCO in accordance with this Agreement; or
+
+(b)	commits a substantive breach of this Agreement;
+
+	the ESCO may forthwith terminate this Agreement by written notice served on the Customer.
+
+12.5	ESCO Continuing Liability
+
+	Termination by the Customer in accordance with Clause 11.4 will not release the ESCO from liability in respect of any breach or non-performance of any obligation by the ESCO pursuant to this Agreement.
+
+13.	DISCONTINUANCE OF CUSTOMER
+
+Subject to any contrary legislative intention, the parties agree that if any authority, institute, association or other body being the Customer in this Agreement either:
+
+(a)	ceases to exist; and
+
+(b)	is reconstituted, renamed or replaced; or
+
+(c)	if its powers or functions are transferred to another entity;
+
+this Agreement is deemed to refer to the new entity succeeding or replacing the Customer and all of the Customer's rights and obligations under this Agreement will continue and will become rights and obligations of that new entity.
+
+14.	GOVERNING LAW AND JURISDICTION
+
+	This Agreement is to be governed by and construed in accordance with the laws applying in New South Wales [or other State or Territory] and the parties agree to submit to the exclusive jurisdiction of the courts of New South Wales [or other State or Territory] and of those courts competent to determine appeals from New South Wales [or other State or Territory] courts.
+
+15.	DISPUTE RESOLUTION
+
+15.1	If any dispute arises under this Agreement, representatives of the parties must meet within seven (7) days of either party giving written notice of the dispute to the other party and attempt to resolve the dispute.
+
+15.2	If any dispute is not resolved within fourteen (14) days of the issue of a notice under Clause 15.1, or such longer period as may be agreed in writing between the parties, either party may refer the dispute to an appropriately qualified expert for determination.  The nominated expert shall determine the dispute as an expert and not as an arbitrator, and the process of determination shall not be a process of arbitration.
+
+15.3	If the parties cannot agree on an expert within seven (7) days of a referral for expert determination pursuant to Clause 15.2, then either party may ask the Australian Commercial Disputes Centre to appoint an expert.
+
+15.4	The parties shall each pay one half of the costs of any expert appointed under Clause 15.3 and the determination of the expert shall be final and binding on the parties.  The procedures applying to any expert determination under the Agreement shall be as agreed between the parties, or, failing agreement, in accordance with the Expert Determination Guidelines of the Australian Commercial Disputes Centre.
+
+15.5	Nothing in this Clause will prevent either party seeking urgent relief from a court (including to restrain any breach of intellectual property rights).
+
+16.	INCONSISTENCIES
+
+	If there are any inconsistencies between the Services to be provided and/or the terms and conditions for the provision of Services as detailed in this Agreement, the Request for Proposals and the Proposal then, to the extent of any inconsistency, the Request for Proposals and this Agreement will have precedence over the Proposal.
+
+
+17.	WAIVER
+
+	Neither delay in exercising any rights nor condoning or waiver of any breach of this Agreement on any one or more occasions shall be held or construed to be a waiver of any other subsequent or antecedent breach of this Agreement.  No provision of this Agreement shall be deemed to have been waived unless such waiver shall be in writing and signed by the party giving notice of such waiver.
+
+18.  	NOTICES
+
+18.1	A notice:
+
+(a)	may be given by an officer of the relevant party;
+
+(b)	must be in writing; 
+
+(c)	may be delivered by hand, by prepaid ordinary post (airmail if outside Australia) or by facsimile; and 
+
+(d)	subject to Clause 17.3, must be sent to the address or facsimile number specified in Item 9 of the Schedule.
+
+18.2	A notice is deemed to be given:
+
+(a)	if sent by hand, at the time of delivery;
+
+(b)	if sent by letter, on the third (seventh if outside Australia) day after posting; and
+
+(c)	if sent by facsimile, at the time recorded on the transmission report, unless the transmission report indicates a faulty or incomplete transmission.
+
+18.3	A party must notify the other party if it has changed its address or facsimile number and a party must send a notice to the other party's last notified address or facsimile number.
+
+19.	MODIFICATION
+
+	This Agreement may not be modified, amended, added to or otherwise varied except by a document in writing signed by each of the parties.
+
+20.	TAXATION
+
+20.1	Subject to Clause 20.2 and in addition to any other fees owing to the ESCO under this Agreement, the Customer must reimburse the ESCO for any federal, state, local or excise taxes that may be imposed on the purchase by the Customer of the Services to be provided under this Agreement when the provider of such services is required by law to collect such taxes.
+
+
+20.2	Goods and Services Tax (GST)
+
+(a)	All prices and fees stated in this Agreement or provided under this Agreement must include GST which may be applicable.
+
+(b)	Every invoice issued must be in the form of a valid GST tax invoice, or be accompanied by a valid GST tax invoice.  No amount is payable under this Agreement until a valid GST tax invoice for the amount is received.
+
+(c)	If there is any abolition or reduction of any tax, duty, excise or statutory charge associated with the GST, or any change in the GST, the consideration payable for the supply must be varied so that the ESCO's net dollar margin in respect of the supply remains the same.
+
+(d)	If the Customer is required to reimburse the ESCO for any costs or other amount, despite any other provision of this Agreement, the Customer does not have to pay to the ESCO any sum included in that amount for which the ESCO can claim an input tax credit or other like offset.
+
+(e)	[Delete if inappropriate] The parties further agree to be bound by the provisions of any clause relating to taxation that may be included in this Agreement as set out in Appendix 1.  
+
+EXECUTED AS AN AGREEMENT
+
+SIGNED for and on behalf of	)
+[NAME OF ESCO] PTY LTD	)
+in the presence of:	)
+	)
+	)
+.......................................................	)	..............................................................
+Signature of Witness	)	Signature of Authorised Representative
+	)
+	)
+.......................................................	)	..............................................................
+Name of Witness (please print)	)	Name of Authorised Representative
+	)
+	)
+.......................................................	)
+Address and Occupation of Witness	)
+
+
+SIGNED for and on behalf of 	)
+[NAME OF CUSTOMER] PTY LTD	)
+in the presence of:	)
+	)
+	)
+.......................................................	)	..............................................................
+Signature of Witness	)	Signature of Authorised Representative
+	)
+	)
+.......................................................	)	..............................................................
+Name of Witness (please print)	)	Name of Authorised Representative
+	)
+	)
+.......................................................	)
+Address and Occupation of Witness	)
+
+THE SCHEDULE
+
+Item 1Premises[insert address of site(s)]Item 2Time to complete Services[insert period] after the date of execution of this AgreementItem 3Maximum project costs for implementation of the proposed ECMs (to be determined by reference to the Net Present Value and applying a discount rate)
+$[insert amount]Item 4Total identified projected energy savings must be at least (and will be linked to the Net Present Value of savings)
+$[insert amount] per annumItem 5The total Internal Rate of Return in respect of all Services provided is to be no less than the hurdle rate specified by the customer of
+[*}% pa over a [*] year periodItem 6The DFS fee$[insert amount]Item 7ESCO's representative[insert name]Item 8Amount of public liability insurance$[insert amount]Item 9Notices to:
+
+[CUSTOMER]
+Contact Name:
+Address:
+Phone:
+Facsimile:
+
+[ESCO]
+Contact Name:
+Address:
+Phone:
+Facsimile:
+Annexure 1Draft Energy Performance Contract
+	
+
+
+
+
+
+
+
+
+
+DETAILED FACILITY
+STUDY AGREEMENT
+
+
+
+
+
+
+
+
+
+
+between
+
+[NAME OF ESCO] PTY LIMITED
+ACN *** *** ***
+
+
+and
+
+[NAME OF CUSTOMER] PTY LIMITED
+ACN *** *** ***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONWAY LEATHER SHAW
+Solicitors
+Level 18, 55 Market Street
+SYDNEY  NSW  2000
+Tel:  (02) 9267 0444
+Fax: (02) 9267 0644
+Ref: GPBL:101861/1
+17
+
+
+
+(c) AEPCA 2000		GPBL: 35849-1
+AEPCA 001		101861/1
+
+(c) AEPCA 2000		GPBL: 35849-1
+AEPCA 001		101861/1
+
+
+
+
+

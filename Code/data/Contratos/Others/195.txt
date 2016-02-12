@@ -1,0 +1,88 @@
+NOTE: If New Services are required you must also complete an application form for Basic Access.
+Customer Details - all applicants to complete
+Account Name ("Applicant")
+     Account Number:     Installation Address (not P.O.Box)
+      City/Town     Postcode    Billing Address (if different from above)
+      City/Town     Postcode    Contact Name (if a business, must be an authorised rep):
+Mr       Ms      Miss       Mrs      Other
+Surname	Given Name
+          
+Phone:     Fax:     Residential Applicants:
+Date of Birth/Drivers Licence     Business Applicants:
+ACN / ABN:      Telstra Easycall(r)        connect to these services:
+ Call Forward Variable      Call Forward on Busy      Call Fwd Selected Callers      Call Forward Set The Time      Calling Number Display      Smart Ring      Remote Access      Multiple Number      Call Control     Abbreviated Dialling:
+8 nos   40 nos   60 nos      Delayed Hotline From      To       Call Forward Fixed From      To       Telstra Business Links(r)
+Connect to these Service(s)                Telstra Homelink 1800(r)
+Answering location phone No:               
+ Re-Direction
+From Date:     To Date:     Number to be re-directed:      Easycall(tm) Call Forward       Fixed To:      Telstra Director(r)      Variable/Fixed Diversion to:      Telstra FaxStream(r)
+Connect to these Service(s)                FaxStream Duet FaxStream for Windows Never Busy Broadcast MailBox Fax ManagerNOTE: Complete specific FaxStream form for Enhanced features: Never Busy, Broadcast, MailBox, Fax Manager, FaxStream for Windows.
+ Telstra MessageBank(r)
+Connect to these Service(s)                Home Service Business Service Call Manager (Enhanced) Executive (Premium) Away (Maximum 121 days)Telstra to record customer greeting for MessageBank?Yes   NoMessage Waiting Indicator (MWI)?Yes   NoDestination Number of MWI     Is Destination Number for MWI a Spectrum service?Yes   NoIf Destination Number is a Spectrum service, is MWI already enabled?Yes   NoOther Comments:     
+
+Dealer Name      Contact:     Phone Nbr:     Fax Nbr:     Seller Code:     Rep ID:X1762Trans:7777Applicant Signature
+I request the supply of the above services on the conditions shown overleaf. I warrant that all information in this application is true and correct and that if I am not the applicant specified above, I am authorised by the applicant to execute this form and enter into this contract on its behalf.  If I am an individual applicant I consent under the privacy act 1988 (Cth), to the access, use and disclosure, of the information by and to Telstra under clause 4 overleaf and in any other circumstance not prohibited by the act.
+*Date:      Print Name of signatory (If a business, must be authorised Rep)     Check if signed copy of Application form held on premises (
+Terms & Conditions for MessageBank(r) Home & Small Business
+MessageBank Home is provided in accordance with the terms and conditions of Telstra's Standard Form of Agreement, as filed with the Australian Communications Authority from time to time under the Telecommunications Act 1997. Copies of Telstra's Standard Form of Agreement are available on the Internet at www.sfoa.telstra.com.au and at all Telstra business centres. 
+Terms & Conditions for Faxstream(r)  Enhanced Services
+1.  Purpose and Interpretation
+This agreement sets out the terms on which we supply you with our FaxStream(r) Enhanced services.  These terms may be amended from time to time and you are deemed to have accepted the new terms and conditions if you continue to use FaxStream Enhanced services.  In this agreement, some words have a special, defined meaning. Those words are written like this, and their special defined meanings are as follows: 
+FaxStream Enhanced services means any or all of the following facilities: 
+* FaxStream Broadcast
+* FaxStream Retry
+* FaxStream Never Busy Fax
+* FaxStream Fax Manager
+* FaxStream FaxBank
+* Sending Options
+* Usage Reports
+We, our and us refers to Telstra Corporation Limited ACN 051 775 556, ABN 33 051 775 556. 
+You and your refers to the person or entity which verbally applies to us to have the FaxStream Enhanced services connected.  GST has the same meaning as in the A New Tax System (Goods and Services) Tax Act 1999 (Cth).
+2.  Provision of FaxStream Enhanced services
+We will provide you with access to FaxStream Enhanced services on the terms and conditions set out in this agreement. We shall endeavour to provide the FaxStream Enhanced services within a reasonable time but we will not be liable to you or anyone else for any delay should we fail to do so.
+From time to time, we may issue instructions about the use and operation of the FaxStream Enhanced services. These instructions will form part of this agreement and will take effect four (4) weeks from the date we provide written notice to you.  At any time, we may suspend the provision of FaxStream Enhanced services (in whole or in part) to you.  You acknowledge that when using the FaxStream Enhanced services your FaxStream line number will always be transmitted to the called party in the header advice which forms part of the facsimile message.  We will provide you with the ability to enable the FaxStream Enhanced services to forward a message to a nominated email address or fax number.  We do not warrant that such forwarded messages will be received by the nominated email address or fax number.
+3.  Charges and Payment
+Charges payable for the FaxStream Enhanced services will apply from the time the FaxStream Enhanced services are provided to you and will be due and payable by you strictly in accordance with the terms of our invoices for such charges.
+We may determine new charges and/or vary the existing charges payable for FaxStream Enhanced services at any time. The new charges or variations will form part of this agreement and will take effect four (4) weeks from the date we provide written notice to you. Continued use of the FaxStream Enhanced services by you after this date will be deemed to be acceptance by you of such charges.  If GST is imposed on the FaxStream Enhanced services you must pay us, in addition to any charges payable, an additional amount for the FaxStream Enhanced services, calculated by multiplying the prevailing GST rate by the charges payable for the FaxStream Enhanced services by you under this agreement (without any deduction or set-off).  Any amount payable by you under this clause is payable upon demand by us whether such demand is by means of an invoice or otherwise.
+4.  Termination
+This agreement may be terminated at any time:
+by us, giving written notice to you which will be effective seven (7) days from the date on which you receive the notice;
+by you, giving written notice to us which will be effective seven (7) days from the date on which we receive the notice.
+Any termination of this agreement will be without prejudice to any rights which may have accrued before termination occurs.
+We may waive any breach by you of this agreement but any such waiver is limited to that particular breach. You acknowledge that any delay by us to act upon a breach will not constitute a waiver.
+5.  Limitation of Liability
+To the full extent permitted by law, we will not be liable in any way for any loss, damage or injury arising directly or indirectly from any negligent act or omission regarding the FaxStream Enhanced services.  If liability under any State, Territory or Commonwealth law cannot be excluded or restricted, then to the full extent permitted by law and at our discretion we may choose to limit our liability to any one or more of the following:
+(a)	in the case of goods, to replacement, repair or rectification of the goods;
+(b)	in the case of services, to re-supply of the services.
+This clause shall survive the term of this agreement.
+6.	General 
+This agreement shall be governed by the laws of the State or Territory in which your FaxStream Enhanced services are provided.
+You shall not assign or purport to assign any part of this agreement without our prior written consent.
+You acknowledge and agree that Telstra's Standard Form of Agreement ("SFOA") including the General Terms and Conditions of the SFOA as varied from time to time, will form part of this agreement. 
+In the event of a conflict between the terms of this agreement and the SFOA, the terms of this agreement shall take precedence over the SFOA.
+7.	Notices
+Unless otherwise specifically provided for in this agreement, any notice to be served on either party by the other must be in writing and delivered by hand or sent (including via facsimile) to the addressee at the following address:
+(a) to us: the address of the office shown on our invoice issued to you or such other address as notified to you in writing from time 
+to time;
+(b) to you:  your address being the address to which we have sent this agreement or such other address as notified to us in writing from time to time.
+
+
+
+
+Telstra Corporation Limited A.C.N. 051 775 556. ABN 33 051 775 556
+(r) Registered trademark of Telstra Corporation Limited.	
+C037 2-95
+
+Application  for  Telstra  Enhanced  Network  Services  
+
+
+Version 1/9/98		Telstra Corporation Limited ACN 051 775 556, ABN 33 051 775 556
+
+CONDITIONS FOR ALL SERVICES
+
+
+	Telstra Corporation Limited (A.C.N 051 775 556)
+(tm)		(r)
+Trademark of		Registered trademark of
+Telstra Corporation		Telstra Corporation Limited
+

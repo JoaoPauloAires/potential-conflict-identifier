@@ -1,0 +1,225 @@
+	CONFIDENTIALITY AGREEMENT
+
+
+
+
+
+
+[YOUR COMPANY]
+[COMPANY NO.]
+
+
+and
+
+
+"COMPANY / CONSULTANT"
+[COMPANY NO.]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Your Company]
+[Street address]
+[Suburb, postcode]
+[Telephone no]
+Email:  [full name]@[Your Company].net
+
+
+	INDEX
+
+
+PARTIES	1
+
+RECITALS	1
+1.	DEFINITIONS	1
+2.	MAINTENANCE OF CONFIDENTIALITY	2
+3.	RETURN OF MATERIAL	2
+4.	EMPLOYEE UNDERTAKINGS	3
+5.	THIRD PARTY DISCLOSURE	3
+6.	INFORMATION NOT PROTECTED	3
+7.	DAMAGES	4
+8.	SUPERVENING OBLIGATION	4
+9.	NON SOLICITATION OF EMPLOYEES	5
+10.	INDEMNITY	5
+11.	NO ASSIGNMENT	5
+12.	FURTHER ASSURANCES	5
+13.	NO AMENDMENT	5
+14.	GOVERNING LAW	5
+
+
+
+THIS AGREEMENT is made on the   day of 	2002
+
+
+BETWEEN
+		[YOUR COMPANY]  [COMPANY NO.] 
+		of [Street address], [Suburb, postcode]
+
+	("[YOUR COMPANY]")
+
+AND
+
+		"COMPANY / CONSULTANT"   
+		of 
+
+	("C/C")
+
+RECITALS
+
+
+A. [YOUR COMPANY] and C/C have entered into commercial negotiations and have received or may receive certain Confidential Information about each other. Both parties wish to ensure that the confidentiality of all such information is maintained.  This Agreement records both parties' obligations.
+
+THE PARTIES HAVE AGREED as follows:
+
+
+1. DEFINITIONS
+
+In this Agreement unless specified to the contrary:
+
+1.1. "Confidential Information" means any information relating to the business and the business operations of the parties including information relating to the parties' products, services, personnel or its commercial activities including but not restricted to formulae, compilations, programs, devices, concepts, techniques, marketing and commercial strategies, processes, data concepts and know-how, cost structures, financial information, customers' details, designs, patents, copyrights and unique combinations of separate items which individually may or may not be confidential and any other information which are designated as confidential whether oral or in writing.
+
+2. MAINTENANCE OF CONFIDENTIALITY
+
+Each party agrees to maintain as confidential and agrees not to use any part or the whole of the Confidential Information whether directly or indirectly disclosed to it by the other party for a period of 10 years from the date of this agreement or until or unless such information becomes public knowledge through no fault of the party to whom the information has been disclosed.
+
+Both parties further agree to:
+
+2.1. establish and maintain to the reasonable satisfaction of each other, effective security measures to safeguard each other's Confidential Information from unauthorised access, use, copying or disclosure;
+
+2.2. immediately do anything reasonably required by each other to prevent or restrain a breach or suspected breach of this Agreement or any infringement or suspected infringement arising out of this Agreement by any person whether by court proceedings or otherwise; and
+
+2.3. disclose the Confidential Information to only those officers, employees and professional advisers who have been approved by both parties, and have specific need to have access to the Confidential Information.
+
+3. RETURN OF MATERIAL
+
+3.1 At the end of the negotiations between the parties, or upon demand by either party at any time, [YOUR COMPANY] and C/C both undertake to return all Confidential Information immediately to the other party and at the same time to confirm in writing that no copies have been made or retained, whether in printed form, electronic storage or in machine readable form.
+
+3.2 Return of the documents and other material referred to in clause 3.1 above does not release either party or its employees, agents or advisers from their obligations under this Agreement and the parties agree that a provision of this Agreement which can and is intended to operate after its conclusion will remain in full force and effect.
+
+4. EMPLOYEE UNDERTAKINGS
+
+Before any permitted disclosures are made, each party will obtain from those of its employees to whom any Confidential Information is to be disclosed or who may in any way obtain access to any Confidential Information, enforceable undertakings (if requested to do so by the other party) in terms at least as binding upon the employees as [YOUR COMPANY] and C/C are bound to each other under this Agreement.
+
+5. THIRD PARTY DISCLOSURE
+
+If [YOUR COMPANY] and C/C require the assistance of any other party (other than their own employees as provided for in the section entitled "Employee Undertakings"), to whom disclosure of any Confidential Information is necessary, [YOUR COMPANY] or C/C (as shall be appropriate) will first seek the approval of the other party to this Agreement and thereafter obtain from the third party enforceable undertakings in terms at least as binding upon the third party as [YOUR COMPANY] and C/C are bound to each other under this Agreement.
+
+6. INFORMATION NOT PROTECTED
+
+The protection to be accorded to the information to be disclosed under this Agreement does not and shall not extend to any information which it can be proved by documentary evidence produced by the receiving party upon the written request of the disclosing party which:
+
+6.1 is already known to the receiving party or in its possession before the disclosure under this Agreement free of any obligation to keep it confidential;
+
+6.2 is or becomes publicly known through no wrongful act or default of the receiving party;
+
+6.3 is received from a third party without similar obligations of confidence and without breach of this Agreement;
+
+6.4 is already possessed or independently developed by the receiving party;
+
+6.5 is disclosed to a third party by the disclosing party without similar restrictions on that third party's rights of disclosure; or
+
+6.6 is approved for release by written authorisation of the disclosing party.
+
+7. DAMAGES
+
+7.1 Both parties expressly acknowledge the unique and special nature of the Confidential Information the loss of which may not reasonably or adequately be compensated for in damages or in action at law and agrees that any failure on either party's part to observe and perform its obligations under this Agreement shall entitle the party not in default ("non defaulting party") to institute proceedings for an injunction to restrain the party in default ("defaulting party") from committing or continuing any breach of this Agreement.
+
+7.2 Both parties hereby agree that in the event that it is necessary for the non-defaulting party to institute proceedings for an injunction, then all reasonable legal costs incurred by that party on a solicitor/client basis in connection with such proceedings shall be reimbursed by the defaulting party and shall be recoverable as a debt.
+
+8. SUPERVENING OBLIGATION
+
+8.1 This Agreement does not apply to any Confidential Information which is required to be disclosed by a party under any law or order and any court, tribunal, authority or regulatory body.
+
+8.2 Before the party discloses any Confidential Information under any law or order of the kind referred to in clause 8.1 ("Disclosing Party"), the Disclosing Party will provide the other party with sufficient notice to enable it to seek a protective order or other remedy.  The Disclosing Party will provide the other party with all assistance and co-operation necessary to prevent the disclosure of Confidential Information.
+
+9. NON SOLICITATION OF EMPLOYEES
+
+During the period of their commercial negotiations and for six months afterwards, neither party will induce any of the other party's employees to enter into a contract of employment or contract for services with them.
+10. INDEMNITY
+
+Both parties agree to indemnify each other (without prejudice to any party's other rights remedies whether pursuant to the agreement or at law or in equity or otherwise howsoever) to indemnify each other against any loss (including, without limitation, any loss of profits or expected benefits), action, proceedings, costs, claim, demand, expense or liability which either party may suffer as a consequence, directly or indirectly, of any breach by either party of its obligations hereunder.
+
+11. NO ASSIGNMENT
+
+No party shall assign or transfer all or any part of its rights or obligations under this Agreement.
+
+12. FURTHER ASSURANCES
+
+The parties must (and if applicable must procure that each of their respective officers, agents, employees and advisers) execute and deliver all such documents and do and perform all such other acts and things as may be necessary or desirable to give full effect to this Agreement.
+
+13. NO AMENDMENT
+
+This Agreement may not be modified, discharged or abandoned unless by a document signed by the parties.
+14. GOVERNING LAW
+
+The Agreement shall be governed by and construed in accordance with the laws of the State of New South Wales, Australia and each party hereby irrevocably and unconditionally submits to the non-exclusive jurisdiction of the Courts of the State of New South Wales.
+
+
+EXECUTED by the parties.
+
+THE COMMON SEAL of				)
+[YOUR COMPANY]	)
+[COMPANY NO] [XX XXXX XXX XXX]	)
+is affixed in accordance with its				)
+Constitution in the presence of:	)
+
+
+________________________________	________________________________
+(Signature of Director)	(Signature of Secretary/Director)
+
+
+________________________________	________________________________
+(Name of Director - please print)	(Name of Secretary/Director - please print)
+
+
+
+THE COMMON SEAL of C/C				)
+	)
+is affixed in accordance with its				)
+Constitution in the presence of:	)
+
+
+________________________________	________________________________
+(Signature of Director)	(Signature of Secretary/Director)
+
+
+________________________________	________________________________
+(Name of Director - please print)	(Name of Secretary/Director - please print)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

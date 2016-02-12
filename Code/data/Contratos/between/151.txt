@@ -1,0 +1,168 @@
+LICENCE AGREEMENT
+THIS DEED is made on 		2004
+BETWEEN:
+DR JOHANNA VOGEL of 48 Ridgewood Drive, Dawesville, Western Australia ("Licensor")
+and the person or entity identified as the Licensee in Section A of the Schedule ("Licensee").
+IT IS AGREED as follows.
+1. DEFINITIONS AND INTERPRETATION
+The following definitions apply unless the context requires otherwise. 
+Licence means the licence granted by the Licensor to the Licensee under this Agreement. 
+Site means the location specified in Section B of the Schedule for installation of the Work. 
+Special Conditions means any conditions set out in Section F of the Schedule and which are incorporated into this Agreement.
+Term means the term of the Licence which is specified in Section C of the Schedule.
+Terminating Event means those terminating events specified in Clause 8.1.
+
+Work means the multimedia program entitled "Virtual Language University" in CD-ROM format, created by the Licensor for the purpose of teaching English as a second language, and comprising four units, namely:
+1.	Listening
+2.	Writing
+3.	Grammar; and
+4.	Vocabulary
+and includes any associated documentation or printed materials.
+2. GRANT OF LICENCE
+Subject to this Agreement the Licensor grants to the Licensee, who accepts, a personal, non-transferable and non-exclusive Licence to use the Work on the Site.  The Licence does not include a right to sub-licence. 
+3. DURATION OF LICENCE
+      The Licence commences on the Commencement Date and will continue for the Term.
+4. WORK
+(1) The Licensor shall give the Licensee the number of copies of the Work in CD-Rom format as is specified in Section E of the Schedule.
+(2) The Work may not be used by the Licensee except for the purposes of tertiary education.  The Licensee must not, or permit another person to, copy, sell, licence or mortgage the Work for any reason whatsoever.  Without limiting any other remedy available to the Licensor, a breach of this Clause 4 will entitle the Licensor to equitable relief against the Licensee, including injunctive relief.  
+5. LICENCE FEES
+The Licence is granted to the Licensee  for the fee specified in Section D of the Schedule. The fee shall be paid in full by the Licensee to the Licensor on the execution of this Agreement and in such manner and currency as is specified in the Special Conditions. 
+6. LIABILITY
+(3) (a)	Subject to Clause 6.1(b) but without limiting Clause 6.3, the Licensor makes no representation that the use of the Work will not infringe any third person's rights, including, without limitation, any third person's patent rights or copyright. 
+(b)	The Licensor warrants that as at the date of this Agreement it is not aware that the Licensee's use of the Work in accordance with this Agreement will infringe any third person's rights. 
+(4) The Licensee acknowledges that the Work is supplied "as is" and that the Licensor has not made and that no person acting on behalf of the Licensor has made, any representation as to the Work's merchantability or suitability for any particular purpose or any representation that the Work is error free or that it is free from any "worm", "virus", "back door" or any computer software routine intended or designed to disable, damage, erase, disrupt or impair the normal operation of the Work or any other software or data on the Licensee's computer systems.
+(5) To the maximum extent permitted by law:
+(a) all terms and warranties expressed or implied by any legislation, the common law, equity, trade custom or usage or otherwise in relation to the Licence of the Work, the supply of services under this Agreement or otherwise in connection with this Agreement are expressly excluded: and
+(b) the Licensor is not liable in any way for any direct, indirect or consequential loss or loss of profit or damage (including loss of data or damage that may reasonably be supposed to have been in the contemplation of the parties as at the date of this Agreement as a probable result of any act or omission) arising out of or in connection with the Licence of the Work, the supply of services under this Agreement or otherwise in connection with this Agreement, including, without limitation loss or damage caused by:
+(i) the Licensor's negligence; or
+(ii) any "worm", "virus", "back door" or any computer software routine intended or designed to disable, damage, erase, disrupt or impair the normal operation of computer systems stored on any disk or other storage material supplied to the Licensee.
+7. RIGHTS IN THE WORK
+(6) All rights (including copyright) in the Work are and remain owned by the Licensor.  
+(7) On termination of the Licence for any reason, the Licensee loses all right to use the Work and must immediately return all copies of the Work to the Licensor.
+8. MODIFICATIONS AND REVERSE ENGINEERING
+(8) The Licensee shall not modify the Work or merge all or any part of the Work with other programs or reverse engineer the Work without the Licensor's consent.
+(9) The Licensee indemnifies and holds harmless the Licensor against any liability incurred if the said modifications infringe the intellectual property rights of a third person.
+(10) The Work as modified remains the property of the Licensor.
+(11) The Licence shall continue to apply to the Work as modified.
+9. TERMINATION
+(12) For the purpose of this agreement, the following are Terminating Events -
+(a) the breach or threatened breach by either party of any of its material obligations under this agreement, including any obligation of the Licensee to pay money to the Licensor; and
+(b) the appointment of any type of insolvency administrator in respect of the Licensee; or the entry or proposed entry by the Licensee into any scheme, composition or arrangement with any of its creditors.
+(13) The Licence may be terminated immediately on the happening of a Terminating Event at the option of the affected party.
+(14) Neither party shall be liable for the consequences of an occurrence of any event beyond its reasonable control. 
+10. AMENDMENT
+No amendment or variation of this Agreement is valid or binding on a party unless made in writing executed by all parties. 
+11. SEVERABILITY OF PROVISIONS
+Any provision of this Agreement which is prohibited or unenforceable in any jurisdiction is ineffective as to that jurisdiction to the extent of the prohibition or unenforceability.  That does not invalidate the remaining provisions of this Agreement nor affect the validity or enforceability of that provision in any other jurisdiction. 
+12. FURTHER ASSURANCES
+Each party agrees to do all things and execute all deeds, instruments, transfers or other documents as may be necessary or desirable to give full effect to the provisions of this Agreement and the transactions contemplated by it. 
+13. COSTS AND STAMP DUTY
+13.1	Each party shall bear its own costs arising out of the negotiation, preparation and execution of this Agreement. 
+13.2	All stamp duty and other taxes that may be payable on or in connection with this Agreement or the Work shall be paid by the Licensee (other than tax payable to the Commonwealth of Australia by the Licensor on any net income the Licensor may receive under this Agreement). 
+14. GOVERNING LAW AND JURISDICTION
+The laws of Western Australia govern this Agreement.  Each party submits to the non-exclusive jurisdiction of courts exercising jurisdiction there in connection with matters concerning this Agreement.  The 1980 United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement. 
+15. COUNTERPARTS
+This Agreement may be executed in any number of counterparts.  All counterparts together will be taken to constitute one instrument. 
+
+THE SCHEDULE
+
+Section A LICENSEE
+
+
+Section B SITE
+
+
+Section C TERM
+
+
+Section D LICENCE FEE
+
+
+Section E NUMBER OF COPIES OF THE WORK
+
+
+SECTION F	SPECIAL CONDITIONS
+
+
+
+
+
+
+EXECUTED AS A DEED
+
+SIGNED by the said JOHANNA VOGEL in her capacity as Licensor in the presence of:)
+)
+)
+)
+)
+
+
+______________________________
+(Signature of witness)
+
+
+______________________________
+(Name of witness in full)
+
+
+______________________________
+(Address of witness)
+
+
+
+______________________________
+(Occupation of witness)
+
+
+
+SIGNED for and on behalf of the Licensee by [                 ] in the presence of:)
+)
+)
+)
+)
+
+
+______________________________
+(Signature of witness)
+
+
+______________________________
+(Name of witness in full)
+
+
+______________________________
+(Address of witness)
+
+
+
+______________________________
+(Occupation of witness)
+
+
+
+
+
+
+LICENCE AGREEMENT
+
+Between:
+DR JOHANNA VOGEL
+ ("the Licensor")
+
+and
+THE PARTY NAMED IN ITEM 1 OF THE SCHEDULE
+ ("the Licensor")
+JACKSON McDONALD
+Barristers & Solicitors
+81 St Georges Terrace
+PERTH, Western Australia 6000
+
+Tel: 9426.6611    Fax: 9321.2673
+REF:DJC/2006084 
+
+
+
+- 2 -
+
+		
+

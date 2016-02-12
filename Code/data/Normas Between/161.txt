@@ -1,0 +1,62 @@
+Where an obligation is imposed on a party under this Escrow Agreement, that obligation shall include an obligation to ensure that no act, error or omission on the part of that party's employees, agents or sub-contractors or their employees or agents occurs which will prevent the discharge of that party's obligation.
+The Contractor shall deliver to, and deposit with, the Escrow Agent one copy of the Source Code and the Supporting Material within seven (7) days of the date of this Escrow Agreement.
+The Contractor shall maintain, amend, modify, up-date and enhance the Source Code and Supporting Material at all times and shall ensure that the Source Code and Supporting Material deposited with the Escrow Agent is kept fully up-to-date and accurately reflects the Licensed Software including all Modifications, Amendments, Updates and New Releases made to, or in respect of, the Licensed Software.
+The Contractor warrants to the Customer that the Source Code is, to the best of the knowledge of the Contractor, free from any Virus or program device which would prevent the Licensed Software from performing its desired function or which would prevent or impede a thorough and effective verification thereof.
+
+The Escrow Agent shall accept custody of the Source Code and Supporting Material on the date of delivery in accordance with sub-clause 4.1 of this Escrow Agreement and, subject to the terms and conditions of this Escrow Agreement, shall hold the Source Code and Supporting Material on behalf of the Customer and the Contractor.
+The Escrow Agent shall take all necessary steps to ensure the preservation, care, maintenance, safe custody and security of the Source Code and Supporting Material while it is in the possession, custody or control of the Escrow Agent, including storage in a secure receptacle and in an atmosphere which does not harm the Source Code and the Supporting Material.
+If the Source Code and/or Supporting Material is lost, stolen, destroyed or damaged while it is in the possession, custody or control of the Escrow Agent, the Escrow Agent shall immediately notify the Customer and the Contractor.
+Unless the Escrow Agreement is terminated in accordance with clause 9.2(b), the Contractor shall, upon receipt of a notice from the Escrow Agent under clause 5.3, promptly deposit a replacement copy of the Source Code and/or Supporting Material with the Escrow Agent.
+Upon receipt of the replacement copy of the Source Code and/or Supporting Material, the Escrow Agent shall promptly advise the Customer and Contractor in writing of its receipt of the replacement copy of the Source Code and/or Supporting Material.
+Without limitation to any other rights the Contractor and/or the Customer may have under this Escrow Agreement or at law, where the loss, damage or destruction of the Source Code and/or Supporting Material is caused by the negligent, wilful or unlawful act or omission of the Escrow Agent, the Escrow Agent must, at its own expense, reimburse the Contractor for the reasonable cost of replacing the Source Code and/or Supporting Material.
+The Escrow Agent is not obliged to determine the nature, completeness or accuracy of the Source Code lodged with it.
+
+The Customer shall pay the Escrow Fee within 30 days of receipt of a correctly rendered tax invoice from the Escrow Agent.
+All expenses and disbursements incurred by the Escrow Agent in connection with this Escrow Agreement shall be borne wholly and completely by the Escrow Agent.
+All expenses and disbursements incurred by the Contractor in connection with this Escrow Agreement shall be borne wholly and completely by the Contractor.
+
+The Customer may, in the presence of and under the supervision of the Contractor, analyse and conduct tests in relation to the Source Code and Supporting Material for verification purposes.
+The Customer may engage an independent assessor to undertake analysis and tests of the Source Code and Supporting Material for verification purposes, on its behalf.
+The Escrow Agent shall release the Source Code and Supporting Material to the independent party upon presentation of a Release form signed by the Customer and the Contractor specifying the material to be released and identifying the person to whom that material may be released.
+
+The Escrow Agent shall not release, or allow access to, the Source Code and Supporting Material except in accordance with the provisions of this Escrow Agreement.
+The Escrow Agent shall release the Source Code and Supporting Material to the Customer upon written notice from the Customer that:
+the Contractor has become subject to any form of insolvency administration;
+the Contractor has ceased for any reason to maintain or support the Licensed Software;
+the Customer Contract has been terminated by the Customer for breach of the Escrow Agreement by the Contractor; or
+this Escrow Agreement is terminated (other than in accordance with Clause 9.4) and a new Escrow Agreement is not entered into within thirty (30) days in accordance with clause 9.3.
+
+Where the Customer Contract has been terminated by the Contractor or where the Customer has agreed to the release the Escrow Agent shall, upon written request from the Contractor, release the Source Code and Supporting Material to the Contractor.
+The Escrow Agent is not obliged to verify or otherwise test the validity of any notice received, or its contents.
+
+The Escrow Agent may, by giving three (3) months prior written notice to the Customer and the Contractor, terminate this Escrow Agreement subject to the pro-rata refund of any advance payment of the Escrow Fee.
+The Customer and the Contractor may jointly terminate this Escrow Agreement immediately if the Escrow Agent:
+has become subject to any form of insolvency administration; or
+is in breach of any obligation under this Escrow Agreement so that there is a substantial failure by the Escrow Agent to perform or observe this Escrow Agreement.
+
+If this Escrow Agreement is terminated in accordance with this clause while the Customer Contract remains in force, the Customer and the Contractor shall enter into a new Escrow Agreement on the same terms and conditions as are set out in this Escrow Agreement, with an alternative escrow agent who is acceptable to both the Customer and the Contractor.
+The Customer and the Contractor may, upon giving 30 days prior written notice to the Escrow Agent, jointly terminate this Escrow Agreement, however no refund of advance payment of the Escrow Fee will be payable.
+
+The Escrow Agent shall not, except as permitted by this Escrow Agreement, make public or disclose to any person any information about this Escrow Agreement or the Source Code.
+The Escrow Agent shall not reproduce, or cause to have reproduced, a copy of the Source Code or any part thereof.
+The obligations under this clause shall survive the termination of this Escrow Agreement.
+
+The Escrow Agent shall in carrying out this Escrow Agreement comply with the provisions of any relevant statutes, regulations, by-laws and the requirements of any Commonwealth, State or local authority.
+
+Any party under this Escrow Agreement may notify in writing a dispute in respect of a matter arising under this Escrow Agreement. The Parties shall within 7 days of such notice consult to agree a method for resolving the dispute by way of:
+negotiation;
+alternative dispute resolution procedures; or
+arbitration;
+shall commence procedures for dispute resolution within a reasonable time of agreeing a method.
+
+This Escrow Agreement shall not be varied either in law or in equity except by agreement in writing signed by the Escrow Agent, the Customer and the Contractor.
+A waiver by one party of a breach of a provision of this Escrow Agreement by another Party shall not constitute a waiver in respect of any other breach or of any subsequent breach of this Escrow Agreement.  The failure of a Party to enforce a provision of this Escrow Agreement shall not be interpreted as a waiver of that provision.
+
+The Contractor and the Escrow Agent, or either of these, shall not assign, in whole or in part, or novate this Escrow Agreement without first obtaining the prior written consent of the Customer.  
+
+A notice or other communication which may be given to or served on either party under this Escrow Agreement is deemed to have been duly given or served if it is in writing, signed by the Party giving the notice ("the first Party") and is either delivered by hand, posted, sent via facsimile or a copy transmitted via electronic mail or other electronic means to the other Party at the address set out below or such other address as is notified in writing to the first party from time to time.
+If delivery or receipt of a notice or communication occurs on a day other than a Business Day or is later than four (4.00) pm (Customer local time) it will be taken to have duly occurred at nine (9.00) am (Customer local time) on the next Business Day.
+Where the notice is given or served electronically, the sending party must confirm receipt by some other means.  The address for services of notice for a party is, in the case of the:
+This includes controlled retention of deposits and maintenance of audit records and documentary evidentiary support of deposit movements, processing and certification of up to 4 deposits per annum.  Deposits in excess of 4 per annum shall be charged at the Additional Charges rate set out below.
+This includes one unit of Escrow Storage (where 1 unit = 1/2 cubic foot).  Additional units of Escrow Storage shall be charged at the Additional Charge rates set out below.
+The Annual deposit fee is based on a 3 party agreement, where one of the parties is the Escrow Agent.  Additional parties to the Escrow Agreement shall be charged at the Additional Charge rates set out below.

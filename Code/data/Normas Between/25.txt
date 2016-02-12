@@ -1,0 +1,96 @@
+The Company and RMIT have been involved in negotiations concerning the subject matter of this agreement.
+
+The Company and RMIT have agreed that this document shall record the terms agreed in their negotiations.
+In this agreement (including the Recitals and any Annexures or Schedules) unless the context otherwise requires:
+
+a reference to this agreement or another instrument includes any amendment or replacement of it and despite any change in the identity of the parties;
+
+if any party to this agreement comprises two or more persons then the obligations of those persons are joint and several;
+a provision of this agreement which is in favour of two or more persons is for the benefit of them jointly and severally;
+A reference to any person includes that person's legal personal representatives and if any person is a corporation a reference to that person includes its successors and assigns;
+words denoting the singular number include the plural number and vice versa and words importing one gender include the other gender;
+
+
+The Term of this agreement begins on Commencement Date and ends on Expiry Date, unless extended or terminated earlier due to default.
+
+Prior to expiration of the Term, the parties may agree in writing to extend the Term.
+
+The title to and all Intellectual Property Rights in RMIT Material remains the property of RMIT at all times.
+
+Each party undertakes to keep secret and protect and preserve the confidential nature and secrecy of the Confidential Information of the other party.  Without limiting this obligation, a party must not:
+
+use or permit any person to use the other party's Confidential Information for any purpose other than the performance of this agreement;
+disclose or in any way communicate to any other person any of the other party's Confidential Information except as authorised by the other party;
+permit unauthorised persons to have access to places where the other party's Confidential Information is displayed, reproduced or stored; or
+make or assist any person to make any unauthorised use of the other party's Confidential Information.
+Each party must take reasonable steps to enforce the confidentiality obligations imposed by sub-clause 1 above including diligently prosecuting, at its own cost, any breach or threatened breach of those obligations by a person to whom the party has disclosed the Confidential Information.
+A party may disclose the other party's  Confidential Information to its advisers in relation to its rights under this agreement or to its employees and sub-contractors on a need to know basis, solely to assist in the performance of obligations under this agreement and on the condition that such persons do not disclose the Confidential Information to any other person.
+The obligations of confidentiality under this agreement shall survive expiration or earlier termination of this agreement.
+
+An Event of Default occurs if any one or more of the following events occurs in respect of a party ("defaulting party")
+default be made by the defaulting party in the performance or observance of any other obligation on its part contained in this agreement and if such default can be remedied, is not remedied within fourteen (14) days of written notification from the other party that it requires that default to be remedied;
+an Event of Insolvency occurs in respect of the defaulting party.
+
+If an Event of Default occurs in respect of a defaulting party, then the other party may in its discretion terminate this agreement by written notification to the defaulting party.
+
+The indemnity in clause 9.2 is given by each party to the other of them.
+
+A party ("the indemnifying party") indemnifies and will keep indemnified the other party ("the indemnified party") and its officers, employees, agents, contractors and consultants from and against all actions, claims, proceedings or demands (including those brought by third parties) which may be brought against it or them, whether on their own or jointly with the indemnifying party in respect of any loss, death, injury, illness, damages, costs or expenses (but excluding consequential financial loss) where caused by any unlawful or negligent act of the indemnifying party, its employees, agents, sub-contractors or consultants arising from the indemnifying party's exercise of its rights or obligations under  this agreement or from any other loss which may arise from or as a result of any breach of the terms of this agreement by the indemnifying party, its employees, agents, sub-contractors or consultants.
+
+The indemnifying party's obligation to indemnify the indemnified party and its officers, employees and agents set out in sub-clause 2 is a continuing obligation separate and independent from the indemnifying party's other obligations and will survive expiration or earlier termination of this agreement.
+
+If a party becomes aware of any matter likely to constitute a Force Majeure Event affecting its obligations under this agreement, it must within 5 business days of the occurrence of the Force Majeure Event give to the other party a notice containing full particulars, including the likely effect of the Force Majeure Event on the relevant obligations ("suspension notice").
+
+Where a party has provided a suspension notice, the non-financial obligations of that party under this agreement shall be suspended, to the extent they are effected by the Force Majeure Event, until the cessation of the Force Majeure Event provided however that the maximum periods of suspension of obligations under this clause shall be 6 months per event from the date of occurrence of the relevant Force Majeure Event.
+
+The Company must effect and maintain at all times during the Term  the following insurances:
+
+Public Liability insurance for an amount of not less than $10,000,000.
+
+Professional Indemnity insurance for an amount of not less than *** [SEE USER NOTES].
+
+Product Liability insurance for an amount of not less than *** [SEE USER NOTES].
+
+The Company must provide RMIT with certified copies of all relevant policies upon being requested to do so by RMIT.
+
+The Guarantor unconditionally and irrevocably guarantees to RMIT the performance of each of the Company's obligations under this agreement.
+
+The Guarantor unconditionally and irrevocably indemnifies RMIT against all losses or costs arising out of any breach, or any losses or costs caused to another person, by the Company or by its employees, agents or sub-contractors.
+
+The Guarantor will obtain independent legal advice about the decision of the Guarantor to assume the obligations and liability under this clause and acknowledges having read this agreement.  The Guarantor waives any right of first requiring RMIT to proceed against the Company before exercising its rights under this clause.
+
+Where the Guarantor comprises more than one person, then the obligations of the Guarantor are joint and several.
+
+The obligations and liability of the Guarantor under this clause are assumed by the Guarantor in consideration of RMIT agreeing to enter into this agreement with the Company.
+
+If a dispute arises in respect of any aspect of this agreement which is capable of resolution between the parties, then the parties must attempt to resolve that dispute in good faith and no party shall be entitled to exercise any of its rights under this agreement or at law unless:
+
+that party has served a notice on the other party requesting resolution of the dispute, and
+
+the dispute has not been resolved within fourteen (14) days of the date of service of the notice.
+
+A provision of or a right created by this agreement cannot be waived except in writing signed by the party granting the waiver.  No variation to or amendment of this agreement can be made without the consent in writing of all of the parties.
+
+Where any provision of this agreement provides for a party to provide its consent or approval then such party may conditionally or unconditionally in its absolute discretion give or withhold such consent or approval unless this agreement expressly provides otherwise.
+
+The parties agree to bear their own costs (including legal costs) in respect of this agreement.
+
+The Company must not novate, assign or subcontract this agreement or any of its obligations under this agreement without the prior written consent of RMIT.
+
+This agreement can be executed in a number of counterparts and the counterparts taken together will be deemed to constitute the one and the same document.
+
+Any notice, demand, consent, approval or other communication ("a Communication") in connection with this agreement by a party may (without limitation to any other valid form of execution) be signed by an authorised officer of that party (if a corporation), or by any solicitor acting for that party, whose signature may be hand-written or printed or otherwise reproduced by mechanical means.
+
+Service under sub-clause 2 will be valid even though the addressee may have been wound up or in liquidation (if a corporation) or the addressee is absent from the place at or to which the Communication is left, delivered or sent, or where the Communication is sent by post or otherwise, it is returned unclaimed.
+
+A Communication in connection with this agreement will be deemed to have been received by the person:
+
+if left or delivered personally, on the same day;
+
+if sent by post to an address in Australia, on the second business day after the date of posting;
+
+if sent by post to an address outside Australia, on the fourth business day after the date of posting;
+
+in the case of a facsimile, on receipt of the facsimile in legible form.
+
+Unless the parties otherwise agree in writing a Communication in connection with the agreement may not be sent by electronic mail ("email").

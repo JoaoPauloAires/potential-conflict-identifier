@@ -1,0 +1,108 @@
+
+SECTION A - DETAILS OF CUSTOMER
+Customer:ABN:Customer Contact:Postal Address:Street Address:Telephone:Bus:Fax:Mobile:E-mail:
+SECTION B - DESCRIPTION OF SERVICES
+Type of Service   (If Required Please Tick Corresponding Box)Price (Inclusive of GST)Warehousing 	?$		(per day)Repacking                                                                      	?$		(per package)Delivery                                                                                	?$		(per pallet)Conditioning/ripening 	?
+[insert other as required]      		$		(per pallet)
+Should the product supplied under this Service Agreement be subsequently delivered and sold to the Business, the Business reserves the right to waive all or part of the charges otherwise applying under this Service Agreement.
+
+SECTION C - EXECUTION
+By signing this Reference Schedule I, for and on behalf of and with the authority of the Customer, agree that I have read and understood the attached Service Agreement Conditions and that upon such signing the Customer will be bound by the terms of it and that a formal contract shall be deemed constituted between the Service Provider and the Customer for the provision of the Services despite the Service Provider not having executed the same.
+
+EXECUTED by CUSTOMER
+Where Customer is                     	Where Customer
+an Individual	is a Company 			
+
+
+
+Individual Customer 		   Director 	                           	Director/Company Secretary
+sign above 
+The Service Provider agrees to supply the Services to the Customer on the terms and conditions set out in this Agreement.
+The parties agree as follows:
+1. Definitions
+The following terms shall have a defined meaning as used in this Agreement:
+(a) "Business Day" means a day that is not a Saturday, Sunday or a designated holiday in the State in which the Business is located;
+(b) "Code" means the Horticulture Code of Conduct contained in the Trade Practices (Horticulture Code of Conduct) Regulations 2006 (Cth);
+(c) "Customer" means the person named in the Reference Schedule for whom the Service Provider has agreed to provide the Service in accordance with the terms of this Agreement;
+(d) "Goods" means produce delivered to the Service Provider by or on behalf of the Customer under this Agreement;
+(e) "GST" has the same meaning as that term has in the GST Law;
+(f) "GST Law" means the A New Tax System (Goods and Services Tax) Act 1999 (Cth) and/or associated Commonwealth legislation, regulations and publicly available rulings;
+(g) "Merchant" has the meaning ascribed to that term in the Code;
+(h) "Price" means the Price for the Services set out in the Reference Schedule, as may be amended or replaced by the Service Provider from time to time during the Term;
+(i) "Reference Schedule" means the schedule attached to this Agreement to be completed by the Customer;
+(j) "Service" means the Service or Services to be provided by the Service Provider for the Customer in respect of the Goods more particularly described as those selected items of Service within the Reference Schedule relating to the Goods or such other Services as may be agreed between the Service Provider and the Customer from time to time during the Term;
+(k) "Service Provider" means the entity described in the Reference Schedule or related persons deemed to be in association with the Service Provider;
+(l) "Tax Invoice" has the same meaning as that term has in the GST Law;
+(m) "Term" means a period commencing on the first delivery of the Goods under this Agreement, and continuing until this Agreement is terminated or replaced.
+2. Provision of Services
+The Service Provider agrees to provide the Service to the Customer in respect of the Goods received by the Service Provider for that purpose from time to time during the Term.
+3. Payment Terms
+(a) In consideration for providing the Service, the Customer will pay the Price for the Services to the Service Provider in accordance with this clause 3;
+(b) the Customer shall be invoiced by the Service Provider for the Services provided with respect to Goods when those Goods are delivered in accordance with clause 7(a); and
+(c) the Customer shall pay the invoice amount together with the GST or any applicable taxes within [insert number of days to pay account] days of the date of the Service Provider's invoice.
+(d) The Customer authorises the Service Provider to apply any credit balance in any of the Customer's accounts with the Service Provider or any other amount owing to the Service Provider or which the Customer is liable to pay to the Service Provider (whether or not arising under this Agreement) in or towards satisfaction of any amount due to the Service Provider under this Agreement.
+4. Liabilities of Customer
+(a) The Customer shall be liable to insure (for defined events including fire, theft and accidental damage and other deterioration and/or inherent loss of any kind) the Goods both in transit, while on deposit with the Service Provider and upon their delivery and the Service Provider shall not be liable for any loss or damage to the same by the Customer's failure to do so;
+(b) the Customer shall be liable to compensate the Service Provider, for all direct, indirect or consequential, losses, damages, costs, claims and expenses which the Service Provider may incur in respect of the provision of the Service, this Agreement or at law. 
+5. Liabilities of the Service Provider
+Provided always that the Service Provider has acted reasonably and in good faith in providing the Services, to the maximum extent permitted by law, the Service Provider shall not be liable to the Customer or any other person or entity whatsoever as to: 
+(a) the accuracy, description, relevance, completeness, merchantable quality, fitness for any purpose or any other matter relating to the Services under this Agreement;
+(b) loss of, or damage to, the Goods by any cause (including lawful confiscation);
+(c) any damage to property or death of, or injury to, any person caused directly or indirectly by the Goods;
+(d) any claim against the Service Provider in relation to the Goods or their use;
+(e) any other thing in relation to which the Customer has assumed the risk or liability under clauses 4 and 6.
+6. Transfer of Title and Risk
+(a) The parties acknowledge that despite the provision of Services by the Service Provider under this Agreement, title and risk in respect of the Goods shall remain with the Customer at all times despite the possession of the Goods by the Service Provider.
+(b) At no time will the Service Provider assume any risk or liability in respect of the Goods.
+7. Delivery
+(a) The Service Provider must, when requested by the Customer, deliver or arrange for delivery of the Goods to the Customer or in accordance with the directions of the Customer, at the cost of the Customer.
+(b) The obligation of the Service Provider under this Agreement in respect of particular Goods ends on delivery of those Goods.
+(c) Despite clause 7(a), delivery will be deemed to have occurred for the purposes of clause 7(b), where the Service Provider voluntarily changes the nature of its possession of the particular Goods such that those Goods are held in its capacity as Merchant (for the purposes of the Code) for the purpose of re-sale by the Service Provider.
+8. GST
+(a) Unless expressly stated to the contrary:
+i) all amounts expressed in this Agreement are exclusive of GST; and
+ii) all terms in this clause 8, unless otherwise defined, have the same meaning as those terms have in the GST Law.
+(b) If a party ("the Supplier") is obliged pursuant to the GST Law to pay an amount of GST in respect of a Taxable Supply made by the Supplier to another party ("the Recipient") pursuant to the provisions of this Agreement, the Recipient shall pay the Supplier on demand that amount of GST upon production of a valid Tax Invoice by the Supplier in addition to the moneys otherwise payable by the Recipient to the Supplier on account of that Taxable Supply.
+9. Indemnity
+(a) The Customer indemnifies and will hold the Service Provider indemnified from and against all losses, liabilities, damages, claims, proceedings, demands, costs and expenses however arising that the Service Provider or its employees, agents or contractors, suffer, sustain or incur as a result of or in connection with any breach of the Customer of this Agreement or arising from any act, default or negligence of the Customer.
+(b) The Customer must pay to the Service Provider on demand any amount payable under the indemnity contained in this clause 9.
+10. Severance
+If any of the provisions of this Agreement are held to be invalid, unlawful or unenforceable for any reason whatsoever, by a court of competent jurisdiction, such invalidity, unenforceability or illegality will not affect the operation, construction or interpretation of any other terms of this Agreement and the invalid, unenforceable or illegal term will be treated for all purposes as severed.
+11. Notices.
+(a) Any notice or other communication to or by any party shall be in writing, in English, signed and addressed to the address of the recipient shown in the Reference Schedule.
+(b) Any communication shall be deemed duly given or made when actually personally served on a party or in the case of:
+i. being left at the party's current address for service, when delivered;
+ii. being sent to the party's current address for services by pre-paid ordinary mail, on the second Business Day after posting;
+iii. a facsimile transmission to the party's current number for service, upon a transmission report being printed by the sender's facsimile machine stating that the document has been sent to the recipient's facsimile number.
+(c) If delivery is not made before 5.00pm on a Business Day, it shall be deemed to be received on the next Business Day in that place;
+(d) A party may from time to time change its address or numbers for service by notice to the other party.
+12. Governing Law.
+This Agreement shall be governed by and construed in accordance with the laws of Queensland and each of the parties irrevocably and unconditionally submits to the non-exclusive jurisdiction of the Courts of Queensland.
+13. Entire Agreement
+This Agreement (including the Reference Schedule) represents the entire agreement and understanding between the Service Provider and the Customer and it is acknowledged that the Customer has not relied on any other written or oral representation, arrangement, understanding or agreement not expressly provided.
+14. Dispute Resolution
+In the event of a dispute, a party will provide written notice to the other party of the matters in dispute and the Service Provider and the Customer shall use the following to resolve the dispute; 
+i. if required by the Service Provider- the Service Provider's own Internal Dispute Resolution Procedure; or
+ii. the Brisbane Produce Market Dispute Resolution Procedure. 
+15. Termination
+(a) The Agreement may be terminated in writing by the parties.
+(b) Either party may terminate this Agreement by written notice if the other party breaches a material term of  this Agreement and has not remedied the breach within 30 days after the non-defaulting party gives written notice of the breach and the non-defaulting party's requirement for remedy of the breach.
+Termination of this Agreement under this clause 15 will be without prejudice to the rights of a party accrued as at the date of termination.
+
+
+
+
+2. Service Agreement
+
+SERVICE AGREEMENT  (18/10/07)
+
+
+
+
+
+
+SERVICE AGREEMENT
+
+	-2-	           SERVICE AGREEMENT  (18/10/07)
+SERVICE AGREEMENT CONDITIONS
+

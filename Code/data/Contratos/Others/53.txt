@@ -1,0 +1,160 @@
+CONFIDENTIALITY AGREEMENT
+
+THIS CONFIDENTIALITY AGREEMENT is made between the following parties:
+1. ValueBuys4U ABN 53 394 652 330 of 4 Princes Street, Bexley, NSW 2207; and
+
+
+2. 	
+[Name of individual or organisation - if an organisation, please include ABN or ACN if available]
+
+
+of 	
+     [Full address]
+RECITALS
+A. ValueBuys4U owns or controls Confidential Information which it wishes to partly disclose to the Recipient for the Purpose.
+B. ValueBuys4U also wishes to regulate how Confidential Information is to be treated whilst in the possession of the Recipient.
+C. In consideration of ValueBuys4U disclosing certain Confidential Information to the Recipient and engaging in discussions with the Recipient, the parties have entered into this Agreement.
+1. DEFINITIONS AND INTERPRETATION
+1.1 Definitions
+In this Agreement, unless the context otherwise requires:
+Confidential Information means all and any information (in whatever form) concerning the business and affairs of ValueBuys4U, whether disclosed before or after the date of this Agreement, including without limitation, business, financial and marketing information, software, application designs, features, functions and specifications, planned promotions, marketing strategies, information about pricing, Program Code, Website Code, information about the software platform, customers and customer lists, business plans and strategic business information;
+Purpose means the Recipient assessing whether to enter into a business relationship with ValueBuys4U; and
+Use means use, copy, reproduce or disclose to any person (directly or indirectly) at any time.
+1.2 Interpretation
+In this Agreement unless the context requires otherwise:
+(a) the singular includes the plural and vice versa;
+(b) the headings are used for convenience only and do not affect the interpretation of this Agreement;
+(c) a reference to a Business Day means a day on which banks are open for retail banking business other than a Saturday or Sunday in Sydney and if something is to be done on a day which is not a Business Day then that thing must be done on the next or following Business Day; and
+(d) the word "person" includes a natural person and any body or entity whether incorporated or not.
+2. 
+MAINTENANCE OF CONFIDENTIALITY BY RECIPIENT
+2.1 Acknowledgment of Confidentiality
+The Recipient acknowledges that:
+(a) the Confidential Information is secret and confidential to ValueBuys4U; 
+(b) any unauthorised Use of all or any part of the Confidential Information by the Recipient may cause loss, damage or expense to ValueBuys4U;
+(c) this Agreement applies to the Recipient on a worldwide basis;
+(d) this Agreement does not oblige ValueBuys4U to disclose any Confidential Information; and
+(e) this Agreement also applies to all Confidential Information disclosed prior to the date of this Agreement.
+2.2 Confidentiality Obligation
+The Recipient must keep the Confidential Information secret and confidential.  In particular, the Recipient must not Use it other than as expressly permitted by this Agreement.
+2.3 Uncertainty
+If there is any uncertainty as to whether any information is Confidential Information or any Confidential Information is freely available to the public, that information will be deemed to be Confidential Information and deemed not to be generally available to the public unless ValueBuys4U advises the Recipient in writing to the contrary.
+3. RECIPIENT'S RIGHT TO USE CONFIDENTIAL INFORMATION
+3.1 Recipient's Right to Use
+The Recipient may only Use the Confidential Information for the Purpose on the terms and conditions of this Agreement and must not Use it for any other purpose.
+3.2 Recipient's Right to Disclose
+The Recipient may only disclose the Confidential Information:
+(a) to those of its officers, employees and professional advisers who:
+(i) have a specific need to have access to the Confidential Information for the Purpose; and
+(ii) have been notified in writing of the terms on which ValueBuys4U made the Confidential Information available to the Recipient and have been directed to comply with those terms; and
+(iii) have agreed in writing to comply with the terms of this Agreement; or
+(b) if it is required to do so by law or the rules of any applicable stock exchange.  The Recipient must disclose only that part of the Confidential Information as is necessary in order to satisfy such a requirement.
+3.3 Recipient's Right to Reproduce
+The Recipient must not copy or reproduce the Confidential Information in any form or store it in a retrieval system or database without ValueBuys4U's prior written consent.
+3.4 Recipient Must Ensure Compliance
+The Recipient must, at its own expense:
+(a) ensure that each person to whom the Confidential Information is disclosed pursuant to clause 3.2(a) complies with this Agreement;
+(b) immediately notify ValueBuys4U of any actual or suspected breach of the terms of this Agreement by any of the persons to whom the Confidential Information is disclosed pursuant to clause 3.2(a); and
+(c) immediately take all reasonable steps to avoid or stop a breach of this Agreement, and comply with any reasonable directions issued by ValueBuys4U regarding a suspected or actual breach.
+3.5 Security Procedures
+The Recipient must:
+(a) establish and maintain effective security measures to safeguard the Confidential Information from unauthorised Use; and
+(b) establish and maintain effective security measures to safeguard the Confidential Information from unauthorised distribution of Program Code, Website Code and software interfaces designed for ValueBuys4U Pty Ltd; and
+(c) immediately notify ValueBuys4U of any actual or suspected unauthorised Use of the Confidential Information.
+4. CONFIDENTIAL INFORMATION WHICH CEASES TO BE CONFIDENTIAL
+This Agreement does not apply to any Confidential Information which:
+(a) is or becomes freely available to the public unless as a result of a breach of this Agreement;
+(b) is disclosed to the Recipient, without any obligation to keep that information confidential, by a third person whom the Recipient knows has a legal entitlement to possess and disclose the Confidential Information; or
+(c) the Recipient proves it knew before ValueBuys4U disclosed the Confidential Information to the Recipient.
+5. RETURN OF CONFIDENTIAL INFORMATION
+5.1 Right to Monitor Compliance
+The Recipient must, on request, provide a list containing the full name, title, location and function of each of the Recipient's employees and other parties having access to the Confidential Information and provide ValueBuys4U with a copy of any confidentiality agreement signed by them.
+5.2 Right to Demand Return
+ValueBuys4U may request the Recipient to return or destroy the Confidential Information at any time without giving reasons.
+5.3 Recipient Must Comply
+The Recipient must immediately comply with any request under clause 5.2.  The Recipient must certify in writing to ValueBuys4U that it has fully complied with the request.
+5.4 Return or Destruction of Copies
+The Recipient's obligations under this clause extend to all copies or reproductions of the Confidential Information which are in its possession or control or in the possession or control of any person to whom disclosure has been made under clause 3.2(a).
+6. OWNERSHIP OF THE CONFIDENTIAL INFORMATION
+6.1 Acknowledgment of Ownership
+The Recipient acknowledges and agrees that:
+(a) this Agreement does not give the Recipient any right, title, licence or interest in the Confidential Information;
+(b) all right, title and interest in any copies, summaries, notes or reproductions of the Confidential Information created by the Recipient or by any of the persons to whom the Confidential Information is disclosed pursuant to clause 3.2(a) vest exclusively in ValueBuys4U on and from the date of their creation; and
+(c) this Agreement does not assign to the Recipient any intellectual property rights, and the Recipient agrees not to claim that it has any intellectual property rights, in or arising from the Confidential Information or in connection with the Purpose.
+7. EXCLUSION OF WARRANTIES
+7.1 Warranty as to Accuracy or Completeness 
+ValueBuys4U does not represent or warrant that the Confidential Information does not infringe the intellectual property rights of a third party, is complete or accurate.
+8. LIABILITY
+8.1 Recipient's Liability
+The Recipient, in addition to all ValueBuys4U's other legal rights, is liable for and indemnifies ValueBuys4U against all loss, damage or expense (including legal costs on a solicitor/client basis) suffered or incurred by ValueBuys4U which arises from any breach of this Agreement by the Recipient or which arises from any unauthorised Use of the Confidential Information by a person to whom the Confidential Information is disclosed pursuant to clause 3.2(a).
+8.2 Acknowledgment of Recipient
+The Recipient acknowledges that breach of this Agreement may cause ValueBuys4U to suffer loss, damage and expense for which damages may not be adequate compensation and difficult to ascertain.  Accordingly the Recipient agrees that ValueBuys4U is entitled to immediately seek to restrain, by injunction or any similar remedy, any conduct, actual or threatened, which is in breach of this Agreement.
+8.3 Indemnity
+The Recipient indemnifies and agrees to keep indemnified ValueBuys4U from and against all costs, losses (including loss of profits) and expenses which it may suffer or incur by reason of the Recipient making Use of the Confidential Information in breach of this Deed.
+9. 
+GENERAL
+9.1 Entire Agreement 
+This Agreement contains the entire understanding between the parties concerning the subject matter of the Agreement and supersedes all prior communications between the parties.
+9.2 No Waiver
+A failure, delay, relaxation or indulgence by a party in exercising any power or right conferred on the party by this Agreement does not operate as a waiver of the power or right.  A waiver of a breach does not operate as a waiver of any other breach.
+9.3 Successors and Assigns
+This Agreement, and any other rights or obligations hereunder, shall not be assigned or otherwise transferred by either party without the prior written approval of the other (which may be withheld in the other's absolute discretion). This Agreement binds and benefits the parties and their respective successors and permitted assigns. 
+9.4 No Variation
+This Agreement cannot be amended or varied except in writing signed by the parties.
+9.5 Counterparts
+If this Agreement consists of a number of counterparts, each is an original and all of the counterparts together constitute the same document.
+9.6 Notices
+Any notice or other communication to or by a party to this Agreement:
+(a) may be given by personal service, post or facsimile;
+(b) must be in writing, legible and in English addressed as shown below:
+(i) If to ValueBuys4U: 	ValueBuys4U
+Address: 		4 Princes Street, Bexley NSW 2207
+Attention: 		Joseph Renzi
+Facsimile: 		+61 2 9012 0282
+
+(ii) If to the Recipient: 		
+	[Name of individual or organisation]
+
+Address: 		
+	[Full Address]
+
+Facsimile:		
+	[Fax number. if available]
+
+or to any other address last notified by the party to the sender by notice given in accordance with this clause; and
+(c) is deemed to have been received: 
+(i) if delivered by personal service, on the date of delivery;
+(ii) if sent by registered mail from within the country where the notice is to be received, 3 Business Days after posting;
+(iii) if sent by registered express airmail from a country other than the country where the notice is to be received, 10 Business Days after posting; or
+(iv) if sent by facsimile, on the date (at the recipient's location) that the sender's facsimile machine provides a printed acknowledgment that the notice has been sent successfully in its entirety.
+9.7 Further Assurances
+A party, at its own expense and within a reasonable time of being requested by another party to do so, must do all things and execute all documents which are reasonably necessary to give full effect to this Agreement.
+9.8 Consents and Approvals
+Where anything depends on the consent or approval of a party, then, unless this Agreement provides otherwise, that consent or approval may be given conditionally or unconditionally or withheld, in the absolute discretion of that party.
+9.9 Governing Law and Jurisdiction
+This Agreement is governed by and must be construed in accordance with the laws of the State of New South Wales.  The parties submit to the non-exclusive jurisdiction of the Courts of that State and the Commonwealth of Australia in respect of all matters or things arising out of this Agreement.  If any provision of this Agreement is held to be invalid or unenforceable in whole or in part, such provision or part thereof shall be deleted from this Agreement and the remaining provisions shall continue in full force and effect.
+
+Executed as an Agreement.
+
+	
+[Signature]
+
+
+	
+[Print Full Name]
+
+
+	
+[Full Date]
+
+
+
+10/04/2011 4:14:16 PM		Page 1 of 6
+
+
+
+
+
+
+#537667 v1: 10.4.2011
+

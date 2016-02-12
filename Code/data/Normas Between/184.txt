@@ -1,0 +1,159 @@
+Health information under this Agreement will be gathered and maintained nationally with the approval of the Australian Health Ministers' Advisory Council, and within the framework of the national health information governance arrangements outlined in Clause 5 of, and Schedule A to, this Agreement.
+
+National collections will use data from surveys of the Australian population as well as data contributed by the Parties, their agents or by other parties.  The level of data contributed to national collections, being at an appropriate level of aggregation or unit record, will be agreed for each collection.
+	
+National statistical data linkage which supports research and analysis on health and related issues will be considered by the parties on a case by case basis in accordance with agreed privacy and ethical guidelines.
+
+Responsibility for the quality and completeness of contributed data will remain with the Party providing the data.
+
+A business case will need to be made for the development of any new National Minimum Data Sets for health or significant changes to National Minimum Data Sets for health. Approval of the business case will be the responsibility of the Statistical Information Management Committee, with advice from the Health Data Standards Committee where appropriate. 
+
+Any such business case must accommodate, where appropriate, other national data imperatives of reporting requirements such as the Australian Health Care Agreements (AHCAs).
+
+Unless in the public domain, data provided by a Party remains the sole property of that individual Party and therefore release, publication or other use of the data by any other party or group will be within any arrangements set by the providing party.
+
+When publishing or releasing any national health information each Party shall acknowledge the authorship as advised by the provider of the data.
+
+Users of the information will be expected to respect the custodial role and ownership rights of collecting parties and no Party shall be obliged to supply any information or to identify its origin if by so doing it would jeopardise that Party's continuing access to the information.
+
+All information contributed by Parties to this Agreement will be provided in good faith as to its accuracy and any legal or other liability arising from the use of any information supplied to national collections shall be the responsibility of the publishing Party.
+
+Any transfer or storage of data for national collections will be in a manner that prevents unauthorised access. 
+
+Unpublished national health information may be made available according to agreed privacy and ethical considerations and by agreement with the providers of the information.
+
+The Parties will agree and comply with definitions and standards for national information collections, including completeness and timeliness standards.
+
+The Agreement is a multilateral agreement between the Parties and operates under the auspices of the Australian Health Ministers' Advisory Council (AHMAC).  
+
+The owner of the information is the collecting authority.  Owners also may have custodial roles in respect of information they receive from and manage for other parties.
+
+Information will be made available nationally to all levels of the health system according to ethical and privacy considerations discussed elsewhere in this document.
+
+The owner may specify conditions regarding the use, release and publication of information and such other considerations as are reasonable and necessary.  Release of otherwise unpublished information to any party requires the approval of the owner or to be within the conditions specified.  
+
+Agreed definitions and standards will be applied rigorously to ensure that information is capable of national comparison.
+
+Information will be collected in such a way that it is timely and of high quality.
+
+Information will be collected and maintained by the Parties to the Agreement who will release it in a way consistent with agreed national protocols, definitions and standards.
+
+Even though this Agreement is about health information rather than personal health information, policies and practices which protect the privacy of individual's information and ensure the responsible handling of health information will provide the foundation for the information collected and published under the auspices of this Agreement. Information will be collected, disseminated, secured and used in such a way as to protect the privacy and confidentiality of any individual and/or organisation to whom it may refer.  In particular, all State/Territory and Commonwealth of Australia legislation and policies including privacy/confidentiality arrangements and requirements and established ethical guidelines and practices; and freedom of information legislation and policy will be complied with in any formal or informal arrangements made under this Agreement.
+
+All parties will respect the rights to privacy and confidentiality requirements of any person or organisation named or otherwise identified in any information resource. 
+
+The concerns of individuals who are members of minority or small community groups regarding privacy are acknowledged and advice on such concerns will be sought from State and/or other authorities.
+
+The costs of implementing agreed activities will generally be met by the Parties as a component of their own work programs.  However, reciprocal arrangements may be made between the Parties to meet specific needs for additional collections, specific analyses or provision of additional expertise.
+
+Proposals for alternative resourcing may be developed where national benefit can be identified.  Thus, funding may be sought under the Agreement where work on specific health information issues imposes additional costs on a signatory, where there are economies of scale to be gained, or where joint action of the Parties contributes to meeting the objectives of the Agreement.
+
+The parties will agree on the distribution of any income generated.   
+
+The cost recovery policy of each of the contributing Parties will be made explicit in respect of agreed Work Program activities.
+
+There will be a rolling work program agreed by the Australian Health Ministers' Advisory Council.
+
+The Work Program will take account of the resource constraints of the Parties.
+
+The Work Program will outline the projects which will be undertaken. It will include a detailed program for the coming year providing details of the specific projects and the agencies responsible for coordination and management of each project.
+
+An annual report on the progress of each project will be prepared by the agency responsible and circulated to the Parties by the Secretariat for the Statistical Information Management Committee and submitted to the National Health Information Group. 
+
+All Parties agree to cooperate in the improvement of health information standards.
+
+The National Health Data Dictionary will be the authoritative source of data definitions.
+	
+Data standards adopted by Australian Bureau of Statistics and authoritative international organisations will be employed wherever possible and variations made explicit when this is not possible.
+
+Every attempt will be made to involve other sectors collecting and using health information in the processes of this Agreement.
+
+The Agreement will operate for a period of five years and after review (to be commenced 12 months prior to the expiry date of the Agreement), for a further period as agreed by all the Parties. The parties also agree to an additional review to commence within 12 months of signing the Agreement to consider changes to the national health information governance arrangements and other matters. 
+
+The Agreement may be amended at any time by agreement between all the Parties.
+
+Additional parties may become Parties to the Agreement if all existing Parties agree.
+
+A party proposing to withdraw should give six months notice.  If a Party withdraws, the Agreement will continue to operate in respect of all other Parties.  
+
+The Agreement may be terminated at any time by agreement in writing of the remaining Parties.
+
+This Agreement will operate under the auspices of the Australian Health Ministers' Advisory Council (AHMAC). 
+
+The AHMAC will be the ultimate authority for resolving issues relating to the Agreement including determination of national priorities, the work program and other management matters. The National Health Information Group (NHIG), and a number of its Standing Committees have specific responsibilities for matters related to the Agreement.  Schedule A sets out the roles of the various Committees (as amended by NHIG from time to time) in management and implementation of the Agreement.
+
+The individual Parties will meet the cost of their participation in the operation and management of the Agreement.
+
+All parties to the Agreement will be responsible for:
+providing representation on the NHIG overseeing the Agreement, and on other Standing Committees as agreed by the NHIG;
+acting as the responsible agency for specific projects as agreed;  and
+providing information and specialist advice on activities and collections for which they have responsibility.
+
+In addition, the Commonwealth Department of Health and Ageing, the Commonwealth Department of Veterans' Affairs, the Health Insurance Commission, the Australian Institute of Health and Welfare and State/Territory Health Authorities will be responsible for:
+
+ensuring that the information they collect, maintain and collate is consistent with the national protocols, definitions and standards contained in the National Health Data Dictionary and other guidelines endorsed by the NHIG;
+
+maintaining the information they collect under the aegis of the Agreement in such a way that it can be readily made available to approved individuals, groups and authorities for purposes which require access to national health information kept under the terms of the Agreement; and
+
+ensuring that the information they hold is maintained in such a way as to ensure that the privacy provisions of the Agreement are observed.
+
+In addition, the specific responsibilities of the parties to the Agreement are set out below.
+
+The Australian Bureau of Statistics, consistent with its functions, including statistical coordination, will be responsible for:
+
+collecting, compiling, analysing and disseminating statistics and related information for which they have specific responsibility; 
+developing and promoting compliance with statistical standards; and
+providing specialist advice in relation to statistics.
+
+The AIHW will also be responsible for:
+
+convening and providing secretariat assistance to the committees as set out in Schedule A to this Agreement;
+
+in consultation with the ABS, developing specialised statistical standards and classifications relevant to health and health services;
+
+undertaking specific research, using national data, to improve the efficiency and effectiveness of the health care system;
+
+assisting other Parties to the Agreement in using and interpreting national health information; and
+
+ensuring that the National Health Data Dictionary and other quality control standards to encourage accuracy and consistency in the collection and reporting of health information are maintained and enhanced as agreed by the NHIG reporting to AHMAC.
+
+The Commonwealth Department of Health and Ageing, the Commonwealth Department of Veterans' Affairs, the Health Insurance Commission and State and Territory Health Authorities:
+
+will also be responsible for maintaining and providing information in accordance with agreed purposes and data sets.
+
+The Agreement will commence on 1 September 2004. It supersedes any predecessor Agreement that may otherwise remain in force.
+
+This Agreement may be signed in counterpart and the counterparts taken together all constitute the same Agreement.
+
+
+The NHIG is also responsible for:
+overseeing the implementation and ongoing development of the National Health Information Agreement; 
+managing and allocating resources to health information projects and working groups;
+endorsing national information standards, including National Minimum Data Sets; and
+endorsing the work plans of committees which report to it, including the Statistical Information Management Committee  (SIMC) and the Health Data Standards Committee (HDSC), the National Advisory Group on Aboriginal and Torres Strait Islander Health Information and Data (NAGATSIHID) and the National Public Health Information Working Group (NPHIWG). 
+
+
+The SIMC is responsible, under the direction of the NHIG, for:
+developing, reviewing and implementing the National Health Information Agreement and coordinating all proposals to the NHIG concerning the Agreement;
+developing national health information priorities and the associated work plan;
+developing and coordinating the implementation of National Minimum Data Sets; and
+negotiating with other groups and individuals for the collection and dissemination of information which will enhance the provision of health information.
+
+The SIMC is also responsible for advising the NHIG on national health information priorities and on national health statistics. 
+
+The SIMC will include representatives of parties to this Agreement and other members as agreed by NHIG from time to time, with a chair appointed by the NHIG. 
+
+The HDSC is responsible for:
+maintaining the development and revision of the National Health Data Dictionary and developing, maintaining and promoting the use of appropriate metadata standards; and
+reviewing and making recommendations for SIMC endorsement about National Minimum Data Sets in the health field.
+
+The HDSC will include representatives of parties to this Agreement, as well as representatives or other agencies or interests as agreed by the NHIG from time to time. 
+
+The NAGATSIHID is responsible for:
+providing NHIG with broad strategic advice on the improvement of the quality and availability of data and information on Aboriginal and Torres Strait Islander health and health service delivery; 
+drawing together a range of activities in relation to health information and data on Aboriginal and Torres Strait Islanders to provide a coordinated and strategic process;
+continuing the implementation of the National Indigenous Health Information Plan (NHIP) until this process is completed;
+advising AIHW and ABS on priorities in its workplan; and
+providing advice to NHIG and the Steering Committee for Aboriginal and Torres Strait Islander Health (SCATSIH) on the National Performance Indicators and targets for Aboriginal and Torres Strait Islander Health reporting and associated activities.
+
+

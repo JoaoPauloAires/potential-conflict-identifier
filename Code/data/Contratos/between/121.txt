@@ -1,0 +1,205 @@
+CONFIDENTIALITY AGREEMENT
+
+
+BETWEEN: 	COOPERATIVE RESEARCH CENTRE FOR DIAGNOSTICS, 5th Floor, Q Block, Queensland University of Technology, 2 George Street, Brisbane, Queensland 4000, Australia.   ("CDx")
+
+AND:		NAME (Full Street Address).   ("NAME")
+
+BACKGROUND: 
+
+A.	CDx owns or holds an interest in: 
+
+(a)	a certain trademark or trademarks referred to in this Agreement;
+
+(b)	patent rights in certain technology  referred to in this Agreement; and
+
+(c)	certain information in relation to the technology, the trade mark and the patent rights in the technology.
+
+B.	NAME owns or holds an interest in:
+
+(a)	a certain trademark or trademarks referred to in this Agreement;
+
+(b)	patent rights in certain technology  referred to in this Agreement; and
+
+(c)	certain information in relation to the technology, the trade mark and the patent rights in the technology.
+
+C.	Both CDx and NAME wish to discuss mutually beneficial technology development projects and proposals.
+
+D.	Each of CDx and NAME have therefore agreed to disclose certain information to the other in respect of their technology, the trademarks and the patent rights in the technology subject to the terms of this Agreement.
+
+
+THE PARTIES NOW EACH AGREE AND COVENANT AS FOLLOWS:
+
+     1.          Ownership of Intellectual Property and Confidential Information
+
+     1.1	As against NAME, CDx, is and will, to the full extent and for the full period permitted by law, remain the owner of:
+
+	(a)	CDx's Confidential Information; and
+
+	(b)	CDx's Intellectual Property.
+     	
+     1.2	As against CDx, NAME, is and will, to the full extent and for the full period permitted by law, remain the owner of:
+  
+	(a)	NAME's Confidential Information; and
+
+	(b)	NAME's Intellectual Property.
+
+Subject to the limitations of Clause 2.3, each party covenants that it will not hold itself out as owning nor deal or purport to deal in any way with any of the other party's Confidential Information or Intellectual Property without the prior written consent of the other party.
+	
+    1.3	The discussion of the parties' respective Intellectual Property and Confidential Information is not an offer for sale of any materials that may be discussed, and neither party shall be under any obligation to license or transfer its Intellectual Property or Confidential Information to the other party; and each party reserves the right to license or transfer its own Intellectual Property or Confidential Information to whichever party or parties as it may, in its sole discretion, determine advisable, or not at all.
+
+     2.	Confidentiality
+      
+     2.1	In consideration of the mutual covenants of the parties to this Agreement, and subject to Clause 2.3, the Recipient covenants in favour of the Discloser that it will not without the prior written consent of the Discloser:
+
+	(a)	copy, communicate, publish or disclose the Confidential Information of the Discloser; nor
+
+	(b)	cause or allow the Confidential Information of the Discloser to be copied by or communicated, published or disclosed verbally, in writing, by electronic means or by any other means or medium,
+
+to any other person within 5 years of the date of this Confidentiality Agreement.
+
+     2.2	The Recipient will do all things necessary to ensure that its employees, researchers, consultants and agents comply with the Recipient's obligations under Clause 2.1.
+
+     2.3	This Agreement will not apply to any part of the Confidential Information or Intellectual Property that:
+
+	(a)	was known or possessed by the Recipient at the time of the disclosure to the Recipient by the Discloser, the onus of proving which rests with the Recipient;
+
+	(b)	is or may be legally acquired by the Recipient from any third party that has the right to disclose except where the Confidential Information or Intellectual Property is provided to the Recipient by a third party at the request of the Discloser;
+
+	(c)	is disclosed by the Recipient pursuant to any law or order of any court, or any governmental agency or other regulatory body with which the Recipient is bound to comply;
+
+(d) was already in the public domain, other than by reason of the Recipient having disclosed it, at the date on which it was used or disclosed by the Recipient, the onus of proving which shall be on the Recipient; or 
+
+(e) was independently developed by the Recipient or its agents or employees without knowledge of or reliance on the Confidential Information disclosed to Recipient by the Discloser.
+
+   2.4  	Notwithstanding Clauses 2.3 (a) through (e), information disclosed by one party to another shall still be deemed Confidential Information of the Discloser subject to the protection of this Agreement if such disclosed information is:
+
+(a)  a specific embodiment that is only generally described by  information in the public domain or the Recipient's possession; or
+
+(b) a combination that can be pieced together and reconstructed from multiple sources, none of which shows the whole combination of materials, its principle of operation, and method of use.
+
+  3.	Return of Confidential Information
+
+The Recipient will, within ten days of receiving written notice from the Discloser requesting the return of the Confidential Information:
+
+	(a)	return in a secure and confidential manner all written or eye or machine readable versions and copies of  any or all of the Confidential Information (as the notice requires); and
+
+	(b)	delete or destroy any other record (including electronic) of any part of the Confidential Information required by the Discloser to be returned which cannot be physically delivered to the Discloser; 
+
+	except that Recipient's Legal Department may keep one copy of the Confidential Information in its files for the purpose of Recipient determining its compliance with its obligations under this Agreement.
+
+      4.	Governing Law
+
+This Agreement shall be governed by the laws of the State of Queensland. 
+
+     5.	Definitions
+
+In this Agreement, unless the context requires otherwise:
+
+"Confidential Information" of a party means all concepts, ideas, technical and other information and know-how, including all information and know-how in any eye or machine readable or other format, that is owned or possessed by the party in respect of or incidental to its:
+
+(a) Business dealings or operations; 
+(b) Patent Rights; 
+(c) Technology; and 
+(d) Trademarks,
+
+and any other information disclosed or given to the Recipient by the Discloser and its employees or agents which is declared by the Discloser (at the time of disclosure or shortly thereafter) to be Confidential Information;
+
+"Discloser" means, in relation to any Confidential Information that is transferred from one party to the other party, that party which transfers, or causes to be transferred, the Confidential Information;
+
+"Intellectual Property" means in relation to either party, all intellectual and industrial property in and to the Technology of that party and that party's Confidential Information, including without limitation the Trademarks, the Patent Rights, all copyright, designs and circuit layouts applying in respect of the Technology for the full period of those rights, including all extensions and renewals, and including all rights to registration (if any) of any of those rights or interests;
+
+"Patent Rights" means in relation to either party, the rights of that party in any patent which it applies for, obtains or is entitled to apply for or obtain anywhere in the world at any time in respect of its Technology or any part of it;
+
+"Recipient" means, in relation to any Confidential Information that is transferred from one party to the other party, the party to this Agreement to which the Confidential Information is transferred;
+
+"Technology" means in relation to each party the respective technologies described in Schedule A, together with all additions, improvements, modifications and adaptations to the Technology, to the extent disclosed; and
+
+"Trademarks" means in relation to either party, the trademarks for which that party applies, obtains, or intends to or is entitled to apply or obtain anywhere in the world at any time in respect of that party's Technology or any part of it.
+
+
+EXECUTED by the parties as an Agreement:
+
+
+
+SIGNED for and on behalf of
+COOPERATIVE RESEARCH CENTRE FOR DIAGNOSTICS by its duly authorised representative in the presence of:
+
+
+..........................................................                                                    
+Witness (Sign)
+
+
+..........................................................
+  Print Name of Witness
+
+
+
+
+
+
+.....................................................................
+Representative (Sign)
+
+
+.....................................................................
+Print Name of Representative
+
+
+.....................................................................
+Position of Representative
+
+.....................................................................
+Date
+
+
+
+
+SIGNED for and on behalf of	
+NAME
+by its duly authorised representative 
+in the presence of:
+
+
+		.......................................................
+Witness (Sign)                                                          Represenaitive (Sign)
+                                                                        
+			......     
+Print Name of Witness                                             Print Name of Representative
+
+                                                                            ..............................................................                                                                                
+                                                                                 Position of Representative
+
+                                                                                 ........................................................
+                                                                                 Date
+
+
+
+
+
+                                                                                
+
+
+SCHEDULE A
+
+
+
+CDx's Technology: 
+
+
+
+
+NAME's Technology:
+
+41186849/NEWFILE/EMJ
+
+CDx 2 Way CDA Proforma.doc 11/10/03
+
+41186849/NEWFILE/EMJ
+
+41186849/NEWFILE/EMJ
+
+41186849/NEWFILE/EMJ
+
+41186849/NEWFILE/EMJ
+

@@ -1,0 +1,283 @@
+SOFTWARE LICENCE AND SUPPORT AGREEMENT
+
+BETWEEN PPMP of Suite 1/145-147 Upper Heidelberg Road, Ivanhoe, Victoria. 3079             ABN 47 283 665 875
+('PPMP')ANDTHE PARTY SO SPECIFIED IN SCHEDULE 1
+('Licensee')
+BACKGROUND
+A. The Licensee wishes to use the Software.
+B. PPMP has agreed to license and support the Software for the Licensee on the terms and conditions set out in this Agreement.
+OPERATIVE PROVISIONS
+1. DEFINITIONS
+In this Agreement, except to the extent the context otherwise requires:
+'Agreement' means this Software Licence and Support Agreement;
+'Business Day' means a day other than a Saturday, Sunday, a public holiday or other holiday in Melbourne;
+'Commencement Date' means the date so specified in schedule 1;
+'GST' has the same meaning as in the GST Act;
+'GST Act' means A New Tax System (Goods and Services Tax) Act 1999 as amended;
+'Initial Term' means the period so specified in schedule 1, commencing on the Commencement Date;
+'Intellectual Property Rights' means all intellectual property rights, including but not limited to:
+(a) patents, copyright, registered designs, trade marks, and any right to have confidential information kept confidential; and
+(b) any application or right to apply for registration of any of the rights referred to in paragraph (a) of this definition;
+'Licence Fee' means the licence fee specified in schedule 1, being either the Single User Licence Fee or the Network Licence Fee;
+'Location' has the meaning set out in schedule 1;
+'Network Licence Fee' means the Licence Fee described in schedule 1 which applies to Software to be used on a network of computers;
+'Single User Licence Fee' means the Licence Fee described in schedule 1 which applies to Software installed on a single computer;
+'Software' means the software type and version set out in schedule 1;
+'Supply' has the same meaning as in the GST Act;
+'Support Charge' means the charge per month specified in schedule 1;
+'Support Software' means the support or diagnostic software provided by PPMP in accordance with clause 4.3;
+'System' has the meaning set out in schedule 1;
+'Tax Invoice' has the same meaning as in the GST Act;
+'Upgraded Version' means an enhancement, improvement or modification to the Software; and
+'writing' includes typewriting, printing, lithography, photography and any other mode of representing or reproducing words in a permanent and visible form.
+2. LICENCE AND USE OF SOFTWARE
+2.1 Upon execution and return of this Agreement and payment of the Licence Fee, PPMP:
+(a) grants to the Licensee and the Licensee accepts a non-exclusive, non-transferable licence to Use the Software on the System in accordance with the provisions of this Agreement; and
+(b) will issue to the Licensee one copy of the Software on media appropriate to the System, for Use on that System, at the specified Location, together with the necessary documentation to Use the same.  
+2.2 For the purposes of this Agreement, 'Use' means:
+(a) utilisation of the Software by copying, transmitting or loading the same into the temporary memory (RAM) or installing into the permanent memory (eg hard disk, CD ROM or other storage device) of the System for the processing of the System instructions or statements contained in the Software;
+(b) copying the Software which is in machine-readable form for Use by the Licensee on the System for the purposes only of understanding the contents of such machine-readable material and for back-up provided that no more than 2 copies are in existence under this Agreement at any one time without prior written consent from PPMP or as otherwise permitted by the applicable law;
+(c) merging the whole or any part of the Software in machine-readable form into another software program;
+(d) storing the whole or any part of the Software on the System or other storage unit or disk; and
+(e) utilising (but not copying) the instructional and/or operational manuals relating to the Software.
+2.3 If the Software is to be used on a networked System, the Licensee shall advise PPMP in writing immediately of any increase or proposed increase in the number of computers networked to the System, and pay any additional amount relating to the increased number of computers. 
+3. LICENSEE'S RIGHTS
+The Licensee is entitled to:
+(a) receive one copy of the Software for Use on the System, at the specified Location, together with the necessary documentation to install and Use the Software;
+(b) load, install and Use the Software on the System;
+(c) use the Software in accordance with the provisions of clause 2 of this Agreement;
+(d) receive information on Upgraded Versions; and
+(e) for the purposes of this Agreement, upgraded versions of the Software means enhancements, improvements or modifications to the Software.
+4. SUPPORT
+4.1 Provided that the Licensee is not in default of payment of the Support Charges, PPMP agrees to support the Software for the Initial Term upon the terms and subject to the conditions contained in this Agreement.
+4.2 Support provided by PPMP under this Agreement includes:
+(a) help desk facilities between 9.00am and 5.00pm Monday to Friday on Business Days (PPMP's standard hours);
+(b) correction of critical errors or assistance to overcome problems.  PPMP may, in its sole discretion, correct errors by 'patch' or by new version;
+(c) information on availability of new versions of the Software;
+(d) Upgraded Versions of the Software provided that the Licensee uses the most recent version of the Software and is not in default of their Support Charges;
+(e) access to and participation in a user group for the Software; and
+(f) access to online information regarding training, Software user tips, frequently asked questions and a help manual.
+
+4.3 As part of the support services provided by PPMP, PPMP may provide the Licensee with Support Software, and in such an event the Support Software is subject to the terms of the licence granted in accordance with clause 2 but to the extent of support services only.
+4.4 PPMP may charge for services requested by the Licensee which are not specifically covered by this Agreement.
+4.5 PPMP may charge for service delivery if PPMP is unable to deliver by email.
+4.6 Upon the expiration of the Initial Term, PPMP will continue to provide Support for subsequent terms of similar duration to the Initial Term provided that the Licensee does not default in payment of the Support Charges.
+5. LICENCE FEE AND SUPPORT CHARGES
+5.1 The Licence Fee specified in schedule 1 is payable in advance unless otherwise agreed in writing by PPMP.
+5.2 If the Licensee's Support Charge payments are not in default, no additional charges will be levied for Upgraded Versions of the Software.  However, if a Licensee either does not pay Support Charges or is late in making payments for Support Charges, that Licensee may be subject to an additional charge upon issue to the Licensee of Upgraded Versions of the Software.  The additional charge for Upgraded Versions is payable within 30 days of issue unless the Licensee has returned the Upgraded Version unused to PPMP within such period.
+5.3 In the event that the System is inoperable or requires or is under repair, the Licensee must report the same to PPMP for permission to Use the Software on a back-up system at no extra charge, until the System is operational.
+5.4 The Support Charges are payable 1 month in advance by way of direct debit from the Licensee's financial institution account, unless otherwise agreed in writing by PPMP.  No support is given until payment has been received by PPMP.  Invoices will be provided on request.
+5.5 Support Charges may also be subject to review as specified in clause 5.1 as well as to additional charges where any of the details specified in the schedule change.
+5.6 The Support Charges payable in terms of this Agreement are based on services provided during normal working hours (9:00am to 5:00pm) on Business Days.  Additional or out-of-hours support is subject to a higher charge.
+5.7 If the Licensee disputes the whole or any portion of the amount claimed in an invoice submitted by PPMP, the Licensee shall pay the portion of the amount stated in the invoice which is not in dispute and shall notify PPMP in writing (within 7 days of receipt of the invoice) of the reasons for disputing the remainder of the invoice.  If it is resolved that some or all of the amount in dispute ought to have properly been paid at the time of the first invoice, then the Licensee shall pay the amount finally resolved together with interest on that amount in accordance with the terms of payment set out in this Agreement.
+5.8 The Licensee shall pay PPMP interest on any amount due and not paid by the Licensee within the timeframe required by this Agreement at the rate interest specified on the relevant invoice.
+6. SUPPORT NOT INCLUDED
+Support not included in this Agreement and which may be separately charged for includes:
+(a) support of other software, accessories, attachments, machines, systems or other devices not supplied by PPMP nor listed in the schedule;
+(b) rectification of lost or corrupted data arising for any reason other than PPMP's own negligence;
+(c) support rendered more difficult because of any changes, alterations, additions, modifications or variations to the Software or the System or operating environment;
+(d) attendance to faults caused by using the Software outside design or other specifications or outside the provisions laid down in any documentation or manual supplied with the Software, or caused by operator error or omission;
+(e) Restoration of data files following failure to backup in accordance with PPMP recommended procedures;
+(f) diagnosis and/or rectification of problems not associated with the Software;
+(g) on-site support if specified in schedule 1, where appropriate in the event telephone support does not resolve a Software problem; and
+(h) out-of-hours support where specified in schedule 1.
+7. GOODS AND SERVICES TAX
+If any Supply made by PPMP to the Licensee under this Agreement is a taxable Supply, then:
+(a) in relation to any consideration payable by the Licensee to PPMP under this Agreement, PPMP is entitled to recover from the Licensee an additional amount on account of GST.  This amount is to be equal to the amount of PPMP's GST liability in respect of the Supply, calculated in accordance with the GST Act and on the basis that the consideration otherwise payable under this Agreement is the value of the taxable Supply and is to be recoverable at the time when the price is paid; and
+(b) the Licensee and PPMP acknowledge and agree that each Supply made under this Agreement is made:
+(i) on a progressive or periodic basis;
+(ii) for consideration that is provided on a periodic or progressive basis; and
+(iii) each progressive or periodic component of the Supply is to be treated as a separate Supply.
+8. LICENSEE'S UNDERTAKINGS
+8.1 The Licensee agrees not to perform any of the acts referred to in this clause 8 except to the extent and only to the extent permitted by the applicable law to the Licensee as a lawful user (a party with an express right to use) of the Software and only then for the specific limited purposes stated in applicable law or this Agreement.
+8.2 The Licensee must:
+(a) not copy the Software (other than for normal system operation and as specified in clause 2) or the Support Software (other than for normal support activities) nor otherwise reproduce the same provided that the Licensee may copy the Software for back-up purposes or incidentally, in the course of converting the Software in accordance with clause 8.2(c);
+(b) not translate, adapt, vary, or modify the Software or Support Software; and
+(c) not disassemble, decompile or reverse engineer the Software or Support Software, provided however that in the case of decompilation of the Software, the Licensee may incidentally decompile the Software:
+(i) only if it is essential so to do in order to achieve interoperability of the Software with another software program ('Permitted Purpose'); and
+(ii) provided the information obtained by the Licensee during such decompilation is only used for the Permitted Purpose and is not disclosed or communicated to any third party whom it is not necessary to disclose or communicate such information without PPMP's prior written consent and is not used to create any software which is substantially similar to the expression of the Software nor used in any manner which would be restricted by copyright.
+8.3 In addition, the Licensee must:
+(a) maintain accurate and up-to-date records of the number and location of all copies of the Software and Support Software, and furnish copies of these records to PPMP upon request;
+(b) supervise and control Use of the Software and Support Software in accordance with the terms of this Agreement;
+(c) ensure that the Software is protected at all times from misuse, damage, destruction or any form of unauthorised use;
+(d) replace the current version of the Software and Support Software with the Upgraded Version immediately upon receipt;
+(e) reproduce and include the copyright notice of PPMP on all and any copies, whether in whole or in part, in any form, including partial copies or modifications of the Software and Support Software made under this Agreement;
+(f) not provide or otherwise make available the Software or Support Software in whole or in part (including but not limited to program listings, object and source program listings, object code and source code), in any form to any person other than the Licensee's employees specified in schedule 1without prior written consent from PPMP;
+(g) ensure that all authorised users of the Software understand PPMP's obligations under this Agreement, and the possible civil and criminal consequences of breach; and
+(h) within 14 days after the date of termination or discontinuance of this Agreement for whatever reason (other than with respect to support only), return or destroy (as PPMP instructs):
+(i) in the event of termination of support, the Support Software; and
+(ii) all copies, in whole and in part, in any form including partial copies or modifications of the Support Software received from PPMP or made in connection with this Agreement and all documentation relating to it, and
+furnish PPMP with a certificate, certifying that the same has been done, unless the Licensee has obtained PPMP's prior written authorisation to retain one copy for archive purposes only.  Where support only is terminated or discontinued, this clause applies to Support Software.
+9. WARRANTY
+9.1 The Licensee acknowledges that software in general is not error-free and agrees that the existence of errors does not constitute a breach of this Agreement.
+9.2 If the Licensee discovers a material error which substantially affects the Licensee's use of the Software and notifies PPMP of the error within 90 days from the date of this Licence ('warranty period'), PPMP may at its sole option:
+(a) refund the Licence Fee; or
+(b) use all reasonable endeavours to correct by patch or new release (at its option) that part of the Software which does not so comply provided that such non-compliance has not been caused by any modification, variation or addition to the Software not performed by PPMP or caused by its incorrect use, abuse or corruption of the Software or by use of the Software with other software or on equipment with which it is incompatible.
+9.3 Subject to clause 10.5 and to the extent permitted by the applicable law, PPMP disclaims all other warranties with respect to the Software and Support Software, either express or implied, including but not limited to any implied warranties of merchantability or fitness for any particular purpose.
+9.4 Although PPMP does not warrant that the Software is free from all known viruses, it has used commercially reasonable efforts to check for the most commonly known viruses prior to packaging but the Licensee is solely responsible for virus scanning the Software.
+10. PPMP'S LIABILITY
+10.1 PPMP is not liable to the Licensee for any loss or damage caused arising directly or indirectly in connection with this Agreement, the Software, the Support Software, its use, support or otherwise, except to the extent to which it is unlawful to exclude such liability under the applicable law.
+10.2 Without limitation to clause 10.1, PPMP expressly excludes liability for consequential loss or damage which may arise in respect of the Software, the Support Software, its use, the System or in respect of other equipment or property, or for loss of profit, business, revenue, goodwill or anticipated savings.
+10.3 If any exclusion contained in this Agreement is held to be invalid for any reason and PPMP becomes liable for loss or damage that may lawfully be limited, such liability is limited to the Licence Fee and one annual Support Charge.
+10.4 PPMP does not exclude liability for death or personal injury to the extent only that the same arises as a result of the negligence of PPMP, its employees, agents or authorised representatives.
+10.5 Notwithstanding any other provisions of this Agreement, where any Act of Parliament implies any term into this Agreement, and that Act avoids or prohibits provisions in a contract excluding or modifying such term, that term is deemed to be included in this Agreement, but PPMP's liability for breach of that term is limited in one or more of the ways (at PPMP's option) permitted by section 68A(1) of the Trade Practices Act 1974 (Cth).
+11. LICENSEE'S ACKNOWLEDGEMENTS
+11.1 Subject to clause 11.3, the Licensee warrants that it has not relied on any representation made by PPMP which has not been stated expressly in this Agreement, or upon any descriptions, illustrations or specifications contained in any document including catalogues or publicity material produced by PPMP.
+11.2 The Licensee acknowledges that to the extent PPMP has made any representation which is not otherwise expressly stated in this Agreement, the Licensee has been provided with an opportunity to independently verify the accuracy of that representation.
+11.3 The Licensee shall at all times indemnify and hold harmless PPMP and its officers, employees and agents ('those indemnified') from and against any loss (including reasonable legal costs and expenses) or liability reasonably incurred or suffered by any of those indemnified arising from any proceedings against those indemnified where such loss or liability was caused by:
+(a) a breach by the Licensee of its obligations under this Agreement; or
+(b) any wilful, unlawful or negligent act or omission of the Licensee.
+12. INTELLECTUAL PROPERTY RIGHTS
+12.1 The Licensee acknowledges that any and all of the Intellectual Property Rights subsisting in or used in connection with the Software or the Support Software, including any modifications, improvements or enhancements made thereto, are and remain the sole property of PPMP or such other party as may be identified in or on it ('Owner').  The Licensee must not during or at any time after the expiry or termination of this Agreement (whether in whole or with respect to support only) in any way question or dispute the ownership of the Intellectual Property Rights by PPMP or the Owner.  In the event that any Intellectual Property Rights vest for some reason in the Licensee, the Licensee hereby assigns such Intellectual Property Rights to PPMP.
+12.2 The parties acknowledge that clause 12.1 does not confer on PPMP any rights, title or interest in the Licensee's data files, patient files, or other business records which the Licensee inputs into or stores on the Software or Support Software.
+
+12.3 The Licensee indemnifies PPMP fully against all liabilities, costs and expenses which PPMP may incur as a result of work done in accordance with the Licensee's specifications involving infringement of any Intellectual Property Rights.
+13. INDEMNITY
+13.1 PPMP agrees to indemnify the Licensee from and against liability under any final judgment in proceedings brought by a third party against the Licensee which determine that the Licensee's use of the Software or Support Software constitutes an infringement in Australia of Intellectual 
+
+
+Property Rights affecting the Software and/or the Support Software as the case may be (and for the purposes of this clause the term Software is deemed to include Support Software) provided that:
+(a) the Licensee has not done, permitted or suffered to be done anything which may have been or become an infringement of any Intellectual Property Rights; and
+(b) the Licensee has exercised a reasonable standard of care in protecting the same,
+failing which the Licensee indemnifies PPMP or the Owner against all actions, proceedings, costs, claims and expenses incurred in respect of that failure.
+13.2 The Licensee must give PPMP prompt notice of any claim of infringement or of suspected or alleged infringement under clause 13.1 that is made against the Licensee and PPMP has the right to defend any such claims and make settlements at its own discretion and the Licensee must give such assistance as PPMP may reasonably require to settle or oppose any such claims.
+13.3 In the event that any such infringement occurs or may occur, PPMP may at its sole option and expense:
+(a) procure for the Licensee the right to continue using the Software or any infringing part;
+(b) modify or amend the Software or infringing part so that it becomes non-infringing;
+(c) replace the Software or infringing part with other software of similar capability; or
+(d) repay to the Licensee the Licence Fee relating to the whole or the infringing part of the Software.
+14. CONFIDENTIAL INFORMATION
+14.1 All information, data, drawings, specifications, documentation, software listings, source or object code which PPMP may have imparted and may from time to time impart to the Licensee relating to the Software, Support Software (other than the ideas and principles underlying the same) or support documentation or procedures is confidential.  The Licensee agrees that it must use the same solely in accordance with the provisions of this Agreement and that it must not at any time during or after expiry or termination of this Agreement (in whole or with respect to support only), disclose the same, whether directly or indirectly to any third party without PPMP's prior written consent.
+14.2 The Licensee further agrees that it must not itself or through any subsidiary, agent or third party modify, vary, enhance, copy, sell, lease, license, sub-license or otherwise deal with the Software or any part or parts or variations, modifications, copies, releases, versions or enhancements of the Software or any Support Software or have any software or other program written or developed for it based on any confidential information supplied to it by PPMP.
+14.3 This clause does not prevent the disclosure or use by the Licensee of any information which is or after the date of this Agreement, through no fault of the Licensee, becomes public knowledge or to the extent permitted by law.
+14.4 If, in using the Software or Support Software, the Licensee discloses any practice or business information, financial information or patient information of a confidential nature to PPMP, PPMP agrees that it will keep confidential such information.  This clause does not prevent the disclosure or use by PPMP of any information which is or after the date of this Agreement, through no fault of PPMP, becomes public knowledge or to the extent permitted by law.
+15. FORCE MAJEURE
+PPMP has no liability to the Licensee in respect of anything which, apart from this provision, may constitute breach of this Agreement arising by reason of force majeure, namely, circumstances beyond the control of PPMP including (without limitation) acts of God, perils of the sea or air, fire, flood, drought, explosion, sabotage, terrorism, accident, embargo, riot, civil commotion, including acts of local government and parliamentary authority; inability to supply the Software, Support Software, materials or support; the breakdown of equipment and labour disputes of whatever nature and for whatever cause arising including (without limitation) work to rule, overtime bars, strikes and lockouts and whether between either of the parties and any or all of its employees and/or any other employer and any or all of its employees and/or between any two or more groups of employees (and whether of either of the parties or any other employer).
+16. TERMINATION
+16.1 In addition to other provisions for termination in this Agreement, PPMP may by notice in writing to the Licensee terminate this Agreement, in whole or at PPMP's sole option with respect only to the support, in any of the following circumstances:
+(a) if the Licensee is in breach of any term, condition or provision of this Agreement or required by applicable law and fails to remedy such breach (if capable of remedy) within 30 days of having received written notice of such breach from PPMP; or
+(b) if the Licensee enters into any form of insolvency administration, including liquidation, bankruptcy, receivership, voluntary administration or otherwise; or
+(c) if PPMP elects, at its sole discretion, to terminate the Agreement and gives the Licensee 30 days notice to that effect.
+16.2 Upon termination, the Licensee must pay to PPMP all costs and expenses, including legal and other fees incurred and all arrears of fees, charges or other payments arising in respect of the Software, Support Software, or support generally, this Agreement or otherwise.
+16.3 Termination is subject to any rights and remedies PPMP may have under this Agreement or at law.
+16.4 In the event that this Agreement expires or terminates with respect to support only, the Licensee shall comply with the provisions of clause 8.3(h) where the same relates to any Support Software and documentation supplied by PPMP in performance of the support provisions of this Agreement.
+17. PPMP'S RIGHTS
+Any express statement of a right of PPMP under this Agreement is without prejudice to any other right of PPMP expressly stated in this Agreement or existing at law.
+18. COUNTERPARTS
+The Agreement may be executed in counterparts by the respective parties, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement, provided that this Agreement shall be of no force and effect until the counterparts are exchanged.
+19. SURVIVAL OF AGREEMENT
+Subject to any provision to the contrary, this Agreement shall enure to the benefit of and be binding upon the parties and their successors, trustees, permitted assigns or receivers but shall not enure to the benefit of any other persons.
+The covenants, conditions and provisions of this Agreement which are capable of having effect after the expiration of the Agreement shall remain in full force and effect following the expiration of the Agreement.
+20. ASSIGNMENT
+The Licensee must not assign or otherwise transfer all or part of the Software or this Agreement without the prior written consent of PPMP.
+21. WAIVER
+Failure or neglect by either party to enforce at any time any of the provisions of this Agreement is not to be construed nor deemed to be a waiver of that party's rights under this Agreement nor in any way affect the validity of the whole or any part of this Agreement nor prejudice that party's rights to take subsequent action.
+22. SEVERABILITY
+In the event that any of the terms, conditions or provisions contained in this Agreement are determined by any competent authority to be invalid, unlawful or unenforceable to any extent, such term, condition or provision is to that extent severed from the remaining terms, conditions and provisions which continue to be valid to the fullest extent permitted by law.
+23. GOVERNING LAW AND JURISDICTION
+23.1 This Agreement is governed by the laws of Victoria and the Commonwealth of Australia.
+23.2 Each party irrevocably submits to the non-exclusive jurisdiction of the courts of Victoria.
+24. NOTICE
+24.1 A notice required or authorised to be given or served upon a party pursuant to this Agreement must be in writing in the English language and may be given or served by facsimile, prepaid registered post or hand to that party at its address or facsimile number appearing in this Agreement or such other address or facsimile number as the party may have notified in writing to the other party or parties.
+24.2 In the absence of proof to the contrary a notice is deemed to have been given or served on the party to whom it was sent:
+(a) in the case of hand delivery, upon delivery during Business Hours of the recipient;
+(b) in the case of pre-paid post, 2 Business Days after the date of dispatch; and
+(c) in the case of facsimile transmission:
+(i) at the time of dispatch if that dispatch is during Business Hours; or
+(ii) at 9.00am on the next Business Day following the day of dispatch, if the dispatch is outside Business Hours.
+24.3 A notice given or served under this Agreement is sufficient if:
+(a) in the case of a corporation, it is signed by a director or secretary of that corporation; and
+(b) in the case of an individual, it is signed by that individual.
+24.4 the provisions of this clause are in addition to any other mode of service permitted by law.
+24.5 In this clause 'notice' includes a demand, request, consent, approval, offer and any other instrument or communication made, required or authorised to be given under or pursuant to a provision of this Agreement.
+24.6 In this clause 'Business Hours' means from 9.00am to 4.30pm on a Business Day.
+25. INTERPRETATION
+In this Agreement, except to the extent the context otherwise requires:
+(a) the singular includes the plural and vice versa and a gender includes other genders;
+(b) a reference to a party is to be construed as a reference to a party to this Agreement;
+(c) a reference to a party to this Agreement or any other document or agreement includes its successors and permitted assigns;
+(d) a reference to an item in the Background, clause, schedule, annexure or appendix is a reference to an item in the Background, clause of or schedule, annexure or appendix to this Agreement and references to this Agreement include its schedules and any annexures;
+(e) where a word or phrase is given a particular meaning, other parts of speech or grammatical forms of that word or phrase have corresponding meanings;
+(f) a reference to a document or agreement including this Agreement includes a reference to that document or agreement as amended, novated, supplemented, varied or replaced from time to time; and
+(g) in the interpretation of this Agreement, headings are to be disregarded.
+SCHEDULE 1
+Terms of Agreement
+
+1.	The Licensee2.	Commencement Date___________________________________3.	Software and VersionPPMP Version 6.1.04.	System* Single User computer (Operating System: Win XP Professional, Version 2002 or Windows 2000; Processor Speed: 1.1 GHz,     RAM 512MB); or
+* Network with ______________ (insert no.) computers 5.	Location(s)6.	Licence Fee* Single User Licence Fee:
+* Network Licence Fee:	
+					$0 to existing users (incl. GST)
+$0 to existing users (incl. GST) for a maximum of 3 computers; plus
+$0 (incl. GST) per computer for each computer greater than 3 computers7.	Support(a) telephone;
+(b) email; and
+(c) fax9.	Support Charges(a) monthly Support Charge:
+* Single User Licence
+* Network Licence (2 - 5 terminals)
+* Network Licence (6 - 9 terminals)
+(b) out of hours Support Charge:
+(c) onsite:
+$49.50 (incl. GST) per month
+$66 (incl. GST) per month
+$82.50 (incl. GST) per month
+additional charges will be levied
+additional charges will be levied8.	Initial Term12 months
+EXECUTED as an agreement in Victoria.
+
+EXECUTED for and on behalf of)PPMP ABN 35 418 176 759)))?       David John Britten?
+
+EXECUTED for and on behalf of)THE LICENSEE by authority of the directors in the presence of:)))?Director?Director/Secretary?Full name of director?Full name of director/secretary
+
+
+TABLE OF CONTENTS
+
+1.	DEFINITIONS	1
+2.	LICENCE AND USE OF SOFTWARE	2
+3.	LICENSEE'S RIGHTS	3
+4.	SUPPORT	3
+5.	LICENCE FEE AND SUPPORT CHARGES	3
+6.	SUPPORT NOT INCLUDED	4
+7.	GOODS AND SERVICES TAX	4
+8.	LICENSEE'S UNDERTAKINGS	5
+9.	WARRANTY	6
+10.	PPMP'S LIABILITY	6
+11.	LICENSEE'S ACKNOWLEDGEMENTS	7
+12.	INTELLECTUAL PROPERTY RIGHTS	7
+13.	INDEMNITY	7
+14.	CONFIDENTIAL INFORMATION	8
+15.	FORCE MAJEURE	9
+16.	TERMINATION	9
+17.	PPMP'S RIGHTS	9
+18.	COUNTERPARTS	9
+19.	SURVIVAL OF AGREEMENT	9
+20.	ASSIGNMENT	10
+21.	WAIVER	10
+22.	SEVERABILITY	10
+23.	GOVERNING LAW AND JURISDICTION	10
+24.	NOTICE	10
+25.	INTERPRETATION	11
+SCHEDULE 1	12
+Terms of Agreement	12
+
+
+
+PHYSIOTHERAPY PRACTICE MANAGEMENT PROGRAMSOFTWARE LICENCE,SUPPORT AND MAINTENANCE AGREEMENTPPMP ABN    47 283 665 875AndTHE LICENSEE
+/S1	Software Licence and Support Agreement Page 2 
+
+/S1	Software Licence and Support Agreement
+
+
+
+	Page ii
+
+
+
+/S2
+
+
+
+
+
+
+
+/S3	(c) McCullough Robertson 2003
+

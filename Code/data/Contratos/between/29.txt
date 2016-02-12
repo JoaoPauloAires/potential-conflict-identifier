@@ -1,0 +1,360 @@
+NON-COMMERCIAL (PUBLIC SECTOR AND NOT FOR PROFIT) 
+RESEARCH AGREEMENT
+
+2009 ARC LINKAGE PROJECTS
+
+
+THIS AGREEMENT is made the                      day of                                                   200 
+
+
+
+BETWEEN
+
+	LEAD UNIVERSITY (ABN xx xxx xxx xxx) of ...Road, Suburb, State Postal Code ("Administering Organisation")
+	
+AND
+
+	PARTNER ORGANISATION (ABN xx xxx xxx xxx) of ...Road, Suburb, State Postal Code 
+
+PARTNER ORGANISATION (ABN xx xxx xxx xxx) of ...Road, Suburb, State Postal Code
+
+(collectively "Partner Organisations")
+
+AND
+
+	UNIVERSITY OF XYZ (ABN xx xxx xxx xxx) of ...Road, Suburb, State Postal Code 
+
+
+	UNIVERSITY OF ABC (ABN xx xxx xxx xxx) of ...Road, Suburb, State Postal Code 
+ 
+(collectively "Collaborating Organisations")
+
+
+RECITALS
+A. The Administering Organisation has been awarded Funding by the ARC to conduct the Project titled "........", LP09XXXXX with the Partner Organisation(s) and Collaborating Organisation(s).
+
+B. In formally accepting the Funding for the Project the Administering Organisation has entered into the Funding Agreement with the ARC.
+
+C. The Administering Organisation, the Partner Organisation(s), and the Collaborating Organisation(s) have agreed to enter into this Agreement, which sets out how the Project will be conducted, Student involvement, the ownership of Intellectual Property and related issues. 
+
+
+Table of Clauses
+
+
+RECITALS	1
+Definitions and Interpretations	3
+2.	Term of Agreement	3
+3.	The Project	3
+4.	Funding Agreement Obligations	3
+5.	Project contributions	3
+6.	Chief Investigators, Project Leader and Project Management	3
+7.	Background Intellectual Property	3
+8.	Reporting	3
+9.	Project Intellectual Property	3
+10.	Confidential Information and Personal Information	3
+11.	Publication	3
+12.	Warranties	3
+13.	Special Conditions	3
+14.	Termination	3
+15.	Dispute Resolution	3
+16.	General	3
+17.	Notices	3
+SCHEDULE A	3
+SCHEDULE B - ROLES, CONTRIBUTIONS AND BUDGET	3
+SCHEDULE C - BACKGROUND INTELLECTUAL PROPERTY	3
+ANNEXURE A	3
+
+
+THE PARTIES AGREE:
+Definitions and Interpretations 
+1.1 Definitions
+In this Agreement:
+"Agreement" means this agreement including any schedules or annexures and any amendment to it in writing;
+"Annexure" means an annexure to this Agreement;
+"ARC" means the Commonwealth of Australia as represented by the Australian Research Council;
+"Background Intellectual Property" means pre-existing or independently developed Intellectual Property, owned or controlled by a Party which it determines, in its discretion, to make available for the carrying out of the Project. This includes but is not limited to any Intellectual Property outlined in Schedule C;
+
+"Business Day" means a day which is not a Saturday, Sunday, Administering Organisation holiday, public holiday or bank holiday in Melbourne, Victoria, Australia;
+"Chief Investigator(s)" means the person(s) identified in the Proposal as the Chief Investigator(s) or their ARC approved replacement and includes the Project Leader; 
+"Collaborating Organisation(s) Contributions" means Contributions that the Collaborating Organisation(s) will make to the Project and which are identified in the Proposal (or in the event a variation has been agreed, the Contributions identified in Schedule B); 
+"Commencement Date" means the commencement date as set out in Schedule A;
+"Confidential Information" means all know-how, financial information and other commercially valuable information in whatever form including unpatented inventions, trade secrets, formulae, graphs, drawings, designs, biological materials, samples, devices, models and other materials of whatever description which a Party claims is confidential to itself and over which it has full control and includes all other such information that may be in the possession of a Party's employees or management.  Information is not confidential if:
+(a) it is or  becomes part of the public domain unless it came into the public domain by a breach of confidentiality;
+(b) it is obtained lawfully from a third party without any breach of confidentiality;
+(c) it is already known by the recipient Party (as shown by its written record) before the date of disclosure to it; 
+(d) it is independently developed by an employee of the recipient Party who has no knowledge of the disclosure under this Agreement; 
+(e) required to be disclosed by a court, rule or governmental law or regulation, or the rules of any stock exchange, provided that the party making the disclosure provides prompt notice to the other party of any such requirement; or
+(f) it is required to be disclosed pursuant to this Agreement or the Funding Agreement. 
+"Contributions" means the cash and/or in-kind contribution of a Party as stated in the Proposal, or if varied in accordance with the Funding Agreement, then as set out in Schedule B;
+"Corporations Act" means the Corporations Act 2001 (Cth);
+"Funding" or "Funds" means the amount payable by the ARC to the Administering Organisation for the purpose of carrying out the Project;
+"Funding Agreement" means the funding agreement dated # between the Administering Organisation and the ARC under which the ARC agrees to pay the Funding to the Administering Organisation; 
+"Funding Rules" means the ARC linkage projects funding rules for funding commencing in 2009 accessible at http://www.arc.gov.au/ncgp/lp/lp_fundingrules.htm;
+
+"GST" means a goods and services tax imposed on the supply of goods or services (including, without limitation, the supply of intellectual property) under Commonwealth or State law (including, without limitation, A New Tax System (Goods and Services Tax) Act 1999 (Cth));
+"Intellectual Property" means all rights resulting from intellectual activity whether capable of protection by statute, common law or in equity and including copyright, discoveries, inventions, patent rights, registered and unregistered trade marks, design rights, circuit layouts and plant varieties and all rights and interests of a like nature, together with any and all documentation relating to such rights and interests;
+"Letter of Award" means the letter of award  received by the Administering Organisation in relation to the Project, a copy of which is annexed in Annexure A;
+"Linkage Projects" means the linkage projects grant scheme funded by the ARC;
+"Parties" means the parties to this Agreement and their respective successors and permitted assigns, and "Party" means any one of them;
+"Partner Investigator" means the person identified in the Proposal as a partner investigator (if any) or alternative or additional persons approved by the ARC;
+"Partner Organisation(s) Contribution" means Contributions that the Partner Organisation(s) must make to the Project and which are identified in the Proposal (or in the event that a variation has been agreed, as set out in Schedule B); 
+"Project" means the program of research and development identified at Recital A and more fully described in the Proposal (as may be varied by agreement of the Parties with the approval of the ARC);
+"Project Completion Date" means the date upon which the Final Report is due which is set out in Schedule A;
+"Project Intellectual Property" means Intellectual Property which is created, developed or discovered in the conduct of the Project excluding copyright in a Student's thesis;
+"Project Leader" means the person appointed as the project leader in accordance with clause 6.1; 
+"Project Management Committee" has the meaning given to it in clause 6.3;
+"Project Publication Protocols" means the protocols developed by the Project Management Committee that the Parties must follow in relation to publication of any work that relates to the Project, having regard to Sections 4 and 5 of the Australian Code for the Responsible Conduct of Research; 
+"Proposal" means the proposal for the Funding, submitted by the Parties to the ARC, a copy of which is annexed in Annexure A;
+"Publishing Party" has the meaning given to it in clause 11.4;
+"Schedule" means a schedule to this Agreement; 
+       "Serendipitous Discovery" has the meaning given to that term in clause 9.3; 
+"Specified Personnel" has the meaning given to that term in clause 1.1 of the Funding Agreement;, and
+"Student" means any student of the Administering Organisation or a Collaborating Organisation engaged in the Project.
+1.2 Interpretation
+The following rules apply unless the context requires otherwise:
+(a) words which are defined in the Funding Agreement have the same meaning when used in this Agreement unless another definition has been used in clause 1.1; 
+(b) words denoting the singular include the plural and vice versa;
+(c) words denoting natural persons include corporations and vice versa;
+(d) words denoting any gender include all genders;
+(e) headings are for convenience only and do not affect interpretation;
+(f) reference to any Party to this Agreement or any other relevant agreement or document includes that Party's successors and permitted assigns;
+(g) reference to any document or agreement is deemed to include references to such document or agreement as amended, novated, supplemented, varied or replaced from time to time;
+(h) references to any legislation or to any provision of any legislation include any modification or re-enactment of such legislation or any legislative provisions substituted for, and all legislation and statutory instruments issued under, such legislation; and
+(i) any reference to "GST", "input tax credit," "recipient", "supplier", "supply", "tax invoice" and "taxable supply" has the meaning given to those expressions in the A New Tax System (Goods and Services Tax) Act 1999.
+2.	Term of Agreement
+This Agreement will begin on the Commencement Date and, subject to earlier termination will terminate on the Project Completion Date unless otherwise varied with the approval of the Parties and, if applicable, with the prior approval of the ARC. 
+3.	The Project
+3.1 Each Party must carry out their role on the Project as outlined in the Proposal or, if varied in accordance with the Funding Agreement, as set out in Schedule B.
+3.2 Each Party must conduct the Project in accordance with generally accepted professional, scientific, ethical, business and financial principles and standards and exercise all due care and skill.
+3.3 The Parties acknowledge that research work is of its nature uncertain and that particular outcomes and results from the Project cannot be guaranteed.
+3.4 The Parties acknowledge that the conduct of the Project may be subject to the Administering Organisation and the Collaborating Organisation(s) obtaining ethics approval and other forms of statutory approval.  The Administering Organisation and the Collaborating Organisation(s) must use their reasonable endeavours to gain such approval prior to the commencement of the Project and during the Project (as relevant), including by reviewing and revising (where appropriate) the Project's scope. However, in the event that approval is still unsuccessful or the ARC does not approve a change in the Project's scope, the Administering Organisation may terminate the relevant Collaborating Institution(s) involvement in the Project in accordance with clause 14.4, without penalty to that Collaborating Institution. 
+4.	Funding Agreement Obligations
+4.1 The Parties acknowledge having read and understood the Funding Agreement, a pro forma copy of which can be accessed from the ARC website at: 
+www.arc.gov.au/ncgp/lp/lp_fundingagreement.htm
+4.2 The Partner Organisation(s) and the Collaborating Organisation(s) acknowledge that although each is not a party to the Funding Agreement, the provisions of the Funding Agreement must be read with and form part of this Agreement.  Where there is any inconsistency between the provisions of this Agreement and those of the Funding Agreement, the Funding Agreement must prevail. 
+4.3 All Parties agree to comply with the Funding Agreement to the extent that it applies to them and assist the Administering Organisation to comply with the terms of the Funding Agreement and will not do anything which will cause the Administering Organisation to be in breach of the Funding Agreement.
+4.4 Each Partner Organisation warrants that:
+(a)	the Partner Organisation's relationship with the Chief Investigators and APDI Fellows on the Project does not and will not in the future constitute a potential or actual conflict of interest and that where a potential or conflict of interest does arise in the future the Partner Organisation will immediately report the potential or actual conflict of interest to the Administering Organisation and the other parties;
+(b) the Partner Organisation satisfies the requirements for a Partner Organisation stipulated in Appendix 2 of the Funding Rules.
+4.5 Without limiting the other provisions of this clause 4 and in accordance with clause 10.2(f) of the Funding Agreement, the Partner Organisation(s) indemnify the Administering Organisation against any loss, liability or expense incurred or suffered by the Administering Organisation as a result of any breach by the Administering Organisation of the Funding Agreement caused by the Administering Organisation's reliance on the warranty given by the Partner Organisation(s) under clause 4.3.
+4.6 All Parties agree to ensure that the Funding is used in accordance with the Funding Agreement, including in relation to payment of the salaries of any Specified Personnel or the payment of stipends to support any postgraduate research Students.
+5.	Project contributions
+5.1 Each Party must provide its Contributions to the Project at the time, location and in the manner as set out in Schedule B.
+5.2 Except as stated otherwise in the Proposal, the cash component of each Partner Organisation(s) Contribution must be paid up-front annually for each year during the term of the Project and within thirty (30) days of receipt of a valid tax invoice  from the Administering Organisation, in accordance with the following:
+a. in relation to the first of the cash component of the Partner Organisation(s) Contributions, on the Commencement Date; and
+b. in relation to any subsequent cash component of the Partner Organisation(s) Contributions, on each anniversary of the Commencement Date.
+5.3 Each Collaborating Organisation will be paid the annual amount set out in Schedule B within thirty (30) days of receipt by the Administering Organisation of a valid tax invoice subject always to the Administering Organisation receiving Funding in relation to the Project from the ARC and, if relevant, cash Contributions from each Partner Organisation.
+5.4 The Parties acknowledge and agree that should the Partner Organisation(s) not make the cash component of the Partner Organisation(s) Contribution to the Administering Organisation within thirty (30) days of receipt of invoice, as provided for in clause 5.2 , the full amount of the invoice shall be a debt due to the Administering Organisation and the Administering Organisation may recover such amount without further proof of debt.
+6.	Chief Investigators, Project Leader and Project Management 
+6.1 The Parties appoint as the Project Leader the person identified as the first-named Chief Investigator in the Proposal.
+6.2 	The Chief Investigators are responsible for the day to day administration of the Project.  
+6.3 As soon as practicable after the Commencement Date, the Chief Investigators, Partner Investigators and the Partner Organisation(s) may establish a Project Management Committee for the Project.  
+6.4 The Project Management Committee will have general oversight of the conduct of the Project including to discuss and determine matters relating to the conduct, content and scope of the Project.
+6.5 The following matters may be considered at the first meeting of the Project Management Committee:
+(a) frequency and format of meetings to discuss the progress of the Project;
+(b) obligations to take and keep minutes of meetings; and
+(c) protocols for making decisions in relation to the conduct of the Project.
+6.6 The Project Management Committee may make decisions and or give consents required under this Agreement in order to carry out the Project. The decision of the majority of the members of the Project Management Committee shall be binding.  If there is an even number of votes, the Project Leader shall have the deciding vote.
+6.7 The management structure and decision making protocols agreed by the Parties under this clause 6 must be observed by the Parties for the duration of the Project (if applicable).
+6.8 For the avoidance of doubt, the Project Management Committee will not have the power to vary this Agreement and all such variations must comply with clause 16.11 (Variation). 
+7.	Background Intellectual Property
+7.1 	The Parties agree that the Background Intellectual Property which a Party makes available for the conduct of the Project will remain the property of that Party. 
+7.2 	Each Party grants to each other a royalty-free, non-exclusive licence to use its Background Intellectual Property to the extent necessary to carry out the Project but for no other purpose.
+7.3 No representations or warranties are made or given in relation to Background Intellectual Property, however each Party making available Background Intellectual Property acknowledges that to the best of its knowledge at the time of entering into this Agreement, such Background Intellectual Property when used in accordance with this Agreement will not infringe any third party Intellectual Property rights.
+8.	Reporting
+8.1 Each Party must maintain reasonable, up to date and accurate records regarding the conduct and conclusions of its part of the Project and its respective Contributions 
+8.2 The Collaborating Organisation(s) will provide a financial acquittal, addressed to the Administering Organisation's Research Office, by 31 January of each year for the period of the Project for Funding transferred to them in the previous calendar year, to enable the Administering Organisation to meet its reporting and financial management obligations under the Funding Agreement.
+9.	Project Intellectual Property
+9.1 Project Intellectual Property will be owned by the Administering Organisation. Each Partner Organisation and Collaborating Organisation assigns to the Administering Organisation all its right, title and interest in such Project Intellectual Property and agrees to do all things reasonably necessary to give effect to such ownership and assignment (including, without limitation, ensuring its employees, contractors and Students do the same). 
+9.2 	The Administering Organisation grants to the Partner Organisation(s) an irrevocable, non-transferable, non-exclusive, free of cost licence to use the Project Intellectual Property for internal, non-commercial purposes.
+9.3 All Information, know-how, discovery, innovation or invention and Intellectual Property Rights resulting from or arising in the course of the Project which were not reasonably anticipated, in the majority opinion of the Project Management Committee ("Serendipitous Discovery") shall be owned by the Party making or creating the Serendipitous Discovery.  Each Party grants to each other Party a royalty-free, non-transferable, non-exclusive licence to use the Serendipitous Discovery made by that party for the sole purpose of carrying out the Project.
+9.4 	The Administering Organisation grants to the Collaborating Organisation(s) an irrevocable, non-transferable, non-exclusive, free of cost licence to use the Project Intellectual Property for teaching and research purposes.
+9.5 	Any Student involved in the Project as part of a postgraduate degree will own copyright in their thesis.
+10.	Confidential Information and Personal Information
+10.1 Confidential Information disclosed during the Project must only be used for the express purpose for which it was disclosed. 
+10.2 Each Party must treat all Confidential Information owned by another Party as confidential and must not, without the prior written consent of the other Party, disclose or permit the same to be disclosed to any third person.
+10.3 Each Party must ensure that its employees, officers and agents comply with the obligations of confidentiality imposed upon it by this clause.
+10.4 Each Party's obligations under this clause survive termination of this Agreement.
+10.5 Each Party acknowledges that it will comply with the Privacy Act 1988 (Cth) and the National Privacy Principles in the use, collection, storage or disclosure of any personal and/or health information collected or used during the Project.
+11.	Publication
+11.1 The Parties recognise that the Project has a strong public good element and that public dissemination of the Project outcomes is important to the Project's success.  In this context, the Parties agree that publication of Project outcomes is a key objective of the Project.  
+11.2 The Project Management Committee may develop Project Publication Protocols for the written approval of all Parties in writing and must distribute the final agreed version of the Project Publication Protocols to all Parties.  In the absence of Project Publication Protocols, the publication procedures as set out in clauses 11.5 to 11.7  will apply.
+11.3 The Parties must acknowledge the contribution and support of the ARC in accordance with clause 28.2 of the Funding Agreement.  
+11.4 Any Party ("Publishing Party") proposing to publish or publicly present material incorporating Project Intellectual Property that has not already been published, shall submit the proposed publication or abstract of the presentation to Project Management Committee for approval at least thirty (30) days prior to the date of proposed submission for publication or presentation.  
+11.5 Where the proposed publication or presentation contains Confidential Information, the Party to which the Confidential Information belongs may require the proposed publication or presentation be amended so as not to contain that information.  The Party to which the Confidential Information belongs shall notify the Publishing Party in writing of their required amendments within twenty-one (21) days of receipt of the proposed publication or abstract and shall not unreasonably withhold or delay their approval for publication or presentation.  
+11.6 If any Party fails to respond to the Publishing Party within the said twenty-one (21) day period, that Party's approval will be taken to have been given to the relevant publication or presentation.  
+11.7 The Partner Organisation(s) acknowledge that the Administering Organisation and the Collaborating Organisation(s) have obligations under their respective Administering Organisation statutes to ensure that any student involved in the Project is able to complete the requirements of his or her candidature, and that this obligation extends to submitting the Student's thesis for examination and depositing in the library a copy of the Student's completed thesis or work submitted for a higher degree.  Nothing in this Agreement affects the operation of the Administering Organisation or Collaborating Organisation's relevant statutes, regulations or policies or creates any obligations contrary to those statutes, regulations or policies.
+12.	Warranties
+12.2 Subject to clause4.4, each Party excludes all warranties, terms, conditions, representations or undertakings, whether statutory or otherwise, to the full extent permitted by the laws of the Commonwealth of Australia or of any State or Territory of Australia having jurisdiction, including:
+(a)	any warranty of merchantability of or fitness for a particular purpose in respect of the Background Intellectual Property and Project Intellectual Property; and
+(b)	any warranty that the Background Intellectual Property and Project Intellectual Property does not infringe any third party's Intellectual Property rights.
+12.3 To the extent that any warranties, terms, conditions, representations or undertakings cannot be excluded at law, liability should be limited to: 
+	(a)	re-performing its Contribution to the Project; or
+(b)	at its election, payment of the cost of having its Contribution to the Project re-performed.
+13.	Special Conditions
+Any special conditions relating to the Project are as set out in the Letter of Award and each Party agrees to abide by and perform the Project in accordance with the Special Conditions.
+14.	Termination
+14.1 	The Parties may immediately terminate this Agreement by mutual consent in writing.
+14.2 	The Administering Organisation may terminate this Agreement if the ARC ceases to provide all or any part of the Grant to the Administering Organisation, or if the Funding Agreement is terminated for any reason.  The Administering Organisation must use reasonable endeavours to provide all Parties with notice that the Funding Agreement has been terminated as soon as possible.
+14.3 A Party to this Agreement may withdraw from this Project upon giving three (3) months notice in writing to the Administering Organisation where for reasons beyond its control, including, but not limited to, a failure to obtain any required ethics or statutory approval, it is unable to perform its obligations under this Agreement.  A withdrawing Party must perform all obligations up to the date of withdrawal and will be liable for the full cash amount of its Contribution in the year that it withdraws.
+14.4 The Administering Organisation may terminate the involvement of a Party under this Agreement immediately upon the giving of written notice to that Party if:
+(a) that Party is in breach of a material obligation of this Agreement and has failed to rectify that breach within twenty-one (21) days of written notice by the Administering Organisation;
+(b) that Party is insolvent within the meaning of the Corporations Act, or a court is required under the Corporations Act to presume that that Party is insolvent;
+(c) an application or order is made, proceedings are commenced, a resolution is passed or proposed in a notice of meeting or an application to a court or other steps are taken for that Party's winding up or dissolution, or that Party enters into an arrangement, compromise or composition with or assignment for the benefit of its creditors or any of them;
+(d) an administrator is appointed over all or any of that Party's assets or undertaking, any step preliminary to the appointment of an administrator is taken, or a controller within the meaning of the Corporations Act or similar officer is appointed to all of that Party's assets or undertaking; or
+(e) the conditions of clause 3.4 are not satisfied.
+14.5 Subject to clause 16.1, if a Force Majeure Event continues for more than 30 days, the other Parties many jointly expel any Party the subject of the Force Majeure Event from participation in the Project in accordance with this clause 14. 
+14.6 Where the involvement of a Party is terminated under clause 14.4 or a Party withdraws from the Project under clause 14.3, the Administering Organisation will consult with the remaining Parties to determine whether or not the Project can proceed without that Party in whole or on a reduced scale.  Where the Administering Organisation elects to proceed, the Parties agree to do all things necessary to amend the Agreement to reflect the new arrangements. Where the Administering Organisation determines that the Project cannot proceed, the Administering Organisation may terminate this Agreement by notice in writing to the other Parties. 
+14.7 If this Agreement is terminated under this clause, the Administering Organisation and the Collaborating Institutions may independently continue the Project and access the Partner Organisations' Background Intellectual Property and Confidential Information to the extent necessary for any Student involved in the Project to complete the Student's course work and the Student's thesis.
+14.8 Termination of this Agreement for whatever cause is without prejudice to any rights or obligations that have accrued and are owing prior to such termination.  
+15.	Dispute Resolution
+15.1 A Party must not commence legal proceedings relating to this Agreement unless the Party wishing to commence proceedings has complied with this clause 15.  
+15.2 The Parties must co-operate with each other and use their best endeavours to resolve by mutual agreement any disputes between them and all other difficulties which may arise from time to time relating to this Agreement.
+15.3 Any dispute not resolved under clause 15.2 must be dealt with as follows:
+(a) the Party claiming a dispute exists must notify in writing the other Party of that dispute ("Notification");
+(b) within 10 days of receipt of that Notification, the dispute must be referred to the Chief Executive Officer of the relevant Party and the Deputy Vice-Chancellor (Research) of the Administering Organisation, or their nominees for resolution; and
+(c) if the dispute is not resolved within 28 days of Notification, the dispute shall be referred for mediation to the Australian Commercial Dispute Centre Limited ("ACDC").  If the Dispute has not been resolved within 60 days of referral to ACDC either Party is free to initiate court proceedings.   
+16.	General
+16.1 Force Majeure
+A Party to this Agreement shall not be responsible or liable for any non-performance or delay in performance of any of its obligations under this Agreement that is caused by an act or event that is beyond the reasonable control of that Party ("Force Majeure Event"), provided that it promptly notifies the other parties (with appropriate details); and takes all reasonable steps to work around or reduce the effects of the Force Majeure Event.  
+
+16.2 No partnerships
+This Agreement does not create a partnership, agency, fiduciary or other relationship, except the relationship of contracting parties.  No Party is liable for the acts or omission of any other Party, save as set out in this Agreement.
+
+16.3 
+Assignment
+A Party must not assign, sub-contract, or transfer any of its rights or obligations under this Agreement to any person without the prior written consent of the other Parties.  Such consent must not be unreasonably withheld.
+
+16.4 Severability
+If a clause or part of a clause can be read in a way that makes it illegal, unenforceable or invalid, but can also be read in a way that makes it legal, enforceable and valid, it must be read in the latter way.  If any clause or part of a clause is illegal, unenforceable or invalid, that clause or part is to be treated as removed from this Agreement, but the rest of this Agreement is not affected and all other provisions will remain in full force and effect.
+16.5 Governing Law
+This Agreement shall be governed by the laws of the [Administering Organisation's State], Australia.  Each Party submits to the non-exclusive jurisdiction of the courts of that place.
+
+16.6 GST
+If under GST Law any supply under this Agreement is taxable, the supplier will be entitled to recover from the recipient an amount equal to the GST payable by the supplier. If GST is payable, the supplier will provide the recipient with a tax invoice or other document adequate to claim an input tax credit.
+16.7 Several Obligations
+Each Party's obligations and liabilities under this Agreement are several and not joint or joint and several.
+16.8 No Waiver
+Any failure by a Party to compel performance by the other Party of any of the terms and conditions of this Agreement will not constitute a waiver of those terms or conditions or diminish the rights arising from their breach.
+16.9 	Counterpart
+This Agreement may be executed in any number of counterparts.  All counterparts taken together will be taken to constitute one agreement.
+16.10 	Signatories
+The signatories to this Agreement warrant that they have the authority to enter into this agreement on behalf of the party they are stated to represent.
+16.11 Variation
+      This Agreement may only be varied in writing, signed by all Parties.
+16.12	No representation
+A Party shall not represent that another Party  or any of their staff in any way endorse, support or approve of, any products, services, Intellectual Property or business of  the representing party unless that other Party has given its express written consent to such representation. 
+
+17.	Notices
+ Any notice given under this Agreement:
+(a)	must be in writing and signed by a person authorised by the sender;
+(b)	must be delivered to the intended recipient by post or by hand or fax or email to the address or fax number or email address set out in Schedule A;
+(c)	will be taken to be duly given or made:
+(i) in the case of delivery in person, when delivered;
+(ii) in the case of delivery by post, five Business Days after the date of posting unless it has been received earlier; 
+(iii) in the case of fax, on receipt by the sender of a transmission control report from the dispatching machine; and
+(iv) if transmitted electronically, upon actual receipt by the addressee provided that the sender does not receive notification of invalid email delivery address or other transmission error.  In the case where the sender receives a transmission error report, the sender must re-send the notice by one of the other means by hand, post or fax;
+but if the result is that a notice would be taken to be given or made on a day which is not a Business Day, or is later than 4.00pm (local time), it will be taken to have been duly given or made on the next Business Day.
+
+
+SCHEDULE A 
+
+COMMENCEMENT DATE
+
+On the date of this Agreement.
+
+PROJECT COMPLETION DATE
+
+
+
+NOTICES
+
+Administering Organisation;
+Contact Person:
+Address:
+Fax number:
+E-mail:
+
+Collaborating Organisations;
+Contact Person:
+Address:
+Fax number:
+E-mail:
+
+Partner Organisations:
+Contact Person:
+Address:
+Fax number:
+E-mail:
+
+
+SCHEDULE B - ROLES, CONTRIBUTIONS AND BUDGET
+
+Partner Organisation(s) role in the Project
+
+
+In accordance with the Proposal
+
+
+
+Partner Organisation(s) contributions in the Project
+
+
+Name of Partner Organisation:
+Year 1
+Year 2
+Year 3
+Year 4
+Year 5
+Total
+
+
+
+
+Cash
+
+0
+0
+0
+In-kind
+
+0
+0
+0Delete columns as necessary
+Add further rows as necessary (if more than one partner organisation)
+
+Collaborating Organisation(s) role in the Project
+
+
+
+In accordance with the Proposal
+
+
+
+
+
+ARC CONTRIBUTIONS AND DISTRIBUTION (if different from that identified in the Proposal)
+
+Indicative Budget in relation to the use of ARC Funding.
+
+(The budget must be expended substantially as provided within the original ARC application.)  
+
+
+ARC FundingYear 1Year 2Year 3Year 4Year 5SubtotalName of Admin Org
+Collab Org ASpecify funds that are to be distributed to Collab Org (if relevant)Collab Org BSpecify funds that are to be distributed to Collab Org (if relevant)Total
+Delete columns as necessary
+Add further rows as necessary
+
+
+
+SCHEDULE C - BACKGROUND INTELLECTUAL PROPERTY
+(details to be inserted if applicable)
+ANNEXURE A
+
+Letter of Award and Proposal
+	2	
+
+		
+
+
+

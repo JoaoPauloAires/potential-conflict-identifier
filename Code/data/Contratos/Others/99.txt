@@ -1,0 +1,234 @@
+FirmSite Agreement
+
+THOMSON LEGAL & REGULATORY LIMITED ABN 64 058 914 668 trading as THOMSONS FINDLAW AUSTRALIA (Thomson) of Level 5, 100 Harris Street, Pyrmont NSW 2009, and the Firm agree as follows:
+
+1.	DEFINITIONS AND INTERPRETATION
+1.1	In this agreement:
+End User Interface means the presentation and arrangement of the Firm Content and Thomson Articles and all associated elements, including but not limited to video and audio materials, coding and command sets, and online screen displays (such as screen designs, formats, text, hyperlinks, layouts, typesets, colouration and graphics), provided by Thomson or developed by the parties under this agreement;
+Equipment means the hardware and software which Thomson will use to provide the services under this agreement;
+FirmSite means the Firm's WWW site, which includes the Firm Content and the Thomson Articles developed under this agreement and made accessible to Internet users through the End User Interface and the Thomson Materials;
+Firm Content means the materials provided by the Firm to Thomson under this agreement for publication at the FirmSite the Specifications but does not include any materials or data provided by Thomson or third party materials to which a hyperlink is provided from the FirmSite;
+Hosting Services means the provision and management of the FirmSite which will be made available to the public via the WWW in accordance with this agreement;. 
+Profile Data means all personal and other information collected by the Firm and disclosed to Thomson for the purpose of a listing in Thomson's FindLaw Lawyer Directory;
+Service Levels means the service levels set out in Schedule 1;
+Specifications means the specifications for the FirmSite;
+Thomson Articles means all articles in the subject matter areas agreed by the parties which are provided by Thomson under this agreement for publication at the FirmSite;
+Thomson Materials means all utilities, tools and programs provided by Thomson or developed by Thomson under this agreement that are used to facilitate storage of the Firm Content, Thomson Articles and the End User Interface on Thomson's server and to facilitate transmission of the Firm Content, Thomson Articles and End User Interface to Internet users of the FirmSite and includes without limitation the Equipment; and
+WWW means that part of the Internet known as the World Wide Web.
+1.2	Unless otherwise defined in this agreement, words and expressions have the meaning indicated in the attached order form (Order Form) or the Copyright Act 1968 (as amended), as the case may be.
+1.3	Unless that context otherwise requires:
+(a)	a word which denotes the singular denotes the plural and vice versa;
+(b)	a reference to a thing is a reference to the whole and each part of it; and
+(c)	where a word or phrase is given a particular meaning, other parts of speech and grammatical forms of that word or phrase have corresponding meanings.
+
+2. TERM
+2.1	This clause is subject to clause 2.2.  This agreement commences on the date the order set out on the Order Form is accepted by Thomson and continues for 12 months from the last day of the calendar month containing that acceptance date (Initial Term).  After the expiration of the Initial Term, this agreement will automatically renew for successive one year periods (Annual Terms).  Either party may terminate this agreement by giving at least 30 days' prior notice to the other party that this agreement terminates at the expiration of the Initial 12 month Term or any time after that with 30 days notice (as the case may be).
+2.2	The Firm may terminate this agreement prior to providing any Firm Content to Thomson.  In this event a cancellation fee of 20% of the charges specified in the Order Form is payable by the Firm to Thomson.  This figure represents the parties' best estimate of the likely costs incurred by Thomson between the time the contract is entered into and the time of cancellation including costs incurred in managing the project, resource costs and communicating with the Firm. 
+
+3.	FIRM CONTENT AND HOSTING SERVICE
+3.1	Firm Content.  The Firm will deliver to Thomson in electronic form (ASCII or any mutually agreeable word processing program format) the Firm Content to be made available initially on the FirmSite.  The Firm will be responsible for obtaining all licences and permissions required to provide and distribute the Firm Content as contemplated under this agreement.  Accordingly, the Firm grants to Thomson a non-exclusive worldwide licence to reproduce, publish, communicate to the public and modify, alter or otherwise use the Firm Content so Thomson can perform its obligations under this agreement.  From time to time during the term of this agreement, the Firm is entitled, in accordance with the Specifications, to provide Thomson with updated or additional content for the FirmSite in electronic form acceptable to Thomson and will identify and notify Thomson of obsolete Firm Content or Thomson Articles to be deleted from the FirmSite.  The Firm is responsible for identifying any links which the Firm wishes Thomson to include in the FirmSite and securing any necessary permissions to include a link in the FirmSite.  The onus for keeping copies of the Firm Content sent to Thomson by the Firm rests solely with the Firm. 
+3.2	FirmSite address.  If the Firm desires to obtain an Internet domain name for the FirmSite, the Firm must notify Thomson of the Firm's preferred domain name(s)..  Thomson will, on the Firm's behalf, apply for the registration of the Firm's preferred domain name(s).  The Firm must provide Thomson with all necessary information in a timely fashion to enable Thomson to register the preferred domain name(s) for and on behalf of the Firm. Thomson does not warrant that the Firm's preferred domain name(s) will be available or registrable in the Firm's name.  Thomson accepts no liability if Thomson is unable to procure the registration of the Firm's, or any or all of the Firm's, preferred domain name(s).  The Firm acknowledges that the registration of domain names may be subject to licence conditions and the Firm must agree to and comply with those licence conditions.  The Firm is responsible for ensuring that the information held by the relevant registrar in relation to the Firm's registered domain name(s) are up-to-date and current at any one time. If the Firm has an existing Internet domain name, the Firm may request that Thomson designate the Firm's existing Internet domain name as the address of the FirmSite.  While Thomson can assist the Firm in re-pointing an existing Internet domain name from an existing WWW site to the FirmSite, ultimate responsibility for this task lies with the Firm and the host of the Firm's existing WWW site.
+3.3	Hosting services.  Thomson must provide the Hosting Services in relation to the FirmSite so that the FirmSite complies in all material respects with the Service Levels.  The Firm may only require Thomson to provide the Hosting Services in relation to the FirmSite and the Firm may only use Thomson's hosting services for its own internal business purposes.  Thomson will provide reports to the Firm about the operation and use of the FirmSite at the Customer's reasonable request.  Thomson will provide and maintain the Equipment which is necessary to host and make the FirmSite available to the public via the Internet.  The Firm acknowledges that the Internet is inherently insecure and that Thomson cannot guarantee that the FirmSite will be available or secure from hackers or unauthorised intruders at all times. When using the Hosting Service, the Firm must not:
+(a)	libel, defame, harass or abuse anyone or violate their privacy;
+(b)	distribute or make available obscene, pornographic, illegal or confidential material (for the avoidance of doubt, and without limitation, the Firm must not place on the Internet any content in contravention of applicable laws of the States, Territories or the Commonwealth);
+(c)	infringe intellectual property rights (such as by using, copying or distributing data or software without the permission of the owner);
+(d)	interfere with the Hosting Service, any other computer system or anyone else's use of them (or attempt to do any of these things), including by distributing viruses or overloading a system;
+(e)	access, monitor or use any data, systems or networks without authority (for example, by hacking) or attempt to probe, scan or test the vulnerability of any data, system or network;
+(f)	send unsolicited bulk emails;
+(g)	forge header information, email source addresses or user information;
+(h)	engage in any other illegal or fraudulent activity; or
+(i)	engage in any activities which expose Thomson to liability.
+3.4	ABA.  Commonwealth legislation allows the Australian Broadcasting Authority (ABA) to direct Thomson to suspend access to or remove certain prohibited Internet content from its servers or prevent users from accessing certain Internet content.  Thomson may take any steps necessary in order to ensure compliance with any relevant industry code of practice, notification or direction from the ABA, including removing any content (including part or all of the content at the FirmSite) from its servers.  Thomson may take these steps at any time and without notice to the Firm.
+3.5	Suspension.  In addition to its rights under clause 3.4, Thomson may suspend the Hosting Service immediately at any time without liability to the Firm if the Firm is in breach this agreement (or Thomson reasonably suspects the Firm has breached or is likely to breach this agreement) or if suspension is required for technical reasons.  Thomson will endeavour to give the Firm notice of such suspension.
+
+4.	FIRMSITE
+4.1	Thomson will design, develop and make the End User Interface available at the FirmSite on the Internet and incorporate the Firm Content and the Thomson Articles (in accordance with this agreement) in accordance with the Specifications to create the FirmSite. Thomson will, during the term of this agreement, install and store the FirmSite on its server and provide other services as Thomson deems necessary to allow Internet users to access the FirmSite. The Firm must ensure at all times that the FirmSite complies with any relevant standards, regulations, laws or industry codes of practice, including without limitation those set by any law society or bar association, this includes without limitation preparing appropriate legal notices.
+4.2		In providing the services under this agreement, Thomson may, at the Firm's request, design a logo for the Firm in accordance with the Firm's directions (at additional cost).  In such event, it is the Firm's obligation to ensure that any such logo does not infringe the intellectual property rights of any third party.
+
+5.	THOMSON ARTICLES
+5.1	The Firm and Thomson may from time to time agree that Thomson will provide articles covering subject matter in specified areas of the law for publication at the FirmSite and must agree on the following issues in relation to those articles:  
+ (a)	number of articles to be provided;
+(b)	subject matter to be covered by each article;
+(c)	approximate number of words for each article;
+(d)	date by which each article will be provided to the Firm; and
+(e)	fee to be paid to Thomson for providing the articles,
+Thomson will provide those articles in accordance with that agreement and subject to any other additional terms agreed by the parties.  
+5.3	Thomson grants to the Firm a non-transferable, non-exclusive licence to:
+(a)	reproduce the Thomson Articles;
+(b)	publish the Thomson Articles;
+(c)	communicate the Thomson Articles to the public; and
+(d)	alter or modify the Thomson Articles,
+for the sole purpose of exercising the Firm's rights and performing the Firm's obligations under this agreement, or if this agreement is terminated, any other WWW site for the Firm which is used exclusively to promote the legal services provided by the Firm in accordance with clause 14.3.  The Firm must include in its terms and conditions of use of the FirmSite or that other WWW site (as applicable) provisions which grant each user of the FirmSite or that other WWW site the non-transferable, non-exclusive right to license to:
+(e)	reproduce the Thomson Articles on that user's computer to the extent necessary to view the Thomson Articles; and
+(f)	print a paper copy of the Thomson Articles,
+for that user's personal, informational, non-commercial use.  All other rights are reserved by Thomson.
+5.4	The Firm acknowledges and agrees that the Thomson Articles:
+(a)	are provided to the Firm as general information for people interested in legal matters;
+(b)	should not be promoted by the Firm as a substitute for legal, financial or other professional advice and should not be provided by the Firm to third parties as evidence of such advice; and
+(c)	do not take into account the particular circumstances of any person.
+Thomson is not liable to any person for any use, reliance or promotion of the Thomson Articles in the manner described in paragraphs (a) to (c) of this clause.
+5.5	Thomson does not warrant that:
+(a)	it has fully researched the subject matter areas to be covered by each Thomson Article before writing that article; or
+(b)	 the Thomson Articles are: 
+(i)	a comprehensive or complete summary of the subject matter covered;
+(ii)	completely up-to-date; or
+(iii)	free from errors or omission, definitive or fit for any purpose, including but not limited to, use in legal proceedings or for the giving or interpretation of legal advice.
+5.6	The Firm must not falsely attribute the authorship of any Thomson Article to a person who is not the author of the Thomson Article.  The Firm must also not subject one or more of the Thomson Articles to any derogatory treatment.
+5.7	The Firm may in its absolute discretion elect not to have the authorship of one or more of the Thomson Articles attributed.  Thomson will obtain from the author of each Thomson Article their consent to them not being attributed as the author of their Thomson Article.
+
+6.	ADVERTISING AND PROMOTIONAL MATERIALS
+6.1	The Firm agrees to allow Thomson to use likenesses and information regarding the products and services which the Firm has purchased from Thomson under this agreement in any advertising or promotional materials provided that Thomson notifies the Firm in advance of any such advertising or promotional plans. If Thomson does not receive specific written instructions to the contrary from the Firm within 72 hours of any such notice, Thomson may, in its sole discretion, proceed with its plans.
+
+7.	PRIVACY
+7.1	The Firm will comply with the Privacy Act 1988 (Act) and it will:
+(a)	make the disclosures to, and obtain consent from, individuals as required by the Act when collecting personal information and sensitive information it intends to disclose to Thomson (Disclosed Information).  Without limitation this includes, where applicable, ensuring that each individual is or has been made aware of matters required in national privacy principle 1.3 in relation to the relevant Disclosed Information; and
+(b)	ensure that Thomson can fulfil its obligations under this agreement without being in breach of the Act, including without limitation:
+(i)	listing and publishing the Profile Data of individuals nominated by the Firm in the FindLaw Lawyer Directory;
+(ii)	publishing personal information and sensitive information in the FirmSite; and
+(iii)	including personal information of the individual nominated by the Firm in the Firm's listing in the public registry for the Firm's domain name.
+The Firm will comply with any applicable guidelines to the national privacy principles issued by the Office of the Federal Privacy Commissioner when handling personal information and sensitive information in accordance with this agreement.
+7.2	For the purpose of clause 7, "national privacy principle", "personal information", "sensitive information" and other terms used in clause 7 have the meaning given to them in the Act.
+
+8.	CHARGES AND PAYMENT
+8.1	The Firm agrees to pay Thomson the charges specified in the Order Form as well as any agreed additional charges incurred in the consultation, installation, design, and storage of the FirmSite and the updating and storage of the Firm Content and Thomson Articles .  On entering into this agreement, Thomson will invoice the Firm for the FirmSite and any enhancements for the Initial Term set out in the Order Form.  From the end of the Initial Term, the Firm agrees to pay Thomson the monthly Hosting and Maintenance fee set out in the Order Form. Agreed additional charges will be invoiced as they occur.  The Firm will pay each invoice in full within 30 days of the date of the invoice.
+8.2	Thomson may change the charges payable by the Firm under this agreement for each Annual Term by giving the Firm at least 30 days' notice on or before the last day of the Initial Term or any Annual Term.
+
+9.	GOODS AND SERVICES TAX
+9.1	In this agreement, unless the context otherwise requires, the expressions "adjustment note", "consideration", "GST", "supply", "tax invoice", "recipient" and "taxable supply" have the meanings given to them in the A New Tax System (Goods and Services Tax) Act 1999.
+9.2	For the purposes of clauses 9.4 and 9.5, "GST" includes any penalties or additional tax imposed in relation to the GST.
+9.3	All prices or other sums payable or consideration to be provided under this agreement are inclusive of GST.
+9.4	If a supply is made to which GST applies or is varied under this agreement, Thomson will provide the Firm a valid tax invoice or adjustment note.
+9.5	If the amount of GST paid or payable by Thomson on any supply made under this agreement differs from the amount of GST paid by the Firm, because the Commissioner of Taxation lawfully adjusts the value of the taxable supply for the purpose of calculating GST, then the amount of GST paid by the Firm will be adjusted accordingly by a further payment by the Firm to Thomson or Thomson to the Firm, as the case requires.
+
+10.	OWNERSHIP
+The parties agree that:
+(a)	the End User Interface, Thomson Articles and Thomson Materials are the exclusive property of Thomson or Thomson's licensor;
+(b)	the Firm Content, as provided by the Firm to Thomson and as included in the FirmSite, is the exclusive property of the Firm or its third party licensors; and
+(c)	during the term of this agreement and thereafter, neither party will have the right to disclose or provide to any third party or otherwise use the property of the other party except as expressly permitted by this agreement.
+
+11.	WARRANTIES AND INDEMNITY
+11.1	The Firm is solely responsible for any legal liability arising out of or relating to the Profile Data and the Firm Content.
+11.2	The Firm represents and warrants to Thomson that:
+(a)	it has full authority to provide and use the Firm Content and Profile Data as contemplated by this agreement and that the provision and use of the Firm Content and Profile Data do not, and will not, violate any copyrights, trademarks, trade secrets or other proprietary rights of any third party or create any liability to any third party;
+(b)	the Firm Content and Profile Data do not contain any matter that is:
+(i)	objectionable, false, libellous or defamatory; or
+(ii)	which may cause injury or result in damage to any third party;
+(c)	the Firm Content and Profile Data do not contain any matter that is misleading or deceptive, or likely to mislead or deceive;
+(d)	if the author of any Firm Content has not been attributed as the author of that content, the Firm has obtained that author's written consent to the Firm, Thomson and the users not attributing that author as the author of that content when either the Firm, Thomson or the users deal with that content;
+(e)	if an individual is attributed as the author of any Firm Content, they are the author of that content;
+(f)	if an individual other than the author adapts, revises or develops the Firm Content and that individual is attributed as an author, the Firm has obtained the consent of the original author to the Firm attributing that individual as an author of the Firm Content and to Thomson and the users dealing with the Firm Content with that attribution so Thomson can perform its obligations and the users can exercise their rights under this agreement;
+(g)	if the Firm Content has been or is subjected to any derogatory treatment as a result of Thomson exercising its rights or performing its obligations under this agreement, the author of that content has consented to that treatment and the Firm has obtained the author's written consent to the Firm, Thomson and the user dealing with and using that content with that derogatory treatment;
+(h)	it is entitled to grant the licence to Thomson set out in clause 3.1;
+(ha)	the information provided under clause 3 is true and correct;
+(i)	when requesting a domain name(s) redelegation under clause 3.2, the Firm is the legal owner of the domain name;
+(ia)	the domain name(s) referred to in clause 3 do not infringe any person's rights and they comply with all applicable laws, regulations, industry codes of practice and the relevant registrar's terms and policies ;
+(j)	any logo designed in accordance with clause 4.2 does not infringe the intellectual property rights of any third party;
+(k)	it has made all relevant disclosures, obtained all necessary consents and complied with the privacy guidelines referred to in clause 7; and
+(l)	it will comply with all applicable laws, rules and regulations regarding professional ethics, conduct and advertising in its performance under this agreement.
+11.3	The Firm indemnifies Thomson against any loss or liability (including legal fees and expenses) incurred by Thomson arising from any claim, demand, suit, action or proceeding if such loss or liability arose out of or related to a breach of this agreement by the Firm including, without limitation, the representations and warranties set out in clause 11.2.
+
+12.	DISCLAIMER OF WARRANTY
+12.1	Subject to clause 13.1, any condition or warranty which would otherwise be implied in this agreement is excluded, that is, any service provided or goods supplied under this agreement is provided or supplied without warranty of any kind including, but not limited to, warranties of performance, merchantability, fitness for a particular purpose, accuracy, omissions, completeness, currency or delays.
+12.2	Thomson will have no liability whatsoever for any claim relating to any user's inability to view, access or use the FirmSite.
+12.3	Thomson makes no warranty:
+(a)	that display of, and access to, the End User Interface, Firm Content and Thomson Articles through the FirmSite will be uninterrupted;
+(b)	that the ability of any internet user to access the FirmSite, and the End User Interface, Firm Content and Thomson Articles published at the FirmSite, will be free from error;
+(c)	that there will not be any disruption to the Hosting Service during any redelegation of the Firm's existing domain name in accordance with clause 3.2; or
+(d)	that the Hosting Service will be free from error or fault-free.
+
+13.	LIMITATION OF LIABILITY
+13.1	If legislation implies in this agreement any condition or warranty, and that legislation avoids or prohibits provisions in a contract excluding or modifying the application or exercise of, or liability under, such condition or warranty, the condition or warranty will be deemed included in this agreement.  However, the liability of Thomson for any breach of such condition or warranty will be limited, at the option of Thomson, to one or more of the following:
+(a)	if the breach relates to goods:
+(i)	the replacement of the goods or the supply of equivalent goods;
+(ii)	the repair of such goods;
+(iii)	the payment of the cost of replacing the goods or of acquiring equivalent goods; or
+(iv)	the payment of the cost of having the goods repaired; and
+(b)	if the breach relates to services:
+(i)	the supplying of the services again; or
+(ii)	the payment of the cost of having the services supplied again.
+13.2	Except as provided in clause 13.1, the total liability of Thomson arising out of any breach of this agreement for damages regardless of the cause of action, whether contract, tort (including, without limitation, negligence) or breach of statute or any legal or equitable obligation is limited to the amount of charges paid by the Firm for the Initial Term or Annual Term during which the events which are the basis of the cause of action occurred.
+13.3	In no event will Thomson be liable for any lost profits or any consequential, exemplary, incidental, indirect or special damages arising from, or in any way related to, this agreement.
+
+14.	TERMINATION
+14.1	Either party may terminate this agreement immediately by notice to the other party if:
+(a)	the other party commits a breach of any term of this agreement and, if the breach is capable of remedy, fails to remedy the breach within 14 days after being required to do so in writing by the party giving the notice of the breach;
+(b)	the other party, being a corporation, goes into liquidation, has a receiver or receiver and manager appointed to it or any part of its assets, enters into a scheme of arrangement with creditors or suffers any other form of external administration;
+(c)	the other party, being an individual, commits any act of bankruptcy or enters into a scheme of arrangement with creditors; or
+(d)	either party ceases to carry on business or that part of its business which is relevant for the purposes of this agreement.
+14.2	On the termination of this agreement:
+(a)	Thomson will cease to make the FirmSite available on the Internet; and
+(b)	the Firm will deliver to Thomson any Thomson Materials in its possession or control;
+(c)	Thomson will deliver to the Firm all copies of the Firm Content within its possession or control and, subject to any agreement reached under clause 14.3, destroy all copies of the Firm Content which can not be returned.
+14.3	On termination of this agreement, the Firm may request from Thomson a non-exclusive, non-transferable licence to use the copyright material owned by Thomson which is contained in the End User Interface for a one-time licence fee of 20% of the FirmSite Charge set out on the Order Form for the sole purpose of publication on any other WWW site for the Firm which is used exclusively to promote the legal services provided by the Firm.  If the Firm makes such a request, Thomson will assist in providing the Firm with a copy of the End User Interface and with assisting the Firm's new WWW site provider to redelegate the domain name(s) which referred to the FirmSite, and thereafter, Thomson will no longer host the FirmSite.
+14.4	Clauses 5.3, 5.4, 5.5, 5.6, 10(c), 11, 12, 13, 14.2 and 14.3 survive termination of this agreement.
+
+15.	INDEPENDENT CONTRACTOR
+	The Firm is an independent contractor without authority to bind Thomson contractually or otherwise and is not an agent or employee of Thomson by virtue of this agreement.
+
+16.	ASSIGNMENT
+The Firm must not resell, assign or transfer any of its rights or obligations under this agreement, in whole or in part, without Thomson's prior written consent, which consent may be withheld at Thomson's discretion.
+
+17.	NOTICES
+All notices under this agreement must be in writing sent to the address of the recipient set out in this agreement or the Order Form or such other address as the recipient may designate by written notice to the other party. Any notice may be delivered by hand, pre-paid mail, or fax. Any such notice will be deemed to have been served when delivered (if delivered by hand), 3 days after posting (if sent by pre-paid mail) or on transmission by the sender (if sent by facsimile).
+
+18.	ENTIRE AGREEMENT
+This agreement embodies the entire understanding between the parties with respect to its subject matter and supersedes all prior understandings and agreements relating to the subject matter of this agreement.  
+
+19.	SEVERABILITY
+If any provision of this agreement is or becomes void, invalid, unenforceable or illegal, that provision will be severed from this agreement. Such invalidity will not affect the validity of the remaining provisions of this agreement.
+
+20.	WAIVER
+No waiver of any breach of this agreement will be binding on Thomson unless it is in writing and executed by Thomson or deemed to be a waiver by Thomson of any other or subsequent breach of the same term.
+
+21.	FORCE MAJEURE
+Thomson is not responsible or liable for any failure, delay or errors in provision of the Hosting Service caused by acts of nature, labour stoppage, unrest or disputes, computer viruses, power failure, power failure resulting from upgrading or servicing of the FirmSite or related systems, failure of the Internet or other networks beyond the control of Thomson, or acts or omissions of the Firm or any third party.
+
+22.	PRIORITY
+If there is any conflict between any of the documents comprising this agreement then that conflict will be resolved in the following order of priority:
+(a)	this FirmSite agreement;
+(b)	the schedules to these terms; and
+(c)	the Order Form.
+
+23.	GOVERNING LAW AND JURISDICTION
+This agreement will be governed by and construed according to the law of New South Wales and the parties agree to submit to the jurisdiction of the courts and tribunals of that State.
+
+
+SCHEDULE 1
+Service Levels
+
+1.	Availability
+
+Thomson will ensure that the FirmSite is available 98% of twenty four (24) hours per day, seven (7) days per week in any calendar month, less any Scheduled Downtime in that month.  For the purpose of this schedule, "Scheduled Downtime" means any planned downtime of any Equipment which renders a FirmSite unavailable and which is undertaken for the purpose of maintaining any part of the FirmSite or the Equipment, provided that:
+(a)	Thomson has given the Firm not less than 48 hours written notice of the intended scheduled downtime; and
+(b)	the downtime does not exceed more than 4 hours in any one month, unless otherwise agreed by the parties.
+
+2.	Response times for problem notification and resolution
+
+Once Thomson becomes aware of a problem in relation to the FirmSite, Thomson will advise the Firm of the status and progress towards resolution of the problem no less frequently than the time set out in the table below and will resolve the problem within the time specified in table.  The response times do not include any time taken by the Firm to undertake any task associated with the problem resolution.
+
+
+SeverityDescription9am-5pm (Sydney time), 
+Mon - Fri
+Notification & Update on Status (no less frequently than)9am-5pm (Sydney time), Mon - Fri 
+Resolution Time
+All other times
+Notification & Update on Status (no less frequently than)All other times
+Resolution Time1
+FirmSite unavailability
+45 minutes
+2 hours
+12 hours
+24 hours2All other problems (eg. publishing problems and partial performance faults)
+12 hours
+24 hours
+48 hours
+48 hours
+
+- 2 -
+
+http://www.firmsite.com.au/firmsite_agreement_march05.doc
+
+http://www.firmsite.com.au/firmsite_agreement_march05.doc		17/10/01
+
+
+

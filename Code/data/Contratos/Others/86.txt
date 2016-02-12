@@ -1,0 +1,257 @@
+EFTPOS ACCESS CODE
+
+CONFIDENTIALITY DEED
+DATE 
+
+
+PARTIES
+
+1	______________________________________________(ACCESS PROVIDER)
+
+2	______________________________________________(ACCESS SEEKER)
+
+
+THE PARTIES AGREE
+
+
+ DICTIONARY 
+
+
+(a) The terms used in this agreement are defined below:
+
+
+Approved Purpose means the sole and exclusive purpose of the parties acting in accordance with the rights and obligations imposed on Access Seekers and Access Providers under the Access Code. 
+
+
+Confidential Information means all information of the Discloser or any of its Related Bodies Corporate disclosed to the Recipient or any of its Related Bodies Corporate including, without limitation information relating to the Discloser or any of its Related Bodies Corporate including without limitation information:
+
+
+i) comprised in or relating to any intellectual property rights of the Discloser;
+
+
+ii) relating to the business, financial position, assets or liabilities of the Discloser and any matter that does or may affect the financial position or reputation of the Discloser;
+
+
+iii) relating to future business plans of the Discloser; and
+
+
+iv) relating to the internal management and structure of the Discloser, or the personnel, policies and strategies of the Discloser.
+
+
+Discloser means a party disclosing the Confidential Information.
+
+
+Recipient means a party receiving the Confidential Information.
+
+
+Recipient Representative means in respect of a party an officer, employee or professional adviser of that party.
+
+
+(b) Words capitalised in this Deed that are not defined in clause 1(a) above have the meaning given to them in clause 12 of the EFTPOS Access Code.
+
+
+2 BACKGROUND
+
+
+(a) The Access Seeker is requesting access from the Access Provider under the Access Code.
+
+(b) As part of the process of negotiation for access, the Access Provider and Access Seeker may disclose to each other Confidential Information.
+
+
+(c) The Access Provider and Access Seeker have agreed to deal with the Confidential Information disclosed as part of the negotiation process in accordance with the terms of this agreement.
+
+
+3 RECIPIENT'S OBLIGATIONS
+
+
+1.1 Recipient must keep information confidential
+
+
+The Recipient must:
+
+
+(a) keep confidential all Confidential Information;
+
+
+(b) use all Confidential Information solely for the Approved Purpose and, for the avoidance of doubt, must not use the Confidential Information to compete against the Discloser; and
+
+
+(c) not copy or record in any other form any part of the Confidential Information except as is strictly necessary for the Approved Purpose and in accordance with this Deed.
+
+
+
+
+1.2 Disclosure to Recipient Representatives
+
+
+The Recipient must:
+
+
+(a) only disclose Confidential Information to a Recipient Representative to the extent necessary for the Recipient Representative to perform their duties for the Approved Purpose; and
+
+
+(b) ensure that each Recipient Representative to whom Confidential Information has been disclosed keeps that information confidential and does not do anything which would be a breach of this agreement if done by the Recipient.
+
+
+1.3 Disclosure required by law
+
+
+(a) The Recipient is not bound to keep confidential any Confidential Information if and to the extent that the Confidential Information is required by law to be disclosed.
+
+
+(b) If required by law to disclose Confidential Information, the Recipient must prior to that disclosure:
+
+
+i) notify the Discloser; and 
+
+
+ii) seek reasonable confidentiality arrangements to protect the confidentiality of the Confidential Information and to prevent further disclosure.
+
+
+1.4 Information in the public domain
+
+
+(a) The Recipient is not bound to keep confidential any information if and to the extent that the information is in the public domain other than because of a breach of this agreement.
+
+
+(b) If the Recipient is uncertain whether any information is Confidential Information, the Recipient must treat the information as if it were Confidential Information unless and until the Discloser agrees in writing that the information is not Confidential Information.
+
+
+4 RECIPIENT DOES NOT OWN THE INFORMATION
+
+
+The Recipient acknowledges that this agreement does not:
+
+
+(a) transfer to it any interest in any intellectual property; and
+
+
+(b) oblige the Discloser to disclose any Confidential Information to the Recipient.
+
+
+5 RETURN OF INFORMATION
+
+
+5.1 Recipient's rights may cease
+
+
+The Discloser may at any time notify the Recipient in writing that its right to use the Confidential Information ceases and the Recipient must immediately, at the Discloser's option:
+
+
+(a) return to the Discloser all of the Disclosers' Confidential Information in its possession or control;
+
+
+(b) destroy it and permit the Discloser to witness the destruction; or
+
+
+(c) delete it in the case of machine readable records.
+
+
+5.2 Obligations continue
+
+
+The obligations of confidentiality under this agreement continue to apply for a period of 5 years after the date of this agreement to the Recipient even if:
+
+
+(a) the Approved Purpose is completed or terminated; and
+
+
+(b) the Recipient has returned, destroyed or deleted the Confidential Information in accordance with clause 5.1 (Return of information),
+
+
+unless the parties have entered into an Access Agreement, in which case the obligations of confidentiality under this agreement are replaced by the obligations of confidentiality under the Access Agreement.
+
+
+6 INDEMNITY
+
+
+6.1 Breach of agreement will damage Discloser
+
+
+The Recipient acknowledges that any breach of this agreement may cause damage to the Discloser and its Related Bodies Corporate. In the event of a breach the Discloser is permitted to institute proceedings to exercise all rights and remedies available under all relevant jurisdictions including equity.
+
+
+6.2 Recipient indemnifies Discloser
+
+
+The Recipient indemnifies the Discloser and its Related Bodies Corporate and their respective officers, employees, and agents against any claim, liability, action, damage, loss, cost or expense sustained by any of them arising directly or indirectly from:
+
+
+(a) any breach by the Recipient of its obligations under this agreement; and
+
+
+(b) any act or omission of the Recipient's officers, employees, advisers, agents or contractors which, if done or omitted to be done by the Recipient, would be a breach of the Recipient's obligations under this agreement.
+
+
+7 DISCLAIMER
+
+
+7.1 No representations
+
+
+The Recipient acknowledges that none of the Discloser, its Related Bodies Corporate, their respective officers, employees, advisers or agents has made or makes any representation or warranty, express or implied, as to the accuracy or completeness of the Confidential Information.
+
+
+7.2 Recipient releases Discloser
+
+
+The Discloser, its Related Bodies Corporate and their respective officers, employees, advisers and agents disclaim liability for any loss or damage suffered or incurred by any person acting on any Confidential Information.
+
+
+7.3 Discloser contracts as trustee
+
+
+For the purposes of clause 7.1 (No representations) and 7.2 (Recipient releases Discloser), the Discloser contracts on its own behalf and as trustee of the benefit of the acknowledgment and release, for its Related Bodies Corporate and their respective officers, employees, advisers and agents.
+
+
+8 MISCELLANEOUS
+
+
+The rights and obligations set out in this Deed are in addition to, and do not derogate from, the rights or obligations of confidence expressed in the EFTPOS Access Code.
+
+
+SIGNED as a Deed.
+
+
+SIGNED by [             ] as authorised signatory for [the Access Seeker]  in the presence of:
+
+_________________________________
+Signature of witness
+
+_____________________________________
+Name of witness (print)
+
+
+
+
+
+________________________________
+Signature of 
+
+
+
+
+SIGNED by [          ] as authorised signatory for [the Access Provider] in the presence of:
+
+_________________________________
+Signature of witness
+
+_____________________________________
+Name of witness (print)
+
+
+
+
+________________________________
+Signature of 
+
+
+
+M:\Dept\Legal\Eftpos Access\Expected Final Documents\ConfidentialityDeed.v001.doc
+
+
+
+
+1
+
+

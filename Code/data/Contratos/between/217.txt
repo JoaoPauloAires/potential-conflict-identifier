@@ -1,0 +1,274 @@
+
+CONFIDENTIALITY DEED
+
+
+between
+
+
+ROYAL MELBOURNE INSTITUTE OF TECHNOLOGY
+ABN 49 781 030 034
+("RMIT")
+
+
+and
+
+
+***
+ABN ***
+("RECIPIENT")
+
+
+
+
+
+
+
+
+
+
+
+
+
+File No:  ****
+
+CONFIDENTIALITY DEED
+
+THIS DEED is made the	day of	20    .
+BETWEEN
+ROYAL MELBOURNE INSTITUTE OF TECHNOLOGY ABN 49 781 030 034  of 124 La Trobe Street, Melbourne ("RMIT")
+AND
+The party described in Item 1 of the Schedule as the Recipient ("the Recipient")
+
+RECITALS:
+A. RMIT has Confidential Information relating to the subject described in Item 2 and other matters.
+B. The Recipient has requested RMIT to allow it access to the Confidential Information for the Approved Purposes.
+C. RMIT agrees to allow the Recipient to have access to the Confidential Information subject to the terms of this deed.
+THIS DEED WITNESSES AND THE PARTIES AGREE:
+1. DEFINITIONS AND INTERPRETATION
+1.1 Definitions
+In this deed (including the Recitals, the Schedules and the Annexure) unless the context otherwise requires:
+"Annexure" means an annexure to this deed;
+"Approved Purposes" means the purposes for which RMIT has approved disclosure of Confidential Information to the Recipient as set out in Item 3;
+"Authorised Officer" means:
+(a) in relation to a corporation, a person for the time being holding or acting in the office of the director, chief executive officer or secretary of that body corporate, or a person the title whose office at the body corporate includes the word "Manager" or the word "Director" or the like; and
+(b) in relation to RMIT, any person authorised by RMIT from time to time act on behalf of RMIT;
+"Confidential Information" means:
+(a) all Information submitted or disclosed to the Recipient by RMIT; and
+(b) all Information learned or accessed by the Recipient;
+at any time in connection with the Approved Purposes (including during negotiations, discussions and meetings) and includes without limitation:
+(c) Information which at the time of disclosure by RMIT is identified as being confidential;
+(d) Information which, of implied necessity, is confidential;
+(e) Information which the Recipient knows or ought reasonably be expected to know is confidential;
+(f) any agreement, arrangement or understanding relating to the Approved Purposes;
+(g) Information developed by the Recipient independently of the disclosure, communication or access from RMIT; or
+(h) Information disclosed or communicated or accessed by the Recipient from a third party under no obligation of confidence to RMIT in respect of that Information;
+but does not include Non-Confidential Information;
+"Confidentiality Undertaking" means the undertaking in the form of Annexure "A";
+"Information" means information, inventions and ideas, which may be:
+(a) oral, written, recorded or stored by electronic, magnetic, electromagnetic, or in other form, process, media or otherwise in a machine readable form; or
+(b) translated from the original form, re-compiled, made into a compilation, partially copied, modified, updated or otherwise altered;
+"Item" means an item of the Schedule;
+"Recipient's Personnel" means any person being an agent, adviser, sub-contractor, employee or other representative of the Recipient who has access to Confidential Information;
+"Non-Confidential Information" means Information which:
+(a) at the time of disclosure by RMIT to the Recipient or at any time thereafter is identified in writing by RMIT as such;
+(b) is in the public domain otherwise than as a result of a breach of the terms of this deed or any other obligations of confidentiality owed by the Recipient;
+(c) prior to disclosure by RMIT was lawfully known to the Recipient and in respect of which the Recipient to whom the Information was disclosed is not bound by any other obligations of confidentiality; or
+(d) is found by final and binding court judgment to either not constitute Confidential Information or not otherwise be subject to any obligations under this deed;
+"party" means a party to this deed;
+"Schedule" means a schedule to this deed.
+1.2 Interpretation
+In this deed (including the Recitals, the Schedule and the Annexure) unless the context otherwise requires:
+(a) if any party to this deed comprises two or more persons then the obligations of those persons are joint and several;
+(b) a provision of this deed (including any deed, representation or warranty) which is in favour of two or more persons is for the benefit of them jointly and severally;
+(c) a reference to any person includes that person's legal personal representatives and if any person is a corporation a reference to that person includes its successors and assigns.  The word "person" also includes a firm, a body corporate, an unincorporated association, an authority or body politic;
+(d) words denoting the singular number include the plural number and vice versa and words importing one gender include the other genders;
+(e) references to writing include any mode of representing or reproducing words in tangible and permanently visible form;
+(f) references to this deed include its recitals and any Schedule or Annexure;
+(g) unless otherwise provided in this deed references to clauses are to clauses in this deed;
+(h) unless otherwise provided in this deed a party which acts as a trustee of a trust or trusts executes this deed both in its own right and as trustee of that trust or trusts and in so doing is not acting in breach of trust.
+
+2. CONFIDENTIAL INFORMATION
+2.1 The Recipient undertakes to keep secret and protect and preserve the confidential nature and secrecy of the Confidential Information.  Without limiting this obligation, the Recipient must not:
+(a) use or permit any person to use the Confidential Information for any purpose other than for the Approved Purposes;
+(b) disclose or in any way communicate to any other person any of the Confidential Information except as authorised by RMIT;
+(c) permit unauthorised persons to have access to places where the Confidential Information is displayed, reproduced or stored; or
+(d) make or assist any person to make any unauthorised use of the Confidential Information.
+2.2 The Recipient must:
+(a) take reasonable steps to enforce the confidentiality obligations imposed by clause 2.1 including diligently prosecuting, at its own cost, any breach or threatened breach of those obligations by a person to whom the Recipient has disclosed the Confidential Information; and
+(b) co-operate and provide RMIT with all reasonable assistance, in any action which it may take to protect the confidentiality of the Confidential Information.
+3. RECIPIENT'S PERSONNEL
+3.1 Subject to clause 3.2, the Recipient may disclose Confidential Information to the Recipient's Personnel on a need to know basis, solely to assist the Recipient in complying with or carrying out the Approved Purposes and on the condition that the Recipient's Personnel do not disclose the Confidential Information to any other person.
+3.2 The Recipient must ensure that:
+(a) the Recipient's Personnel who have access to the Confidential Information are made fully aware of the confidential nature of all Confidential Information; and
+(b) if required by RMIT, each of the Recipient's Personnel must sign the Confidentiality Undertaking contained at the end of this deed.
+3.3 The Recipient must ensure that none of the Recipient's Personnel do or omit anything which, if done or omitted to be done by the Recipient, would constitute a breach of its obligations under this deed.
+4. RETURN OF CONFIDENTIAL INFORMATION
+4.1 Upon the earlier to occur of:
+(a) a notice by RMIT; and
+(b) the time when the Confidential Information is no longer required by the Recipient for the Approved Purposes,
+the Recipient must deliver to RMIT (or with RMIT's prior written consent, destroy or erase) all material forms of Confidential Information in the possession, power or control of the Recipient or any of the Recipient's Personnel whether or not those material forms were created by RMIT, but such delivery does not release the Recipient from its obligations under this deed.
+5. DISCLAIMER
+5.1 Recipient's Acknowledgement
+The Recipient acknowledges and agrees that:
+(a) neither RMIT nor any employee or other representative of RMIT has made or makes any representation or warranty, express or implied, as to the accuracy or completeness of its Confidential Information; and
+(b) it must make its own assessment of all Confidential Information disclosed to it and satisfy itself as to the accuracy and completeness of the Confidential Information.
+5.2 To the extent permitted by law, the Recipient releases RMIT from all liability for any loss or damage (whether foreseeable or not) suffered by any person acting on any Confidential Information whether the loss or damage arises in connection with any negligence, default, lack of care, misrepresentation or any other cause.
+6. BREACH AND INDEMNITY
+6.1 Recipient to Notify RMIT
+The Recipient must immediately notify RMIT of all information which comes to its attention regarding any actual or potential disclosure or use of Confidential Information other than in accordance with this deed.
+6.2 Indemnity
+The Recipient indemnifies RMIT against any cost, liability, damage or loss incurred or suffered by RMIT arising directly or indirectly from or in connection with:
+(a) any breach by of this deed the Recipient; or
+(b) any act or omission of the Recipient's Personnel which, if done or omitted to be done by the Recipient, would constitute a breach of this deed.
+6.3 Injunctive Relief
+The Recipient acknowledges that damages may not be an adequate remedy for RMIT for any breach of this deed by the Recipient and that RMIT is entitled to seek specific performance or injunctive relief as a remedy for any such breach or threatened breach, in addition to any other remedies available at law or in equity under this deed or independently of this deed.
+7. TERM
+This deed becomes effective on the earlier to occur of:
+(a) the date upon which Confidential Information is first provided to, learned or accessed by the Recipient; and
+(b) the date of this deed;
+and continues in force until the later to occur of:
+(c) agreement in writing by both parties; and
+(d) all the Confidential Information is generally available in the public domain.
+8. MISCELLANEOUS
+8.1 Variation and Waiver
+A provision of or a right created by this deed cannot be waived except in writing signed by the party granting the waiver.  No variation to or amendment of this deed can be made without the consent in writing of all of the parties.
+8.2 Approvals and Consents
+Where any provision of this deed provides for a party to provide its consent or approval then such party may conditionally or unconditionally in its absolute discretion give or withhold such consent or approval unless this deed expressly provides otherwise.
+8.3 Governing Law and Jurisdiction
+This deed is governed by and construed in all respects in accordance with the laws of the State of Victoria, Australia and the parties hereby submit to the non-exclusive jurisdiction of the courts of the said State of Victoria and any courts empowered to hear appeals therefrom in respect of any proceedings in connection with this deed.
+8.4 Costs
+The parties agree to bear their own costs (including legal costs) in respect of this deed.
+8.5 Counterparts
+This deed can be executed in a number of counterparts and the counterparts taken together will be deemed to constitute the one and the same document.
+9. NOTICES
+9.1 Any notice, demand, consent, approval or other communication ("a Communication") in connection with this deed by a party may (without limitation to any other valid form of execution) be signed by an Authorised Officer of that party (if a corporation), or by any solicitor acting for that party, whose signature may be handwritten or printed or otherwise reproduced by mechanical means.
+9.2 In addition to any method of service provided for by statute, a Communication in connection with this deed to be sent to or made upon a party is taken to have been given to or made on the party to whom it is addressed if:
+(a) sent by facsimile to the facsimile number of the address which in the case of each party is as set out in Item 4;
+(b) left for the addressee, or sent by mail (and by airmail if to an address outside Australia) to the addressee at:
+(i) any address of that person set out in this deed; or
+(ii) the registered office of any corporate addressee.
+9.3 Service under clause 9.2 will be valid even though the addressee may have been wound up or in liquidation (if a corporation) or the addressee is absent from the place at or to which the Communication is left, delivered or sent, or where the Communication is sent by post or otherwise, it is returned unclaimed.
+9.4 A Communication in connection with this deed will be deemed to have been received by the person:
+(a) if left or delivered personally, on the same day;
+(b) if sent by post to an address in Australia, on the second business day after the date of posting;
+(c) if sent by post to an address outside Australia, on the fourth business day after the date of posting;
+(d) in the case of a facsimile, on receipt of the facsimile in legible form.
+9.5 Unless the parties otherwise agree in writing a Communication in connection with this deed may not be sent by electronic mail ("email").
+10. SPECIAL CONDITIONS
+The parties agree that any special conditions detailed in Item 5 are incorporated in and form part of this deed.
+
+
+EXECUTED as a deed.
+
+
+SIGNED for and on behalf of ROYAL MELBOURNE INSTITUTE OF TECHNOLOGY ABN 49 781 030 034 by a duly authorised officer
+
+
+
+
+
+
+in the presence of:	)
+)
+))
+
+.....................................................
+Signature
+
+
+.....................................................
+Name & Title
+
+
+.....................................................
+Witness Signature
+
+.....................................................
+
+.....................................................
+
+.....................................................
+Name & Address of Witness
+
+
+THE COMMON SEAL of ORGANISATION ABN ** was hereunto affixed in accordance with its Articles of Association in the presence of:)
+)
+)
+)
+
+	
+Director
+
+
+	
+Director/Secretary
+
+	
+Name of Director (block letters)
+
+
+	
+Name of Director/Secretary (block letters)
+SCHEDULE
+
+Item 1:Recipient*** of ***Item 2:Subject of Confidential Information[Describe the general subject of the Confidential Information which will be disclosed to the Recipient.]Item 3:Approved Purposes[Describe the purpose for which the Confidential Information has been given to the Recipient.  Make the Approved Purposes as specific as possible.]Item 4:Notices(a) RMIT
+Facsimile No:	***
+addressed to the attention of:
+***
+
+(b) Recipient
+Facsimile No:	***
+addressed to the attention of:
+***
+Item 5:Special Conditions***
+ANNEXURE "A"
+Confidentiality Undertaking - to be executed by the Recipient's Personnel.
+THIS Confidentiality Undertaking is made on	20    .
+BY
+[specify the name of individual] of [specify address] ("Covenantor")
+IN FAVOUR OF
+ROYAL MELBOURNE INSTITUTE OF TECHNOLOGY ABN 49 781 030 034 of 124 La Trobe Street, Melbourne, VIC 3000 ("RMIT").
+RECITALS
+A. The Covenantor is one of the Recipient's Personnel.
+B. RMIT will allow the Covenantor access to Confidential Information for [specify purpose for giving the Confidential Information] ("Approved Purposes") in consideration of the Covenantor executing this undertaking.
+C. The Recipient has executed in favour of RMIT a Confidentiality Deed dated the 	day of	20    ("the Confidentiality Deed").
+
+OPERATIVE PROVISIONS
+1. The Covenantor covenants with RMIT that it will:
+(a) only use or copy Confidential Information for the Approved Purposes;
+(b) not disclose, communicate, or permit the disclosure or communication of the Confidential Information to any third person in any manner without the written consent of RMIT except as permitted by this undertaking or for the Approved Purposes to a person who has executed an undertaking in identical form to this undertaking; and
+(c) comply with any reasonable request from RMIT regarding the Confidential Information. 
+2. Despite clause 1, the Covenantor is allowed to disclose Confidential Information to the extent required by law but only for that sole purpose after making every reasonable effort to object to such requirement for disclosure, and after giving RMIT 10 days prior written notice of the proposed disclosure or which, subsequent to disclosure to the Covenantor, becomes generally available in the public domain.
+3. If Confidential Information is no longer required by the Covenantor for the Approved Purposes, or after a request from RMIT, the Covenantor must, within 5 working days of either event, deliver (or with RMIT's prior consent, destroy or erase) all forms of Confidential Information in the possession, power or control of the Covenantor (whether or not those forms were created by RMIT) to RMIT.
+4. The Covenantor indemnifies RMIT against all liability or loss arising directly or indirectly from, and any costs (including legal costs) incurred in connection with:
+(a) any breach by the Covenantor of this undertaking; or
+(b) any act or omission of the Covenantor's employees or officers which if done by the Covenantor would constitute a breach of this undertaking.
+5. This undertaking remains in full force and effect until all of the Confidential Information becomes generally available in the public domain.
+6. For the purpose of this undertaking, "Confidential Information" has the meaning set out in the Confidentiality Deed.
+7. The Covenantor acknowledges having been provided with and read a copy of the Confidentiality Deed.
+
+SIGNED by [insert full name of Covenantor] in the presence of:)
+)
+)
+	
+Covenantor	
+Witness
+	
+Name of witness
+	
+	
+Address of witness
+
+
+_______________________________________________
+Royal Melbourne Institute of Technology
+Legal Services
+GPO Box 2476V, Melbourne, VIC 3001
+Ph: 9925 3180
+Fax: 9925 3047
+
+
+
+S:\CALS\LEGAL\Precedents\Confid1.doc	11
+10-Apr-11
+

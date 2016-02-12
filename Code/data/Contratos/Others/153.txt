@@ -1,0 +1,190 @@
+Registrant Agreement
+(Terms and Conditions for Domain Name Licence)
+
+
+
+Version 1.1 (enetica)
+29 April 2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms and Conditions for Domain Name Licence
+
+
+
+This document sets out the terms and conditions of your application for a Domain Name, and if successful, your Domain Name Licence.  It records the agreement between you, the applicant or holder of a Domain Name Licence, and us, the registrar, in relation to the Domain Name.
+
+
+Summary of Terms and Conditions
+
+* If your application for a domain name is accepted and approved, you will be granted a two year Domain Name Licence for that domain name
+* You are required to make several statements to us in relation to your domain name application - please read them carefully to ensure that those statements are correct
+* You are entitled to transfer your domain name registration to another registrar, and we will facilitate such transfer for you according to our obligations under auDA's Published Policies (see <www.auda.org.au>)
+* You are bound by the .au Dispute Resolution Policy (auDRP) in relation to your registered domain name, as well as such other dispute resolution policy which may be adopted by auDA from time to time
+* You accept that our liability to you under these terms and conditions are limited
+
+
+
+1. DEFINITIONS
+In this document, unless the context requires otherwise:
+auDA means .au Domain Administration Limited ACN 079 009 340, the industry self-regulatory body responsible for administering domain names with the .au suffix.
+Domain Name means the domain name which is the subject of your application, and if successful, the Domain Name Licence.
+Domain Name Licence means your licence to use the Domain Name which is the subject of your application.
+Published Policies means those specifications and policies established and published by auDA from time to time in accordance with its constitution, and can be found at auDA's web site at <www.auda.org.au>.
+Registry Operator means the operator of the domain names registry for the Domain Name.
+Registrar, Enetica, We, our or us refer to Enetica Pty Ltd ACN 087 987 988], the registrar of record for your Domain Name Licence.
+Registrant, You or your refer to the person or legal entity applying for, or the holder of, a Domain Name Licence.
+
+2. GENERAL
+You are bound by the terms of this document, even if you have entered into this document through an agent, and even if you licence the use of the Domain Name to another person.
+3. DOMAIN NAMES APPLICATION AND REGISTRATION
+3.1 Your application for a Domain Name must be in the form prescribed under the Published Policies.  The Domain Name must comply with the Published Policies.
+3.2 You accept that even if we have accepted and approved your Domain Name application, the application may still be rejected by the Registry Operator in performing its final integrity checks.
+3.3 You accept that neither you, nor we, have any proprietary right arising from the registered Domain Name, or the entry of a Domain Name in the domain names registry.
+3.4 All personal information pertaining to you are held by auDA for the benefit of the Australian public.
+
+4. DOMAIN NAME LICENCE
+4.1 Your Domain Name Licence will be effective for a two year period, once:
+* your application is accepted and approved by us and by the Registry Operator, and
+* you have paid the non-refundable applicable fees,
+unless it is cancelled earlier under the terms of this document or under any Published Policies.
+4.2 Your Domain Name Licence may be renewed every two years, as long as you:
+* pay the non-refundable applicable renewal fees, and
+* continue to meet the eligibility criteria prescribed in the Published Policies.
+4.3 You accept that it is your responsibility to ensure that your Domain Name Licence is renewed.  
+4.4 You may cancel your Domain Name Licence at any time by notifying us in writing, but this does not entitle to any refund.
+4.5 We may cancel your Domain Name Licence if you breach any provision of this document.
+4.6 Once a domain application is approved your liability for fees are final and irrevocably due and non-refundable under any circumstances whatsoever including error, negligence, omissions, transfers and or cancellations.
+4.7 If you have aquired this licence through a reseller who does not pay us you are still liable for the Fees for that domain and it is up to you to recover your money from that reseller.
+4.8 We will report you and/or your company directors to appropriate credit reference agencies should you fail to pay applicable fees, and any such fees become more then 60 days past due.
+4.9 Credit card charge backs are not permitted under any circumstances.
+4.10 You agree to pay a $50 handling fee for any dishonoured cheques.
+
+5. YOUR WARRANTY TO US
+5.1 You warrant and state to us and to auDA separately that:
+* all the information set out in your Domain Name application, and all information you give us, are true and correct, and not misleading or deceptive, and
+* you meet, and continue to meet, the eligibility criteria prescribed in the Published Policies for registering the Domain Name, and
+* you have not previously submitted for registration with another registrar, a domain name which is the same as the Domain Name, in circumstances where:
+* you are relying upon the same eligibility criteria for both domain names, and
+* the Domain Name has previously been rejected by the other registrar, and
+* your registration or use of the Domain Name does not infringe any person's legal rights.
+5.2 You accept that if any of the above statements is found to be incorrect, then either we or auDA may cancel your Domain Name Licence.
+5.3 You agree to indemnify us and auDA separately for any loss or damage suffered by us or auDA as a result of any of us relying upon your above statements.
+6. OUR OBLIGATIONS TO YOU
+6.1 Once your Domain Name application is accepted and approved, we will cause your Domain Name details to be entered in the domain names registry.
+6.2 We will endeavour to stay within the terms of our privacy policy as published from time to time on the Enetica Web Site.
+6.3 We will give you immediate notice if:
+* we are no longer an accredited registrar, or
+* our auDA Accreditation is suspended or terminated, or
+* our registrar agreement with auDA is terminated by auDA.
+6.4 auDA may post notice of:
+* the fact that we are no longer an accredited registrar, or
+* the suspension or termination of our auDA Accreditation, or
+* the termination of our registrar agreement with auDA,
+on its web site, and may, if it considers appropriate, give such notice to you directly.
+
+7. YOUR OBLIGATIONS TO US
+7.1 Throughout the period of your Domain Name Licence, you must:
+* comply with the Published Policies, and
+* give notice to the Registry Operator (through us) of any change to any information which you have given us.
+* protect the registry keys or other passwords provided to you from unauthorised or fraudulent and accept unconditionally any and all responsibility for any such use.
+7.2 You must not, directly or indirectly, through registration or use of the Domain Name or otherwise:
+* register a domain name for the purpose of selling it, or
+* register a domain name for the purpose of diverting trade from another business or web site, or
+* deliberately register misspellings of another entity's company or brand name in order to trade on the reputation of another entity's goodwill, or
+* register a domain name and then passively hold a Domain Name Licence for the purpose of preventing another person from registering it.
+7.3 You must not:
+* transfer or purport to transfer a proprietary right in any Domain Name registration, or
+* grant or purport to grant a registered Domain Name as security, or
+* encumber or purport to encumber a Domain Name Licence.
+
+
+8. USE OF YOUR INFORMATION
+You give to:
+8.1 auDA, the right to publicly disclose to third parties, all information relation to the registered Domain Name in accordance with the Published Policies;
+8.2 us, the right to disclose to the Registry Operator, all information which are reasonably required by the Registry Operator in order to register the Domain Name in the domain names registry;
+8.3 the Registry Operator, the right to publicly disclose to third parties, all information relation to the registered Domain Name to enable the Registry Operator to maintain a public WHOIS service,
+provided that such disclosure is consistent with the National Privacy Principles, and the Published Policies.
+9. DISPUTE RESOLUTION
+9.1 auDA has in place a dispute resolution called the auDRP (which stands for .au Dispute Resolution Policy), which applies in the event of a dispute between a registrar and a domain name licence holder, or between a domain name licence holder and a third party, in relation to entitlements to domain names.
+9.2 The auDRP binds you and us severally as if it were incorporated in this document.
+9.3 You accept that:
+* auDA may develop and implement other dispute resolution policies which are accessible by you as an alternative and further to any complaints handling procedure adopted by us, and
+* such policies bind you and us severally as if they were incorporated in this document.
+10. TRANSFER OF REGISTRARS
+10.1 We will ensure that you can easily transfer your Domain Name registration to another registrar in accordance with the Published Policies.  The Published Policies will address such matters as:
+* the maximum fees which we can charge you for such transfer,
+* when we are not allowed to charge you fees,
+* the conditions under which we must transfer the registered Domain Name, and
+* the conditions under which we are entitled not to transfer the registered the Domain Name.
+10.2 If:
+* we are no longer an accredited registrar, or
+* our auDA Accreditation is suspended or terminated, or
+* our registrar agreement with auDA is terminated by auDA,
+then we will transfer the registered Domain Name to a new registrar in accordance with the Published Policies within 30 days of a written notice being provided to you by auDA.
+10.3 If our registrar agreement with auDA is terminated, we will not charge you any fee for the transfer of the registered Domain Name to another registrar.
+11. LIMITATION OF LIABILITIES
+11.1 You must not pursue any claim against auDA or against us, and neither auDA nor we are liable to you for any direct, indirect, special, punitive, exemplary or consequential damages, including but not limited to damages resulting from loss of use, lost profits, lost business revenue or third parties damages, arising from any breach by us of our obligations under this document, or under our registrar agreement with auDA.
+11.2 You accept and agree that neither auDA nor we are responsible for the use of any Domain Name in the domain names registry, and that auDA is not responsible for any conflict or dispute with any actual or threatened claim against a registrar or a domain name licence holder, including one relating to registered or unregistered trademark, a corporate, business or other trade-name, rights relating to a name or other identifying indicium or of an individual or other intellectual property rights of a third party or relating to the defamation or unlawful discrimination with respect to any other person.
+11.3 Despite any other provision of this document, and to the fullest extent permitted by law, neither auDA nor we are liable to you for consequential, indirect or special losses or damages of any kind (including without limitation, loss of profit, loss or corruption of data, business interruption or indirect loss) suffered by you as a result of any act or omission whatsoever of auDA or us, and our respective employees, agents, or sub-contractors.
+11.4 Nothing in this document is to be read as excluding, restricting or modifying the application of any legislation which by law cannot be excluded, restricted or modified.
+12. OUR AGENCY
+We enter into this document as agent for auDA for the sole purpose, but only to the extent necessary, to enable auDA to receive the benefit of the rights and covenants conferred to it under this document.
+13. GENERAL
+13.1 In this document:
+* a reference to this or other document includes the document as varied or replaced regardless of any change in the identity of the parties;
+* a reference to writing includes all modes of representing or reproducing words in a legible, permanent and visible form;
+* headings and sub-headings are inserted for ease of reference only and do not affect the interpretation of this document; and
+* where an expression is defined, another part of speech or grammatical form of that expression has a corresponding meaning.
+13.2 All previous agreements, statements, explanations and commitments, expressed or implied, affecting the subject matter of this document are superseded by this document and have no effect
+13.3 If a provision in this document is held to be illegal, invalid, void, voidable or unenforceable, that provision must be read down to the extent necessary, or severed if necessary, to ensure that it is not illegal, invalid, void, voidable or unenforceable.
+13.4 This document is governed by and is to be construed in accordance with the laws of New South Wales, Australia.  Each party irrevocably and unconditionally submits to the non-exclusive jurisdiction of the courts of New South Wales, Australia and waives any right to object to proceedings being brought in those courts.
+14. INDEMNITY
+1.1 Registrant indemnifies Enetica and its officers, directors, agents and personnel from and against all losses, claims, demands, suits, actions, proceedings, penalties, liabilities, costs and expenses (including without limitation legal fees and expenses), of whatever kind arising from:
+1.1.1 death of or injury to any person to the extent caused by the conduct of the Registrant, its officers, directors, agents or personnel; 
+1.1.2 damage to or loss or destruction of any real or tangible property to the extent caused by the conduct of Registrant, its officers, directors, agents or personnel; and
+1.1.3 any third party claims or allegations in respect of any privacy obligations owed to such third parties by Registrant, arising out of a breach by Registrant of its obligations under this agreement.
+1.2 Enetica will not be liable to the Registrant for any loss or damage whatsoever suffered, or that may be suffered (including but not limited to direct, economic and consequential loss) as a result of any act or omission by Enetica whether negligent or otherwise, in the performance of any duty, obligation or function under this Agreement or in any way arising out of its being party to this Agreement.
+1.3 Subject to Clause 6, Enetica expressly disclaims all conditions and warranties, express or implied, in respect of the subject matter of this Agreement.  If any condition or warranty is implied into this Agreement pursuant to any legislation (including without limitation the Trade Practices Act 1974) and the legislation avoids or prohibits provisions in a contract excluding or modifying the application of, exercise of, or liability under such condition or warranty, the condition or warranty will be deemed to be included in this Agreement, provided that the liability of Enetica which of the condition or warranty shall, if the legislation so permits, be limited, in the sole discretion of Enetica, to
+        a)	the resupply of the services; or
+b)	the cost of the resupply of the services,
+	in respect of which the breach occurred, and otherwise will be limited to the maximum extent permitted by law.
+
+15. TERMS OF USE OF BUNDLED SERVICES
+
+1. Where we provide you with  bundled services such URL forwarding, these are subject to our Acceptable Use Policy as published from time to time on the Enetica Web page  (www.enetica.com.au).
+2. Continued licencing of your domain is subject to all outstanding fees being paid including fees for any bundled services reckless of domain fees being paid.
+3. Where a dispute arrises over fees of bundled services you agree and accept to pay any undisputed amount by applicable due date.
+4. Your are to provide full details of any dispute including any evidence before the due date of any fees payable in respect to bundled services, and we will make a deliberation giving weight to evidence within 30 days or receiving notice of the dispute after which our decision is final and binding. Should we determine that the fees are correct they become immediately payable but will not preclude you from taking further legal action.
+5. Cancellation of bundled services requires 30 days notice.
+6. However we reserve the right to cancel bundled services without notice for any breach of these conditions including breaches of our Acceptable Use Policy.
+
+
+
+
+Derived and Used with permission  from material (c) Maddocks, and .au Domain Administration Limited 2002.  
+4
+
+
+
+[881412/CEN/CEN1095:1]
+
+2
+
+[881412/CEN/CEN1095:1]
+
+[881412/CEN/CEN1095:1]
+

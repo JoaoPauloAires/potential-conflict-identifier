@@ -1,0 +1,320 @@
+
+
+
+
+
+
+
+
+
+
+1. Interpretation
+1.1 In these Conditions, the following words and expressions shall have the following meanings:
+
+"Action" means the action defined in the Insertion Order;
+
+"Action Tags" means dgm's tags on the Advertiser's confirmation page or any other code or file inserted or placed by dgm on the Advertiser's Website for the purpose of calculating the Charges;
+
+"Advertiser Links" means the hyperlinks to the Advertiser Website in the form specified by or agreed with the Advertiser including the logos of the Advertiser in banner form and text links;
+
+"Advertiser Website" means the Advertiser's website(s) as described in the Insertion Order or as amended from time to time;
+
+"Annual dgmPro Access Fee" means the fee payable by the advertiser in consideration for access to the dgm in house tracking system;
+
+"Brand Bidding" means the process of allowing Publishers to bid and/or pay internet search engines for sponsored links or other advertising space on their search engines using the brand name of the Advertiser or its other trade marks (whether registered or unregistered) described in the Appendix to the Insertion Order;
+
+"Charges" means the monies due to dgm by the Advertiser for the Services calculated and payable as a consequence of Validation on the fee basis contained in the Insertion Order, this includes the dgm Commission and Publisher Commission ;
+
+"Cookie" means a data file or parcel of text sent by dgm's server to a user's web browser for the purpose of Tracking and authenticating information about any dealing with the Advertiser. Any Cookie used by dgm shall remain on the user's web browser for the term specified in the Insertion Order;
+
+"dgm" means Deal Group Media Pty Ltd a dealgroupmedia plc company. Registered office:  200 Harris Street, Pyrmont, NSW, 2009. ABN: 90 104 112 218
+
+"Float" means the amount specified on the Insertion Order which the Advertiser must pay to dgm to cover dgm's exposure to Publishers for the payment of commissions without the Advertiser being required to provide dgm with a guarantee or other surety for the payments in question;
+
+ "Insertion Order" includes the agreement between dgm and the Advertiser setting out matters specific to and forming part of the Agreement, and which is identified as the dgmSelf Serve Insertion Order;
+
+"Intellectual Property Rights" means all trade marks (whether registered or unregistered),logos, trade names, copyright, database right and other similar rights (whether now known or in the future created) both in Australia and all other countries of the world;
+
+"Restricted Information" means any information which is disclosed by either party to the other pursuant to or in connection with the Agreement (whether orally, in writing or by electronic media, and whether or not such information is expressly stated to be confidential or marked as such) including information relating to the services and dgm's business methods;
+
+"Publisher" means any third party or entity that publishes or displays on its website (with dgm's prior agreement) any Advertiser Links or other material relating to the Advertiser and/or (subject to Condition 3.1) Brand-Bid;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Services" means the provision of access to and use by the Advertiser of dgm's performance marketing network providing the Advertiser with the opportunity to work with the Publishers and which enables the Publishers to link to the Advertiser Website and deliver potential customers. The Services shall include:-
+
+(i) Tracking and reporting systems enabling the Publishers' performance to be measured and validated and Validations to be calculated;
+
+(ii) Provision of an online interface through which the Advertiser and the Publishers can track results, provide advertising creative and communicate with one another;
+
+ (iii) Provision of a payment mechanism for individual Publishers;
+
+(iv) Where permitted by the Advertiser, Brand Bidding.
+
+"Term" means the duration of the Agreement as specified in the Insertion Order and subject to Condition 7;
+
+"Tracking". means the method of monitoring or tracing Actions using dgm's in-house tracking system;
+
+"Validation" means the process of the Advertiser determining whether the Action defined in the Insertion Order has been achieved;
+
+1.2 The headings in these Conditions are for ease of reference only and shall not affect the construction or interpretation of the Agreement. Words denoting the singular meaning include the plural and vice versa unless the context otherwise requires. References to "including" and "include" shall be deemed to mean respectively "including without limitation" and "include without limitation".
+
+1.3 References in the Agreement to any statute, statutory provision or regulation includes a reference to:-
+(a) that statute, statutory provision or regulations as from time to time amended, extended, re-enacted or consolidated whether before or after the date of the Agreement; and
+(b) all statutory instruments or orders made pursuant to it.
+
+
+2. The Services
+2.1 During the Term of the Agreement and subject to the full and timely performance by the Advertiser of its obligations under the Agreement, dgm shall use all reasonable endeavors to provide the Services and the Advertiser shall take all reasonable steps and do all things necessary to facilitate dgm's performance of the Services.
+
+2.2 As soon as practical after the execution of the Agreement including the Insertion Order and payment by the advertiser of the Annual dgmPro Access Fee and The Float, dgm shall provide the necessary access and documentation to the Advertiser to enable account setup and integration. 
+
+2.3 the Advertiser shall install and make fully functional as soon as reasonably practical the Action Tags on the Advertisers Website in accordance with any proposed campaign start date specified in the Insertion Order. 
+
+The Advertiser undertakes and agrees not to remove, alter, decompile, tamper with or deactivate the Action Tag in any manner whatsoever without obtaining dgm's prior written consent.
+
+2.4 The Advertiser shall advise dgm as soon as possible of any change to the Advertiser's operating plans or marketing initiatives.
+
+2.5 dgm may perform the Services in such manner that it deems fit in its reasonable discretion. Although dgm shall use all reasonable endeavors to maximize the benefit to the Advertiser from the performance of
+the Services, dgm does not represent, claim or undertake to achieve any particular result or outcome and nor does it purport to give priority to the Advertiser over its other customers.
+
+dgm is constantly aiming to improve the Services, therefore dgm reserves the right to update the technical and/or functional specifications of the Services at any time and from time to time.
+
+2.6 In the event that the Advertiser notifies dgm of any abuse or misuse of the Advertiser Links or any other materials then dgm shall take all reasonable steps to locate and rectify the problem. Any Validation or sale identified as being the result of, or caused by such misuse shall be deleted and shall not be included in the Charges.
+
+2.7 Where the Advertiser enters into this Agreement as an agent for another person or party then the Advertiser acknowledges and agrees that it shall remain liable to dgm to comply with the Advertiser's obligations under the Agreement.
+
+3. Brand Bidding
+3.1 Where the Advertiser has expressly permitted Brand Bidding in the Insertion Order, dgm is authorised to permit Publishers to engage in Brand Bidding.
+
+3.2 Any Publisher permitted to engage in Brand Bidding shall be identified in the Insertion Order provided however that dgm may in its absolute discretion withdraw at any time any such permission.
+
+In the event that permission granted pursuant to this Clause 3.2 is withdrawn at any time then dgm shall use its reasonable endeavors to find a suitable replacement Publisher, and the details of the replacement Publisher will be deemed included on the Appendix to the Insertion Order in substitution of the replaced Publisher.
+
+3.3 dgm and the Advertiser shall consult with each other in relation to which Publishers are permitted to Brand Bid.
+
+3.4 Subject to the above, the Advertiser shall complete all clearances and other documentation reasonably required from time to time by search engines in order to enable such Brand Bidding.
+
+
+4. Financial Matters
+4.1 The Charges
+(a) In consideration of the provision of the Services by dgm, the Advertiser shall pay to dgm on the date of the Agreement the Float as set out in the Insertion Order and in accordance with Condition 4.4.
+
+(b) In consideration of the provision of the Services by dgm, the Advertiser shall pay to dgm on the date of the Agreement and on each subsequent anniversary of this date the Annual dgmPro Access Fee as set out in the Insertion Order.
+
+(c)In consideration of the provision of the Services by dgm, the Advertiser shall pay to dgm the Charges as calculated in accordance with the Insertion Order.
+
+(b) The Charges shall become due and payable on Validation where appropriate.
+
+4.2 Validation
+The process of Validation shall involve the following steps
+
+(a) Where via Tracking dgm believe an Action has occurred, dgm will label it "pending".
+
+(b) The Advertiser will regularly monitor the Tracking and in relation to each Action mark that Action as "pending", "deleted" or "validated".
+
+(c) Where the Advertiser marks the Action as Validated then a Charge shall be made by dgm to the Advertiser, this Charge shall be invoiced in the month in which the Action was Validated and paid  according to clause 4.3 and 4.4
+
+(d) If the Advertiser leaves an Action "pending" then the Action will automatically validate on the last day of the month following the month in which the Action occurred and the Charges will be due in respect of that Action.
+
+(e) where the Advertiser identifies an Action as "deleted' then no Charge shall be made by dgm to the Advertiser. dgm shall be entitled to request the Advertiser to provide an explanation for the deletion of any Action or for any deletion process and the Advertiser shall promptly provide a satisfactory written explanation.
+
+
+
+
+
+
+4.3 Payments
+(a) All sums due under the Agreement shall be paid to dgm by cheque or bank transfer within 30 days of dgm's invoice. The Advertiser may not change an agreed method of paying dgm without dgm's prior written consent.
+
+(b) Time shall be of the essence for all payments due to dgm under the Agreement.  Without prejudice to any of its other rights and remedies, where a dgm invoice remains unpaid for a period of 90 days or more, dgm shall be entitled to charge the Advertiser interest at the rate of 4% above the base lending rate of Westpac Bank plc from time to time. 
+
+Interest charges shall be calculated based on any sums outstanding on the due date from and including the date on which the payment in question fell due to the date on which that payment is paid in full. Any interest shall be charged on a daily basis with reference to a year consisting of 365 days and with all unpaid interest compounded weekly. 
+
+In the event that the Advertiser fails to pay and dgm incurs any recovery expense then the Advertiser shall pay all such expenses (including legal fees and debt collection expenses) incurred by dgm in collecting the amounts due.
+
+(c) GST, where applicable, shall be added to the Charges and invoiced to the Advertiser.
+
+(d) All payments to be made by the Advertiser under the Agreement will be made in full. They will be free and clear of any right of set-off and from any restriction, condition
+or deduction because of any counterclaim under this or any other agreement.
+
+4.4 The Float
+(a) dgm shall credit the Float received by dgm from the Advertiser to an account in dgm's books bearing the Advertiser's name and dgm is authorised by the Advertiser to make payments from the Float of any Charges due. Where payment is made from the Float by dgm, the Advertiser must make a payment to dgm as soon as is reasonably practical to bring the Float back to the figure outlined in the insertion order or later agreed in accordance with 4.4 (b).
+
+(b) dgm may, having consulted with and by notice in writing to the Advertiser, increase the Float to a figure that it believes is a suitable amount to cover any foreseeable future payments due to the Media Owners and dgm. Any sums invoiced to the Advertiser by dgm under this Condition may take into account increases in the traffic to the Advertiser Website monitored by the dgm Tracking.
+
+(c) The Advertiser acknowledges that dgm is responsible for the payment of commissions to Media Owners, and that the principal purpose of the Float is to cover dgm's exposure in this respect without the Advertiser being required to provide dgm with a guarantee or other surety for the payments in question.
+
+4.5 Records
+(a) dgm and the Advertiser shall each keep and retain full and accurate records for the purposes of the calculation of the Charges.
+
+(b) dgm (and/or dgm's nominated adviser) shall have the right to inspect and audit the Advertiser's records of account throughout the Term and for a period of 1 year after expiration or termination of the Agreement. The costs of such inspection and audit shall be met by dgm unless as a result of the audit a discrepancy of greater then 5% in the amounts due from the Advertiser is identified, in which event the costs shall be borne by the Advertiser.
+
+(c) If there is a discrepancy between the records of dgm and the Advertiser then the parties shall forthwith consult in good faith to identify the cause of such discrepancy.
+
+4.6 Action Tags and Cookie Based tracking
+(a) The Advertiser acknowledges that, in the event that the Action Tag is removed, tampered with or deactivated in breach of Condition 2.3:- (i) the Advertiser shall pay to dgm $0.75 per click or the recent EPC of the campaign, whichever is higher for each click on the Advertiser Link made by users of the applicable Publishers websites; and (ii) dgm may immediately terminate the Agreement by written notice to the Advertiser.
+
+(b) The Advertiser acknowledges that where other companies or persons provide it with similar services using Cookie-based technology both dgm and the other service provider may claim Valid Actions where they have both cookied a potential customer. In this and all other instances the Valid Actions calculated by dgm tracking shall be final and binding on the Advertiser.
+
+
+4.7 Variations
+If the Advertiser wishes to alter the fee basis for Charges then it must give dgm at least thirty (30) days' notice and such alterations will not take effect until dgm and the Advertiser have each executed a new Insertion Order detailing such revised fee basis. In any event, in relation to those Actions that first occurred prior to both parties executing a new Insertion Order, the Insertion Order in force at the time of such Actions first accruing shall continue to apply and the revised fee basis shall not apply.
+
+5. Intellectual Property
+5.1 Subject to Condition 5.2, the Advertiser shall retain all right, title and interest in and to the Advertiser's Intellectual Property Rights worldwide.
+
+5.2 For the purpose only of dgm providing the Services, the Advertiser hereby grants to dgm a non-exclusive, royalty free, worldwide licence to display and otherwise use the Advertiser's Intellectual Property Rights including, but not limited to the Advertiser's, trade marks, logos and branding for the purposes of this Agreement.    The Advertiser acknowledges and agrees that dgm may grant a sub-license of these rights to Publishers for the purposes of this Agreement.
+
+5.3 dgm shall retain all right, title and interest in and to any Action Tags and other materials of dgm worldwide (including, but not limited to, ownership of all dgm's Intellectual Property Rights).
+
+5.4 Upon the termination of the Agreement, dgm shall forthwith cease using the Advertiser's Intellectual Property Rights and shall use all reasonable endeavors to ensure that any Publisher or other third party shall cease using the Advertiser's Intellectual Property Rights.
+
+5.5 Each party acknowledges and agrees that it shall not acquire or claim any title to any of the other party's Intellectual Property Rights by virtue of the rights granted to it by the Agreement or through its use of the other party's Intellectual Property Rights.
+
+6. Undertakings and Warranties
+
+6.1 The Advertiser undertakes and agrees not to use information and material provided by dgm during the term of the Agreement to collect, collate or retain a database or list of Publishers or other producers or publishers of advertising material to be used for other commercial purposes by the Advertiser (or any third party).
+ 
+6.2 The Advertiser acknowledges that for the period of the Agreement and for 6 (six) months following its termination:
+
+(a) the Advertiser shall not, without dgm's prior written consent, communicate with a Publisher in relation to a potential direct business relationship with or between the Advertiser .
+
+(b) the Advertiser shall promptly notify dgm of any approach or contact made by a Publisher in relation to or proposing a potential direct business relationship between the Advertiser and that Publisher or any other third party, and
+
+(c) the Advertiser shall not enter into a direct business relationship with a Publisher to the exclusion of dgm.
+
+6.3 The Advertiser shall not during the term of this Agreement or any extension either directly or indirectly, enter into a similar agreement or arrangement for the advertisement of any of its goods and services on the Internet provided by any third party affiliate/CPA network who in any way competes with dgm, nor for a period of 3 (three) months after the cessation of the dgm Agreement. These currently include, but are not limited to Commission Monster, Viva9, Jumbo Affiliates, Checkmystats, Zoom Connect, ClixGalore and Alchemy.
+
+6.4 dgm warrants and undertakes to the Advertiser that:
+
+(a) it will perform the Services with all reasonable skill and care and in a professional manner;
+
+(b) it will at all times comply with its duties under the Privacy Act 1988 (Cth) and other applicable data protection laws and regulations applicable to its obligations under the Agreement; and
+
+(c) it has and will continue to have throughout the duration of the Agreement full power and authority to enter into and perform the Agreement and provide the Services.
+
+6.5 The Advertiser warrants and undertakes to dgm that:
+(a) it has and will continue to have throughout the duration of the Agreement full power and authority to enter into and perform the Agreement;
+
+(b) it will at all times comply with its duties under the Privacy Act 1988 (Cth) and other applicable data protection laws and regulations applicable to its obligations under the Agreement;
+
+(c) its performance of its obligations under the Agreement will not infringe the Intellectual Property Rights of any third party;
+
+(d) none of the information or materials provided by the Advertiser to dgm (including on any Advertiser Links and the Advertiser Website) shall be materially inaccurate or
+misleading, libelous, obscene or abusive nor shall it breach any law or regulation;
+
+(e) where the Advertiser Links relate to business regulated by the Australian Prudential Regulation Authority (APRA) and/or the Australian Securities and Investments Commission (ASIC)  (including mortgage and secured loan products and insurance products) it is authorised by APRA and/or ASIC for the purposes of the type of business advertised and/or promoted;
+
+(f) it will keep all ID numbers and passwords secure and shall immediately notify dgm by e-mail at performance@dgm-au.com if the Advertiser believes that any unauthorised use has or may be made of such password; and
+
+(g) where the Advertiser is an agency contracting in relation to one of its clients, the client has consented to and is aware of the terms of the Agreement.
+
+6.6 Subject to Condition 6.5, all conditions, warranties, representations or other terms concerning the supply of the Services which might otherwise be implied or incorporated into the Agreement or any collateral contract, whether by statute, common law, custom or otherwise, are hereby expressly excluded to the fullest extent permitted by law.
+
+6.7 dgm gives no warranty or representation in respect of the commercial benefit or amount of commission to be derived from the use by the Advertiser of the Services.
+
+6.8 Notwithstanding anything to the contrary contained in the Agreement, nothing in the Agreement shall operate to exclude or limit liability for:-
+
+(a) death or personal injury caused by a party's negligence (for which no limit of liability shall apply); or
+
+(b) fraud; or
+
+(c) any other liability which cannot be limited or excluded under applicable law.
+
+6.9 Subject only to Condition 6.8, dgm shall not be liable to the Advertiser for loss of sales, loss of profits, loss of customers or contracts, loss of reputation or goodwill, loss of savings, or any other special, indirect or consequential loss or damage whether foreseeable, known, foreseen or otherwise and whether arising from negligence, breach of contract or howsoever.
+
+6.10 Subject only to Condition 6.8, dgm shall not be liable to the Advertiser for loss, damages or costs arising from or in connection with any representation, agreement, statement or undertaking made prior to the date of execution of the Agreement other than those representations, agreements, statements or undertakings confirmed by a duly authorized representative of dgm in writing or expressly incorporated or referred to in the Agreement.
+
+7. Force Majeure
+Neither party shall be liable for any delay in performing any of its obligations hereunder (except for a failure to pay Charges) if such delay is caused by circumstances beyond the reasonable control of the party so delaying (including any act of God, terrorism, fire, flood,
+strike, lock-out or other form of industrial action or software, hardware, telecoms or other computer failure).
+
+8. Confidentiality 
+8.1 Except as provided by Conditions 8.2, 8.3 and 8.4, each party shall at all times during the continuance of the Agreement and after its termination:
+
+(a) use its best endeavours to keep all Restricted Information confidential and accordingly not to disclose any Restricted Information to any other person; and
+
+(b) not use any Restricted Information for any purpose other than the proper exercise by it of the rights granted under the Agreement.
+
+8.2 Any Restricted Information may be disclosed by the recipient to:
+
+(a) any governmental or other authority or regulatory body; or
+
+(b) any employees of the recipient or of any of the aforementioned persons, to such extent only as is necessary for the purposes contemplated by the Agreement, or as is required by law and subject in each case to the recipient using its best endeavours to ensure that the person in question keeps the same confidential and does not use the same except for the purposes for which the disclosure is made.
+
+8.3 Any Restricted Information may be used by the recipient for any purpose, or disclosed by the recipient to any other person, to the extent only that:
+
+(a) it is at the date hereof, or hereafter becomes, public knowledge through no fault of the recipient (provided that in doing so the recipient shall not disclose any Restricted Information which is not public knowledge); or
+
+(b) it can be shown by the recipient, to the reasonable satisfaction of the disclosing party, within 28 (twenty eight) days of the disclosure by the disclosing party to the recipient of such Restricted Information, to have been known to it prior to such disclosure by the disclosing party to the recipient.
+
+8.4 Where by this being agreed on the Insertion Order or in writing by the Advertiser, dgm may publicise its relationship with the Advertiser and disclose information relating to the relationship for dgm's marketing purposes, including to potential customers of dgm.
+
+9. Term and Termination
+9.1 The Agreement shall continue in force for the period of time described in the Insertion Order unless and until either party gives not less than thirty (30) days' prior written notice or if there have been no Validations for a period of three months or more.
+
+9.2 The termination of the Agreement shall not limit the enforceability of any of the rights or obligations of the parties that accrued before the termination date. In relation to Actions identified by Tracking or that are awaiting Validation the Charges shall still be due.
+
+9.3 Conditions 4, 5, 6, 8, 9.2 and 11 shall survive the termination of the Agreement.
+
+9.4 On termination of the Agreement (for whatever reason other than unremedied material breach of the Agreement by dgm) the Advertiser will, without prejudice to any other rights the Advertiser or dgm may have under the Agreement, pay all accrued but unpaid Charges.
+
+10. Assignment and Sub-Licensing
+10.1 The Advertiser shall not be entitled to assign, or sub-license, all or any part of its rights or obligations under the Agreement without the prior written consent of dgm.
+
+
+10.2 Subject to the prior written consent of the Advertiser (which shall not be unreasonably withheld or delayed), dgm may assign the Agreement or any of its rights and obligations hereunder to any other party provided that no such consent shall be required upon any assignment by dgm to any "holding company" or "subsidiary" as defined by section 9 of the Corporations Act 2001. (as amended).
+
+10.3 dgm shall be entitled to appoint any sub-contractor for the provision of the Services
+
+11. General
+11.1 The terms and conditions of the Agreement shall apply as between the parties in respect of the matters described in the Insertion Order to the exclusion of all other terms and conditions (including any terms and conditions that the Advertiser purports to apply).
+
+11.2 No forbearance, delay or indulgence by either party in enforcing the provisions of the Agreement shall prejudice or restrict the rights of that party nor shall any waiver of its rights operate as a waiver of any subsequent breach and no right, power or remedy herein conferred upon or reserved for either party is exclusive of any other right, power or remedy available to that party and each such right, power or remedy shall be cumulative.
+
+11.3 If any provision in the Agreement shall in whole or in part be held to any extent to be illegal or unenforceable under any enactment or rule of law then that provision or part shall to that extent be deemed not to form part of the Agreement and the enforceability of the remainder of the Agreement shall not be affected.
+
+11.4 dgm and the Advertiser are each independent contractors with respect to each other and nothing in the Agreement shall create any association, partnership, joint 
+venture or agency relationship between them.
+
+11.5 The Agreement contains the entire understanding of the parties with respect of the subject matter hereof, supersedes all prior agreements and may not be modified or amended except in writing signed by the parties.
+
+11.6 All notices which are required to be given under the Agreement shall be in writing in the case of the Advertiser sent to the address set out in the Agreement and in the case of dgm to 200 Harris Street, Pyrmont, NSW, 2009; or such other address as the recipient may designate by notice given in accordance with the provisions of this Condition. Any such notice may be delivered personally or by registered post, e-mail or facsimile transmission and shall be deemed to have been served, if by hand, when delivered; if by registered post, 48 (forty-eight) hours after posting; and if by facsimile transmission or e-mail, when dispatched.
+
+11.7 The Agreement is subject to the laws of New South Wales and shall be subject to the non-exclusive
+jurisdiction of courts of New South Wales.
+
+(c) dgm 2008
+
+
+
+
+
+1 of 2 
+Please return to dgm - fax number +61 (0) 8569 0001
+
+Deal Group Media Pty Ltd a dealgroupmedia plc company. Registered office:  200 Harris Street, Pyrmont, NSW, 2009.
+ABN: 90 104 112 218
+   
+

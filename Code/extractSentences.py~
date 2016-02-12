@@ -1,0 +1,80 @@
+"""
+    Algorithm that generates data for the classifier to train.
+"""
+
+# -*- coding: utf-8 -*-
+import nltk         
+import os           #it allows to change the current directory and other terminal functions
+import re           #it allows to use regular expressions
+#from classifier import main
+
+modalVerbs = ['can', 'could', 'may', 'might', 'must', 'shall', 'should', 'will', 'would', 'ought']       #list of main modal verbs
+
+"""
+This next method is used when we already extracted sentences with identifiers, for example, "1.1 The Parties will contribute funding to the Project in accordance with clause 7.", '1.1' is an identifier that defines a clause number. The method simply cleans the sentence removing the identifier. However, some sentences present the follow structure: "2.2 or clause 2.2.3 applies, the Consultant will provide replacement Personnel...", removing the identifier '2.2' we remove an important part of the sentence, once it is referring to other clause and is not identifying this one.
+"""
+
+def cleanSent(sent):                                                                            #this method verifies whether the sentence starts with one of the elements (and, or, will, of, and/or) or not
+    lSent = sent.split()                                                                        #turn the sentence into a list of the sentence elements
+    if len(lSent) > 1:                                                                          #if the sentence has a length higher than 1
+        if lSent[1] in ['and', 'or', 'will', 'of', 'and/or']:                                   #if the second element in the sentence is equal to an element in the list
+            return sent                                                                         #return the whole sentence without cleaning it
+    return ' '.join(lSent[1:])                                                                  #return the sentence removing the first element, which refers to the identifier
+
+contractsDir = '/home/lsa/Dropbox/PUCRS/Dissertation/Corpus/cleantxtcorpus11/utf8'      #define the contracts' directory; change it for your own directory
+sentList = open('data/trainData/sentList.txt', 'w')                                                   #file that will receive the contracts' sentences
+noNormList = open('data/trainData/noNormList.txt', 'w')                                               #file that receives sentences that do not represent norms
+normsList = open('data/trainData/normsList.txt', 'w')                                                 #file that receives sentences that represent norms
+regExp = re.compile("(((\(([0-9]|[A-Za-z])\))|([0-9]+\.([0-9])?)) .+)")                 #regular expression to define a structure of a norm
+
+normSents = []
+
+sent_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')                      #getting the sentence tokenizer method
+
+listContracts = os.listdir(contractsDir)                                             #put in a list all names of files in the directory 
+os.chdir(contractsDir)                                                               #change the current path to the one with the contracts
+
+allSents = []
+noNormSents = []
+
+for contract in listContracts:                                                      #loop for all contracts
+    contractFile = open(contract, 'r')                                              #open the file with the name in the contract variable
+    contractString = contractFile.read()
+    sents = sent_tokenizer.tokenize(contractString)                                 #split the contract into sentences
+    allSents = allSents + sents
+    for sent in sents:                                                              #for each sentence in the list of sentences...
+        r = regExp.findall(sent)                                                    #test if the sentence fits with the regular expression
+        if r:
+#            if len(r) > 5:                                                                           
+            cSent = cleanSent(r[0][0])
+            tokenSent = nltk.word_tokenize(cSent)                                   #get all tokens in the sentence
+            for token in tokenSent:                         
+                if token in modalVerbs:                                             #if the token is a modal verbs
+                    normSents.append(cSent)                                         #add the sentence to the list of norm sentences
+                    break
+#        else:
+#            if len(sent.split()) > 5:
+        noNormSents.append(sent)                                                #add the sentence to the list of non-norm sentences
+    contractFile.close()
+
+#listSent = main()
+
+#for sent in listSent[:-778]:
+#    s = cleanSent(sent)
+#    normSents.append(s)
+ 
+print "All: ", len(allSents), "Norm: ", len(normSents), "No Norm: ", len(noNormSents)
+                
+
+for sent in allSents:
+    sentList.write(sent + "\n\n")
+
+for sent in noNormSents:
+    noNormList.write(sent + "\n\n")
+
+for sent in normSents:
+    normsList.write(sent + "\n\n")
+
+sentList.close()
+noNormList.close()
+normsList.close()

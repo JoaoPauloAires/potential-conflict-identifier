@@ -1,0 +1,375 @@
+AGREEMENT
+
+
+BETWEEN
+
+
+ROYAL MELBOURNE INSTITUTE OF TECHNOLOGY
+
+
+AND
+
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solicitor to the University
+Royal Melbourne Institute of Technology
+Level 4, 449 Swanston Street
+Melbourne, Victoria 3000
+Ph 9925 3180
+Fax 9925 3047
+
+AGREEMENT
+
+THIS AGREEMENT is made the		19    .
+
+BETWEEN
+
+ROYAL MELBOURNE INSTITUTE OF TECHNOLOGY of 124 La Trobe Street, Melbourne ("RMIT")
+
+AND
+
+*** ACN *** of ***  ("the Company")
+
+AND
+
+*** of *** ("the Guarantor")
+
+
+RECITALS:
+
+A. The Company and RMIT have been involved in negotiations concerning the subject matter of this agreement.
+
+B. The Company and RMIT have agreed that this document shall record the terms agreed in their negotiations.
+
+THE PARTIES AGREE:
+
+1.	DEFINITIONS AND INTERPRETATION
+
+1.1	Definitions
+
+In this agreement (including the Recitals, any Schedules and Annexures) unless the context otherwise requires:
+
+"Annexure" means an annexure to this agreement;
+
+"Commencement Date" means the [INSERT DATE UPON WHICH AGREEMENT IS TO BEGIN];
+
+"Confidential Information" in respect of a party means all Information submitted or disclosed by one party to the other party at any time in connection with the subject matter of this agreement (including during negotiations, discussions and meetings) and includes without limitation:
+
+(a) Information which at the time of disclosure by a party is identified as being confidential;
+
+(b) Information which, of implied necessity, is confidential;
+
+(a) Information which a party knows or ought reasonably be expected to know is confidential;
+
+but does not include Information which:
+
+* is in the public domain otherwise than as a result of a breach of the terms of this agreement or any other obligations of confidentiality owed by a party;
+
+* prior to disclosure by a party was lawfully known to the other party and in respect of which the other party is not bound by any other obligations of confidentiality; or
+
+* is required by law to be disclosed;
+
+"Event of Default" has the meaning given to it in Clause 8;
+
+"Event of Insolvency" means the happening of any one or more of the following events:
+
+(a) a liquidator is appointed, an application is made to a court for an order appointing a liquidator or an order is made that a body corporate be wound up;
+
+(b) a "controller"(as defined in the Corporations Law) is appointed in respect to the whole or any part of the property of the body corporate;
+
+(c) a meeting is convened or a resolution is passed to appoint an administrator (as defined in the Corporations Law) in respect of a body corporate;
+
+(d) a person becomes "insolvent under administration" within the definition of that term under Section 9 of the Corporation Law;
+
+"Expiry Date" means [INSERT DATE UPON WHICH AGREEMENT IS TO FINISH];
+
+"Force Majeure Event" means any event or circumstance or combination of events and circumstances which is reasonably beyond the control of the party affected thereby and which causes or results in default or delay in performance by such affected party of any of its obligations under this agreement and includes an act of God (excluding wet or inclement weather) war, hostilities, civil commotion, strikes, lockouts and other industrial disputes;
+
+"Information" means information, inventions and ideas, which may be oral, written, recorded or stored in a machine readable form;
+
+"Intellectual Property Rights" means all intellectual and industrial property rights, including without limitation:
+
+(a)	patents, copyright, rights in circuit layouts, plant breeder's rights, registered designs, trade marks, moral rights and the right to have confidential information kept confidential; and
+
+(b)	any application or right to apply for registration of any of those rights,
+
+and "Intellectual Property" means property created or arising from any such rights and all other intellectual property so defined in Article 2 of the Convention Establishing the World Intellectual Property Organisation of July 1967;
+
+"party" means a party to this agreement being either RMIT or the Company;
+
+"RMIT Material" means any Intellectual Property or other material provided by RMIT to the Company for the purposes of this agreement including, but not limited to, documents, equipment, information and data stored by any means;
+
+"Schedule" means a schedule to this agreement;
+
+"Term" means the period during which this agreement is operative;
+
+1.2	Interpretation
+
+	In this agreement (including the Recitals and any Annexures or Schedules) unless the context otherwise requires:
+
+(a) a reference to this agreement or another instrument includes any amendment or replacement of it and despite any change in the identity of the parties;
+
+(b) if any party to this agreement comprises two or more persons then the obligations of those persons are joint and several;
+
+(c) a provision of this agreement which is in favour of two or more persons is for the benefit of them jointly and severally;
+
+(d) A reference to any person includes that person's legal personal representatives and if any person is a corporation a reference to that person includes its successors and assigns;
+
+(e) words denoting the singular number include the plural number and vice versa and words importing one gender include the other gender;
+
+2. COMPANY'S OBLIGATIONS
+
+[SEE USER NOTES]
+
+3. RMIT'S OBLIGATIONS
+
+[SEE USER NOTES]
+
+4. PAYMENT OBLIGATIONS
+
+[SEE USER NOTES]
+
+5. TERM OF AGREEMENT
+
+5.1 The Term of this agreement begins on Commencement Date and ends on Expiry Date, unless extended or terminated earlier due to default.
+
+5.2 Prior to expiration of the Term, the parties may agree in writing to extend the Term.
+
+6. INTELLECTUAL PROPERTY
+
+6.1 The title to and all Intellectual Property Rights in RMIT Material remains the property of RMIT at all times.
+
+6.2 Intellectual Property first created or developed as a result of performance of this agreement ("New IP") shall be owned as follows:
+
+***	)
+***	) [SEE USER NOTES]	
+
+6.3 Each of the parties and their related bodies corporate shall be entitled to:
+
+(a) use and reproduce for internal purposes; and
+(b) grant non-exclusive sub-licences to use and reproduce
+
+New IP in accordance with this agreement for non-commercial purposes in accordance with this agreement.
+
+6.4 If a party proposes to commercialise or exploit New IP or to sub-licence New IP for commercial purposes then the parties must consult and reach a separate agreement with respect to commercialisation, including the sharing of royalties.
+
+6.5 Rights and obligations of parties under this clause shall survive expiration or earlier termination of this agreement.
+
+7.	CONFIDENTIAL INFORMATION
+
+7.1	Each party undertakes to keep secret and protect and preserve the confidential nature and secrecy of the Confidential Information of the other party.  Without limiting this obligation, a party must not:
+
+(a)	use or permit any person to use the other party's Confidential Information for any purpose other than the performance of this agreement;
+
+(b)	disclose or in any way communicate to any other person any of the other party's Confidential Information except as authorised by the other party;
+
+(c)	permit unauthorised persons to have access to places where the other party's Confidential Information is displayed, reproduced or stored; or
+
+(d)	make or assist any person to make any unauthorised use of the other party's Confidential Information.
+
+7.2	Each party must take reasonable steps to enforce the confidentiality obligations imposed by sub-clause 1 above including diligently prosecuting, at its own cost, any breach or threatened breach of those obligations by a person to whom the party has disclosed the Confidential Information.
+
+7.3	A party may disclose the other party's  Confidential Information to its advisers in relation to its rights under this agreement or to its employees and sub-contractors on a need to know basis, solely to assist in the performance of obligations under this agreement and on the condition that such persons do not disclose the Confidential Information to any other person.
+
+7.4	The obligations of confidentiality under this agreement shall survive expiration or earlier termination of this agreement.
+
+8.	EVENTS OF DEFAULT, TERMINATION AND FORCE MAJEURE
+
+8.1	An Event of Default occurs if any one or more of the following events occurs in respect of a party ("defaulting party")
+
+(a)	default be made by the defaulting party in the performance or observance of any other obligation on its part contained in this agreement and if such default can be remedied, is not remedied within fourteen (14) days of written notification from the other party that it requires that default to be remedied;
+
+ (b)	an Event of Insolvency occurs in respect of the defaulting party.
+
+8.2 If an Event of Default occurs in respect of a defaulting party, then the other party may in its discretion terminate this agreement by written notification to the defaulting party.
+
+9.	INDEMNITIES AND ACKNOWLEDGEMENT
+
+9.1 The indemnity in clause 9.2 is given by each party to the other of them.
+
+9.2 A party ("the indemnifying party") indemnifies and will keep indemnified the other party ("the indemnified party") and its officers, employees, agents, contractors and consultants from and against all actions, claims, proceedings or demands (including those brought by third parties) which may be brought against it or them, whether on their own or jointly with the indemnifying party in respect of any loss, death, injury, illness, damages, costs or expenses (but excluding consequential financial loss) where caused by any unlawful or negligent act of the indemnifying party, its employees, agents, sub-contractors or consultants arising from the indemnifying party's exercise of its rights or obligations under  this agreement or from any other loss which may arise from or as a result of any breach of the terms of this agreement by the indemnifying party, its employees, agents, sub-contractors or consultants.
+
+9.3 The indemnifying party's obligation to indemnify the indemnified party and its officers, employees and agents set out in sub-clause 2 is a continuing obligation separate and independent from the indemnifying party's other obligations and will survive expiration or earlier termination of this agreement.
+
+
+10.	FORCE MAJEURE
+
+1.1 If a party becomes aware of any matter likely to constitute a Force Majeure Event affecting its obligations under this agreement, it must within 5 business days of the occurrence of the Force Majeure Event give to the other party a notice containing full particulars, including the likely effect of the Force Majeure Event on the relevant obligations ("suspension notice").
+
+1.2 Where a party has provided a suspension notice, the non-financial obligations of that party under this agreement shall be suspended, to the extent they are effected by the Force Majeure Event, until the cessation of the Force Majeure Event provided however that the maximum periods of suspension of obligations under this clause shall be 6 months per event from the date of occurrence of the relevant Force Majeure Event.
+
+2. INSURANCES
+
+2.1 The Company must effect and maintain at all times during the Term  the following insurances:
+
+(a) Public Liability insurance for an amount of not less than $10,000,000.
+
+(b) Professional Indemnity insurance for an amount of not less than *** [SEE USER NOTES].
+
+(c) Product Liability insurance for an amount of not less than *** [SEE USER NOTES].
+
+11.2	The Company must provide RMIT with certified copies of all relevant policies upon being requested to do so by RMIT.
+
+3. GUARANTEE
+
+3.1 The Guarantor unconditionally and irrevocably guarantees to RMIT the performance of each of the Company's obligations under this agreement.
+
+12.2	The Guarantor unconditionally and irrevocably indemnifies RMIT against all losses or costs arising out of any breach, or any losses or costs caused to another person, by the Company or by its employees, agents or sub-contractors.
+
+12.3	The Guarantor will obtain independent legal advice about the decision of the Guarantor to assume the obligations and liability under this clause and acknowledges having read this agreement.  The Guarantor waives any right of first requiring RMIT to proceed against the Company before exercising its rights under this clause.
+
+12.4	Where the Guarantor comprises more than one person, then the obligations of the Guarantor are joint and several.
+
+12.5	The obligations and liability of the Guarantor under this clause are assumed by the Guarantor in consideration of RMIT agreeing to enter into this agreement with the Company.
+
+13.	DISPUTE RESOLUTION
+
+If a dispute arises in respect of any aspect of this agreement which is capable of resolution between the parties, then the parties must attempt to resolve that dispute in good faith and no party shall be entitled to exercise any of its rights under this agreement or at law unless:
+
+(a)	that party has served a notice on the other party requesting resolution of the dispute, and
+
+(b)	the dispute has not been resolved within fourteen (14) days of the date of service of the notice.
+
+13.	MISCELLANEOUS
+
+13.1	Variation and Waiver
+
+A provision of or a right created by this agreement cannot be waived except in writing signed by the party granting the waiver.  No variation to or amendment of this agreement can be made without the consent in writing of all of the parties.
+
+13.2	Approvals and Consents
+
+Where any provision of this agreement provides for a party to provide its consent or approval then such party may conditionally or unconditionally in its absolute discretion give or withhold such consent or approval unless this agreement expressly provides otherwise.
+
+13.3	Entire Agreement
+
+This agreement contains all of the terms, conditions, representations and warranties in connection with the agreement reached between the parties with respect to the subject matter of this agreement.
+
+13.4	Relationship of Parties
+
+Nothing in this agreement creates a partnership or joint venture between the parties, and no party can bind of pledge the credit of the other party.
+
+13.5	Governing Law and Jurisdiction
+
+This agreement is governed by and construed in all respects in accordance with the laws of the State of Victoria, Australia and the parties hereby submit to the non-exclusive jurisdiction of the courts of the said State of Victoria.
+
+13.6	Costs
+
+The parties agree to bear their own costs (including legal costs) in respect of this agreement.
+
+13.7 Assignment
+
+The Company must not novate, assign or subcontract this agreement or any of its obligations under this agreement without the prior written consent of RMIT.
+
+13.8	Counterparts
+
+This agreement can be executed in a number of counterparts and the counterparts taken together will be deemed to constitute the one and the same document.
+
+14.	NOTICES
+
+14.1	Any notice, demand, consent, approval or other communication ("a Communication") in connection with this agreement by a party may (without limitation to any other valid form of execution) be signed by an authorised officer of that party (if a corporation), or by any solicitor acting for that party, whose signature may be hand-written or printed or otherwise reproduced by mechanical means.
+
+14.2	In addition to any method of service provided for by statute, a Communication in connection with this agreement to be sent to or made upon a party is taken to have been given to or made on the party to whom it is addressed if:
+
+(a) sent by facsimile addressed as follows:
+
+(i) 
+RMIT 	Fax no:	***
+Attention:	***
+
+(ii) Company	Fax no:	***
+Attention:	***
+
+(b)	left for the addressee, or sent by mail (and by airmail if to an address outside Australia) to the addressee at:
+
+(i)	any address of that person set out in this agreement; or
+
+(ii)	the registered office of any corporate addressee.
+
+14.3	Service under sub-clause 2 will be valid even though the addressee may have been wound up or in liquidation (if a corporation) or the addressee is absent from the place at or to which the Communication is left, delivered or sent, or where the Communication is sent by post or otherwise, it is returned unclaimed.
+
+14.4	A Communication in connection with this agreement will be deemed to have been received by the person:
+
+(a)	if left or delivered personally, on the same day;
+
+(b)	if sent by post to an address in Australia, on the second business day after the date of posting;
+
+(c)	if sent by post to an address outside Australia, on the fourth business day after the date of posting;
+
+(d)	in the case of a facsimile, on receipt of the facsimile in legible form.
+
+14.5	Unless the parties otherwise agree in writing a Communication in connection with the agreement may not be sent by electronic mail ("email").
+
+
+EXECUTED as an agreement.
+
+
+SIGNED for and on behalf of ROYAL MELBOURNE INSTITUTE OF TECHNOLOGY by a duly authorised officer
+
+
+
+
+in the presence of:	)
+)
+))
+
+.....................................................
+Signature
+
+.....................................................
+Name & Title
+
+.....................................................
+Witness Signature
+
+.....................................................
+.....................................................
+.....................................................
+Name & Address of Witness
+THE COMMON SEAL of *** ACN *** was hereunto affixed in accordance with its Articles of Association in the presence of:)
+)
+)
+			
+Director	Name of Director (block letters)
+
+			
+Secretary	Name of Director/Secretary (block letters)
+
+
+SIGNED by the said [Guarantor***] in the presence of:)
+)
+)
+
+	
+	
+(Witness)
+
+		
+(Name of witness)
+
+		
+(Address of witness)
+
+
+
+
+
+c:\my documents\rdu\tenders\2003 online resources\generic blank contract.doc	11
+01/03/03
+

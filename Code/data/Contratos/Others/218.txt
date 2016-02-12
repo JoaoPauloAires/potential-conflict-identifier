@@ -1,0 +1,82 @@
+WEBSITE TERMS AND CONDITIONS OF ACCESS AND USE
+1 ACCESS
+1.1 These website terms and conditions of access and use, as amended by us from time to time ("Terms and Conditions") set forth the terms and conditions for your use of the website www.3dprocurement.com.au ("Site").  The Site is created, owned and operated by or on behalf of 3D Procurement Solutions Pty Ltd ACN 138 689 022 ("3D Procurement Solutions", "we", "our" or "us").  In the Terms and Conditions "you" and "your" refers to a user of the Site. 
+1.2 By accessing, browsing or using the Site, or downloading any material from the Site, you agree to these Terms and Conditions and acknowledge and agree that you have read and understood the Terms and Conditions and agree to be bound by them without alteration.  If you do not accept the Terms and Conditions and the Privacy Policy, then you must not use the Site.
+1.3 We reserve the right to modify and revise these Terms and Conditions at our discretion and to modify or discontinue the provision of the Site at any time.  
+2 PRIVACY
+2.1 To the extent you provide information to 3D Procurement Solutions which may be "personal information" under the Privacy Act 1988 (Commonwealth), or any other equivalent legislation, our collection, use and disclosure is subject to our Privacy Policy.  
+2.2 You agree to comply with all applicable privacy laws that apply to your use of the Site.  You further agree to do anything reasonably requested by 3D Procurement Solutions for the purpose of our compliance with our obligations under any applicable privacy law.
+3 INTELLECTUAL PROPERTY RIGHTS
+3.1 For the purposes of the Terms and Conditions, "Intellectual Property Rights" means all present and future rights conferred by statute, common law or equity in or in relation to any copyright, trademarks, designs, patents, circuit layouts, business and domain names, inventions and other results of intellectual activity in the industrial commercial, scientific, literary or artistic fields.   
+3.2 The Intellectual Property Rights in the Site, including but not limited to software, content, text, photographs, images, graphics, video, audio, multimedia items and the compilation as a whole ("Content") vest in 3D Procurement Solutions, unless otherwise noted.  You must abide by all copyright notices or restrictions contained on the Site or elsewhere.  You may not delete any author attributions, legal or proprietary notices on the Site or elsewhere.
+3.3 You agree that 3D Procurement Solutions will own all Intellectual Property Rights in any suggestions, ideas, enhancement requests, feedback, recommendation or other information relating to the Site that you provide to us.  You warrant to 3D Procurement Solutions that our use of any materials you submit to us will not infringe the Intellectual Property Rights or moral rights of any party and is not obscene or defamatory.
+3.4 You agree that you will not reproduce, duplicate, copy, sell, trade, re-sell, adapt, communicate, public or otherwise exploit for any commercial purpose, any part of the Site, or the Site, including the Content.
+3.5 You must not upload, post, email, transmit or otherwise make available any content that infringes any intellectual proprietary rights of any third party;
+4 LINKED SITES
+The Site may contain links to websites owned, operated and/or maintained by third parties independent of 3D Procurement Solutions.  You acknowledge and agree that:
+4.1 we have no control over such third party websites (including their content) and that we make no representation as to such websites' availability or suitability; 
+4.2 merely providing links to such websites does not imply, and should not be construed as implying, that we endorse, support, sponsor or associate with any third party;
+4.3 we are not responsible or liable for any content, advertising, products, services, or other materials on or available from such websites; and
+4.4 3D Procurement Solutions is not responsible or liable for any direct or indirect loss or damage suffered or sustained by you in connection to or arising out of your access to and use of any third party website linked from the Site.
+5 DISCLAIMER
+5.1 3D Procurement Solutions reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Site (or any part thereof) with or without notice.  You agree that 3D Procurement Solutions is not liable to you or to any third party for any such modification, suspension or discontinuance of the Site.
+5.2 You acknowledge that the Site is made available to you on an "as is" and an "as available" basis and that 3D Procurement Solutions makes no representation or warranty as to the reliability, suitability, or availability of the Site.
+5.3 All information provided by 3D Procurement Solutions on the Site is of a general nature. The information is not intended to be nor should be interpreted as advice. 
+5.4 3D Procurement Solutions makes no commitment to update any information or material on the Site.
+5.5 You acknowledge that 3D Procurement Solutions does not represent or warrant to you that:
+5.5.1 the Site will be secure, uninterrupted or error-free;
+5.5.2 the Site will meet your requirements or expectations;
+5.5.3 errors or defects with the Site will be able to be corrected;
+5.5.4 the Site will be free of viruses or any other harmful or destructive code;
+5.5.5 that the Site will operate with any other hardware, software, system or data; or
+5.5.6 that any third party will be able to access or use the Site.
+5.6 Any material downloaded or otherwise obtained through your use of the Site is done at your own discretion and risk and you will be solely responsible for any loss of data that results from the download of any such material, or the damage to your computer system, and any consequential loss or damage suffered or sustained by you.
+5.7 You acknowledge and agree that, to the fullest extent permitted by law,  3D Procurement Solutions is not liable to you or any third party for any direct, indirect, punitive, special, incidental, consequential, exemplary or other loss or damage of any type (including, without limitation, loss of data, revenue or profit, or business interruption), however caused, resulting from accessing the Site or any use of the information or material on or accessible through the Site (including any linked websites), any action taken in reliance on such information or material or any inability to use such information or material or the omission of any information or material from the Site or any inaccuracy in any information or material.
+5.8 You are responsible for assessing the accuracy, reliability and suitability of the information on or accessible through the Site (including any linked websites) and accept all risks of loss, damage, costs and other expenses resulting from using the Site or any information or material on or accessible through the Site (including any linked websites).
+5.9 You agree not to interfere or take any action that results, or may result in any interference with or disruption of the Site or servers or networks connected to the Site.  You agree not to attempt to gain unauthorised access to other computer systems or networks connected to the Site.  
+5.10 Subject to clause 5.11, you acknowledge and agree that, to the fullest extent permitted by law, 3D Procurement Solutions disclaims all conditions and warranties, express or implied, in respect of the provision of the Site to you and your access to and use of the Site, including without limitation any implied warranty of merchantability, fitness for a particular purpose or non-infringement of third party rights.
+5.11 Where any condition or warranty is implied into these Terms and Conditions, and legislation avoids or prohibits provisions in a contract excluding or modifying the application or exercise of, or liability under such a condition or warranty, the condition or warranty will be deemed to be included in these Terms and Conditions, provided that the liability of 3D Procurement Solutions for any breach of such condition or warranty be limited, at the option of 3D Procurement Solutions, to:
+5.11.1 the supply of the service again; or
+5.11.2 the payment of the cost of having the service supplied again.
+5.12 The Terms and Conditions are not intended to limit or exclude any liability on 3D Procurement Solutions's part, where and to the extent that applicable law prohibits the exclusion or limitation.
+6 PASSWORDS AND SECURITY 
+6.1 You are solely responsible for maintaining the secrecy of your username and password in relation to the Site, and for restricting access to your computer. You are fully responsible for the use of the site under your username and password. In the event of unauthorised use of your username or password or breach of security you must notify 3D Procurement Solutions immediately.
+6.2 The internet exists across open public networks that may not be secure or private. While 3D Procurement Solutions takes all reasonable steps to maintain the security of any transmission of information by you to 3D Procurement Solutions, via the Site, you acknowledge and accept the risk that any communication to or from 3D Procurement Solutions, via the Site may be intercepted, used or modified by third parties and you indemnify, keep indemnified and hold 3D Procurement Solutions harmless for any loss or damage suffered by you in respect of any interception, use or modification of such information you communicate to 3D Procurement Solutions by third parties.
+7 COMMUNICATION FACILITIES
+7.1 The Site may also contain e-mail services, bulletin boards and notices, discussion groups, or other message or communication facilities, allowing you to communicate with others individually or collectively as a group. 
+7.2 You agree to only post, send and receive messages and material that are proper, ethical and related to the site or service provided by 3D Procurement Solutions. You agree not to post, email, transmit, distribute to or from the Site or otherwise make available any content that is unlawful, abusive, vulgar, harmful, threatening, harassing, defamatory, obscene, libellous, abusive, inciteful, invasive of another's privacy, in violation of any applicable law or otherwise objectionable or encourage conduct that would constitute a criminal offence.
+7.3 You agree not to impersonate any person or entity, including but not limited to members of the staff of 3D Procurement Solutions, or otherwise misrepresent your affiliation with a person, an entity or 3D Procurement Solutions.
+7.4 You agree not to post, transmit or exploit in any way, any material of any kind for commercial purposes, or which contains any promotional material or advertising, including but not limited to, petitions for signatures, "junk mail", "spam", or any other form of solicitation.
+7.5 You agree not to upload, post, email, transmit or otherwise make available any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment.
+7.6 You agree not to delete or interfere with any Site content including but not limited to member contributions, messages, notices, or disrupt the Site or its users in any way.
+7.7 You agree not to post or transmit any messages which discloses private or personal matters concerning any person.
+8 GENERAL
+8.1 Unless a contrary intention appears, these Terms and Conditions constitute the entire agreement between 3D Procurement Solutions and you regarding the subject matter of the Terms and Conditions and supersedes all prior representations, agreements, statements and understandings, whether verbal or in writing.
+8.2 If any provision of the Terms and Conditions is held invalid, unenforceable or illegal for any reason, the Terms and Conditions will remain otherwise in full force and effect apart from such provision which shall be deemed severed.
+8.3 These Terms and Conditions are governed by and construed in accordance with the laws of the State of Victoria, and the parties submit to the exclusive jurisdiction of the Courts of the State of Victoria.  These Terms and Conditions are deemed to have been made and entered into at Melbourne in the State of Victoria.
+8.4 No right under the Terms and Conditions will be deemed to be waived except by notice in writing signed by each party.  A waiver by 3D Procurement Solutions will not prejudice its rights in respect of any subsequent breach of these Terms and Conditions by you.  Subject to the remainder of this clause 8.4, any failure by 3D Procurement Solutions to enforce any clause of these Terms and Conditions, or any forbearance, delay, or indulgence granted by 3D Procurement Solutions to you, will not be construed as a waiver of 3D Procurement Solutions rights under the Terms and Conditions.
+8.5 No rule of contract interpretation must be applied in the interpretation of these Terms and Conditions to the disadvantage of one party on the basis that it prepared or put forward these terms and conditions or any document comprising part of these terms and conditions.
+8.6 In these Terms and Conditions, unless the contrary intention appears:
+8.6.1 the singular includes the plural and vice versa;
+8.6.2 words importing one gender include other genders;
+8.6.3 a reference to a document or instrument, including these Terms and Conditions, includes that document or instrument as novated, altered or replaced from time to time;
+8.6.4 a reference to an individual or person includes a partnership, body corporate, government authority or agency and vice versa;
+8.6.5 a reference to a party includes that party's executors, administrators, successors, substitutes and permitted assigns;
+8.6.6 other grammatical forms of defined words or expressions have corresponding means;
+8.6.7 a covenant, undertaking, representation, warranty, indemnity or agreement made or given by:
+(a) two or more parties; or
+(b) a party comprised of two or more persons
+is made or given by and binds those parties or persons jointly and severally; and
+8.6.8 a reference to a statute, code or other law includes regulations and other instruments made under it and includes consolidations, amendments, re-enactments or replacements of any of them.
+
+
+1
+
+
+
+	
+
+
+
+
+

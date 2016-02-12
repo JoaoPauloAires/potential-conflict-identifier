@@ -1,0 +1,286 @@
+
+
+
+
+
+
+
+
+
+
+
+
+SimGuard Reseller Agreement
+
+
+
+SimCast Media Pty Limited
+
+ACN:	101 690 251
+
+Address:	3 Von Nida Court,
+       	Dingley Village
+       	VIC 3172 
+       	Australia
+
+Tel:	+ 61 3 9511 8568
+Fax:	+ 61 3 9511 8567
+Email:	info@simcastmedia.com.au
+Web:	www.simcastmedia.com.au
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Re-seller
+
+
+
+
+
+
+
+
+
+Company:	 	
+
+ABN:		
+
+Address:		
+
+			
+
+			
+
+			
+
+Tel:			
+
+Fax:		
+
+Email:		
+
+Web:		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recitals:
+A. 	The Company has engaged the Re-seller to provide particular Re-seller services for a period of 3 years.
+B.	This Agreement sets out the rights and obligations of the parties in relation to the provision of the services.
+
+It is agreed as follows.
+1. Definitions and interpretation
+The following definitions apply.
+
+Commencement Date means the date of signing.
+
+Confidential Information means, in relation to the business of the Company or of any Related Body Corporate all and any of the following data which has not been and which remains at the time being not published by or with the authority of the Company:
+a)	trade secrets or know-how;
+b)	all copyright material;
+c)	technologies, methodologies or processes;
+d)	products, components of products, pricing policies and costing;
+e)	research and development;
+f)	software and software applications and enhancements;
+g)	computer programs (including source code and object code);
+h)	future plans;
+i)	marketing strategies;
+j)	financial affairs and accounting methods;
+k)	lists and details of customers, employees, Resellers and contractors; and
+l)	all other information valuable in, or in relation to, the Company's business.
+GST has the meaning given in section 195-1 of the A New Tax System (Goods and Services) Tax Act 1999 (Cth).
+Input Tax Credit has the meaning given in section 195-1 of the A New Tax System (Goods and Services) Tax Act 1999 (Cth).
+Payable Account means the amount payable for any Taxable Supply made under or in relation to this Agreement.
+Related Body Corporate means a "related body corporate" of the Company as that term is defined in the Corporations Law.
+Tax Invoice has the meaning given in section 75AT of the Trade Practices Act 1974
+Taxable Supply has the meaning given in section 195-1 of the A New Tax System (Goods and Services Tax) Act 1999 (Cth).
+Tax includes any tax , without limitation, financial institutions duty, debits tax, sales tax, excise duties, stamp duties,  custom duties and Goods and Services Tax (GST).
+1.1	Interpretation
+Headings are for convenience only and do not affect interpretation.  The following rules apply.
+a)	The singular includes the plural and conversely.
+b)	A gender includes all genders.
+c)	A reference to a person, corporation, trust, partnership, unincorporated body or other entity includes any of them.
+d)	A reference to a Clause is a reference to a Clause of this Agreement.
+e)	A reference to a party to this Agreement or another Agreement or document includes the party's successors, permitted substitutes and permitted assigns (and, where applicable, the party's legal personal representatives).
+f)	A reference to conduct includes, without limitation, an omission, statement or undertaking, whether or not in writing.
+g) A reference to an agreement includes any undertaking, and legally enforceable arrange
+h) ment, whether or not in writing, and a reference to a document includes an agreement (as so defined) in writing and any certificate, notice, instrument and document of any kind.
+h)	The meaning or general words is not limited by specific examples introduced by including, or for example, or similar expressions.
+2. Appointment
+The Company has engaged the Re-seller to on-sell the Internet monitoring t service known as SimGuard within Australia.  
+3. Term
+This Agreement commences on the Commencement Date and will continue for 3 years, unless terminated earlier by either party under Clause 9.
+4. Reseller Obligations
+During the Term, the Reseller must:
+a)	faithfully and diligently provide the Reseller services and perform the duties assigned to him or her;
+b)	abide by all reasonable and lawful directions given to him or her by the Company from time to time in the course of providing the Reseller services;
+c)	provide the Reseller services such that they are fit for their intended purpose;
+d)	at all times comply with all applicable laws, rules, regulations and statutes.
+5. Reseller Fee
+For the provision of the re-seller services in accordance with this Agreement, the Company will pay the reseller commissions.  The commission structure is outlined in attached Schedule A.
+5.1 GST to be added to amounts payable
+The parties acknowledge that all amounts payable under this Agreement are expresses to be exclusive of GST.  If GST is payable on a Taxable Supply the amount payable for that Taxable Supply will be the amount expressed in this Agreement plus GST.
+5.2	Impact of GST on the calculation of amounts payable
+Without limiting Clause 5.2:
+a)	If an amount payable under this Agreement is calculated by reference to or relates to a cost, expense, liability or similar amount (Liability) incurred by a party, then the Liability shall be reduced by the amount of any Input Tax Credit to which that party is entitled in respect of that Liability.  The party will be entitled to a full Input Tax Credit unless it demonstrates that its entitlement is otherwise prior to the date on which the payment must be made.
+b)	If an amount payable under this Agreement is calculated by reference to or relates to price, value, sales, revenue or similar amount (Revenue), then the Revenue shall be exclusive of GST.
+
+5.3	Documentation
+(a) If GST is payable on a Taxable Supply made by the Reseller to the Company, then the Company will not be required to pay any amount to the Reseller in respect of that Taxable Supply unless it has first received a Tax Invoice from the Reseller.
+(b)	Without limiting Clause 5.5(a), the Reseller will provide the Company with an Adjustment Note within seven days of the happening of an Adjustment Event in relation to this Agreement.
+
+5.4	Registration
+Each party must do all things necessary so that it is registered for GST purposes by the date GST is first imposed. 
+6. Confidential information
+6.1	Ownership of Confidential Information
+The Reseller acknowledges and agrees that:
+a) the Company is the owner of all Confidential Information; and
+b) both during and after the Term he or she will keep entirely secret and confidential and will not directly or indirectly use, divulge, reproduce or communicate to any person any Confidential Information which he or she may receive, obtain or have access to in connection with the performance of his or her duties and obligations under this Agreement.  This restriction does not apply to Confidential Information which has or may have come into the public domain otherwise than through a breach by the Reseller of this Clause or which is used, divulged or communicated by the Reseller with authority from the Company.
+
+6.2	Termination
+On the termination of this Agreement, the Reseller must immediately return to the Company:
+a)	all standard forms, CD-Roms, electronic storage disks, computer programs (together with source code and object code), documents, files, books, manuals, records or other information whether in written, electronic, magnetic or other form and whether created or brought into existence by the Reseller or otherwise relating to the Company's affairs;
+b)	all materials, property (including but not limited to intellectual property) and equipment which is in the possession of or under the Reseller's control all Confidential Information.
+7. Assignment of intellectual property
+7.1	Assignment
+a)	The Reseller irrevocably and unconditionally assigns and agrees to assign, to the fullest extent permitted by law (either present or future), to the Company all right, title and interest including copyright (both present and future, but excluding moral rights) which he or she has or hereafter acquires in all computer or software codes, designs, documentation or other material created, designed, developed, maintained or enhanced by the Reseller in connection with the performance of his or her duties and obligations under this Agreement (the Works).
+b) The Reseller agrees that all intellectual property rights, including any designs, patents or patentable work, trade marks, improvements or copyright work and the right to secure any patent, design, copyright, trade mark or like protection, in and to any and all of the Works will be and remain the property of the Company.
+
+7.2	Consent and undertakings
+In order to give full effect to the requirements of this Clause, the Reseller:
+(a)	irrevocably and unconditionally agrees and consents to the fullest extent permitted by law to the Company and to any Related Body Corporate (each named the user for the purposes of this paragraph):
+(i)	using, reproducing, adapting, publishing, communicating, exhibiting or transmitting any or all of the Works anywhere in the world, in whatever form the user thinks fit (including the making of any distortions, additions, or alterations to any Works) as so used, reproduced, published, communicated, exhibited or transmitted;
+(ii)	using, reproducing, adapting, publishing, communicating, exhibiting or transmitting the Works anywhere in the world without making any identification of the Reseller; or
+(iii)	doing anything in relation to the Works that (but for these consents) would otherwise infringe any moral rights or similar rights of the Reseller anywhere in the world; and
+b)	irrevocably and unconditionally undertakes to the Company, to the fullest extent permitted by law, that he or she will not make any work which reproduces a substantial part of any of the Works.
+8. Restrictions
+8.1	Definition of "person"
+In this Clause 8, the word person means person, enterprise, firm, trust, joint venture or syndicate.
+
+8.2	Restrictions
+The Reseller undertakes to the Company that he or she will not do:
+(a)	any one or more of the following, either personally or through any employee or agent:
+(i)	be concerned or interested either directly or indirectly in any business which is, or is about to be, in competition with the Company in relation to any subject which is or includes Confidential Information under this Agreement;
+(ii)	on his or her own account or for any person, solicit, entice or attempt to entice away from the Company any customer of the Company;
+(iii)	on his or her own account or for any person, solicit, entice or attempt to entice away from the Company any employee or Reseller of the Company;
+(b)	during the Term and for:
+(i)	3 months after the termination of this Agreement under Clause 9;
+(ii)	6 months after the termination of this Agreement under Clause 9; or
+(iii)	12 months after the termination of this Agreement under Clause 9,
+(c)	within
+	Australia where the Company carries on business.
+9. Termination
+9.1	The Reseller's right to terminate
+(a)	The re-seller may terminate this Agreement by giving the Company not less than 14 days' notice in writing.
+(b)	The Reseller may terminate this Agreement on two days' written notice if:
+(i)	the Company has committed a material breach of this Agreement; and
+(ii)	the Reseller has previously notified the Company of the breach in writing; and
+(iii)	the Company has not remedied the breach within 14 days of that notice.
+10. The Company's rights to terminate
+(a)	The Company may terminate this Agreement by giving to the Reseller five days' notice in writing.
+(b)	The Company may terminate this Agreement on two days' written notice if:
+(i)	the Reseller has committed a material breach of this Agreement; and
+(ii)	the Company has previously notified the Reseller of the breach in writing; and
+(iii)	the Reseller has not remedied the breach within 14 days of that notice.
+(c)	The Company may terminate summarily this Agreement if the Reseller:
+(i)	commits a serious or persistent breach of any of the terms or conditions of this Agreement;
+(ii)	commits any grossly negligent act in connection with the performance of his or her duties and obligations under this Agreement;
+(iii)	commits any wrongful or dishonest act or engages in any conduct which, in the reasonable opinion of the Company, brings the Company into disrepute;
+(iv)	commits any other act which would by law entitle the Company to terminate this Agreement summarily; or
+(v)	is adjudicated bankrupt or makes any composition with his or her creditors.
+
+
+11. Consequences of termination
+On termination of this Agreement by any means:
+(a)	the Reseller will not be entitled to any compensation, damages or remedy other than the giving of notice payment in lieu of notice; and
+12. Notices
+Any notice, demand, consent or other communication (the Notice) given or made under this Agreement:
+(a)	must be in writing and signed by a person duly authorised by the sender;
+(b)	must be delivered to the intended recipient by prepaid post (if posted to an address in another country, by registered airmail) or by hand or fax to the address or fax number below or the address or fax number last notified by the intended recipient to the sender:
+(c)	to the Company: SimCast Media Pty. Ltd. 
+13. Entire agreement
+This Agreement contains the entire agreement between the parties with respect to its subject matter and supersedes all prior agreements & understandings between the parties in connection with it.
+14. Amendment
+No amendment or variation of this Agreement is valid or binding on a party unless made in writing executed by all parties.
+
+
+
+
+
+
+
+Signed by ("Re-seller") in the presence of: 	Signed by SimCast Media Pty. Ltd. in the presence of:
+
+
+___________________________________________			
+Signature		Signature
+
+
+___________________________________________			
+Name		Name
+
+
+___________________________________________			
+Position		Position
+
+
+___________________________________________			
+Witness Signature		Witness Signature
+
+
+___________________________________________			
+Witness Name		Witness Name
+
+
+
+			1.
+

@@ -1,0 +1,213 @@
+Blurz Pty Ltd (Blurz)
+
+Blurz Application Agreement
+
+Schedule
+
+This is the schedule referred to in the following Blurz Application Agreement and which forms part of the Blurz Application Agreement.
+
+Customer 
+
+Company:
+Address: 
+Contact Name:
+Contact Email:  
+Website name: 
+
+Application:
+
+Blurz Video 
+
+Services:
+
+The Services to be provided include the following:
+
+Hosting: Blurz will host the Application and make it available on the Customer's website.
+
+Support services: Blurz will provide support services to the Customer's personnel in relation to the use of the Application as set out in the Service Level Agreement and as agreed in writing between the Customer and Blurz from time to time.
+
+Update services: Blurz will provide regular updates of the Application as they become available to users of the Application. The updates will incorporate enhancements to the Application provided from time to time.
+
+Term:
+
+The term of the Licence and for the provision of the Services from the date of execution of this agreement is
+
+Contract Period                       6 months                    12 months                   24 months                 36 months           
+(Select one period)
+
+The parties may by agreement in writing extend the term.
+
+Payment:
+
+The Customer will pay the following amounts to Blurz (all amounts are inclusive of GST) commencing on the date of execution of this agreement: (Select one option)
+
+$0 per month. Blurz and the Customer will share the revenue generated from advertising (after deduction of advertising agency and other costs incurred) where users access the Application through the Customer's website.
+
+OR
+
+       $99 per month payable monthly in advance 
+
+
+The Customer also acknowledges that the content provided by users of the Customer's website will be made available to Blurz for inclusion on the Blurz website in accordance with the Blurz Application End User Agreement. Personal information of users will be provided to Blurz at the time that the user registers to use the Blurz Application pursuant to the End User Agreement.
+
+
+
+
+
+Blurz Application Agreement
+Terms and Conditions
+
+These are the terms and conditions on which Blurz: (a) provides the Blurz Application to the Customer; and (c) provides any support and other services to the Customer. 
+
+1. Definitions
+Customer means Blurz's customer as identified in the schedule.
+
+Application means the Blurz application to be supplied by Blurz to the Customer under this agreement as identified in the schedule and described in the Documentation and includes any improvement, update, version or adaptation of the Application provided by Blurz pursuant to this agreement. 
+
+Documentation means the Blurz documentation for the Application to be supplied to the Customer under this agreement as identified in the schedule including any user manuals and guides provided with the Application. 
+
+End User Agreement means the agreement between Blurz and the end user relating to the use of the Application on the Customer's website by the end user. 
+
+Licence means the licence to use the Application and Documentation set out in this agreement.
+
+Services means any support or other services to be provided by Blurz to the Customer as identified in the schedule or as agreed in writing between Blurz and the Customer.
+
+Term means the term set out in the schedule and any extension to the term agreed in writing between Blurz and the Customer.
+
+2. Supply 
+The Application and Documentation are supplied to the Customer on the terms of this agreement. These terms apply to any additional or enhanced Application, or any modified Application, and Documentation supplied at any time by Blurz.
+3. Services
+Blurz agrees to provide the Services for the Term. Any Services provided to the Customer will be provided on the terms of this agreement. These terms apply to any additional Services supplied at any time by Blurz. Blurz may subcontract the provision of the Services.
+4. Licence
+Blurz grants to the Customer a non-transferable, non-exclusive licence to make the Application available on the Customer's website. The licence is for the Term, subject to payment of any renewal fees or termination of this agreement.
+5. Payment
+The Customer will pay for the Application, Documentation, Services and Licence as specified in the schedule. Blurz will pay the Customer's share of the revenue generated from advertising within 30 days of receipt of payment to Blurz.
+6. Intellectual property
+Blurz retains ownership of all intellectual property rights in the Application and Documentation including (without limitation) the copyright in any Application and Documentation and in any improvement, update, version or adaptation of the Application or Documentation made in providing the Services or otherwise and whether made by Blurz, the Customer or any other person. The Customer will not remove any notices regarding the ownership of intellectual property from the Application or Documentation.
+7. Ownership of Application
+The Customer may not copy or publish or communicate the Application or the Documentation in whole or in part, except as permitted in writing by Blurz. The Customer will not attempt to access, reverse engineer, decompile or disassemble the Application, or permit any other party to do any such act. Each of the above terms is subject to the Customer's rights under Division 4A of the Copyright Act. The Customer must not disable or attempt to disable any device installed in the Application or elsewhere which controls its use, including (without limitation) any device which prevents copying of any material communicated using the Application.
+8. Software and source code
+Blurz retains ownership of the software and source code of the Application which will not be delivered to the Customer. The Customer is not entitled to obtain a copy of the software or source code or otherwise access the software or source code. 
+9. Non-disclosure
+The Customer will take all reasonable steps necessary to ensure that the Application or Documentation or any part of it, is not made available by the Customer, or by any of its employees, agents or sub-contractors, to any other organisations or individuals, except as permitted under this agreement. 
+10. Assignment
+The Licence is personal to the Customer and the Customer must not sell or sub-license or assign the Licence to any other person (or purport to do any of the said acts).
+11. Warranties
+Blurz warrants that the Application will perform substantially in accordance with the Documentation. 
+Blurz warrants that the Services will be provided with reasonable care and skill.
+To the extent permitted by law, Blurz does not warrant that the Application is error free or that the Application will be available for use at all times. The Customer acknowledges that the Application may contain errors which may affect the operation of the Application and the results or data generated by the Application. The Customer accepts that, to the extent permitted by law, Blurz accepts no liability for any errors arising out of the use or performance of the Application or the data, results or other information generated by the Application.
+12. No other warranties
+Except as set out in clause 11 above or where implied by law, Blurz gives no other warranty and makes no representation or undertaking in relation to the Application, Documentation or Services, or their performance or suitability for any purpose. Except to the extent that any law or statute prohibits the exclusion of any condition or warranty, all other conditions or warranties are excluded. All implied terms, conditions and warranties in any Sale of Goods legislation are excluded.
+13. Non-excludable rights
+Where any law or statute implies a term into this agreement, or confers a right or remedy, which cannot be excluded, the liability of Blurz is limited to the maximum extent allowed under the applicable law or statute.
+14. Remedy for breach of warranty
+Blurz's liability and the Customer's remedy for breach of any express warranty, or warranty or right implied or conferred by law, is limited to, at Blurz's option, one or more of: 
+In the case of any goods: (a) replacement of the goods; (b) correction or repair of the goods; (c) payment of the cost of replacing the goods or acquiring equivalent goods; or (d) payment of the cost of repairing or correcting the goods.
+In the case of any services: (a) supplying the services again; or (b) payment of the cost of having the services supplied again.
+15. Liability
+Except as expressly provided elsewhere in this agreement, Blurz will be under no liability to the Customer (whether for breach of contract, negligence, breach of any intellectual property right or otherwise) and liability is excluded in respect of any loss or damage which may be suffered or incurred by the Customer or which may arise directly or indirectly in respect of the supply or use of the Application or Documentation or provision of the Services under this agreement. 
+16. Consequential loss
+Without limiting the generality of clause 15 above, Blurz will be under no liability to the Customer (whether for breach of contract, negligence, breach of any intellectual property right or otherwise) for any special, incidental, indirect, or consequential damages whatsoever (including, without limitation, damages for loss of business or profits, loss resulting from business interruption, loss of business information, loss resulting from any claim by any third party or any other pecuniary loss) arising out of the supply of the Application or Documentation or any use of the Application or Documentation supplied or the provision of the Services, even if Blurz has been advised of the possibility of such damages.
+17. Intellectual property and other claims
+Without limiting the generality of clause 15 above, Blurz will be under no liability to the Customer (whether for breach of contract, negligence, breach of any intellectual property right or otherwise) for any claim brought against the Customer alleging that any material communicated by use of the Application infringes any third party's intellectual property rights or otherwise gives rise to a claim against the Customer by any third party (whether for defamation or any other act or omission of a user in breach of the End User Agreement).
+18. Indemnity
+The Customer will indemnify Blurz and keep Blurz indemnified for any loss or damage suffered by Blurz arising out of a breach of this agreement by the Customer. A reference in this clause to Blurz includes its directors, employees, agents and contractors.
+19. Co-operation and Access 
+The Customer will provide any access, co-operation and assistance reasonably required by Blurz for the purpose of the provision of the Services including (without limitation) the matters specified in the Schedule. 
+The Customer will provide full and safe access to the Customer's premises or other facilities as is reasonably required by Blurz for the purpose of providing the Services including (without limitation): (a) providing any necessary equipment, materials and information to Blurz; (b) providing all facilities, services and accessories reasonably required to enable Blurz to comply with its obligations; (c) providing Blurz, if requested, a suitably qualified or informed representative, agent or employee to accompany Blurz and to advise Blurz on project requirements, access, security procedures and any other matter within the Customer's knowledge or control which will assist Blurz in complying with its obligations.
+The Customer will take all reasonable steps to ensure the health and safety of all Blurz employees or contractors while they are on the Customer's premises to ensure that any equipment provided to such employees and contractors under this agreement is electronically safe for use by such employees and contractors.
+20. End User Agreement
+All use of the Application and uploading or communication of material by end users will be governed by the End User Agreement which end users will be required to agree to before being able to access or use the Application. The Customer must not permit any end user to access or use the Application without the end user first agreeing to the End User Agreement.
+21. Termination
+Blurz may terminate this agreement with immediate affect, including the Licence granted to the Customer, by giving notice to the Customer if: (a) the Customer is in breach of this agreement and fails to remedy the breach within 30 days of receipt of written notice of the breach; (b) the Customer fails to pay any amount due to Blurz within 14 days of receiving a written demand for payment; (b) the Customer is subject to any application for winding up or liquidation, or for the appointment of a receiver or manager, or is subject to any other form of insolvency administration. If this agreement is terminated, the Customer must immediately stop using the Application and Documentation and delete the Application (or any part of it) from its computer systems. On termination all payments due to Blurz must be made within 14 days.
+22. Confidentiality
+Each party will keep confidential any confidential information belonging to the other party disclosed pursuant to this agreement. Confidential information belonging to Blurz includes the unpublished content and methodology of the Application, Blurz's dealings with the Customer and any other information relating to the business, operations or products of Blurz, other than information in the public domain or information which subsequently enters the public domain (except as a result of a breach of this agreement).
+23. Severance
+If any term or part of this agreement is, or becomes, for any reason invalid or unenforceable at law, that term or part of this agreement will be and is hereby deemed to be severed from this agreement without affecting the remainder of this agreement and the remainder of this agreement will continue to be valid and enforceable.
+24. Amendment
+This agreement may only be amended, varied or replaced by a document duly signed by or on behalf of the parties.
+25. Entire agreement
+This agreement constitutes the entire agreement between the parties in respect of the supply of the Application and Documentation. This agreement supersedes all prior representations, warranties, agreements, understandings, negotiations and discussions whether oral or written, express or implied, collateral or otherwise, by or between the parties pertaining to the subject matter of this agreement.
+26. Force majeure
+A party will not be liable to the other for any delay or failure to perform its obligations under this agreement by reason of any circumstances beyond its reasonable control.
+27. Governing law and jurisdiction
+This agreement is governed by and is to be construed in accordance with the laws of Western Australia. Each party irrevocably and unconditionally submits to the non-exclusive jurisdiction of the courts of Western Australia.
+
+The parties agree to the above terms.
+
+
+________________________________________________________
+Signed by                         as an authorised representative of
+Blurz Pty Ltd
+Dated:
+
+
+
+________________________________________________________
+Signed by                         as an authorised representative of 
+[Customer]
+Dated:
+
+ 
+Service Level Agreement
+
+The purpose of the Services is to ensure that the Application accessed through the Customer's website operates properly and that inappropriate content is removed at the request of the Customer. 
+
+Blurz will provide the support services in accordance with the following:
+1.	Service Hours of Operation
+Unless otherwise specified, the standard hours of operation for service and support are:
+	Monday to Friday:			                  09:00 to 17:00		(WST)
+	Saturday, Sunday/National/WA Public Holidays:	09:00 to 14:00		(WST)
+	 
+2.	Out of hours service arrangements
+[Requests for service outside the Service Hours of Operation will be dealt with on the next day and deemed to have been received at 09.00 on that day.
+
+3.	 Purpose of the Help Desk
+The Help Desk is the standard first point of contact for the Customer's staff to contact Blurz.  It should be used to:
+* report any faults encountered with the Application so that Blurz can investigate and resolve them
+* request removal of inappropriate material
+* make comments or suggestions about improving the Application or Services delivery
+
+4.	Contacting the Help Desk
+The Help Desk can be contacted in a variety of ways:
+Telephone: to be advised
+Email:	admin@blurz.com
+
+5.	Information required by the Help Desk
+To assist the Help Desk in resolving a fault or answering a query, the Customer's staff will supply the following information:
+* name & telephone number;
+* details of the fault, inappropriate material or other matter reported to Blurz
+* in the case of a fault in the Application, an impact code and a brief assessment of the impact of any fault.
+The Help Desk will log each fault, query or other service request as an incident on the help desk system so that it can be tracked through to resolution.  
+
+ 6.	Impacts - Functionality
+Every fault reported will have a business impact code allocated to it by Blurz after consultation with the Customer.  The five business impact codes are as follows:
+Level 1  An incident that requires immediate attention because it involves the complete loss of function of the Application.
+Level 2  Significant loss of functionality of the Application.
+Level 3 Minor loss of functionality of the Application. 
+
+7.	Target Resolution Times for Incidents
+Incidents resolved by service provider
+Blurz will use all reasonable efforts to resolve the faults within the following times:
+
+Impact Code		Target Resolution Time
+Level 1	Telephone support within 1hour of call placed and problem resolved within 8 hours elapsed time.
+Level 2	Telephone support within 2 hours of call placed and problem resolved within 2 working days
+Level 3	Problem resolved within 5 working days
+All time intervals start from the time that the Customer notifies the Help Desk.
+ 
+8.	Inappropriate material
+Where the Customer wishes to remove any material made available by the Application on the Customer's website, the Customer will immediately notify Blurz. Blurz will remove the material such that it can no longer be accessed on the Customer's website. Blurz may at its discretion retain the material on the Blurz website.
+
+9.	Complaints
+If the Customer is not satisfied with the service that is provided, the Customer will notify Blurz and provide details of the nature of the complaint.
+
+
+
+
+
+
+
+2
+
+

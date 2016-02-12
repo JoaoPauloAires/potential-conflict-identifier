@@ -1,0 +1,218 @@
+LICENCE AGREEMENT
+TimeMap(r) 
+Trademark & Computer Software
+
+www.timemap.net
+
+
+THIS AGREEMENT is made the <date of download of software> 
+
+
+BETWEEN	THE UNIVERSITY OF SYDNEY a body corporate established pursuant to the University of Sydney Act 1989 of Sydney in the State of New South Wales 2006 (hereinafter referred to as "the University")
+
+AND				The person downloading the software	(The Licensee)
+
+
+WHEREAS:
+
+A.	The University is the owner of the Intellectual Property.
+
+B.	The Licensee wishes to obtain a licence from the University to use the Intellectual Property for the purposes set forth in this Agreement.
+
+
+1.	DEFINITIONS
+
+	In this Agreement, except insofar as the context or subject matter otherwise indicates or requires, the following terms and expressions shall have the following meanings:
+
+	"Agreement" means this Agreement and the Schedules hereto.
+
+	"Intellectual Property" means the trade mark, patents, copyrights, know-how, registered designs or other like rights particulars.
+
+	"Licence Fee" means the fee payable to the University for licensing the Licensee to use the Intellectual Property, which fees are set forth in Schedule 4.
+
+	"Licensed Product" means the TimeMap(r) computer software and Intellectual Property. including, but not restricted to, the computer software set forth in Schedule 1. No use of the Trademark unless approved by the University of Sydney
+
+	"Parties" means each of the University and the Licensee and "Party" means either one of them as the context requires.
+
+	"Products" includes technologies, devices, or techniques.
+
+
+
+
+
+
+2.	GRANT
+
+2.1	The University hereby grants to the Licensee a non-transferable and non-exclusive licence to copy and use the Licensed Product described in Schedule 1 under the terms and conditions contained in this Agreement.
+
+2.2	The Licensee shall have the right to use the Licensed Product on any computer listed in Schedule 2. The Licensee may copy the Licensed Product only for the purpose of using the program on the computer(s) listed in Schedule 2 or for archive purposes.  Any part of the Licensed Product included in a modified work shall remain subject to all terms and conditions of this Agreement.  The Licensee may copy the supplied documentation for internal purposes only. 
+
+2.3	The Licensee shall have the right to use the Licensed Product for testing, personal and demonstration applications only unless additional uses are specifically listed in Schedule 3. Use of the Licensed Product in a production environment, including but not limited to: institutional web pages; public displays; applications accessible beyond the licensed location, institution or work group; subscription services or commercial applications; is specifically excluded unless listed in Schedule 3 or subsequently authorised by the University.
+
+2.4	In the event of the Licensee selling or disposing of the licensed computer(s), the Licensee must delete all copies of the Licence Product from those computers and, the University will have the right to terminate the Licensing Agreement for those computer(s).  Where the Licensee replaces an existing licensed computer with another computer, then the licence may be transferred free of cost provided the replacement computer(s) continue to fulfil the same role within the organisation. If the replacement computer(s) fulfil a different role, including but not limited to serving an increased number of users or becoming more widely accessible through an Intranet or on the Internet, the Licensee shall advise the University in writing of the change.
+
+
+3.	LICENCE FEE & ANNUAL MAINTENANCE UPDATE FEE
+
+3.1	The Licensee shall pay to the University the Licence Fee stipulated in Schedule 4 and in addition the Licensee shall meet all applicable taxes thereon including GST, such payment being solely for the right to use the Licensed Product pursuant to these terms and conditions and does not constitute the purchase of the Licensed Product, nor the grant of any other right or title to the Licensed Product.
+
+3.2	Payment of the annual maintenance fee specified in Schedule 4 shall entitle the Licensee to 	download updates of the Licensed Product (including any new features developed) from the 	TimeMap web site, for a period of 1 year from the due date specified in Schedule 4.
+
+3.3	Any Licence fee payable under this Agreement shall be paid either by cheque written out to "The 	University of Sydney ", by credit card authorisation, or electronic transfer directed 	into the 	University's nominated bank 	account, quoting "BLO Ref. No. 1127 - TimeMap".
+		
+		Bank Account Name:	The University of Sydney 
+		Bank Account Number: 50 944 8377
+		Name of Bank:		National Australia Bank (NAB)
+		BSB:				082 369
+		Swift code:			NATAAU3302S
+		Address of Bank:		Science Road, University of Sydney 2006.
+4.	TERM
+
+	This Agreement shall remain in force until the Licensee discontinues the use of the software or until terminated in accordance with Clause 7.
+
+5	TERRITORY
+
+	Worldwide.
+
+6.	COPIES
+
+6.1	The Licensee agrees to reproduce and include the University's copyright notice on all copies of the Licensed Product produced under Clause 1.2 above, or any modification thereof in any form, and the Licensee hereby unreservedly assigns all Intellectual Property rights to the University in any such modifications.
+
+6.2	Upon termination of the licence herein granted, the Licensee shall certify to the University in writing that all copies of the Licensed Product in whatever form in its possession or under its control have been destroyed and the Licensee hereby authorises the University to attend premises where same were kept and to verify such destruction.  On termination the Licensee shall warrant in writing that it is not in breach of this clause.  Any right to damages shall not be prejudiced by termination.
+
+7.	SECURITY
+
+7.1	The Licensee agrees not to disclose, provide or otherwise make available the Licensed Product or any portion thereof in any form whatsoever to any person other than the University or other Licensed Product licence holders, without written approval of the University.
+
+7.2	The Licensee will take all reasonable steps necessary to ensure that no unauthorised copies or uses are made of the Licensed Product.
+
+7.3	The Licensee agrees to advise the University immediately it discovers any unauthorised copies or uses of the Licensed Product.
+
+
+8.	TITLE AND WARRANTY
+
+8.1	Title to and ownership of the Licensed Product including all Intellectual Property rights shall at all times remain with the University.
+
+8.2	The University will not be responsible for the correcting of any bugs or deficiencies found by the Licensee.  However, the University may, at its own discretion, provide to the Licensee updated copies of the software for download from the TimeMap web site (http://www.timemap.net)
+	.Such updated copies of the software shall be restricted to fixes of bugs or deficiencies in the software. Major new releases of the software are not covered by this clause and may at the University's option be marketed as new products except as provided by clause 3.2.  The decision as to what constitutes a correction of a bug or deficiency as opposed to increased functionality shall be the sole judgement of the University.
+
+8.3	The Licensed Product is being supplied by the University at the request of the Licensee. It is acknowledged and agreed by the parties that:
+
+(a)	the University does not have any detailed knowledge or understanding of the Licensee's needs, obligations and business;
+
+(b)	no warranty or undertaking is made by the University that the Licensed Product will be suitable for or assist the Licensee in its operations or be compatible with the Licensee's equipment;
+
+(c)	to the extent permitted by any Federal or State Laws, all warranties including any express or implied warranties of merchantability or of fitness for a particular purpose are hereby excluded.  The University shall not be liable in contract, tort or otherwise to the Licensee for any special, indirect, consequential or other damages in any way resulting from or arising out of the use of the Licensed Product.
+
+(d)	in the event that any conditions or warranties implied by the Trade Practices Act, 1974 (as amended) (hereinafter referred to as "the Act") apply to the use of the Licensed Product by the Licensee, the liability of the University for breach of any such conditions or warranties (other than a condition or warranty implied by section 69 of the Act) shall be limited to:
+
+(i)	in the case of goods, either:
+
+(a)	the replacement of the goods or the supply of equivalent goods; or
+
+(b)	the repair of the goods;
+
+whichever the University in its absolute discretion shall think fit; and
+
+(ii)	in the case of services, the supplying of the services again.
+
+8.4	It is further acknowledged that the University is not and shall not be required to provide any back up, support or further information to the Licensee, unless specifically negotiated over and above the provision of the Agreement.
+
+
+9.	TERMINATION
+
+	In the event the Licensee neglects or fails to perform or observe any of its obligations under this Agreement, the licence granted hereunder to the Licensee shall immediately terminate.
+
+
+10.	GENERAL
+
+10.1	Assignment
+	This Agreement, the licence granted hereunder and the Licensed Product may not be assigned, sub-licensed or otherwise transferred by the Licensee without prior written consent of the University.  The University shall have the right to appoint a nominee to inspect the books and records of the Licensee to determine any unauthorised transfer.
+
+10.2	Applicable Law
+	This Agreement shall be governed by the laws of the State of New South Wales and all applicable laws of the Commonwealth of Australia.  The parties agree to submit to the jurisdiction of the Courts of New South Wales.
+
+10.3	Conciliation
+	Any dispute or controversy arising out of or in relation to this Agreement shall be referred to the Australian Commercial Disputes Centre.
+
+10.4	Severability
+	Should any provision of this Agreement be held by a Court to be unlawful, invalid, unenforceable or in conflict with any rule of law, statute, ordinance or regulation, the validity and enforceability of the remaining provisions shall not be thereby affected.
+
+10.5	The Licensee agrees to acknowledge use of the Licensed Product through a copyright notice and hyperlink to the TimeMap web site (http://www.timemap.net) displayed within the applet space or in the embedding web page adjacent to the applet, following the guidelines published on the TimeMap web site, and in any published materials describing applications developed with the Licensed product.
+
+
+
+EXECUTED by the Parties as an Agreement on the date first appearing:
+
+
+SIGNED for and on behalf of the THE UNIVERSITY OF SYDNEY by an authorised delegate in the presence of:
+)
+)
+)
+)
+
+Delegate Name (printed).................................................
+Title:..................................................................Witness Name (printed)
+
+
+SIGNED for and on behalf of the              by an authorised delegate in the presence of:
+)
+)
+)
+)
+
+Delegate Name (printed).................................................
+Title:..................................................................Witness Name (printed)
+
+
+
+SCHEDULE 1
+Licensed Product 
+Clause 1
+
+TimeMap(r) - compiled program and supporting files as listed below. TimeMap (http://www.timemap.net) is a methodology for recording time-stamped spatial data and delivering it through distributed servers, time-enabled maps and map animations.
+
+Any or all of:
+
+1. TMJava applet
+2. TMJava servlets 
+3. TMWin program
+4. TMGeoReg program
+5. TMLocate program
+
+
+SCHEDULE 2
+Licensed Computer Systems 
+Clause 2.4
+
+Choose one of the following options
+
+1. Single copy licences: 
+Specific computer systems(s) as follows:
+Make/Model:.........................................................................................................
+S/N:....................................................................................................................
+Host Name (for servers):.........................................................................................
+
+2. Site licence:
+Computer location, organisation, or work group: Any computer belonging to the licensee
+Designation of site:.................................................................................................
+
+
+SCHEDULE 3
+Additional Uses 
+Clause 2.3
+
+Specify additional permissible product use ( uses which do not fall within testing, personal or  demonstration use) 
+
+None, unless individually negotiated 
+
+SCHEDULE 4
+Licence Fee & Annual Maintenance Update Fee
+Clause 3
+
+1.	Licence Fee:	$ <To be negotiated>Payable on the date of execution of this Agreement
+2.	Annual Maintenance Update Fee: $<To be negotiated> payable on the anniversary of the date of 		execution of this Agreement
+
+
+
+

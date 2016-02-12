@@ -1,0 +1,90 @@
+Licence agreement and registration for
+Spectrum licensing RadDEM and datasets
+on CD-ROM database
+
+Spectrum map grid, roads mobile list, towns mobile list and effective site height tables
+
+Instruction for completion
+
+
+
+Licence details
+
+
+Product:	
+Spectrum Licensing RadDEM and Spectrum Licensing Datasets comprising: spectrum map grid, roads mobile list, towns mobile list and effective site height tables and effective site height tables on CD-ROM, Second Edition September 1997.
+
+Name of user (organisation)
+
+Postal address
+POSTCODE
+
+Contact person
+SURNAMEGIVEN NAMES
+Contact details
+HOME (           )WORK (           )MOBILEFAX
+
+
+SA
+Signature
+You acknowledge that upon Our acceptance of Your offer, an agreement shall be formed which incorporates the terms and conditions set out overleaf. This licence shall commence on the date the Product is delivered to you.
+
+Signature (on behalf of user)
+SIGNATUREPRINT NAMEDATESignature of witness
+PRINT NAMEDATE
+INTERPRETATION
+'Agreement' means the contract between Us and You constituted in the manner described above.
+'Derivative', in relation to the Product, means any copy of the Product or a substantial part of the Product, or any version of, merged form of, or other Material created from or based on, the Product, whether or not amounting to a reproduction of the Product within the meaning of the Copyright Act 1968.
+'Exploit', in relation to the Product, means to manufacture, sell, hire, distribute, give away, or otherwise commercialise a product or process, or to provide a service, incorporating the Product.
+'Fee' means the fee referred to in the Licence Details above and paid by You to Us prior to delivery of the Product.
+'Intellectual Property' includes all copyright and neighbouring rights, all rights in Property' relation to inventions (including patent rights), plant varieties, registered and unregistered trademarks (including service marks), registered designs, confidential information (including trade secrets and know how) and circuit layouts, and all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields.
+'Licence' means the licence granted under clause 3.
+'Material' includes documents, equipment or goods and any medium whatsoever in which information is embodied.
+'Product' means the product referred to in the Licence Details above.
+'We', 'Our' or 'Us', mean the Australian Communications and Media Authority, a body corporate continued in existence under section 18 of the Australian Communications and Media Authority Act 2005.
+'You' or 'Your', as the case requires, refers to the user specified in the Licence Details above.
+INTELLECTUAL PROPERTY
+2.1	Intellectual Property in the Product is retained by Us Intellectual Property in any Derivative vests in Us from the date of its creation.
+2.2	All rights in the Product and any Derivative are reserved, and You may not make copies of the Product or any part of the Product, or a Derivative, or any part of a Derivative, except as expressly provided in this Licence.
+2.3	We warrant that We have the right to grant this Licence.
+LICENCE
+3.1	We grant You a non-transferable, non-exclusive Licence to use the Product personally or for the internal purposes of Your organisation (as the case may be), and in addition, for the purposes described in clauses 3.3 and 3.4.
+3.2	This Licence entitles You to use, reproduce and adapt the Product, including the right to incorporate the Product in an electronic information retrieval system or in any other software product, to merge the Product with other Material and to develop Derivatives.
+3.3	This Licence entitles You to use, reproduce and adapt the Product or any Derivative (including supplying extracts from the Product or any Derivative to third parties), for the purpose of providing radiocommunications engineering consultancy services (including but not limited to services related to the registration of devices under s.145 of the Radiocommunications Act 1992), to Your clients. You may reproduce the Spectrum Map Grid component of this Product in full for the purposes of providing such services.
+3.4	This Licence entitles you to reproduce and distribute this Product or any Derivative to third parties in conjunction with and as an integral part of an original radiocommunications software product that You have developed ('Your software product') provided You:
+(a)	include the edition number and date of the Product in Your software product in order to identify which edition of the Product is included;
+(b)	incorporate the copyright notice of the Commonwealth of Australia in Your software product and associated packaging, to indicate ownership of copyright in the Product or any Derivative Material, except where physically or technically impossible;
+(c)	do not use the name, logo or trade mark of the Commonwealth of Australia or the Australian Communications and Media Authority in conjunction with the software product incorporating the Product or any Derivative, except in a copyright notice included under subparagraph (a), or otherwise with Our prior written consent;
+(d)	bring to the attention of any intending purchaser and users of any software product incorporating the Product or any Derivative, the terms of the Disclaimer included in this Licence Agreement; and
+(e)	indemnify the Commonwealth of Australia from and against any claims, loss or damage, that arise or result from the use or distribution of this Product or any Derivative in conjunction with Your radiocommunications software product.
+3.5	Except as expressly permitted under clause 3.3 and 3.4, this Licence does not permit You to Exploit the Product or to supply the Product to any third party.
+3.6	Except as expressly permitted by clause 3.3 and 3.4, You agree to treat the Product as private and confidential to You.
+3.7	In this clause 3, any act done in relation to a Derivative shall be deemed to be done in relation to the Product.
+3.8	You undertake to retain the original copyright notice appearing on the Product as supplied to You, and to use the same on or in relation to any copy or Derivative of the Product which might be created by You. This undertaking does not apply in relation to a report to a client prepared under clause 3.3.
+DURATION OF LICENCE
+4.1	This Licence takes effect from the commencement of the Agreement, and continues indefinitely until terminated in accordance with this clause 4.
+4.2	We may terminate this Licence immediately by notice in writing to You in the event of Your breach of any term or condition of the Agreement.
+4.3	You may terminate this Licence at any time upon giving 1 month's notice to Us.
+4.4	On termination of this Licence, You agree to destroy all copies of the Product, and (at Our discretion) all Derivatives of the Product, in Your possession or control. You also agree to forward to Us a certificate that these products have been destroyed. These obligations do not apply in respect of reports prepared in accordance with clause 3.4.
+DISCLAIMER
+5.1	The information contained in the Product should not be acted upon in any particular matter or circumstance without seeking appropriate professional advice on that matter or circumstance.
+5.2	Although You are entitled to use and rely on the Product for the purposes of the Radiocommunications (Unacceptable Levels of Interference) Determination No. 1 of 1996:
+(a)	We do not warrant the accuracy of the information in the Product; and
+(b)	We do not accept responsibility for any actions taken as a consequence of the information provided in the Product.
+5.3	You acknowledge and agree that You have been advised by Us that:
+(a)	The data in this Product has been prepared by Us specifically for use in conjunction with the Radiocommunications (Unacceptable Levels of Interference) Determination No. 1 of 1996 and other determinations made under s 145 of the Radiocommunications Act 1992; and
+(b)	The data comprised in the effective site height data component of the Product has been derived from the RadDEM referred to in the Radiocommunications (Unacceptable Levels of Interference) Determination No. 1 of 1996, and has been biased and tailored to the objectives of that Determination which may make it unsuitable for use in other applications.
+5.4	To the maximum extent permitted by applicable legislation, any conditions or warranties imposed by law are hereby excluded. Insofar as liability under any legislation may not be excluded, such liability is limited to replacement of the Product or correction of defects in the Product, at Our option. In no event shall We be liable for any loss, damage or injury whatsoever (including indirect or consequential loss, damage or injury, loss of profits, business interruption, or other pecuniary loss) arising out of the use or inability to use this Product.
+GENERAL
+6.1	This Agreement represents our entire understanding and agreement regarding the Product and supersedes any inconsistent prior proposal representation or agreement, written or oral. You agree that any document which You attach to this Agreement will have no binding effect, legally or otherwise, unless that document is signed by both You and Us.
+6.2	Failure or delay by Us in enforcing any provision of this Agreement does not mean that We no longer regard that provision as binding. A waiver by Us of a provision of this Agreement shall not constitute a waiver of any other breach of this Agreement.
+6.3	You may not assign, either in whole or in part, the benefit or burden of this Agreement without Our prior written consent.
+6.4	If any provision of this Agreement is unlawful, void, or for any reason unenforceable, it shall be deemed severable from, and shall in no way affect the validity or enforceability of, the remaining provisions of this Agreement.
+6.5	This Agreement shall be governed by, and construed in accordance with, the laws of the Australian Capital Territory and the parties agree to submit exclusively to the jurisdiction of the courts of that Territory.
+6.4	If any provision of this Agreement is unlawful, void, or for any reason unenforceable, it shall be deemed severable from, and shall in no way affect the validity or enforceability of, the remaining provisions of this Agreement.
+6.5	This Agreement shall be governed by, and construed in accordance with, the laws of the Australian Capital Territory and the parties agree to submit exclusively to the jurisdiction of the courts of that Territory.
+NOTICES
+7.1	All notices, requests or other communications arising under this Agreement shall be in writing and shall be delivered or transmitted by facsimile to the recipient at the address for it stated at the commencement of this document, or at any substitute address which may be notified from time to time.
+
+ACMA form - R134	Page 1 of 2	June 2009
+

@@ -1,0 +1,364 @@
+Longitudinal Surveys, General Release Datasets Individual Deed of Licence for Australian Researchers other than Academic and Government Researchers 
+The Commonwealth of Australia as represented by the Department of Families, Housing, Community Services and Indigenous Affairs
+
+Name of Researcher [insert name]..........................................
+
+Table of contents
+Parties	2
+Background	2
+Operative provisions	2
+1.	Definitions and interpretation	2
+2	Term of the Deed	5
+3	Licence	5
+4	Licence Fee	5
+5	Restrictions on use of the Dataset	5
+6	FaHCSIA responsibility for the Dataset	6
+7	Provision of the Dataset	6
+8	Security	6
+9	User support	8
+10	Non-disclosure	8
+11	Disclosure as required by law	9
+12	Intellectual Property	9
+13	Acknowledgement and Disclaimer	10
+14	Privacy	11
+15	Conflict of interest	12
+16	Legal requirements	12
+17	Indemnity	12
+18	Applicable law	13
+19	No exclusion	13
+20	Dispute resolution	13
+21	Termination of Deed	13
+22	Notices	13
+23	Miscellaneous	14
+Execution	16
+
+
+Parties
+The Commonwealth of Australia as represented by the Department of Families, Housing, Community Services and Indigenous Affairs (FaHCSIA)
+Name of researcher (Licensee):	.......................................................................
+Position of researcher:		.......................................................................
+Organisation:			              .................................................................
+
+FOR USE OF THE FOLLOWING DATASET(S) 
+[Indicate the longitudinal survey(s) that you are applying for]
+HILDA (General Release) Release 7	Y / N
+LSAC (General Release) Release 3.0	Y / N
+LSIC (General Release) Release 1.0	Y / N
+Background
+
+A. The Licensee wishes to use a FaHCSIA General Release dataset (Dataset) for a specific research project that is to be conducted by the Licensee and is of interest to FaHCSIA in meeting its strategic priorities.  
+B. The Commonwealth of Australia through FaHCSIA offers to provide the Dataset to the Licensee on the terms set out in this Deed and the Licensee accepts the terms. 
+Operative provisions
+1. Definitions and interpretation
+Definitions
+1.1 In the Deed the following definitions apply:
+Approved Research means the research project(s) in relation to which FaHCSIA has approved the use of the Datasets under the Deed of Confidentiality.  
+Authorised User means a person who has been given permission by FaHCSIA to have access to and use the Datasets for the Approved Research.  This is defined in more detail in the Manual. 
+Business Day means any day on which all banks are open for business generally in Canberra, Australian Capital Territory.
+Business Owner means the Branch Manager, Research and Analysis Branch, FaHCSIA or another officer of FaHCSIA formally notified as the person to whom notices to FaHCSIA are to be addressed under clause 22.1.
+Commencement Date means the date of execution of this Deed by both parties.
+Confidential Information means, in relation to FaHCSIA, information that:
+a.  is by its nature confidential
+b. is designated in writing by FaHCSIA as confidential;
+c. is personal information under the Privacy Act 1988, protected information under section 23(1) of the Social Security Act 1991, or protected information under Division 2 of Part 6 of A New Tax System (Family Assistance) (Administration) Act 1999;
+d. the Licensee knows or ought to know is confidential,
+and includes:
+e. the Datasets, if in a form which discloses any of the information referred to in paragraphs (a)-(d) above;
+f. other information comprised in or relating to any Intellectual Property of FaHCSIA or third parties (where that information is provided by the third party on behalf of FaHCSIA) if in a form which discloses any of the information referred to in paragraphs (a) - (d) above; or
+g. information relating to the internal management and structure of FaHCSIA,
+but does not include information which:
+h. is or becomes public knowledge other than by breach of the Deed, other confidentiality obligations or the Privacy Act 1988, the Social Security Act 1991, or A New Tax System (Family Assistance) (Administration) Act 1999; or
+i. the Licensee can establish by written evidence has been independently developed or acquired by the Licensee without breach of any obligation of confidence.
+Dataset means any or all of the FaHCSIA General Release 7 household and person level Unit Record Data from the HILDA survey, the General Release 3.0 household and person level Unit Record Data from LSAC or the General Release 1 household and person level Unit Record Data from LSIC as indicated by the Licensee at the beginning of the Deed.
+Document includes:
+(a) any paper or other material on which there is writing;
+(b) any paper or other material on which there are marks, figures, symbols or perforations having a meaning to persons qualified to interpret them; and
+(c) any article, material or media from which sounds, images or writings are capable of being reproduced with or without the aid of any other article or device.
+FaHCSIA means the Commonwealth as represented by the Australian Government Department of Families, Housing, Community Services and Indigenous Affairs. 
+General Release Dataset means a release of data from which the names, addresses (including postcodes) and date of birth have been removed and other information has been modified by various methods such as top coding and the application of classification codes at a more general level.
+HILDA means the Household, Income, Labour and Dynamics in Australia survey.
+Intellectual Property means copyright (and all associated rights, including moral rights), and all rights in relation to inventions, registered and unregistered trade marks (including service marks), registered and unregistered designs, and circuit layouts, and any other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields.
+LSAC means the Longitudinal Study of Australian Children.
+LSIC means the Longitudinal Study of Indigenous Children. 
+Manual means the FaHCSIA Manual for the Access and Use of Longitudinal Surveys. The Manual contains additional information about the use of FaHCSIA's longitudinal datasets and the responsibilities of all Authorised Users. The Manual may be updated from time to time. 
+Organisation means the organisation listed under the Parties of this Deed and with which the user is associated for the purposes of conducting the Approved Research.  This may be as an employee, a contractor or as a student.  
+Personal Information means information or opinion (including information or opinion forming part of a database) whether true or not, and whether recorded in a material form or not, about a natural person whose identity is apparent or can reasonably be ascertained from the information or opinion.
+Release means a dataset that differs from another dataset from the same survey in that it contains additional information based on new responses from survey respondents.  For the purposes of the Deed, a Release does not include a new version of the data in which changes have been made based on the existing information from respondents.
+Research Material means any final research findings based on the analysis of the Dataset created by the Licensee.
+Survey Contract Manager means in the case of HILDA, the Melbourne Institute of Applied Economic and Social Research at the University of Melbourne, Australia and in the case of LSAC, the Australian Institute of Family Studies. Contact details are available in the Manual. FaHCSIA manages the functions of the Survey Management Contractor for LSIC.
+Unauthorised Person means a person who is not authorised in writing by FaHCSIA to use the Dataset.
+Unit record Data means records about individual respondents from the Datasets, that is, unaggregated data.  
+Interpretation
+1.2 In the Deed, unless the context otherwise requires:
+1.2.1 a reference to any law or legislation or legislative provision includes any statutory modification, amendment or re-enactment, and any subordinate legislation or regulations issued under that legislation or legislative provision;
+1.2.2 a reference to any agreement or Document is to that agreement or Document as amended, novated, supplemented or replaced from time to time;
+1.2.3 words in the singular include the plural and words in the plural include the singular;
+1.2.4 all references to clauses are reference to clauses in the Deed; 
+1.2.5 where any word or phrase has been given a defined meaning, any part of speech or other grammatical form about that word or phrase has a corresponding meaning;
+1.2.6 if an example is given of any thing (including a right, obligation or concept), the example does not limit the scope of that thing; and
+1.2.7 each party provision of the Deed will be interpreted without disadvantage to the party who (or whose representative) drafted that provision, that is, the contra proferentum rule does not apply to the Deed.
+2 Term of the Deed
+2.1 The Deed takes effect on and from the Commencement Date and, unless terminated in accordance with the Deed, will continue in force until the Licensee complies with the conditions set out in clause 8.2. 
+3 Licence
+3.1 FaHCSIA grants to the Licensee a non-exclusive, non-transferable licence to use, copy, adapt and modify the Dataset for the purposes of undertaking Approved Research and for the term of the Deed.
+4 Administration Fee
+4.1 The Licensee must pay the administration fee of $77 to the Survey Contract Manager prior to the Dataset being provided.
+4.2 The administration fee is GST inclusive for overseas based Licensees and the Survey Contract Manager will provide a tax invoice as soon as reasonably practicable.
+5 Restrictions on use of the Dataset
+5.1 The Dataset must only be used for the purposes of undertaking the following research project:
+	[insert brief description of research project - if you are applying for both HILDA and LSAC and they are for different research purposes, please specify the topics for which both datasets will be used]
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+...................................................................................................................................
+	The Licensee must obtain approval from FaHCSIA before using the Dataset for any research topic other than specified in this clause.
+
+5.2 The Deed is granted on the basis of the Licensee's association with the Organisation listed under Parties of this Deed.  If the Licensee ceases association with that Organisation, the Licensee must inform FaHCSIA and must obtain prior written approval from FaHCSIA before using the dataset while undertaking research for or with another organisation.
+5.3 Unless using the Dataset through a secure server, the Licensee may only use the Dataset on the Organisation's premises, unless they have prior written approval from FaHCSIA.
+5.4 The Licensee may modify the Dataset in order to undertake data analysis (e.g. create new derived data items, aggregate and manipulate the data).
+5.5 The Licensee may copy/reproduce the Dataset for the permitted purpose, but may not copy/reproduce the Dataset for any other reason (e.g. give copies of the Dataset to Unauthorised Persons).
+5.6 The Licensee must not:
+5.6.1 perform any matching, sharing, merging or linkage of any of the HILDA dataset with any non-HILDA datasets or any of the LSAC datasets with any non-LSAC datasets or any of the LSIC datasets with any non-LISC datasets without the prior written consent of FaHCSIA; or 
+5.6.2 attempt to identify any individuals in the Dataset; or
+5.6.3 publish, in any form, any part of the Dataset.
+5.7 The Licensee must abide by the provisions set out in the latest version of the Manual.
+6 FaHCSIA responsibility for the Dataset
+6.1 The Dataset is provided to the Licensee on an 'as is' basis and FaHCSIA is not responsible for its accuracy, quality or fitness for purpose.
+7 Provision of the Dataset
+7.1 Subject to clause 4.1 FaHCSIA will use its best endeavours to arrange the provision of the Dataset to the Licensee as soon as possible after the date of signature of this Deed.
+7.2 FaHCSIA must notify the Licensee immediately in writing of any delay in the arrangement of the provision of the Dataset in accordance with clause 7.1 and in this event the parties will agree on a revised delivery date and appropriate changes to other timing obligations included in the Deed.
+8 Security
+8.1 The Licensee must comply at all times with any security requirements notified by FaHCSIA and with the following security requirements in relation to the Datasets:
+8.1.1 only allow the Unit Record Data from the General Release Datasets to be viewed by Authorised Users as set out in the Manual;
+8.1.2 store the General Release Dataset  or any part of the General Release Dataset, either on a password protected stand alone computer (not networked) or on a password protected drive on a computer network;
+8.1.3 the password should be at least seven characters long, and contain a mix of upper and lower case characters, and numerics or symbols;
+8.1.4 access to the password protected drive is only by Authorised Users of the Dataset and the password must only be known to Authorised Users;
+8.1.5 where the Authorised User does not have access to the Dataset via a password protected server, the Authorised User will be provided with the Dataset via CD ROM/DVD that is to be kept and used only on the Organisation's premises (clauses 8.1.8 and 8.1.9 apply only where this clause applies);
+8.1.6 there must be an effective means of limiting entry during both operational and non-operational hours to room(s) or building(s) where the General Release Dataset is used or stored (eg room is locked when an Authorised User is not there);
+8.1.7 the hard drives, CD/DVDs or other formats containing the General Release Dataset must be stored in a locked commercial grade filing cabinet when not in use; 
+8.1.8 the keys or combinations to lockable containers in which the General Release Dataset is kept must be kept secure and not be given to any Unauthorised Person;
+8.1.9 a record must be kept of all people who have been issued with keys and/or combinations;
+8.1.10 any unit record output from the General Release Dataset must not be left unsecured for more than 15 minutes, and must be stored in a locked container and disposed of using a crosscut shredder when no longer required;
+8.1.11 any computers on which the General Release Dataset is used must have a password protected screen saver set to be activated after no more than 15 minutes;
+8.1.12 the Business Owner or their nominated representative may with at least three Business Days notice and during normal business hours make a physical inspection of the premises in which the Datasets are stored or used to ensure the security measures are in place, subject to the Business Owner complying with the security measures of the Organisation.
+8.2 The Licensee is responsible for the Datasets until all of the following conditions have been complied with:
+8.2.1 destruction of all CD/DVDs containing the Datasets by breaking each disc into four pieces; 
+8.2.2 cancellation of access to the password protected drive on a computer network;
+8.2.3 destruction of all paper copies of unit record data in accordance with clause 8.1.10 and
+8.2.4 provision of written confirmation to FaHCSIA that clauses 8.2.1, 8.2.2 and 8.2.3 have been complied with. 
+9 User support
+9.1 FaHCSIA will provide Authorised Users, through the Survey Management Contractors, with technical assistance to the Licensee in use of the Dataset in accordance with this Deed.
+10 Non-disclosure
+10.1 In consideration of FaHCSIA disclosing certain Confidential Information to the Licensee, the Licensee acknowledges and agrees with FaHCSIA:
+10.1.1 that all Confidential Information is confidential, is the property of FaHCSIA, and is of value to FaHCSIA, and that any Confidential Information disclosed to the Licensee is only disclosed pursuant to the terms of this Deed;
+10.1.2 to keep Confidential Information confidential at all times;
+10.1.3 that it must not, other than with the prior written approval of FaHCSIA (which may be granted or withheld in FaHCSIA's absolute discretion);
+(a) use;
+(b) disclose;
+(c) divulge;
+(d) make a digital or any other copy of;
+(e) transmit electronically (including via email); or
+(f) deal with,
+any Confidential Information, nor allow any act, matter or thing to be done or occur whereby any Confidential Information may be ascertained or used by, or disclosed or communicated to, any other person, except in accordance with the terms of this Deed; and
+10.1.4 that it must observe and be bound by the provisions of this Deed.
+10.2 The Licensee must:
+10.2.1 take all reasonable steps and do all reasonable things necessary, and do all things that may be reasonably required by FaHCSIA to keep the Confidential Information, including all Documents, and all other things recording, containing, setting out or referring to any Confidential Information, under effective control of the Licensee and protected from any unauthorised use or access;
+10.2.2 immediately notify FaHCSIA if the Licensee becomes aware of any unauthorised access to, or use or disclosure of, any Confidential Information;
+10.2.3 ensure that Confidential Information is not given to a person who is not an Authorised User;
+10.2.4 if required at any time by FaHCSIA to do so, deliver up to FaHCSIA, or at the option of FaHCSIA destroy, without limitation, all Documents containing any Unit record Data in the possession, custody or control of the Licensee; and
+10.2.5 if required by FaHCSIA:
+(a) permit FaHCSIA or any nominees of FaHCSIA, upon at least three Business Days notice and during normal business hours and subject to the security measures of the Licensee's Organisation, reasonable access to those premises where the Datasets are stored or being used, and records of the Licensee, (including without limitation, access to any of the Licensee's computer hard drives and computer disks containing Confidential Information belonging to FaHCSIA) to ensure or check compliance with this Deed; and/or
+(b) provide to FaHCSIA a statutory declaration signed by the Licensee stating that they have complied with clause 10.2.4.
+10.3 The Licensee may retain a copy of the Confidential Information if, and only to the extent to which and for the purpose for which, the Licensee is required by law to do so but subject to compliance with clause 11.1.
+10.4 This clause 10 will survive the expiration or termination of this Deed.
+11 Disclosure as required by law
+11.1 The Licensee may disclose any Confidential Information which the Licensee is required by law to disclose, but only if the extent and the manner of the disclosure is strictly limited to what is required by law.
+11.2 The Licensee undertakes to provide FaHCSIA with sufficient notice to enable FaHCSIA to seek a protective order or other relief from disclosure and to provide all assistance and co-operation which FaHCSIA reasonably considers necessary for that purpose.
+12 Intellectual Property
+12.1 The Licensee acknowledges and agrees that the Commonwealth owns all Intellectual Property rights in the Dataset.  
+12.2 Except where specified under a separate agreement, the Commonwealth will not own the Intellectual Property rights in any Research Material created using the Dataset to the extent the Research Material does not include the Unit Record Data. 
+12.3 The Licensee must within 30 days provide to the Commonwealth, or arrange for the provision of, a copy or a computer link to an electronic copy of any final Research Material produced by the Licensee using the Datasets.
+12.4 The Licensee is exempt from the requirements in clause 12.3 if the Research Material is for internal administration of Australian Government agencies or for confidential business purposes for the Australian Government.
+12.5 Where the Licensee has ownership of the Intellectual Property, the Licensee grants a perpetual licence to the Commonwealth to use, reproduce, adapt and modify the Research Material for any of the Commonwealth's Internal Purposes. 
+12.6 For the purposes of this clause 12, the Commonwealth's Internal Purposes means:
+12.6.1 use of the Research Material by FaHCSIA to understand the extent to which the Datasets are being used; and
+12.6.2 ready access by the Commonwealth to information and research to support internal policy development and evaluation. 
+12.7 Where the Licensee is not the owner of the Intellectual Property of the Research Material, the Licensee warrants that he or she will be able to provide a sub-licence from a third party for the Research Material on the same terms as the Licensee grants to FaHCSIA under clause 12.5.
+12.8 If the Commonwealth wishes to make any part of the Research Material publicly available, the Commonwealth will first obtain the written consent of the owner of the Intellectual Property.
+12.9 This clause 12 will survive the expiration or termination of the Deed.
+13 Acknowledgement and Disclaimer
+13.1 The Licensee agrees to acknowledge FaHCSIA and the Survey Management Contractor for the use of the Dataset and assistance provided in using the Dataset in any reports and publications that use the Dataset.
+13.2 The Licensee agrees that any of the material produced by the Licensee and made publicly available will include the acknowledgment included in the latest version of the Manual or any variation of the acknowledgement approved in writing by FaHCSIA in any reports and publications. 
+14 Privacy
+14.1 The Licensee agrees with respect to all Confidential Information made available or provided by FaHCSIA or any other person at any time which comprises Personal Information as defined in the Australian Privacy Act 1988 (the Act):
+14.1.1 to comply as if they were an agency bound by the Act with those provisions of the Act concerning the security, use and disclosure of information; 
+14.1.2 to co-operate with any reasonable demands or enquiries made by the  Privacy Commissioner;
+14.1.3 to ensure that any person who has an access level which would enable that person to obtain access to any information in respect of which FaHCSIA has obligations under the Act is made aware of, and undertakes in writing, to observe the provisions referred to in clause 14.1.1 above;
+14.1.4 to take all reasonable measures to ensure that such information is protected against loss and against unauthorised access, use, modification, disclosure or other misuse and that only Approved Individuals have access to it;
+14.1.5 not to transfer such information outside Australia, or allow parties outside Australia to have access to it, without the prior written approval of FaHCSIA;
+14.1.6 to immediately notify FaHCSIA when the Licensee becomes aware of a breach of security by any Individual; and
+14.1.7 to notify FaHCSIA of, and co-operate with FaHCSIA in the resolution of, any complaint alleging an interference with privacy.
+14.2 The Licensee's obligations in this clause 14 are in addition to, and do not restrict, any obligations it may have under:
+14.2.1 the Act; or
+14.2.2 any:
+(a) privacy codes; or
+(b) privacy principles contained in, authorised by or registered under any law,
+including any such privacy codes or principles that would apply to the Licensee but for the application of the other provisions of this clause 14.
+14.3 This clause 14 will survive the expiration or termination of this Deed.
+15 Conflict of interest
+15.1 The Licensee warrants that no conflict of interest exists or is likely to arise while in receipt of Confidential Information.
+15.2 The Licensee warrants that it will not permit any situation to arise or engage in any activity that may result in a conflict of interest with the Licensee's receipt of Confidential Information.
+16 Legal requirements
+16.1 Each party acknowledges and agrees to comply with the law in force in the Australian Capital Territory (Australia), including but not limited to:
+16.1.1 Social Security Act 1991;
+16.1.2 Privacy Act 1988; and
+16.1.3 Criminal Code Act 1995
+17 Indemnity
+17.1 The Licensee agrees to indemnify FaHCSIA from and against any:
+17.1.1 cost or liability incurred by FaHCSIA; 
+17.1.2 loss of or damage to property of FaHCSIA; or
+17.1.3 loss or expense incurred by FaHCSIA in dealing with any claim against it including reasonable legal costs and expenses on a solicitor/own client basis;
+arising from:
+17.1.4 any negligent act or omission by the Licensee in connection with the use of the Dataset;
+17.1.5 any breach by the Licensee of its obligations or warranties under this Deed;
+17.1.6 any use or disclosure by the Licensee of Confidential or Personal Information held or controlled in connection with this Deed; or
+17.1.7 the use by FaHCSIA of the Research Material as intended under this Deed but only to the extent that the Research Material has not been misquoted or taken out of context.
+17.2 The Licensee's liability to indemnify FaHCSIA under clause 17.1 will be reduced proportionately to the extent that any negligent act or omission of FaHCSIA contributed to the relevant liability, loss or damage, or loss or expense.
+17.3 The right of FaHCSIA to be indemnified under this clause 17 is in addition to, and not exclusive of, any other right, power or remedy provided by law, but FaHCSIA is not entitled to be compensated in excess of the amount of the relevant liability, loss or damage, or loss or expense.
+17.4 This clause 17 will survive the expiration or termination of this Deed.
+18 Applicable law
+18.1 This Deed will be governed by and construed in accordance with the laws of the Australian Capital Territory (Australia) and the Licensee agrees to submit to the non-exclusive jurisdiction of the courts of the Australian Capital Territory in respect of all matters arising under, or in relation to, this Deed.
+19 No exclusion
+19.1 This Deed does not exclude the operation of any principle of law or equity intended to protect and preserve the confidentiality of the Confidential Information.
+19.2 The rights and remedies provided under this Deed are cumulative and not exclusive of any rights or remedies provided by law.
+20 Dispute resolution
+20.1 FaHCSIA and the Licensee will attempt in good faith to resolve through negotiation any disputes, claim or controversy arising out of or relating to this agreement.  
+21 Termination of Deed
+21.1 This Deed may be terminated by either Party providing at least 14 day's prior notice in writing unless terminated by FaHCSIA in accordance with clause 8.2.
+21.2 Subject to clause 8.2, FaHCSIA may terminate this Deed by notice in writing, with effect from the date in the notice, if the Licensee fails to remedy a breach of the Deed within 30 days of being given notice by FaHCSIA requiring the breach to be remedied.
+22 Notices
+Giving notices
+22.1 A notice, consent, information, application or request that must or may be given or made to a party under the Deed is only given or made if it is in writing and:
+22.1.1 delivered or posted to that party at its address set out below; 
+22.1.2 emailed to that party at its email address set out below; or
+22.1.3 faxed to that party at its fax number set out below. 
+If a party gives the other party 5 business days' notice of a change of its email or postal address, a notice, consent, information, application or request is only given or made by that other party if it is delivered, posted or emailed to the latest address.
+FaHCSIA
+Name:	Department of Families, Housing, Community Services and Indigenous Affairs
+	Business Owner Longitudinal Surveys
+Research and Analysis Branch TOP CW2
+Postal Address:	PO Box 7576
+Canberra Business Centre  ACT  2610
+Email:	longitudinalsurveys@fahcsia.gov.au  
+Fax:	02 6206 9545
+
+Licensee
+Name: [Insert name]			. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Position: [Insert position title]		. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Address: [Insert postal & delivery address]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Email:[insert email address]		. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Fax Number:[insert fax number]	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+I understand that I must provide FaHCSIA with any changes to the above information.
+
+Signature of the Licensee	..................................................................
+			
+Time notice is given
+22.2 A notice, consent, information, application or request is to be treated as given or made at the following time:
+22.2.1 if it is delivered, when it is left at the relevant address;
+22.2.2 if it is sent by post, 5 Business Days after it is posted; or
+22.2.3 if it is sent by email or fax, upon actual receipt by the addressee.
+If a notice, consent, information, application or request is delivered after the normal business hours of the party to whom it is sent, it is to be treated as having been given or made at the beginning of the next Business Day.
+23 Miscellaneous
+Assignment
+23.1 Except as expressly permitted by the Deed, the Licensee must not assign any of their rights under this Deed without the prior written consent of FaHCSIA.  That consent may be given or withheld at FaHCSIA's absolute discretion.
+Costs
+23.2 Each party will bear its own costs in relation to this Deed, including the exercise of rights and performance of obligations specified in the Deed. 
+Entire agreement
+23.3 This document contains everything the parties have agreed on in relation to the matters it deals with.  No party can rely on an earlier document, or anything said or done by another party, or by a director, officer, agent or employee of that party, before the Deed was executed, save as permitted by law.
+No agency or partnership
+23.4 No party is an agent, representative, partner of any other party by virtue of the Deed.
+
+No authority to act
+23.5 No party has any power or authority to act for or to assume any obligation or responsibility on behalf of another party, to bind another party to any agreement, negotiate or enter into any binding relationship for or on behalf of another party or pledge the credit of another party except as specifically provided in the Deed or by express agreement between the parties.
+Severability
+23.6 If a clause or part of a clause of the Deed can be read in a way that makes it illegal, unenforceable or invalid, but can also be read in a way that makes it legal, enforceable and valid, it must be read in the latter way.  If any clause or part of a clause is illegal, unenforceable or invalid, that clause or part is to be treated as removed from the Deed, but the rest of the Deed is not affected.
+Time for action
+23.7 If the day on or by which something is required to be done or may be done is not a Business Day, that thing must be done on or by the next Business Day.
+Variation
+23.8 No variation of the Deed will be of any force or effect unless it is in writing and signed by the parties to the Deed.
+Waiver
+23.9 The fact that a party fails to do, or delays in doing, something the party is entitled to do under the Deed, does not amount to a waiver of any obligation of, or breach of obligation by, another party.  A waiver by a party is only effective if it is in writing.  A written waiver by a party is only effective in relation to the particular obligation or breach in respect of which it is given.  It is not to be taken as an implied waiver of any other obligation or breach or as an implied waiver of that obligation or breach in relation to any other occasion.
+Execution
+
+Date:  ....../....../......
+
+Signed, sealed and delivered for and on behalf of THE COMMONWEALTH OF AUSTRALIA as represented by the Department of Families, Housing Community Services and Indigenous Affairs by
+
+
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Name of HILDA authorised officer (print)		Signature of HILDA authorised officer
+
+
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Name of LSAC authorised officer (print)		Signature of LSAC authorised officer
+
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Name of LSIC authorised officer (print)		Signature of LSIC authorised officer
+
+
+In the presence of 
+
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Name of witness (print)		Signature of witness
+
+Signed, sealed and delivered by 
+
+
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Name of researcher (print)	Signature of researcher
+
+In the presence of:	
+
+
+
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 	. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+Name of witness (print)	Signature of witness
+
+
+
+
+
+
+
+
+
+
+		
+ 
+
+
+
+
+
+
+	- 16 -	
+
+

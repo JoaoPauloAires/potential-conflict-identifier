@@ -1,0 +1,9 @@
+Naive Bayes     Accuracy    Precision   Recall  F-Measure
+    Mean            0.84      0.76       0.94     0.84
+    
+    
+Decision Tree    Accuracy   Precision   Recall  F-Measure
+    Mean            0.70      0.65       0.77      0.70
+
+Maximum Entropy  Accuracy   Precision   Recall  F-Measure
+    Mean            0.84      0.81       0.77      0.70                    

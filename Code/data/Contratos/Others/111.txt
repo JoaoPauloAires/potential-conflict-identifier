@@ -1,0 +1,611 @@
+
+AUSTRALIAN CAPITAL TERRITORY
+AGREEMENT
+
+
+Dated
+
+
+
+_________________ 2007PartiesREGISTRAR-GENERAL OF THE AUSTRALIAN CAPITAL TERRITORY[INSERT FULL NAME OF CONTRACTOR INCLUDING ACN IF COMPANY OR ABN]ACCESS TO LAND TITLES ON-LINEPrepared byRegistrar-General's Office
+255 Canberra Avenue
+Fyshwick   ACT
+Ref:  [INITIALS]:[FILE NO]
+Version[Draft/Final INSERT DATE] 
+CONTENTS
+
+1.	Interpretation	1
+2.	Term	4
+3.	Access	4
+4.	Fees	6
+5.	No assignment	7
+6.	Audits	7
+7.	Intellectual property rights	7
+8.	Non-disclosure of Registrar-General Information	8
+9.	Privacy of Personal Information	9
+10.	Indemnity	10
+11.	No warranty	10
+12.	Exclusion of liability	11
+13.	Termination	11
+14.	Dispute resolution	13
+15.	General	13
+SCHEDULE 1	16
+SCHEDULE 2	17
+
+PARTIES:	REGISTRAR-GENERAL OF THE AUSTRALIAN CAPITAL TERRITORY, a corporation sole established by section 4 of the Registrar-General Act 1993 (ACT) (Registrar-General).
+
+	[INSERT FULL NAME, INCLUDING ACN FOR A COMPANY OR ABN FOR OTHER ORGANISATION AND CHECK IT IS A LEGAL ENTITY] of [Insert address (of registered office if for a company)] (Subscriber).
+______________________________________________________________
+
+BACKGROUND
+
+A.	The Registrar-General maintains a register of land titles relating to land in the Territory, in the form of an electronic data and image based system, which is owned or licensed by the Registrar-General.
+ 
+B. The Subscriber seeks access to the information held on the Register for the purposes of accessing and obtaining information in relation to current property details on parcels of land in the Territory.
+
+C. The Subscriber has requested, and the Registrar-General agrees to provide access to the information held on the Register on the provisions of this Agreement.
+
+
+IT IS AGREED by the parties as follows.
+1. Interpretation 
+
+1.1	Definitions
+
+The following definitions apply in this Agreement, unless the context otherwise requires.
+
+Authorised User
+means any person authorised by the Subscriber to access the Subscriber's account on the Land Titles On-Line Service in accordance with this Agreement.
+Contract Officersmeans, in relation to each party, the representatives whose names and contact details are specified in Item 1 Schedule 1, or as notified from time to time by one party to the other.
+Determined Feemeans any fee, charge or other amount for the provision of land title data or documents through the Land Titles On-Line Service, determined pursuant to section 139 of the Land Titles Act.
+Feemeans the fees including the Determined Fee specified in or calculated in accordance with, Item 3 Schedule 1.
+GSThas the same meaning as in the A New Tax System (Goods and Services Tax) Act 1999 (Cwlth).
+Invoicemeans an invoice that: 
+
+(1) is a valid tax invoice (if GST is payable in respect of the relevant supply under this Agreement);
+
+(2) sets out the amount that is due for payment in respect of a supply under this Agreement; and
+
+(3) is rendered at the times specified in Item 3 Schedule 1 (if any).
+Land Titlemeans any document or instrument kept on the Register pursuant to the Land Titles Act.
+Land Titles Actmeans the Land Titles Act 1925 (ACT).
+Land Titles On-Line Servicemeans the website service "Land Titles On-Line Service" portal, located at https://access.act.gov.au
+Personal Informationmeans information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about a natural person whose identity is apparent, or can reasonably be ascertained, from the information or opinion.
+Registermeans an electronic form of the register relating to land kept by the Registrar-General pursuant to section 43 of the Land Titles Act.
+	Registrar-General Informationmeans the kind of information that:
+
+(1) is or relates to documents, submissions, consultations, policies, strategies, practices and procedures of the Registrar-General which are by their nature confidential;
+
+(2) is notified (whether in writing or not) by the Registrar-General to the Subscriber as being confidential;
+
+(3) is specified in Item 4 Schedule 1; or
+
+(4) is Personal Information, 
+
+but does not include information that:
+
+(5) is or becomes public knowledge other than by breach of this Agreement;
+
+(6) has been independently developed or acquired by the Subscriber; or
+
+(7) has been notified by the Registrar-General to the Subscriber as not being confidential.
+Registrar-General Materialmeans any material provided by the Registrar-General to the Subscriber for the purposes of this Agreement including documents, equipment, information and data stored by any means.
+Special Conditionmeans any provision set out in Schedule 2.
+Termmeans the term specified in Item 2 Schedule 1, or if extended under clause 3.2, the initial term and the extended term.
+Territorymeans:
+
+(1) when used in a geographical sense, the Australian Capital Territory; and
+
+(2) when used in any other sense, the body politic established by section 7 of the Australian Capital Territory (Self-Government) Act 1988 (Cwlth).
+
+1.2 General
+
+      In this Agreement, unless a contrary intention is expressed:
+
+(1) references to "Subscriber" include any employees, agents or subcontractors of the Subscriber;
+
+(2) references to legislation or to provisions in legislation include references to amendments or re-enactments of them and to all regulations and instruments issued under the legislation;
+
+(3) words importing a gender include the others; words in the singular number include the plural and vice versa; and where a word or phrase is given a particular meaning, other parts of speech and grammatical forms of that word or phrase have corresponding meanings;
+
+(4) "include" is not to be construed as a word of limitation;
+
+(5) headings have no effect on the interpretation of the provisions; and
+
+(6) an obligation imposed by this Agreement on more than one person binds them jointly and severally.
+
+2. Term
+
+2.1 Term
+
+This Agreement is for the Term unless terminated under the provisions of this Agreement.
+
+2.2 Extension
+
+This Agreement may be extended by written agreement of the parties prior to the expiration of this Agreement.
+
+3. Access
+
+3.1 Access
+
+The Registrar-General provides the Subscriber with access to the Land Titles On-Line Service in accordance with the provisions of this Agreement.
+
+3.2 Purpose
+
+The Subscriber must only use the Land Titles On-Line Service:
+
+(1) for the purpose of accessing and obtaining copies of Land Titles from the Register;
+
+(2) for any uses incidental to the purpose specified in clause 3.2(1); and
+
+(3) otherwise in accordance with the provisions of this Agreement.
+
+3.3 Authorised Users
+
+The Subscriber must ensure that:
+
+(1) only Authorised Users access the Land Titles On-Line Service; and
+
+(2) Authorised Users keep any identification code, log-in information, passwords and security devices for access to the Land Titles On-Line Service confidential and do not disclose that information to any other person.
+
+3.4 Compliance with provisions
+
+(1) The Subscriber must ensure that the Authorised User complies with the provisions of this Agreement; and
+
+(2) In accordance with clause 3.4 (1) above, the Subscriber agrees that a failure by the Authorised User to comply constitutes a breach of this Agreement by the Subscriber. 
+
+3.5 Interruption to Access
+
+The Subscriber acknowledges that its access to the Land Titles On-Line Service may be interrupted by periods of downtime for operational reasons, including for the Registrar-General to undertake scheduled or urgent maintenance.
+
+3.6 Report faults
+
+The Subscriber must promptly report to the Registrar-General any fault that the Subscriber experiences while accessing the Land Titles On-Line Service.
+
+3.7 Security
+
+	The Subscriber must:
+
+(1) not alter, delete or otherwise interfere with any information contained 
+on the Land Titles On-Line Service;
+
+(2) protect and keep secure any record of information in any form obtained by it from Land Titles On-Line Service or received by it from the Registrar-General;
+
+(3) effect and maintain adequate security measures to safeguard the Land Titles On-Line Service including any identification code, log-in information and passwords for access to the Land Titles On-Line Service, whether in use or not, from access by any person who is not an Authorised User;
+
+(4) not disclose to any person, other than an Authorised User, any identification code, log-in information or passwords, whether in use or not, relating to the Land Titles On-Line Service; and 
+
+(5) immediately notify the Registrar-General of any misuse or breach of the security requirements for the Land Titles On-Line Service that it knows or suspects has occurred.
+
+3.8 Hardware, software and other equipment
+
+(1)	The Subscriber is responsible for obtaining and maintaining all telephone lines, modems, hardware, software and all other equipment required for the Subscriber to access the Land Titles On-Line Service.
+
+      (2)	The Subscriber must ensure:
+
+(a) that it initiates a connection to the Land Titles On-Line Service from hardware or a source that is under the control and/or ownership of the Subscriber, and must not initiate a connection from hardware or a source that it knows or ought reasonably to know is a high risk for computer viruses and instability, including:
+
+      (i)	terminals located at internet cafes,
+
+(ii)	personal computer user group sites,
+
+      (iii)	convention and training venues, and
+
+(iv) other publicly accessible terminals and sources;
+
+(b)	that the hardware is secured in compliance with the reasonable directions of the Registrar-General; and
+
+(c)	that the hardware is not left unattended while it is connected to the Land Titles On-Line Service.
+
+3.9 Vendor patches
+
+The Subscriber will take all reasonable measures to remain informed of all vendor patches and security bulletins applicable to the hardware and software installed upon the hardware used to access the Land Titles On-Line Service and is responsible for installing software package updates to mitigate vendor identified risks.
+
+3.10 Virus protection
+
+The Subscriber must ensure that the hardware used to access the Land Titles On-Line Service is installed with virus protection, that the virus protection is running at all times that it is connected to the Land Titles On-Line Service, and that the latest virus signature files are installed.
+
+3.11 Secure electronic mail account
+
+The Subscriber must ensure that any electronic mail account to which Land Titles are to be sent is secure and not capable of being accessed by people other than Authorised Users.
+4. Fees
+
+The Subscriber must pay the Registrar-General the Fees following its receipt of an Invoice and otherwise in accordance with Item 3 Schedule 1. 
+
+
+5. No assignment 
+
+The Subscriber must not assign the whole or part of this Agreement without the prior written consent of the Registrar-General.  If the Registrar-General gives its consent, the Registrar-General may impose any conditions.
+
+6. Audits
+
+6.1 Conduct of audits
+
+On the provision of reasonable notice to the Subscriber, the Registrar-General may audit the Subscriber and its records (as relevant to this Agreement) in respect of:
+
+(1) the Subscriber's compliance with all its obligations under this Agreement; and
+
+(2) any other matters reasonably determined by the Registrar-General to be relevant to the performance of the Subscriber's obligations under this Agreement.
+
+6.2 Assistance
+
+The Subscriber must provide the Registrar-General with all reasonable assistance in conducting the audit, including access to the Subscriber's premises and records.
+
+6.3 Costs
+
+      The parties will bear their own costs in respect of an audit.
+
+7. Intellectual property rights
+
+7.1 Ownership 
+
+The intellectual property rights in the Land Titles On-Line Services, including Land Titles, text, graphics, logos, icons, sound recordings and software, is owned or licensed by the Registrar-General.  Information procured from a third party may be the subject of intellectual property rights owned by that third party.
+
+7.2 Restrictions on use
+
+Other than as permitted under the Copyright Act 1968 (Cwlth), the Subscriber must not:
+
+(1) adapt, reproduce, store, distribute, print, display, perform, publish or create derivative works from any part of the Land Titles On-Line Service; or
+(2) commercialise any information, products or services obtained from any part of the Land Titles On-Line Service
+
+ except as permitted under this Agreement.
+
+
+8. Non-disclosure of Registrar-General Information
+
+8.1 Contractor must not disclose Registrar-General Information
+
+Except as provided in this Agreement, the Subscriber must not disclose Registrar-General Information to any person without the prior written consent of the Registrar-General except to the extent that the Registrar-General Information is:
+
+(1) required or authorised to be disclosed by law;
+
+(2) disclosed to the Subscriber's solicitors, auditors, insurers or advisers; 
+
+(3) generally available to the public; or
+
+(4) in the possession of the Subscriber without restriction in relation to disclosure before the date of receipt from the Registrar-General.
+
+8.2 Contractor to protect Register-General Information
+
+The Subscriber must take all reasonable measures to ensure that:
+
+(1)	Registrar-General Information accessed or held by it in connection with this Agreement is protected against loss, unauthorised access, use, modification, disclosure or other misuse in accordance with reasonable procedures for that purpose; and 
+
+(2)	only authorised personnel have access to Registrar-General Information.
+
+8.3 Subscriber's use of Registrar-General Information
+
+      The Subscriber must:
+
+(1) use Registrar-General Information held in connection with this Agreement only for the purposes of fulfilling its obligations under this Agreement; and
+
+(2) comply with the "Information Privacy Principles" set out in the Privacy Act 1988 (Cwlth) as if they were provisions of this Agreement. 
+
+
+8.4 Contractor must notify the Registrar-General
+
+The Subscriber must immediately notify the Registrar-General if the Subscriber becomes aware that:
+
+(1)	a disclosure of Registrar-General Information may be required by law; or
+
+(2)	an unauthorised disclosure of Registrar-General Information has occurred.
+
+9. Privacy of Personal Information
+
+9.1 Additional privacy obligations
+
+The following obligations are in addition to those set out in clause 8.
+
+9.2 Employee awareness 
+
+	The Subscriber must ensure that any employee of the Subscriber or any Authorised User, requiring access to any Personal Information held in connection with this Agreement is made fully aware that any Personal Information accessed must not be used, disclosed or retained except in performing their duties of employment or contractual obligations.
+
+
+9.3 Reasonable requests, directions and guidelines
+
+	The Subscriber must, in respect of any Personal Information held in connection with this Agreement, co-operate with any reasonable requests or directions of the Registrar-General arising directly from, or in connection with the exercise of the functions of the Privacy Commissioner under the Privacy Act 1988 (Cwlth) or otherwise, including the issuing of any guidelines concerning the handling of Personal Information.
+
+9.4 Indemnity and compensation 
+
+(1) The Subscriber indemnifies the Registrar-General in respect of any liability, loss or expense incurred arising out of, or in connection with, a breach of the obligations of the Subscriber under this clause 9 or for a breach of the Privacy Act 1988 (Cwlth).
+
+(2) In this clause 9.4 "liability, loss or expense" includes any amount paid by the Registrar-General on behalf of the Commonwealth for an interference with the privacy of an individual being a reasonable amount as compensation for loss or damage for which the Commonwealth would have been liable under the Privacy Act 1988 (Cwlth) if that breach had been that of the Registrar-General. 
+
+9.5 Handling of complaints
+
+A complaint alleging an interference with the privacy of an individual in respect of any obligations under the Agreement performed by the Subscriber (Complaint) will be handled by the Registrar-General and in accordance with the following procedures:
+
+(1)	if the Registrar-General receives a Complaint it will immediately notify the Subscriber of only those details of the Complaint necessary to minimise any breach or prevent further breaches of this Agreement;
+
+(2)	if the Subscriber receives a Complaint it must immediately notify the Registrar-General of the nature of the Complaint but will only release Personal Information to the Registrar-General concerning the complainant with that person's consent; and
+
+(3)		after the Registrar-General has given or been given notice in accordance with clauses 9.5(1) or 9.5(2) above, it will keep the Subscriber informed of all progress with the Complaint concerning the actions of the Subscriber.
+
+10. Indemnity
+
+10.1 Indemnity
+
+	The Subscriber indemnifies the Registrar-General, its employees and agents against liability in respect of all claims, costs and expenses and for all loss or damage, to persons or property caused by the Subscriber, in connection with the performance of the Subscriber's obligations under the Agreement, except to the extent that the Registrar-General caused the relevant loss or damage. 
+
+10.2 Claims to be made good
+
+The Subscriber must, at its expense, make good the amount of all claims, loss, damage, costs and expenses the subject of the indemnity in clause 10.1 and the Registrar-General may deduct the amount, or any part of it, from any moneys due or becoming due to the Subscriber.
+
+11. No warranty
+
+	The Registrar-General does not warrant:
+
+(1) that the Land Titles On-Line Service or any information contained in the Land Titles On-Line Service is free from inaccuracy, defect or error; 
+
+(2) that the Land Titles On-Line Service is free from viruses;
+
+(3) that the Land Titles On-Line Service is secure; or
+
+(4) that the Land Titles On-Line Service will be accessible at all times, such as by reason of downtime for routine or urgent maintenance.
+
+12. Exclusion of liability
+
+12.1 No liability
+
+Subject to clause 12.2, the Registrar-General is not liable for, or in respect of, any loss or damage of any kind whatsoever, sustained by the Subscriber and caused directly or indirectly by any cause including:
+
+(1) any defect in material, workmanship or otherwise of the Land Titles On-Line Service, or unsuitability for any purpose for the Land Titles On-Line Service or any part of it; or
+
+(2) the default or negligence on the part of the Registrar-General or any employee, contractor or agent of the Registrar-General, relating to the supply of, or otherwise concerning the Land Titles On-Line Service or any part of it except to the extent that such liability cannot be excluded at law.
+
+12.2 Limited liability
+
+To the extent permitted by law, the liability of the Registrar-General in respect of a breach of an implied term, condition or warranty relating to the use of the Land Titles On-Line Service or associated software is limited, at the option of the Registrar-General, to:
+
+(1) in the case of goods;
+
+(a) the replacement of the goods or the supply of equivalent goods,
+
+(b) the repair of the goods; or
+
+(c) the payment of the cost of replacing the goods or of acquiring equivalent goods,
+
+(2) in the case of services;
+
+(a) the resupply of the services; or
+
+(b) the payment of the cost of having the service supplied again.
+
+13. Termination
+
+13.1 Default
+
+The Registrar-General may terminate this Agreement, at any time by notice to the Subscriber, if:
+
+(1) the Subscriber is or becomes bankrupt or insolvent, enters into voluntary administration or makes any arrangement with its creditors or takes advantage of any statute for the relief of insolvent debtors; or
+
+(2) the Subscriber is in breach of a provision of this Agreement, where that breach:
+
+(a)	if capable of being remedied, is not remedied within the period specified in a notice by the Registrar-General, or
+
+(b) is not capable of being remedied;
+
+(3) the Subscriber does not access the Land Titles On-Line Service for a period of nine consecutive months; or
+
+(4) the Registrar-General ceases to operate the Land Titles On-Line Service.
+
+13.2 Suspension
+
+Without limiting the Registrar-General's rights under clause 13.1, the Registrar-General may suspend this Agreement if:
+
+(1) the Subscriber is in breach of a provision of this Agreement; or
+
+(2) access to the Land Titles On-Line Service is or will be interrupted by periods of downtime for operational reasons, including for the Registrar-General to undertake scheduled or urgent maintenance.
+
+13.3 Subscription termination
+
+This Agreement may be terminated 14 days after the Subscriber notifies the Registrar-General that it is their intention to terminate their access to the Land Titles On-Line Service.
+
+13.4 No Prejudice
+
+Nothing in this clause 13 prejudices any other rights or remedies of the Registrar-General in respect of any breach of this Agreement.
+
+
+14. Dispute resolution
+
+14.1 Negotiation of Dispute
+
+If a difference or dispute (Dispute) arises in relation to this Agreement, then either party may give notice to the other that a Dispute exists, which specifies details of the Dispute.  The parties agree that, following the issue of that notice, they will endeavour to resolve the Dispute by negotiations, including by referring the Dispute to persons who have authority to intervene and direct some form of resolution.
+
+14.2 Mediation of Dispute
+
+If the Dispute has not been resolved pursuant to clause 14.1 within 28 days of the notice of the Dispute, then the parties agree that they will undertake a mediation process.  The mediator will be an independent mediator agreed by the parties or, failing agreement, nominated by the chairperson of The Institute of Arbitrators and Mediators Australia, ACT Chapter.  Unless otherwise agreed, the parties will share equally the costs of the engagement of the mediator.
+
+14.3 No prejudice
+
+Nothing in this clause 14 will prejudice the rights of either party to institute proceedings to enforce the Agreement or to seek injunctive or urgent declaratory relief in respect of any Dispute.
+
+15. General
+
+15.1 Conflict of interest
+
+The Subscriber:
+
+(1)	warrants that, at the date of entering into this Agreement, no conflict of interest exists or is likely to arise in the performance of the Subscriber's obligations under this Agreement; and
+
+(2)	must, if a conflict, or risk of conflict, of interest arises during the Term:
+
+(a)	notify the Registrar-General immediately of that conflict or risk, and
+
+(b)	comply with any requirement of the Registrar-General to eliminate or otherwise deal with that conflict or risk.
+
+
+15.2 No employment, partnership or agency relationship
+
+(1)	Nothing in this Agreement constitutes the Subscriber, or its employees, agents or subcontractors as employees, partners or agents of the Registrar-General or creates any employment, partnership or agency for any purpose.
+
+(2)	The Subscriber must not represent itself, and must ensure its employees, agents and subcontractors do not represent themselves, as being employees, partners or agents of the Registrar-General.
+
+15.3 Entire agreement
+
+This Agreement comprises the entire agreement between the parties in relation to the subject matter of the Agreement and supersedes any prior representations, negotiations, writings, memoranda and agreements.
+
+15.4 Severability
+
+Any provision of this Agreement that is illegal, void or unenforceable will not form part of this Agreement to the extent of that illegality, voidness or unenforceability.  The remaining provisions of this Agreement will not be invalidated by an illegal, void or unenforceable provision.
+
+15.5 Variation
+
+(1) Subject to clause 15.5(2), the Registrar-General may vary the provisions of this Agreement at any time by posting a notice on the Land Titles On-Line Service, having effect 30 days after such a notice is provided.
+
+(2) If a variation to the provisions of this Agreement results in an increase of any fees or charges payable by the Subscriber under this Agreement, the Registrar-General will provide the Subscriber with 30 days notice of the variation.
+
+(3) The Subscriber's continued use of the Land Titles On-Line Service following notification pursuant to clauses 15.5(1) or 15.5(2) will represent an agreement by the Subscriber to be bound by the Agreement as amended.
+
+15.6 No waiver
+
+Failure or omission by the Registrar-General at any time to enforce or require strict or timely compliance with any provision of this Agreement will not affect or impair that provision in any way or the rights and remedies that the Registrar-General may have in respect of that provision.
+
+
+15.7 Governing law
+
+This Agreement is governed by and construed in accordance with the law for the time being in force in the Territory and the parties submit to the non-exclusive jurisdiction of the courts of the Territory.
+
+15.8 Compliance with laws
+
+The Subscriber must comply with the laws from time to time in force in the Territory in performing its obligations under the Agreement.
+
+15.9 Notices
+
+Any notice, including any other communication, required to be given or sent to either party under this Agreement must be in writing and given to the relevant Contract Officer.  A notice will be deemed to have been given:
+
+(1) if delivered by hand, on delivery;
+
+(2) if sent by prepaid mail, on the expiration of two business days after the date on which it was sent;
+
+(3) if sent by facsimile, on the sender's facsimile machine recording that the facsimile has been successfully and properly transmitted to the recipient's address; or
+
+(4) if sent by electronic mail, on the other party's acknowledgment of receipt by any means.
+
+15.10 Special Conditions
+
+In the event of any inconsistency between any Special Condition and any other provision of this Agreement then, to the extent of any inconsistency, the Special Condition will prevail.
+
+15.11 Survival of clauses
+
+Clauses 8, 9 and 10.2 will survive the expiration or earlier termination of this Agreement.
+
+SCHEDULE 1
+
+CONTRACT DETAILS
+
+Item 1.Contract Officers
+See clauses 1.1 and 15.9For the Registrar-General:
+
+Danielle Krajina
+Senior Director
+Registration and Client Services
+255 Canberra Avenue, Fyshwick
+Ph: 62070 490
+Fax: 62070 455
+
+For the Subscriber:
+
+[Insert name of Contract Officer]
+[Insert contact details - address and facsimile]
+Item 2.Term
+See clause 2From [eg. the date of this Agreement] until [insert end date].
+Item 3.Fees
+See clause 4(1) Fees:
+
+(a) Security token fee: $150 (plus GST) = $165.00
+
+(b) Determined fee: the relevant fee determined pursuant to section 139 of the Land Titles Act 1925 (ACT)
+
+(2) The Fees are payable as follows.
+
+(a) The Subscriber must pay for the security token fee at the time they execute the agreement..
+
+(b) In respect of the Determined Fees:
+
+(i) the Registrar-General may issue an Invoice monthly at the beginning of each calendar month; and 
+
+(ii) the Subscriber must pay the Invoice by the 15th day of that calendar month.Item 4.Registrar-General Information
+See clauses 1.1 and 8Not used.
+
+ DATE OF THIS AGREEMENT	2007
+
+SIGNED for and on behalf of the
+REGISTRAR-GENERAL OF THE AUSTRALIAN CAPITAL TERRITORY
+in the presence of:
+
+
+....................................................
+Signature of witness
+
+
+....................................................
+Print name
+
+)
+)
+)
+
+..............................................
+Signature of Registrar-General's delegate
+
+
+..............................................
+Print name SIGNED by or for and on behalf of
+[NAME & ACN OF SUBSCRIBER] 
+in the presence of:
+
+
+
+....................................................
+Signature of witness
+
+
+
+....................................................
+Print name )
+)
+)
+
+..............................................
+Signature of Subscriber or authorised officer* 
+*delete whichever is not applicable (see note below)
+
+
+..............................................
+Print name and position
+
+
+..............................................
+Signature of second authorised officer*
+*see note below
+
+
+..............................................
+Print name and position
+
+
+
+
+
+
+
+Note:  
+
+Date: 	Must be dated on the date the last party signs the Agreement or, if signed counterparts of the Agreement are exchanged, the date of exchange.  Also date the cover page.
+
+Individual:	Must be signed by the individual Subscriber and witnessed.
+
+Incorporated Association: 	Must be signed in accordance with the Subscriber's constitution, which may or may not require the common seal to be affixed.  As a minimum, 2 authorised officers must sign. 
+
+Company:	Must be signed in accordance with section 127 of the Corporations Act 2001 (Cwlth), for example, by 2 directors or a director and a secretary.  Common seal may be affixed if required under the Subscriber's constitution.
+Template Version: Agreement for Access to Land Titles On-Line - October 2006
+
+Template Version: Service (Contractor) Agreement - January 2006
+
+
+
+17
+
+
+1
+

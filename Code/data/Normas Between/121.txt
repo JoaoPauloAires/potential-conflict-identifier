@@ -1,0 +1,44 @@
+Ownership of Intellectual Property and Confidential Information
+
+As against NAME, CDx, is and will, to the full extent and for the full period permitted by law, remain the owner of:
+
+CDx's Confidential Information; and
+
+CDx's Intellectual Property.
+   
+As against CDx, NAME, is and will, to the full extent and for the full period permitted by law, remain the owner of:
+  
+NAME's Confidential Information; and
+
+NAME's Intellectual Property.
+
+Subject to the limitations of Clause 2.3, each party covenants that it will not hold itself out as owning nor deal or purport to deal in any way with any of the other party's Confidential Information or Intellectual Property without the prior written consent of the other party.
+	
+The discussion of the parties' respective Intellectual Property and Confidential Information is not an offer for sale of any materials that may be discussed, and neither party shall be under any obligation to license or transfer its Intellectual Property or Confidential Information to the other party; and each party reserves the right to license or transfer its own Intellectual Property or Confidential Information to whichever party or parties as it may, in its sole discretion, determine advisable, or not at all.
+      
+In consideration of the mutual covenants of the parties to this Agreement, and subject to Clause 2.3, the Recipient covenants in favour of the Discloser that it will not without the prior written consent of the Discloser:
+copy, communicate, publish or disclose the Confidential Information of the Discloser; nor
+cause or allow the Confidential Information of the Discloser to be copied by or communicated, published or disclosed verbally, in writing, by electronic means or by any other means or medium,
+
+The Recipient will do all things necessary to ensure that its employees, researchers, consultants and agents comply with the Recipient's obligations under Clause 2.1.
+
+This Agreement will not apply to any part of the Confidential Information or Intellectual Property that:
+was known or possessed by the Recipient at the time of the disclosure to the Recipient by the Discloser, the onus of proving which rests with the Recipient;
+is or may be legally acquired by the Recipient from any third party that has the right to disclose except where the Confidential Information or Intellectual Property is provided to the Recipient by a third party at the request of the Discloser;
+is disclosed by the Recipient pursuant to any law or order of any court, or any governmental agency or other regulatory body with which the Recipient is bound to comply;
+was already in the public domain, other than by reason of the Recipient having disclosed it, at the date on which it was used or disclosed by the Recipient, the onus of proving which shall be on the Recipient; or 
+was independently developed by the Recipient or its agents or employees without knowledge of or reliance on the Confidential Information disclosed to Recipient by the Discloser.
+
+Notwithstanding Clauses 2.3 (a) through (e), information disclosed by one party to another shall still be deemed Confidential Information of the Discloser subject to the protection of this Agreement if such disclosed information is:
+
+a specific embodiment that is only generally described by  information in the public domain or the Recipient's possession; or
+
+a combination that can be pieced together and reconstructed from multiple sources, none of which shows the whole combination of materials, its principle of operation, and method of use.
+
+The Recipient will, within ten days of receiving written notice from the Discloser requesting the return of the Confidential Information:
+return in a secure and confidential manner all written or eye or machine readable versions and copies of  any or all of the Confidential Information (as the notice requires); and
+delete or destroy any other record (including electronic) of any part of the Confidential Information required by the Discloser to be returned which cannot be physically delivered to the Discloser; 
+except that Recipient's Legal Department may keep one copy of the Confidential Information in its files for the purpose of Recipient determining its compliance with its obligations under this Agreement.
+
+This Agreement shall be governed by the laws of the State of Queensland. 
+

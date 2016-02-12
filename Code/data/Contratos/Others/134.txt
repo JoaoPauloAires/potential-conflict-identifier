@@ -1,0 +1,185 @@
+
+    
+
+Associated Operator General Financier Direct Agreement
+The Director-General of the Ministry of Transport
+[Name of Financier]
+[Name of Associated Operator]
+
+[Pro forma version dated November 2005]
+
+
+
+Contents
+
+Clause
+Number	Heading	Page
+
+1	Definitions and interpretation	1
+2	Consent, priority and agreements	2
+3	Dispute resolution	5
+4	GST	6
+5	Assignment	6
+6	Notices	6
+7	Entire agreement	7
+8	No waiver	7
+9	Amendment	8
+10	Further assurances	8
+11	Costs	8
+12	Severability of provisions	8
+13	Governing law and jurisdiction	8
+14	Counterparts	8
+
+
+
+Date                                                                   PartiesDirector-General of the Ministry of Transport under the Passenger Transport Act (1990) (NSW) of Level 19, 227 Elizabeth Street, Sydney, New South Wales on behalf of The Crown in Right of the State of New South Wales (Director-General)[insert name and address of Financier] (Financier)[insert name and address of Associated Operator] (Associated Operator)
+
+ Recitals
+A	The Director-General and the Operator are parties to the MBSC under which the Operator has agreed to provide certain bus services to the Director-General and users of public bus services.
+B.	The Associated Operator has agreed to provide the Operator with services and assets to assist the Operator to perform its obligations under the MBSC.  
+C.	The Associated Operator has also entered into the Associated Operator Direct Agreement with the Director-General agreeing to perform certain obligations of the Operator under the MBSC.
+D.	To better secure performance by the Associated Operator of its obligations under the Associated Operator Direct Agreement, the Associated Operator has provided, or may in the future provide, security over its assets in favour of the Director-General. 
+E	The Associated Operator and the Financier have entered into a facility agreement under which the Financier has made, or will in the future make, advances to the Associated Operator. 
+F.	To better secure repayment of advances made under the facility agreement, the Associated Operator has provided security over its assets in favour of the Financier.  
+H.	This Agreement sets out the parties' agreement as to how the priority between the Director-General's and the Financier's security interests will be regulated, acknowledges the Director-General's end of term rights over certain assets of the Associated Operator and other relevant matters between the parties.  
+
+ Operative provisions
+1 Definitions and interpretation
+1.1 Definitions
+In this Agreement, unless the context requires another meaning:
+Associated Operator Direct Agreement means the Associated Operator Direct Agreement dated [x] between the Associated Operator and the Director-General.
+Default means any event or circumstance which, alone or with the giving of notice or passage of time or both, would entitle a Security Holder to enforce its Security Interest.
+First Security means any Security Interest granted by the Associated Operator (whether before or after the date of this Agreement) in favour of the Financier.
+First Security Holder means the Financier.
+MBSC means the Metropolitan Bus System Contract dated [x] between the Operator and the Director-General.
+Order of Priorities means the order of priorities between the First Security and the Second Security set out in Clause 2.2.
+Operator  means [insert name of Operator].
+Potential Default means any event or circumstance that, in the reasonable opinion of the relevant Security Holder, indicates a material risk of Default.
+Second Security means any Security Interest granted by the Associated Operator (whether before of after the date of this Agreement) in favour of the Director-General.
+Second Security Holder means the Director-General.
+Secured Obligations means, for a Security Holder, all money, obligations and liabilities (actual or contingent) of any kind the payment, repayment or satisfaction of which is, or may in the future become, secured by that Security Holder's Security or which are, or may in the future become, due, owing or payable to that Security Holder under its Security.
+Securities means the First Security and the Second Security and Security means either of them.
+Security Holder means the First Security Holder and the Second Security Holder, or either of them.
+1.2 Interpretation
+(a) A term defined in the MBSC, and not defined in this Agreement, has the same meaning when used in this Agreement.
+(b) Clauses 1.2 to 1.8 of the MBSC apply to this Agreement as if set out in full and all references to "this Agreement" were references to this Agreement. 
+1.3 Determination, Statement and Certificate conclusive
+Except where otherwise provided in this Agreement any determination, statement or certificate by the Director-General or an authorised officer of the Director-General provided for in this Agreement is conclusive and binds the parties in the absence of manifest error. 
+2 Consent, priority and agreements
+2.1 Consent to Security
+Each Security Holder:
+(a) consents to the creation and execution by the Associated Operator of the Security in favour of the other Security Holder; and
+(b) agrees that the creation or existence of that Security does not constitute a breach by the Associated Operator of any covenant or condition of the Security in its own favour.
+2.2 Priority
+(a) The Security Holders agree that the Securities rank in the following order of priority:
+(i) the First Security ranks first for payment and satisfaction of the Secured Obligations of the First Security Holder; and
+(ii) after payment or satisfaction in full of that First Security Holder's Secured Obligations, the Second Security ranks second for payment and satisfaction of the Secured Obligations of the Second Security Holder.
+(b) The Second Security Holder agrees that its Second Security is subject to and ranks subsequent in priority for all purposes to the First Security and is postponed to the rights of the First Security Holder under the First Security.
+2.3 Continuation of Priority
+The Order of Priorities continues to apply, in respect of assets subject to a Security, until either:
+(a) the First Security Holder's Secured Obligations owed to the holder of the First Security over those assets have been paid or satisfied in full and that First Security is released or discharged; or
+(b) this Agreement is terminated by agreement in writing between the Security Holders.
+2.4 Notice of default
+Each Security Holder agrees to notify the other Security Holder of the occurrence of:
+(a) any monetary default under its Security; and
+(b) any other default under its Security in respect of which notice of default or requiring remedy has been given to the Associated Operator,
+where that default remains unremedied by the Associated Operator for more than [30] days (or any lesser period afforded the Associated Operator to remedy such default under the relevant Security).  Nothing in this Clause 2.4 prevents a Security Holder from notifying the other Security Holder of any default referred to in paragraphs (a) or (b) at any earlier time.
+2.5 Security Holder's cure rights
+(a) A Security Holder may, on receipt of a notice referred to in Clause 2.4, elect to cure the relevant default.  If the Security Holder elects to cure the default, the Security Holder providing the notice agrees not to exercise its rights to enforce its Security prior to the later of:
+(i) the expiration of any unexpired grace period that applies to the default under the relevant Security; and
+(ii) 20 Business Days after the Security Holder has provided the notification referred to in Clause 2.4.
+(b) Nothing in this Clause obliges a Security Holder to cure a default. 
+2.6 Enforcement of Securities
+(a) The Second Security Holder must not enforce its Second Security without first obtaining the written consent of the First Security Holder. 
+(b) The First Security Holder is not required to obtain the consent or approval of the Second Security Holder before enforcing or attempting to enforce its First Security. 
+(c) Notwithstanding any other provision of this Agreement or any Security, but subject to Clauses 2.7, 2.8 and 2.9, if the First Security Holder, pursuant to any enforcement action taken under its First Security, sells or otherwise disposes of any asset subject to the Second Security or notifies the Second Security Holder that it will do so, the Second Security Holder must unconditionally and irrevocably release the relevant asset from its Second Security as soon as possible and in any event within 5 Business Days of receipt of a written notice from the First Security Holder requiring it to do so. 
+2.7 Director-General's Option Right
+(a) The First Security Holder may not, in taking any enforcement action under its First Security, procure the sale or other disposal of any New Asset the subject of its First Security without first providing the Director-General with written notice offering the Director-General or his nominee the right to acquire that New Asset from the Associated Operator:
+(i) on the same terms as set out in clause 7 of the Associated Operator Direct Agreement in respect of any Sale Asset (other than clause 7.5); and
+(ii) on the same terms as set out in clause 8  of the Associated Operator Direct Agreement in respect of any Novation Lease (other than clause 8.6),
+and as if any reference in clause 7  or 8  of the Associated Operator Direct Agreement:
+(iii) to the "Sale Completion Date" was a reference to the date 5 Business Days after agreement or determination of the relevant Sale Price; 
+(iv) to the "Novation Completion Date" was a reference to the date 5 Business Days after agreement or determination of the relevant Novation Completion Amount; 
+(v) to the "Valuation Date" was a reference to the date of the First Security Holder's notice under Clause 2.7(a); and
+(vi) to the "Successor Operator" was a reference to the Director-General (or his nominee if relevant).
+(b) The Director-General may exercise an option under Clause 2.7(a) by providing written notice to the First Security Holder within 20 Business Days of receiving a notice under Clause 2.7(a).  If the Director-General does not exercise an option within such period, the relevant option shall lapse and not be capable of being exercised. 
+2.8 Director-General's Rights to Sale Assets 
+(a) This Clause applies where the Director-General has the right to acquire Sale Assets on the terms set out in Clause 7 of the Associated Operator Direct Agreement.
+(b) Notwithstanding any other provision of this Agreement, or any Security, on the Sale Completion Date:  
+(i) the First Security Holder must release the Sale Assets from its Security; and
+(ii) the Director-General must procure the Successor Operator to:
+(A) in the case where the Director-General has received a notice from the First Security Holder under Clause 2.4 of this Agreement, distribute the Sale Price for each of the Sale Assets in accordance with the Order of Priorities; and
+(B) in each other case, pay the Sale Price to the Associated Operator.
+2.9 Director General's Rights to Novation Assets 
+(a) This Clause applies where the Director-General has the right to require a novation of Novation Leases on the terms set out in Clause 8 of the Associated Operator Direct Agreement.
+(b) Notwithstanding any other provision of this Agreement, or any Security, on the Novation Completion Date:
+(i) the First Security Holder must, to the extent that it has any Security over the Novation Assets, release the Novation Assets from that Security; and
+(ii) the Director-General must procure the Successor Operator to:
+(A) in the case where the Director-General has received a notice from the First Security Holder under Clause 2.4 of this Agreement, distribute the Novation Completion Amount (if any) in accordance with the Order of Priorities; and
+(B) in each other case, pay the Novation Completion Amount (if any) to the Associated Operator.
+2.10 Potential Default
+(a) Each Security Holder must use its reasonable endeavours to give the other Security Holder notice of a Potential Default within a reasonable period after becoming aware of that Potential Default.
+(b) Within 10 Business Days following receipt of a notice of Potential Default under Clause 2.10(a), the Security Holders must meet to discuss the Potential Default and any steps that either of them may consider reasonably necessary in the circumstances.  Neither Security Holder shall be obligated to take any action or agree to any arrangement as a consequence of a Potential Default.
+(c) Each Security Holder acknowledges that it shall have no rights against the other Security Holder for failing to provide a notice required under Clause 2.10(a).
+3 Dispute resolution
+If there is a dispute between the parties relating to or arising out of this Agreement, then within 10 Business Days of a party notifying the other party of a dispute, senior representatives from each party must meet and use all reasonable endeavours acting in good faith to resolve the dispute by joint discussions. This Clause 3.1 will not prevent either party from applying to a court at any stage for injunctive or other relief.
+4 GST
+(a) If GST is payable on a Taxable Supply made under, by reference to or in connection with this Agreement, the party providing the Consideration for that Taxable Supply must also pay the GST Amount as additional Consideration. This Clause 4 does not apply to the extent that the Consideration for the Taxable Supply is expressly stated to be GST inclusive.
+(b) Any reference in the calculation of Consideration or of any indemnity, reimbursement or similar amount to a cost, expense or other liability incurred by a party must exclude the amount of any Input Tax Credit entitlement of that party in relation to the relevant cost, expense or other liability. A party will be assumed to have an entitlement to a full Input Tax Credit unless it demonstrates otherwise prior to the date on which the Consideration must be provided.
+(c) Any reference in this Agreement to price, value, sales, revenue or a similar amount (Revenue), is a reference to that Revenue exclusive of GST.
+(d) Any reference in this Agreement (other than in the calculation of Consideration) to cost, expense or other similar amount (Cost), is a reference to that Cost exclusive of GST.
+(e) No payment of any amount pursuant to Clause 4(a), and no payment of the GST Amount where the Consideration for a Taxable Supply is expressly agreed to be GST inclusive, is required until the supplier has provided a Tax Invoice or Adjustment Note as the case may be to the recipient. 
+5 Assignment 
+(a) Subject to paragraph (b), a Security Holder may assign or transfer all or any of his or her rights or obligations under this Agreement with the written consent of the other Security Holder.
+(b) The Director-General may assign all of his or her rights or obligations under this Agreement in accordance with the Associated Operator Direct Agreement.
+(c) The Associated Operator may not assign or otherwise transfer any of its rights or obligations under this Agreement except in accordance with the Associated Operator Direct Agreement and with the consent of the Financier.
+6 Notices
+Any notice, demand, consent or other communication (the Notice) given or made under this Agreement:
+(a) must be in writing and signed by a person duly authorised by the sender;
+(b) must be delivered to the intended recipient by prepaid post (if posted to an address in another country, by registered airmail) or by hand or fax to the address or fax number below or the address or fax number last notified by the intended recipient to the sender:
+(i) to the Director-General:
+		Ministry of Transport:
+GPO Box 1620
+Sydney   NSW   2001
+Attention:	Director, Contracts and Compliance
+Fax No:		(02) 9891 8950
+(ii) to the Financier:
+[#]
+Attention:	[#]
+Fax No:	[#]
+(iii) to the Associated Operator:
+[#]
+Attention:	[#]
+Fax No:	[#]; and
+(c) will be taken to be duly given or made:
+(i) in the case of delivery in person, when delivered;
+(ii) in the case of delivery by post, two business days after the date of posting (if posted to an address in the same country) or seven business days after the date of posting (if posted to an address in another country); and
+(iii) in the case of fax, on receipt by the sender of a transmission control report from the despatching machine showing the relevant number of pages and the correct destination fax machine number or name of recipient and indicating that the transmission has been made without error,
+but if the result is that a Notice would be taken to be given or made on a day that is not a business day in the place to which the Notice is sent or is later than 4.00pm (local time) it will be taken to have been duly given or made at the commencement of business on the next business day in that place.
+7 Entire agreement
+This Agreement contains the entire agreement between the Financier, the Associated Operator and the Director-General with respect to its subject matter and supersedes all prior agreements and understandings between the parties in connection with it.
+8 No waiver
+No failure to exercise or any delay in exercising any right, power or remedy by a party operates as a waiver. A single or partial exercise of any right, power or remedy does not preclude any other or further exercise of that or any other right, power or remedy. A waiver is not valid or binding on the party granting that waiver unless made in writing.
+9 Amendment
+No amendment or variation of this Agreement is valid or binding on a party unless made in writing executed by all parties.
+10 Further assurances
+Each party agrees to do all things and execute all deeds, instruments, transfers or other documents as may be necessary or desirable to give full effect to the provisions of this Agreement.
+11 Costs
+Subject to any express provision in this Agreement to the contrary, each party must bear its own costs and expenses relating directly or indirectly to the negotiation, preparation, execution of and performance of its obligations under this Agreement.
+12 Severability of provisions
+Any provision of this Agreement that is prohibited or unenforceable in any jurisdiction is ineffective as to that jurisdiction to the extent of the prohibition or unenforceability. That does not invalidate the remaining provisions of this Agreement nor affect the validity or enforceability of that provision in any other jurisdiction.
+13 Governing law and jurisdiction
+This Agreement is governed by the laws of New South Wales. Each party submits to the non-exclusive jurisdiction of courts exercising jurisdiction there in connection with matters concerning this Agreement.
+14 Counterparts
+This Agreement may be executed in any number of counterparts. All counterparts together will be taken to constitute one instrument.
+Executed as an agreement in Sydney.
+The Director-General
+Signed sealed and deliveredby the Director-General for the time being of the New South Wales Ministry of Transport for and on behalf of the State Government of New South Walesin the presence of:Signature of witnessSignature of the Director-General of the New South Wales Ministry of Transport Name of witness (please print)
+[Financier execution clause]
+[Associated Operator execution clause]
+326844	
+
+	-i-
+
+
+

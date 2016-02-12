@@ -1,0 +1,93 @@
+"""
+    Algorithm to test the norm classifier in the Australian Contract Corpus.
+"""
+
+# -*- coding: utf-8 -*-
+from __future__ import division
+import nltk
+from nltk import word_tokenize as wt
+import random
+
+modalVerbs = ['can', 'could', 'may', 'might', 'must', 'shall', 'should', 'will', 'would', 'ought']
+#results = open('data/results.txt', 'a')
+
+def feature(sent):                                              #Feature method, which is responsible of extracting relevant features from sentences
+    lSent = sent.split()
+    features = {}
+    features["firstword"] = lSent[0].lower()                    #Gets the first word in the sentence
+    features["lastWord"] = lSent[-1].lower()
+    if len(lSent) > 2:                                          
+        features["secondword"] = lSent[1].lower()
+    for word in modalVerbs:
+        features["count(%s)" % word] = sent.lower().count(word)     #count how many modal verbs the sentence has
+        features["has(%s)" % word] = (word in lSent)                #see if the sentence has a modal verb
+    return features
+
+def fmeasure(classifier, testSet):                                  #method that calculates F-Measure
+    truePositive = 0
+    trueNegative = 0
+    falsePositive = 0
+    falseNegative = 0
+    for test in testSet:
+        if classifier(test[0]) == 'norm' and test[1] == 'norm':
+            truePositive = truePositive + 1
+        elif classifier(test[0]) == 'norm' and test[1] == 'noNorm':
+            falsePositive = falsePositive + 1            
+        elif classifier(test[0]) == 'noNorm' and test[1] == 'noNorm':
+            trueNegative = trueNegative + 1            
+        elif classifier(test[0]) == 'noNorm' and test[1] == 'norm':
+            falseNegative = falseNegative + 1            
+    
+    precision = truePositive/(truePositive+falsePositive)
+    recall = truePositive/(truePositive+falseNegative)
+    fMeasure = (2*precision*recall)/(precision + recall)
+    print "Precision: "+str(precision)+"\nRecall: "+str(recall)+"\nF-Measure: "+str(fMeasure)+"\n"
+
+def evaluate(classifier, testSet):
+    print "Accuracy: "+ str(nltk.classify.accuracy(classifier, testSet))+"\n"                           #obtain the classifier accuracy
+    print classifier.show_most_informative_features(5)                          
+#    print "Charlie must obey the candy and go to candy mountain."
+#    print classifier.classify(feature("Charlie must obey the candy and go to candy mountain."))
+#    print 'Today is a good day, I should try to see you!'
+#    print classifier.classify(feature('Today is a good day, I should try to see you!'))
+#    print 'The CPU on which CSB uses the Software may be a multiuser system and this License Agreement covers all users who have access to the CPU.'
+#    print classifier.classify(feature('The CPU on which CSB uses the Software may be a multiuser system and this License Agreement covers all users who have access to the CPU.'))
+    fmeasure(classifier.classify, testSet)
+           
+def process(sentences, evl):
+    limit = int(len(sentences) * .8)                                            #define a limit of 80% of the sentences for training
+    random.shuffle(sentences)
+    trainSet, testSet = sentences[:limit], sentences[limit:]                    #define train and test sets
+    print "Naive Bayes Classifier\n"
+    classifier = nltk.NaiveBayesClassifier.train(trainSet)                      #train a naive bayes classifier from NLTK
+    if evl:
+        evaluate(classifier, testSet)
+    classifier = classifier.classify
+    return classifier
+"""    results.write("--------------------------------\nDecision Tree Classifier\n")
+    classifier = nltk.DecisionTreeClassifier.train(trainSet)
+    evaluate(classifier, testSet)
+    results.write("--------------------------------\nMaximum entropy Classifier\n")
+    classifier = nltk.MaxentClassifier.train(trainSet)
+    evaluate(classifier, testSet)
+    results.write("--------------------------------\nConditional Exponential Classifier\n")
+    classifier = nltk.ConditionalExponentialClassifier.train(trainSet)
+    evaluate(classifier, testSet)    """
+
+            
+def start(*arg):
+    l = list(arg)
+    if not l:
+        evl = 0
+    else:
+        evl = 1
+    print "Start!"
+    sent_tokenizer=nltk.data.load('tokenizers/punkt/english.pickle')       
+    normSents = sent_tokenizer.tokenize(open('data/trainData/normsList.txt', 'r').read())      #Extract sentences in the text
+    noNormSents = sent_tokenizer.tokenize(open('data/trainData/noNormList.txt', 'r').read())
+    #Create a list with tuples for the features of the sentences extracted    
+    sentences = ([(feature(sent), 'norm') for sent in normSents] + [(feature(sent), 'noNorm') for sent in noNormSents[:2928]]) #2928
+    print len(sentences)   
+    return process(sentences, evl)
+
+#c = start(1)

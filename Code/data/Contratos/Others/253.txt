@@ -1,0 +1,847 @@
+SAAP V MULTILATERAL AGREEMENT MULTILATERAL AGREEMENT IN RELATION TO THE SUPPORTED ACCOMMODATION ASSISTANCE PROGRAMThe Commonwealth of Australia
+
+The State of New South Wales
+
+The State of Victoria
+
+The State of Queensland
+
+The State of Western Australia
+
+The State of South Australia
+
+The State of Tasmania
+
+The Australian Capital Territory
+
+The Northern Territory
+
+CONTENTS
+1.	Interpretation	6
+1.1.	Definitions	6
+1.2.	Interpretation	8
+2.	Overview of the SAAP agreement structure	9
+2.2.	This Agreement replaces previous agreements	10
+2.3.	Adding and removing parties to this Agreement	10
+2.4.	Bilateral Agreements	10
+2.5.	Duration of this Agreement	10
+3.	Objectives, Strategic Priorities and Principles of SAAP V	10
+3.1.	Objectives of SAAP V	10
+3.2.	Strategic Priorities for SAAP V	11
+3.3.	Principles for implementation of SAAP V	11
+4.	Responsibilities	12
+4.1.	Cooperative responsibilities	12
+4.2.	Role of the Commonwealth	13
+4.3.	Role of States and Territories	14
+5.	National coordination and advisory arrangements	16
+5.1.	National coordination arrangements	16
+5.2.	Advisory arrangements	16
+5.3.	Information sharing and media protocol	16
+6.	National Research Program	17
+6.1.	National Research Program	17
+6.2.	Data and Program Evaluation (DPE) Fund	17
+6.3.	National Data Collection (NDC) System	18
+6.4.	Innovation and Investment (I&I) Fund	18
+6.5.	Privacy	19
+6.6.	Commonwealth obligations	20
+6.7.	State and Territory obligations	20
+7.	Accountability, performance reporting and review	21
+7.1.	Accountability	21
+7.2.	State and Territory outcomes	21
+7.3.	Overview of national components	21
+7.4.	Annual SAAP performance reporting	22
+7.5.	Mid-term review	23
+7.6.	Final evaluation report	23
+7.7.	Bilateral reporting overview	23
+8.	Financial arrangements	23
+8.1.	Funding	23
+8.2.	Sanctions	24
+8.3.	Exemptions	25
+8.4.	Redistribution	25
+8.5.	Indexation arrangements	25
+8.6.	Uncommitted funds at 30 June	26
+8.7.	Repayment of funding assistance and rollover of funds	26
+8.8.	Financial Statement including Certificate of Compliance	26
+8.9.	Funds for program administration	26
+8.10.	Agreement not in place	26
+9.	General provisions	27
+9.1.	Agreement Managers	27
+9.2.	Liaison	27
+9.3.	Disputes and non-compliance	27
+9.4.	Extension or variation of this Agreement	28
+9.5.	Notice	28
+Schedule 1. Accountability Framework	31
+Schedule 2. Financial Arrangements	45
+Schedule 3. Consent under section 10 SAA Act 1994	49
+
+
+           SAAP V MULTILATERAL AGREEMENT
+MULTILATERAL AGREEMENT IN RELATION TO THE SUPPORTED ACCOMMODATION ASSISTANCE PROGRAM
+          Date
+This Agreement is dated 					 2005.
+          Parties
+This Agreement is made between the following parties:
+1. The Commonwealth of Australia as represented by the Minister for Family and Community Services (the Commonwealth);
+2. The State of New South Wales as represented by the Minister for Community Services, and Youth (New South Wales);
+3. The State of Victoria as represented by the Minister for Housing (Victoria);
+4. The State of Queensland as represented by the Minister for Communities, Disability Services and Seniors (Queensland);
+5. The State of Western Australia as represented by the Minister for Community Development, Culture and the Arts, Women's Interests (Western Australia);
+6. The State of South Australia as represented by the Minister for Families and Communities (South Australia);
+7. The State of Tasmania as represented by the Minister for Health and Human Services (Tasmania);
+8. The Australian Capital Territory as represented by the Minister for Disability, Housing and Community Services (Australian Capital Territory); and
+9. The Northern Territory as represented by the Minister for Family and Community Services (Northern Territory).
+          Preamble
+This Agreement is made in the following context:
+A. The Commonwealth, State and Territory Supported Accommodation Assistance Program (SAAP) Agreement provides a framework that guides and strengthens the relationship between the Commonwealth, State and Territory Governments to:
+ provide transitional supported accommodation and related support services, in order to help people who are homeless to achieve the maximum possible degree of self-reliance and independence. Within this aim the goals are:
+ (a)	to resolve crisis;
+ (b)	to re-establish family links where appropriate; and 
+ (c)	to re-establish the capacity of clients to live independently of SAAP (subsection 5(2) Supported Accommodation Assistance Act 1994).
+B. This Agreement contributes to responses to homelessness. It is made under the provisions of the Supported Accommodation Assistance Act 1994 (Commonwealth) and has been jointly developed by the Commonwealth, State and Territory Governments. The parties to this Agreement have a shared interest in improving outcomes for people who are homeless and those at risk of homelessness, including people experiencing domestic violence. 
+C. The Commonwealth, States and Territories acknowledge that homelessness is a complex problem that requires a flexible range of responses across the breadth of the human service delivery system. The Supported Accommodation Assistance Program is an important part of the continuum of the Australian effort towards preventing and responding to homelessness and domestic violence.
+D. This Agreement is the fifth in a series of agreements between the parties. Arrangements over the next five years will enhance program development, further promote service quality and optimise client outcomes.  
+E. SAAP relies on agreed funding and is cooperatively managed at the national level between the Commonwealth and the States and Territories. Delivery is primarily by non-government service providers with some local government participation. 
+F. The parties wish to continue to build a robust program that consolidates and builds on the strengths of SAAP over the past twenty years. The Commonwealth Government in cooperation with the governments of the States and Territories have agreed to focus on three Strategic Priorities over the life of this SAAP V Agreement. These are: 
+a. increase involvement in early intervention and prevention strategies;
+b. provide better assistance to people who have a number of support needs; and
+c. provide ongoing assistance to ensure stability for clients post crisis.
+G. In working towards these priorities the parties recognise the vulnerability of people who are homeless or at imminent risk of homelessness, including those with a high level of support needs.
+H. The parties also recognise the dignity of people who are homeless or at imminent risk of homelessness and commit to provide support and opportunities to increase their independence and self-reliance and maximise their participation in community life. 
+I. This Agreement is primarily about responsibilities, financial arrangements and the accountability framework for the fifth SAAP Agreement (SAAP V).  
+          Operative provisions
+In consideration of the provisions contained in this Agreement, the parties agree as follows:
+1. Interpretation
+1.1. Definitions
+1.1.1. Unless the contrary intention appears a term in bold type has the meaning shown opposite it:
+Accountability FrameworkMeans the framework set out in Schedule 1.ActMeans the Commonwealth Supported Accommodation Assistance Act 1994.Agreement Means this multilateral agreement.Agreement Manager Means an officer nominated by a party as having responsibility for day to day management of a party's role under this Agreement.Administrative DataMeans the data provided by each State and Territory for the National Data Collection. It covers a comprehensive range of agreed data items on each SAAP Service Provider.Bilateral AgreementMeans an agreement made between the Commonwealth and a State or Territory that is a party to this Agreement to deal with SAAP issues that are either individual to the State or Territory, or not covered in this Agreement.Business DayIn relation to the doing of any action in a place, means a weekday other than a public holiday in that place.CADMeans the National SAAP Co-ordination and Development Committee provided for by section 11 of the Act.CALD
+CSMACMeans culturally and linguistically diverse.
+Community Services Ministers' Advisory Council.Commonwealth Means the Commonwealth of Australia.community partner Refers to those people or organisations with an interest in SAAP that is broader than funded SAAP Service Providers. The community partners of SAAP include Service Providers, academics, researchers, clients, non-government organisations in related fields and government agencies in Commonwealth and State and Territory jurisdictions.Data and Program Evaluation Fund (DPE Fund)Means the fund referred to in clause 6.2.
+Innovation and Investment Fund (I&I Fund)
+Means the fund referred to in clause 6.4.jurisdictionWhere the context permits, means the area of responsibility of the Commonwealth, States, Territories or any of them.MinisterMeans the Minister of a party to this Agreement who is responsible for the administration of SAAP in their jurisdiction. Where appropriate, a reference to Minister may also include a delegate of that Minister.National Data Collection (NDC) System Means the data collection system developed and maintained by CAD and administered by the Commonwealth on behalf of all parties pursuant to section 12 of the Act.National Research Program Means the program developed and maintained by CAD and administered by the Commonwealth on behalf of all parties pursuant to section 12 of the Act.parties Means the Commonwealth as well as those States and Territories that are parties to this Agreement.people who are homelessHas the same definition as in subsection 4(1) of the Act, essentially that a person is homeless: "if, and only if, he or she has inadequate access to safe and secure housing" and includes (in accordance with section 3 of the Act):
+a. people who are in crisis and at imminent risk of becoming homeless; and
+b. people who are experiencing domestic violence and are at imminent risk of becoming homeless.Personal Information Has the same meaning as in the Privacy Act 1988 of the Commonwealth.PrinciplesMeans the Principles set out in clause 3.3.SAAPMeans the Supported Accommodation Assistance Program. SAAP IV refers to the agreement structure surrounding the fourth period of the SAAP and running from 2000-2005. SAAP V refers to the agreement structure surrounding the fifth period of the SAAP from 2005-2010.SAAP service 
+Means the form of assistance provided by a Service Provider and may include, but is not limited to, accommodation.Service Provider Refers to a person or organisation that provides services under SAAP. Service Providers may provide a range of assistance including case management; assessment and referral; supported accommodation; brokerage; early intervention; outreach; mediation, including re-establishment of family links where appropriate; counselling; and advocacy.State Means a State of the Commonwealth of Australia State/Territory-only funded SAAP serviceTo qualify as a State/Territory-only funded SAAP service, a service must:
+a. meet the definition of "services" as defined by the Act; 
+b. have commenced during the term of SAAP IV;
+c. have received recurrent funding from the State/Territory during the term of SAAP IV; 
+d. receive, under the terms of the State/Territory funding agreement, recurrent funding from the State/Territory into the period of SAAP V; 
+e. be funded under a State/Territory funding agreement that will come to an end during the term of SAAP V; and 
+f. address one or more of the Strategic Priorities of SAAP V. Strategic PrioritiesMeans the Strategic Priorities set out in clause 3.2.TerritoryMeans the Australian Capital Territory or the Northern Territory.uncommitted funds Means SAAP funds which have not been approved for a specific service or project by a State or Territory Minister or delegate at the end of a Year or which have not been committed for expenditure for a specific service or project within the ensuing twelve months.YearMeans a financial year beginning July 1 and finishing the following June 30. "Year 1" means the first Year of this agreement beginning on the commencement date and finishing on 30 June 2006. Years 2,3,4 and 5 refer to subsequent Years over which this Agreement runs.1.2. Interpretation
+1.2.1. In this Agreement, unless the contrary intention appears:
+a. words importing a gender include any other gender;
+b. words in the singular include the plural and words in the plural include the singular;
+c. clause headings are for convenient reference only and have no effect in limiting or extending the language of provisions to which they refer;
+d. words importing a person includes a partnership and a body whether corporate or otherwise;
+e. a reference to dollars is a reference to Australian dollars;
+f. a reference to any legislation or legislative provision includes any statutory modification, substitution or re-enactment of that legislation or legislative provision;
+g. if any word or phrase is given a defined meaning, any other part of speech or other grammatical form of that word or phrase has a corresponding meaning;
+h. a reference to an Item of a Schedule is a reference to an Item in either Schedule 1 or 2 (as appropriate);
+i. the Schedules and attachments form part of this Agreement;
+j. if any conflict arises between the terms and conditions contained in the clauses of this Agreement and any part of a Schedule (or attachment), the terms and conditions of the clauses prevail;
+k. if any conflict arises between any part of a Schedule and any part of an attachment, the Schedule prevails;
+l. a reference to a Schedule (or an attachment) is a reference to either Schedule 1 or 2 (as appropriate) (or an attachment) to this Agreement, including as amended or replaced from time to time by agreement in writing between the parties; and
+m. a reference to writing is a reference to any representation of words, figures or symbols. 
+2. Overview of the SAAP agreement structure
+2.1.1. This Agreement is made in accordance with the provisions of the Act and deals with:
+a. the implementation of matters agreed to by the parties;
+b. nationally agreed objectives and outcomes for SAAP, including State and Territory priorities; 
+c. planning, research, advisory and reporting arrangements; 
+d. the arrangements for funding to be provided by the Commonwealth and the States and Territories to assist the achievement of SAAP objectives and outcomes;
+e. a framework for accountability by the parties and performance management and measurement against the agreed national objectives and outcomes; 
+f. SAAP V program review and evaluation; and
+g. other matters required to be dealt with under the Act.
+2.1.2. SAAP V has multilateral and bilateral dimensions. This Agreement forms the multilateral component. 
+2.2. This Agreement replaces previous agreements
+2.2.1. This Agreement replaces the memorandum of understanding and the bilateral agreements signed by the parties under SAAP IV, as well as all previous agreements made under the Act in relation to SAAP. 
+2.2.2. Any unperformed obligations (including reporting and research) of a party to the SAAP IV arrangements will be performed under this Agreement as if they were obligations under this Agreement, except where the Commonwealth and party involved agree otherwise.
+2.3. Adding and removing parties to this Agreement
+2.3.1. The Commonwealth may agree to add, as a party, any State or Territory to this Agreement which is not already a party to this Agreement at any time during the term of this Agreement. 
+2.3.2. Parties may remove themselves from this Agreement in accordance with the provisions of clause 9.3. 
+2.4. Bilateral Agreements
+2.4.1. Bilateral Agreements between the Commonwealth and each other party to this Agreement deal with specific State and Territory SAAP issues. Each State and Territory party to this Agreement will enter into a Bilateral Agreement with the Commonwealth as soon as practicable after the commencement date of this Agreement as set out in clause 2.4.3.
+2.4.2. Where the terms of a Bilateral Agreement conflict with the terms of this Agreement, the terms of this Agreement will override the terms of the Bilateral Agreement. 
+2.4.3. The Commonwealth may impose financial sanctions on States and Territories who fail to enter into a Bilateral Agreement by 31 January 2006 as set out in clause 8.2.
+2.5. Duration of this Agreement
+2.5.1. This Agreement will commence operation on 1 October 2005 and conclude on 30 June 2010, unless earlier terminated, or extended in accordance with clause 9.4.
+3. Objectives, Strategic Priorities and Principles of SAAP V
+3.1. Objectives of SAAP V
+3.1.1. The parties will work cooperatively to provide transitional supported accommodation and a range of related support services, in order to help people who are homeless to achieve the maximum possible degree of self-reliance and independence.  
+3.1.2. Within this aim, the goals are to help people who are homeless to (in accordance with subsection 5(2) of the Act):
+a. resolve crisis; 
+b. re-establish family links where appropriate; and
+c. re-establish a capacity to live independently of SAAP. 
+3.1.3. The objectives of SAAP V are to be achieved by (in accordance with subsection 5(3) of the Act):
+a. providing or arranging for the provision of support services and supported accommodation; and
+b. assisting people who are homeless to obtain long term, secure and affordable housing and support services. 
+3.2. Strategic Priorities for SAAP V
+3.2.1. The parties wish to continue to build a robust program that consolidates and builds on the strengths of SAAP over the past twenty years. Through SAAP, the Commonwealth in cooperation with the States and Territories have agreed to focus on three Strategic Priorities over the life of this SAAP V Agreement. These are to:
+a. increase involvement in early intervention and prevention strategies;
+b. provide better assistance to people who have a number of support needs; and
+c. provide ongoing assistance to ensure stability for clients post-crisis.
+3.3. Principles for implementation of SAAP V
+3.3.1. The principles adopted by the parties for implementation of SAAP V are:
+a. Shared commitment
+Commitment for SAAP is shared between the Commonwealth and all State and Territory governments. It relies on agreed funding, a shared commitment to performance monitoring and evaluation, and a shared commitment to collaboration between parties.
+b. Cultural appropriateness 
+SAAP services are inclusive and recognise that the characteristics of homelessness vary between cultural groups. SAAP services will be appropriate in their design, delivery and promotion to the needs of Indigenous people and people from culturally and linguistically diverse backgrounds and where appropriate, delivered with the assistance of an interpreter in a language in which the client is competent in.
+c. Service responsiveness and flexibility
+SAAP services are sensitive to the range of needs of the client. Appropriate client-focussed responses are delivered as soon as practicable, and case management ensures that changing needs are met. Services are able to establish and maintain linkages to assist in resolving client needs, including reconnection with family and social networks and with employment, housing, education and income support to help with longer term stabilisation.
+d. Service accessibility
+SAAP services are accessible to all clients, and there are no barriers to access - for example due to an inability to pay. Services are able to meet the special needs of specific client groups, and there are no discriminatory practices or policies. 
+e. Client rights and dignities protected and promoted
+The SAAP service system supports effective client charters and provides access to appropriate avenues of dispute resolution.
+f. Client independence and resilience maximised 
+SAAP service delivery is aimed at maximising the client's capacity for independence and resilience, by establishing appropriate connections with the range of social and economic supports and enhancing the opportunities for participation. These include reconnection with family and social networks and with employment, housing, education and income support to help with longer term stabilisation. 
+g. A service system that is efficient and effective
+Within available resources the SAAP service system is robust and sustainable, and is able to reform to meet emerging and changing needs without jeopardising existing system successes. 
+3.3.2. The parties will develop SAAP in collaboration with community partners and use their best endeavours to meet nationally agreed objectives and performance indicators as set out in this Agreement.
+4. Responsibilities
+4.1. Cooperative responsibilities
+4.1.1. The parties will work to realise the Objectives, Strategic Priorities, Principles and other provisions set out in this Agreement in collaboration with each other, Service Providers and related government and non-government stakeholders. 
+4.1.2. The parties will develop responses in collaboration with community partners and use their best endeavours to meet nationally agreed objectives and performance indicators set out in this Agreement.
+4.1.3. This cooperative relationship will be guided by:
+a. clear delineation of roles and responsibilities;
+b. a robust accountability framework; and
+c. policy development that is informed by consultation with clients, Service Providers and other community partners.
+4.1.4. The parties will work with each other to:
+a. provide leadership for SAAP;
+b. actively participate in CAD, which will be responsible for advising CSMAC on the strategic national directions of SAAP;
+c. ensure transparency and accountability of the funding; 
+d. promote SAAP as a program that is equitable, efficient and effective and complements other programs assisting people who are homeless;
+e. encourage reform of the existing service system in particular across the three Strategic Priorities;
+f. manage the National Data Collection (NDC) System and the National Research Program; and
+g. manage, monitor, evaluate and report on the performance of SAAP. 
+4.1.5. The Commonwealth Minister and all State and Territory Ministers through written consent included at Schedule 3 in accordance with section 10 of the Act, have agreed to allow SAAP V to replace or duplicate services that are already provided by, or the responsibility of, any other government, program or organisation. Where the Commonwealth and a State or Territory mutually agree to include a non-SAAP service provided by that State or Territory within SAAP V, that service will be noted in the relevant Bilateral Agreement. The replacement or duplication of services by SAAP V will be subject to the provisions of this Agreement including meeting the definition of State/Territory - only funded SAAP service.
+4.2. Role of the Commonwealth
+4.2.1. The Commonwealth's responsibilities are to:
+a. provide the agreed funding contribution to the States and Territories for SAAP as set out in this Agreement;
+b. identify Commonwealth policy and Strategic Priorities in collaboration with States and Territories and stakeholders, and advise States and Territories of Commonwealth objectives and their relationship to the Strategic Priorities;
+c. ensure the national program outcomes pursued are consistent with broad national objectives on behalf of CAD;
+d. promote and encourage appropriate linkages between SAAP and Commonwealth support services, such as employment and income support services;
+e. coordinate national reporting on behalf of CAD; 
+f. administer a National Research Program, including the NDC system;
+g. manage and administer the Commonwealth contribution to the Innovation and Investment (I&I) Fund during Years 2 and 3 of this Agreement targeting the Strategic Priorities in consultation with the States and Territories;  
+h. monitor performance information and reporting relating to this Agreement and the Bilateral Agreements to ensure that Agreement objectives are being met;
+i. administer national program financial management;
+j. coordinate with and report to States and Territories on the total amount of funding made available and expended by the Commonwealth under this Agreement, including through the I&I Fund; and
+k. allocate funding from the I&I Fund in accordance with the Strategic Priorities and Principles outlined in clauses 3.2 and 3.3 of this Agreement.
+4.3. Role of States and Territories
+4.3.1. The States and Territories' responsibilities are to:
+a. Provide the agreed funding contribution to SAAP as set out in this Agreement;
+b. identify State and Territory policy and strategic priorities consistent with the Strategic Priorities and informed by consultation with community partners;
+c. plan, develop, manage and administer the funding to SAAP services to meet Agreement outcomes, including development of relevant policy in these areas;
+d. participate in and contribute to the National Research Program including the I&I Fund and the Data and Program Evaluation (DPE) Fund as identified in Schedule 2 and outlined in clause 6;
+e. report in an agreed, nationally consistent manner that enables performance monitoring and assessment by both the Commonwealth and the States and Territories based on the Accountability Framework;
+f. determine which Service Providers should be funded, approve funding and provide active management to those Service Providers while ensuring that outcomes in relation to people who are homeless are taken into account in the provision of funding for SAAP services;
+g. ensure contractual arrangements require that all relevant Service Providers participate fully in the National Data Collection and comply with appropriate privacy requirements as set out in this Agreement;
+h. report to the Commonwealth on the total amount of funding made available and expended by the State or Territory under this Agreement;
+i. ensure contractual arrangements require that SAAP services are provided in accordance with the Strategic Priorities and are responsive to local needs and circumstances; 
+j. ensure through contractual agreements appropriate linkages are encouraged between SAAP and other specialist or generic service systems and sectors;
+k. implement case management at a State and Territory level;
+l. establish the means by which the civil, political, economic and social rights of people who are homeless may be preserved and protected by Service Providers; and
+m. work with Service Providers to enhance the skill levels of their work force and establish networks of support between Service Providers.
+4.3.2. The States and Territories will have contractual arrangements in place that encourage Service Providers, over time, to fulfil some or all of the following responsibilities (in accordance with section 7 of the Act):
+a. help people who are homeless to resolve crisis, and to achieve greater self-reliance and independence, through the following:
+i. case management;
+ii. provision of a range of supported crisis and transitional accommodation;
+iii. assessment and referral; and
+iv. pre-crisis, crisis and post-crisis interventions, including re-establishment of family links.
+b. further the integration into the community of people who are homeless by facilitating and promoting access to the following non-SAAP services:
+i. employment;
+ii. education and training;
+iii. health services (including mental health services);
+iv. disability and rehabilitation services;
+v. children's support services;
+vi. income support; and
+vii. other appropriate opportunities and resources.
+c. help people who are homeless to obtain long-term, secure, and affordable housing and accommodation by providing support, referral and assistance to access a range of options suitable to their needs; and
+d. complement other services available to people who are homeless.
+5. National coordination and advisory arrangements
+5.1. National coordination arrangements
+5.1.1. The parties will participate and be represented in CAD.
+5.1.2. CAD shall be a formal sub-committee of the Community Services Ministers Advisory Council (CSMAC), operating within a non-standard set of CSMAC sub-committee guidelines.
+5.1.3. The role of CAD is to advise CSMAC on the development of SAAP at the national level. It will do this by developing, implementing and monitoring SAAP Strategic Priorities and administrative arrangements. While CAD may determine its specific functions and terms of reference, these functions will, at least, include development and implementation of the National Research Program.
+5.1.4. CAD will be a committee comprising:
+a. a representative from each State and Territory participating in SAAP; and
+b. two representatives from the Commonwealth, one of whom will chair CAD.
+5.1.5. CAD will meet at such times and places as determined by the chairperson in consultation with the other members of CAD.
+5.1.6. CAD may appoint sub-committees to assist it in its work.
+5.1.7. The Commonwealth will perform the support and secretariat functions for CAD.
+5.2. Advisory arrangements
+5.2.1. The parties recognise the importance of working collaboratively with community partners. As appropriate, the parties may seek broad-ranging ongoing advice from stakeholders including from community experts, representatives of the States and Territories, and representatives of the Commonwealth lead agencies in housing, health and other related programs.
+5.3. Information sharing and media protocol
+5.3.1. In relation to significant program developments including new services and pilots where appropriate, the parties agree that announcements, including media releases, will be made jointly by those parties involved in the significant program development.
+5.3.2. The Minister of each relevant party may decline involvement in an announcement in which case the remaining parties may make the announcement on their own behalf. 
+5.3.3. In addition, the parties will:
+a. acknowledge the financial and other support received from any other party in all publications, promotional materials and promotional activities relating to this Agreement; 
+b. disclose in budget papers and media releases estimates of the financial contributions from each party in any SAAP measures; and
+c. respond to requests for information and advice from Agreement Managers.  In relation to such requests, there is a commitment that the relevant Agreement Manager will respond within 10 working days or as negotiated. 
+6. National Research Program
+6.1. National Research Program
+6.1.1. In accordance with the subsection 12(1)(b) of the Act, a SAAP National Research Program will be developed during SAAP V in consultation with all parties.
+6.1.2. The National Research Program will comprise of two components;
+a. a Data and Program Evaluation Fund including the NDC; and
+b.  an Innovation and Investment Fund.
+6.1.3. The aims of the National Research Program, in accordance with section 12 of the Act, will be to: 
+a. inform the development of policies relating to supporting people who are homeless, including those experiencing domestic violence;
+b. improve the management of SAAP; and
+c. improve understanding of program impact, including measuring outcomes in SAAP.
+6.1.4. The DPE Fund will continue ongoing program data collection development and evaluation building on from work completed in SAAP IV, whilst the I&I Fund will specifically target processes and priorities for sector reform within each jurisdiction in line with the three Strategic Priorities as specified in clause 3.2.1 of this Agreement.
+6.1.5. The parties will provide such information and assistance as is reasonably required in connection with the operation of the National Research Program (including the NDC System) in a timely manner and participate fully in these activities.
+6.2. Data and Program Evaluation (DPE) Fund  
+6.2.1. All parties agree to contribute to a national DPE Fund as set out in Schedule 2. The Commonwealth will administer such funding for the purposes of agreed SAAP data and evaluation activities and report to CAD.
+6.2.2. This contributed funding will enable national data and evaluation activities as required under section 12 of the Act to be undertaken, including:  
+a. the NDC System, which will contribute to facilitating the planning, evaluation and accountability of SAAP at Commonwealth and State and Territory levels;
+b. completing a mid-term review of SAAP V;
+c. completing a final evaluation of SAAP V;
+d. supporting administrative reporting requirements;
+e. providing opportunities for research dissemination; and
+f. developing performance indicators for measuring outcomes for SAAP.
+6.2.3. Priorities for research through the DPE Fund include data collection identified by CAD following consultation with stakeholders and reviewed periodically by all parties during the term of this Agreement. In particular, priority will be given to those tasks associated with the development of better information to assist performance measurement against the Accountability Framework. 
+6.2.4. The parties agree that the Commonwealth will, on behalf of each State and Territory, pay into the DPE Fund and manage the contribution required from the funds payable to the State and Territory under clause 8.1.1.
+6.2.5. The parties agree that any uncommitted funds at the cessation of the SAAP IV Agreement held in the Research and Development Fund will transfer to SAAP V. The Research and Development Fund will be known under SAAP V as the DPE Fund. Contractual commitments to expend funds in the Research and Development Fund that were entered into during the term of SAAP IV, will be paid from the DPE Fund.
+6.3. National Data Collection (NDC) System
+6.3.1. The parties will continue to maintain, develop and participate in the NDC System, provide agreed information in a timely manner and assist all Service Providers to participate fully. 
+6.3.2. During the life of SAAP V the parties agree to a review of the efficiency of the National Data Collection as a service system including associated contractual arrangements.
+6.4. Innovation and Investment (I&I) Fund
+6.4.1. All parties agree to contribute to a national I&I Fund at the levels set out in Schedule 2. 
+6.4.2. The I&I Fund will consist of Commonwealth and State and Territory monetary funding and those State/Territory-only funded SAAP services accepted into this Agreement. 
+6.4.3. The I&I Fund will be a collaborative venture between all parties with the aim of progressing and strengthening sector reform in line with the three Strategic Priorities of SAAP V.
+6.4.4. The following I&I Fund activities will be completed during the life of SAAP V:
+a. Year 1: CAD will develop a national strategic direction action plan for the I&I Fund. Additionally:
+i. States and Territories will provide to the Commonwealth for approval during Year 1, a detailed strategic direction action plan for their respective jurisdictions for Years 2-5 of SAAP. Performance indicators will be agreed between the Commonwealth and each State and Territory. These performance indicators will be developed against individual State and Territory contributions to the I&I Fund and form part of the Bilateral Agreements; and
+ii. State and Territory strategic direction action plans will draw on and align with national approaches identified for the I&I Fund by CAD in the national strategic direction action plan.
+b. Years 2-3: The I&I Fund will be used to build on current best practice and undertake research and evaluation of innovative types of service delivery. The I&I Fund will also pilot a number of strategic initiatives, and research and evaluation projects that will lead to more targeted, effective and efficient service models. Commonwealth funding will be distributed amongst all jurisdictions across a range of target groups. The Commonwealth will take advice from CAD on priorities and expenditure decisions.
+c. Years 4-5: The Commonwealth funding component of the I&I Fund will be distributed to States and Territories to fund selected reform measures identified in the earlier phase as set out in Schedule 2. Performance indicators developed during Year 3 and reflected in Bilateral Agreements will clearly identify outcomes against these funds during Years 4 and 5. 
+6.5. Privacy
+6.5.1. In participating in the National Research Program including the NDC System, the parties agree to:
+a. use Personal Information held or controlled by them in connection with this Agreement only for the purposes of fulfilling the party's obligations under this Agreement;
+b. take all reasonable measures to ensure that Personal Information in a party's possession or control in connection with this Agreement is protected against loss and unauthorised access, use, modification or disclosure; and
+c. comply with the party's obligations under the Privacy Act 1988 and/or relevant State or Territory privacy legislation, including where relevant the Information Privacy Principles contained in the Privacy Act 1988. In order to meet the requirements of section 12 of the Act, where the State or Territory does not have privacy legislation, that State or Territory will protect the privacy of Personal Information collected in relation to this Agreement in line with the Privacy Act 1988 as if that State or Territory were the Commonwealth. 
+6.5.2. Each State and Territory will ensure that contractual arrangements with Service Providers include provisions that require the Service Provider to protect the privacy of Personal Information dealt with and collected by the Service Provider to at least the same extent as is required of the State or Territory under this Agreement. 
+6.6. Commonwealth obligations
+6.6.1. The Commonwealth will:
+a. in conjunction with CAD, work to secure CSMAC approval for annual CAD research priorities annually;
+b. administer the National Research Program; 
+c. administer the NDC System; 
+d. manage and administer the Commonwealth contribution to the I&I Fund during Years 2 and 3 of this Agreement;
+e. facilitate information sharing and dissemination among the parties to this Agreement; and
+f. support and conduct research and development initiatives, at the national level, in conjunction with CAD.
+6.7. State and Territory obligations
+6.7.1. Each State and Territory will provide funding for the National Research Program in accordance with this Agreement.
+6.7.2. Each State and Territory will:
+a. provide data and reports, particularly the data required for the NDC System in a timely manner as detailed in this Agreement and individual Bilateral Agreements;
+b. promote innovation and continuous improvement in the SAAP service system in particular across the three Strategic Priorities to give effect to the Act, this Agreement and the specific issues identified in its Bilateral Agreement with the Commonwealth; and 
+c. participate in and demonstrate ongoing commitment to the National Research Program.
+7. Accountability, performance reporting and review
+7.1. Accountability
+7.1.1. SAAP V will operate within the Accountability Framework of agreed national outcomes and performance indicators at Schedule 1. The SAAP V Accountability Framework draws on the SAAP Program Logic developed by all parties and included at Attachment A to Schedule 1.
+7.1.2. The Accountability Framework provides the basis for reporting and evaluation for SAAP V. The parties commit to report against the Accountability Framework.  The parties acknowledge that the Accountability Framework is part of an overall strategy designed to more effectively measure progress towards results sought and report on outcomes accomplished.  
+7.1.3. The parties will report from the first year of this Agreement against the nationally consistent set of indicators identified in Schedule 1, through the NDC and other mechanisms as agreed by CAD.
+7.1.4. The parties acknowledge that performance indicators and measures used to report against the Accountability Framework are evolving and dynamic and may be reviewed and altered by agreement between the Commonwealth and all States and Territories at intervals throughout the term of this Agreement. 
+7.1.5. The parties agree to work on the development of additional performance indicators and measures throughout the life of this Agreement. 
+7.1.6. The Accountability Framework measures and reports SAAP outcomes against three key areas:
+a. Management;
+b. Performance; and
+c. Strategic Priorities.
+7.2. State and Territory outcomes
+7.2.1. The parties agree to use their best endeavours to achieve the State and Territory outcomes for SAAP V as outlined in their respective Bilateral Agreements.
+7.3. Overview of national components
+7.3.1. The national evaluation, review and performance reporting framework comprises:
+a. a SAAP annual national performance report (which draws on national performance information and information from State and Territory reports);
+b. a mid-term review commenced by 30 June 2007; and
+c. a final evaluation to be completed by 30 June 2009.
+7.4. Annual SAAP performance reporting
+7.4.1. The Commonwealth and the States and Territories will cooperatively monitor the progress of SAAP against the national performance indicators annually, as set out in the Accountability Framework. 
+7.4.2. The parties will compile and produce a SAAP annual national performance report (Annual Report). The Annual Report will monitor the performance of all parties against the requirements of SAAP and this Agreement. 
+7.4.3. In particular, the Annual Report will:
+a. provide an overview of SAAP nationally;
+b. provide a profile of service delivery systems in each State and Territory; and
+c. present evidence of action taken against the requirements of SAAP and this Agreement, including outputs and response to the Strategic Priorities by all parties.
+7.4.4. The States and Territories commit to provide annual performance and financial information, not including NDC data, to the Commonwealth no later than 31 October of each year where this Agreement was in force during the previous Year, for the purposes of the Annual Report.
+7.4.5. Where relevant, States and Territories commit to provide annual performance NDC data to the Commonwealth no later than 31 January of each year where this Agreement was in force during the previous Year, for the purposes of the Annual Report.
+7.4.6. The States and Territories commit to provide Administrative Data to the National Data Collection Agency, in a prescribed format (as developed under the Accountability Framework) twice a year, by 15 January and 15 July, where this Agreement was in force during the previous Year. 
+7.4.7. The Annual Report will be published by 31 March each year where this Agreement was in force during the previous Year. Publication will be in forms appropriate to ensure wide accessibility by stakeholders, including community partners. 
+7.4.8. During the course of this Agreement, the parties may allocate new funds for the achievement of new program priorities. In this event, additional performance measures and reporting requirements against these may be included in this Agreement with a consequent variation to Schedule 1. In addition, performance measures and reporting requirements may be reviewed jointly by the parties at any time, at the request of any of the parties and, in particular, will be reviewed as part of the mid-term review.
+7.4.9. The parties acknowledge that CAD may also specify other reports and information to be provided as part of the national performance reporting process. 
+7.5. Mid-term review
+7.5.1. A mid-term review will be commenced by 30 June 2007 and results published following agreement by Ministers. 
+7.5.2. The review will be undertaken by or on behalf of CAD.  It will include consideration of:
+a. the extent to which SAAP is implemented in accord with the Act, this Agreement and any other performance information; 
+b. achievements and steps taken towards reaching identified outcomes; and
+c. usefulness of the national performance measures.    
+7.6. Final evaluation report
+7.6.1. The final national evaluation will be completed by 30 June 2009 and will assess the performance of the program in meeting the objectives set out in this Agreement.
+7.7. Bilateral reporting overview
+7.7.1. The bilateral performance reporting process, as detailed in the Bilateral Agreements, will include:
+a. an annual report by each State and Territory to the Commonwealth against the objectives set out in this Agreement; and
+b. an annual assessment by the Commonwealth in conjunction with each State and Territory of performance against the objectives in the Bilateral Agreements. The Commonwealth, individually with each State and Territory, will also assess annually that State or Territory's progress against the performance indicators as set out in the State and Territory Bilateral Agreements as well as those which form part of the Accountability Framework.
+8. Financial arrangements
+8.1. Funding
+8.1.1. The Commonwealth will, subject to Parliamentary appropriation of funding for this purpose, and in accordance with section 18 of the Act and the terms of this Agreement, make payments of funding to each State and Territory as set out in Schedule 2.
+8.1.2. Subject to State and Territory Parliamentary/Legislative Assembly appropriation of funding for this purpose, each State and Territory will provide funding for SAAP as set out in Schedule 2.
+8.1.3. The parties will confirm annually, in writing, estimates of funding both in cash and accrual terms, to be made available under this Agreement prior to the commencement of each Year. 
+8.1.4. The Commonwealth will make payments of funding in equal monthly amounts in advance, or as otherwise agreed between the relevant Ministers.  Monthly payments will be made in the last week of each month for the following month (for example, funding for October will be made in the last week of September) except for the payment for July, which will be made in the first week of July. 
+8.1.5. The Commonwealth and the States and Territories may, subject to the agreement of the relevant Ministers, add to their respective funding of SAAP by the inclusion of an additional amount of funding. This additional amount is not required to be matched by the Commonwealth (if made by a State or Territory) or by a State or Territory (if made by the Commonwealth). This does not apply to indexation required under clause 8.5.
+8.1.6. Each State and Territory recipient of Commonwealth funding under this Agreement will use that funding only for the purposes of SAAP and in accordance with all requirements of this Agreement.
+8.1.7. The States and Territories will not commit any part of the Commonwealth's funding for expenditure, where that expenditure is likely to occur after the end of the term of this Agreement unless prior approval from the Commonwealth Minister has been granted.
+8.2. Sanctions 
+8.2.1. Where the reporting, including administrative, performance and financial reporting, does not meet the requirements of this Agreement or those of the relevant Bilateral Agreement, the Commonwealth may impose financial sanctions on that State or Territory. 
+8.2.2. In particular, financial sanctions may be imposed for:
+a. failure by a State or Territory to demonstrate reasonable relevance, accuracy and completeness in relation to the performance indicators (with specific attention to the requirements under the Accountability Framework as identified in State and Territory Bilateral Agreements); 
+b. failure by a State or Territory to report agreed administrative, performance and financial information in a timely manner as required in this Agreement and Bilateral Agreements; and
+c. failure by a State or Territory to enter into a Bilateral Agreement by 
+31 January 2006 as required under this Agreement,
+as may be determined at the discretion of the Commonwealth Minister.
+8.2.3. Sanctions will take the form of a reduction of Commonwealth funding to a State or Territory by up to ten per cent of the Commonwealth's program funding allocation for that State or Territory for the Year in which the failure occurred as set out in 
+clause 8.2.4. The final amount of the sanction, up to the maximum allowed, will be determined at the discretion of the Commonwealth Minister.
+8.2.4. The maximum sanction applied in respect of failure by a State or Territory is:
+a. four percent of Commonwealth program funding for failure as described in clause 8.2.2.a;
+b. one percent of Commonwealth program funding for failure as described in clause 8.2.2.b; and
+c. five percent of Commonwealth program funding for failure as described in clause 8.2.2.c.
+8.2.5. States and Territories will be notified if any sanctions are to be applied. In such a case, the amount of the sanction as calculated on the basis of clauses 8.2.3 and 8.2.4 will be deducted from the Commonwealth funding available in the Year after the conduct, which triggers the sanction.
+8.3. Exemptions
+8.3.1. Exemptions may be granted to States and Territories regarding late submissions of reports or information required under this Agreement, only when an explanation and request for extension is provided by notice to the Commonwealth with reasonable time for consideration by the Commonwealth Minister. Exemptions will be granted at the Commonwealth Minister's discretion.
+8.4. Redistribution
+8.4.1. Surplus funds that become available due to the enforcement of sanctions will, at the Commonwealth Minister's discretion, be offered to other States and Territories on a matching basis.  Redistribution will be at the Commonwealth Minister's discretion.
+8.5. Indexation arrangements
+8.5.1. Indexation on Commonwealth funds to be transferred to States and Territories will be calculated each Year by reference to the Commonwealth indexation parameter called Wage Cost Index 1 and announced in the Commonwealth Budget. This parameter is currently composed of 75% measure of the change in wage costs (safety net adjustment) and 25% measure of changes in non-wage costs (Treasury measure underlying Inflation).
+8.5.2. When calculating the Commonwealth's contribution for the next Year, the previous Year's base funding will be adjusted so that the indexation component is calculated using the actual value (rather that the estimate) of the WCI 1 for that Year. This adjusted base funding will form the basis of the next Year's base funding.
+8.5.3. States and Territories will advise the Commonwealth of the level of indexation of their funding under this Agreement which is to be, at a minimum, the same or higher than the Commonwealth's level of indexation.
+8.6. Uncommitted funds at 30 June
+8.6.1. All SAAP funds which are uncommitted funds at 30 June of each Year will, subject to the agreement of the Ministers for the parties involved, be either made available for SAAP funding by those parties in the following Year or recovered by the Commonwealth and the State and Territory on the ratio of their respective total funding liability to the program as at 30 June of that Year.
+8.7. Repayment of funding assistance and rollover of funds
+8.7.1. Where Commonwealth funding assistance provided to a State and Territory under this Agreement remains uncommitted at the end of this Agreement, the relevant State and Territory will repay to the Commonwealth so much of that amount as the Commonwealth Minister advises in writing to the Minister of the State and Territory. Alternatively, a rollover of funds to the following Year where SAAP continues may be agreed at the discretion of the Commonwealth Minister.
+8.7.2. Where in the reasonable opinion of the Commonwealth, funding assistance provided under this Agreement to a State or Territory has been spent other than for the purposes of this Agreement, that State or Territory must repay to the Commonwealth so much of that amount as the Commonwealth Minister advises in writing to the Minister of the State or Territory. 
+8.8. Financial Statement including Certificate of Compliance
+8.8.1. The Minister of each State and Territory will provide to the Commonwealth Minister by 31 October following the end of a Year, or such later date as is jointly agreed by the Ministers for the parties involved, a statement of receipts and expenditure including certification that the funding provided under this Agreement and the contribution from the State and Territory, was made and expended in accordance with the Agreement. This statement will be in the form at Attachment 1 of Schedule 2. 
+8.9. Funds for program administration
+8.9.1. The States and Territories may use, for the administration of the program, the same recurrent dollar amount, indexed annually at the same rate as determined under clause 8.5, as each was entitled to use under SAAP IV for the 2004-2005 financial year. Any additional requirement for administrative funds by a State and Territory must be agreed by the Commonwealth Minister and the relevant State or Territory Minister.
+8.10. Agreement not in place
+8.10.1. Where no agreement is reached between the Commonwealth and the States and Territories for the provision of funding after the expiry of this Agreement, the parties will not be required to continue the provision of funding.
+9. General provisions
+9.1. Agreement Managers
+9.1.1. At the time of entering into this Agreement, the Branch Manager of Housing Support Branch, Australian Government Department of Family and Community Services or his/her nominee is the Commonwealth's Agreement Manager for the purposes of this Agreement. Where the details of the Commonwealth Agreement Manager changes, the Commonwealth will advise the other parties. 
+9.1.2. Details of the State and Territory Agreement Managers will be set out in the relevant Bilateral Agreements.
+9.2. Liaison
+9.2.1. The Agreement Managers will liaise in relation to the performance and reporting requirements of this Agreement. The parties agree to provide, in a timely manner, financial, program and performance information as may reasonably be required in connection with this Agreement.
+9.3. Disputes and non-compliance
+9.3.1. The parties will use their best endeavours to resolve any dispute that arises in the cooperative spirit of the Agreement and in an expeditious manner. 
+9.3.2. Agreement Managers will attempt to resolve any disputes under this Agreement by negotiation, including escalation of any dispute as necessary to senior management and then Ministerial level if the dispute cannot be resolved. The relevant Ministers involved in resolving the dispute will consult together with a view to resolving the matter amicably between them. 
+9.3.3. Where the relevant Ministers are unable to resolve the dispute, where one party is of the opinion that the other party has not complied with any one or more of its obligations under this Agreement, then that party may, at its discretion, 
+a. notify the Commonwealth that it is no longer a party to this Agreement (if a State and Territory); or
+b. notify the State and Territory that it is no longer a party to this Agreement (if the Commonwealth). 
+9.3.4. In the event that a State and Territory is no longer a party to this Agreement, the Agreement continues in force unchanged with respect to all other parties. The Commonwealth is not required to make any further payments to any State and Territory so removed, including any remaining payments for the Year in which the State and Territory is removed as a party. 
+9.4. Extension or variation of this Agreement 
+9.4.1. This Agreement may be extended or otherwise varied by Agreement in writing between all the parties.
+9.4.2. The parties acknowledge that this power of variation is to be exercised consistently with the limitations, which subsection 17(3) of the Act places on the variation of an Agreement under subsection 17(2) of the Act. 
+9.5. Notice
+9.5.1. A notice under this Agreement is only effective if it is in writing, and addressed to the relevant Agreement Manager as specified in clause 9.1. 
+9.5.2. A notice is to be:
+a. signed by the person giving the notice and delivered by hand; or
+b. signed by the person giving the notice and sent by pre-paid post; or
+c. transmitted by the person giving the notice by electronic mail or facsimile transmission.
+9.5.3. A notice is deemed to be effected:
+a. if delivered by hand - upon delivery to the relevant address; or
+b. if sent by post - upon delivery to the relevant address; or
+c. if transmitted electronically - upon actual receipt by the addressee.
+9.5.4. A notice received after 5.00 pm, or on a day that is not a Business Day, is deemed to be effected on the next Business Day.
+
+SIGNED by the parties as at the date first mentioned at the head of this Agreement.
+
+SIGNED for and on behalf of the	)
+COMMONWEALTH OF AUSTRALIA 	)
+by the Minister for Family and Community	)
+Services in the presence of	)______________________
+
+_________________________________
+	Witness
+SIGNED for and on behalf of the 	)
+STATE OF NEW SOUTH WALES	)
+by the Minister for Community Services, and Youth)
+in the presence of	)______________________
+
+_________________________________
+	Witness
+SIGNED for and on behalf of the 	)
+STATE OF VICTORIA	)
+by the Minister for Housing	)
+in the presence of	)______________________
+
+_________________________________
+	Witness
+SIGNED for and on behalf of the 	)
+STATE OF QUEENSLAND	)
+by the Minister for Communities, Disability Services and Seniors)
+in the presence of	)______________________
+
+_________________________________
+	Witness
+SIGNED for and on behalf of the 	)
+STATE OF WESTERN AUSTRALIA	)
+by the Minister for Community Development, Culture and the Arts, Women's Interests)	)
+in the presence of	)______________________
+
+_________________________________
+	Witness
+
+
+SIGNED for and on behalf of the 	)
+STATE OF SOUTH AUSTRALIA	)
+by the Minister for Families and Communities	)
+in the presence of	)______________________
+
+_________________________________
+	Witness
+SIGNED for and on behalf of the 	)
+STATE OF TASMANIA	)
+by the Minister for Health and Human Services)
+in the presence of	)______________________
+
+_________________________________
+	Witness
+SIGNED for and on behalf of the 	)
+AUSTRALIAN CAPITAL TERRITORY	)
+by the Minister for Disability, Housing and Community Services)
+in the presence of	)______________________
+
+_________________________________
+	Witness
+SIGNED for and on behalf of the 	)
+NORTHERN TERRITORY	)
+by the Minister for Family and Community Services)
+in the presence of	)______________________
+
+_________________________________
+	Witness
+           Schedule 1. ACCOUNTABILITY FRAMEWORK
+Supported Accommodation Assistance Program (SAAP) V Accountability Framework
+
+The SAAP V Accountability Framework is a dynamic multilayered set of accounting and reporting requirements incorporating both national and state levels of accountability. National accountability requirements are documented in this Agreement with State and Territory accountability requirements documented in their respective Bilateral Agreements. A key component of the SAAP V Accountability Framework is a set of performance measures at both the National and jurisdictional level, designed to determine whether SAAP program outcomes are being achieved. Commonwealth, State and Territory Government officials have worked together to develop the SAAP V Accountability Framework.  
+The SAAP V Accountability Framework was derived from a program logic approach (Attachment A). Reporting informs all levels of government and the public about how well SAAP V outcomes are being met and how much these outcomes are costing the taxpayers1. National and State and Territory reporting is required at management, performance and Strategic Priorities level. The following table provides a description of each of the three streams of accountability:
+
+Management ReportingNational reporting against key administrative indicators of the program, including jurisdictional financial and organisational performance, and performance against the SAAP V Principles.Performance ReportingMeasurements are developed jointly and use a range of information collected from Service Providers with States and Territories to report against a comprehensive set of performance indicators, including identified client outcomes within the SAAP V Program Logic. Strategic PrioritiesKey performance information reported jurisdictionally, as outlined in the Bilateral Agreements, monitoring State and Territory progress against the SAAP V Strategic Priorities.
+The Accountability Framework encompasses three basic perspectives through which SAAP V program performance is viewed:
+* Equity - the extent to which the service provided by the program is accessed by all targeted clients, including those belonging to minority groups;
+* Efficiency - the measurement of whether outcomes are achieved in the most cost efficient manner; and
+* Effectiveness - the measurement of results, impacts and accomplishments achieved by the program, comprising three further elements:
+o Client outcomes - the extent to which the intended impacts of the service on clients are achieved as elaborated by the SAAP Program Logic;
+o Appropriateness - the extent that the service is client-focussed and meets clients' needs; and
+o Quality - the extent to which clients are satisfied with the service provided and the extent to which service meets specified quality standards.
+
+The following table identifies the national performance indicators to be reported during SAAP V. Performance indicators that can be measured from the commencement date of SAAP V are specified. Other Performance indicators require development during the life of SAAP V. 
+
+
+
+
+
+Table 1: SAAP V Performance Indicators
+Management
+Administrative Data Set
+The Administrative Data Set will contain a comprehensive range of data items about each Service Provider funded through SAAP, including:
+* Service Provider name;
+* contact details (postal address, email address, contact person);
+* funding level;
+* target group; and
+* Service Provider type. 
+Data items and prescribed format of reporting will be agreed by all parties to the Agreement within three months of the commencement of this Agreement and may be varied by agreement of all parties at any time during the life of the Agreement. States and Territories will report Administrative Data to the National Data Collection Agency twice a year in the prescribed format. The first report will be provided no later than 15 January and the second no later than 15 July each year of the Agreement.
+Broad categorySub-categoryPerformance IndicatorsAdditional Performance Indicators under considerationYear reportedReport publicationEquityAccess1. Daily turn away rate for SAAP accommodation (illustrating the proportion of people seeking a SAAP service but not able to obtain a service)2005/06Report on Government Services2. Turn away rate for total demand for SAAP accommodation2005/06Report on Government Services3. Turn away rate of SAAP client target groups22005/06Report on Government ServicesEquity4. Proportion of Indigenous SAAP clients2005/06Report on Government Services5. Proportion of clients from CALD background2005/06Report on Government Services6. Proportion of Indigenous SAAP clients, compared with proportion of people turned away who are Indigenous 2005/06Report on Government Services7. Proportion of CALD SAAP clients, compared with proportion of people turned away who are from CALD backgrounds2005/06Report on Government ServicesEfficiencyCost effectiveness8. Cost per completed support period (accommodated and non-accommodated)2005/06Report on Government Services9. Cost per day of support (accommodated and non-accommodated)2005/06Report on Government Services10. Cost per client assigned SAAP service assistance2005/06Report on Government ServicesService efficiency11.Average number of services provided per support periodData to be obtained through research, expected to be available 2005/06Report on Government Services12.Average number of accommodated and non-accommodated clients and accompanying children per dayData to be obtained through research, expected to be available 2005/06Report on Government ServicesFinancial Accountability13. Annual financial reports to be provided as identified within this Agreement and the Bilateral Agreements2005/06SAAP National Data Collection Annual report, SAAP Annual National Performance report14.Proportion of total funds expended on direct service provision2005/06SAAP National Data Collection Annual report
+
+
+
+Performance	Broad categorySub-categoryPerformance IndicatorsAdditional Performance Indicators being considered for future implementationYear reportedReport publicationEffectivenessClient outcomes15. Number and proportion of clients who seek assistance to maintain or obtain accommodation and receive this assistance 2005/06Report on Government Services16Number and proportion of clients assisted to reconnect with their family 
+
+Data to be obtained through research, expected to be available 2007/08Report on Government Services17.Number and proportion of clients with multiple needs requiring high level of support and those that receive that high level of appropriate support
+Data to be obtained through research, expected to be available 2007/08Report on Government Services18. Number and proportion of clients who request assistance with maintaining or obtaining an income and who are able to access such support2005/06Report on Government Services19. Number and proportion of clients who need living skills/ personal development and are able to access such support2005/06Report on Government Services20. The extent to which clients' case management goals are achieved at case closure2005/06Report on Government ServicesAppropriateness21. Proportion of support periods where needs of clients are met2005/06Report on Government Services22. Proportion of clients with agreed case plan2005/06Report on Government Services23.Extent to which clients receive appropriate service delivery
+
+Data to be obtained through research, expected to be available 2007/08Report on Government ServicesQuality24.Proportion of clients satisfied with assistance provided. Data based on research conducted in 2004.  Research will need to be repeated during SAAP V2004Report on Government Services25.Qualitative jurisdictional reports describing how services are delivered in accordance with agreed Principles in this AgreementTo be reported annuallySAAP Annual National Performance report
+
+
+
+Strategic prioritiesBroad categorySub-categoryPerformance IndicatorsAdditional Performance Indicators being considered for future implementationYear reportedReport publicationEarly Intervention and Prevention26.Number and proportion of clients at risk of homelessness who were assisted by SAAP to maintain their accommodation Data to be obtained through research, expected to be available 2007/08
+SAAP Annual National Performance report27.Number and proportion of clients at risk of homelessness who were assisted by SAAP to maintain family links where their health and safety will not be endangeredData to be obtained through research, expected to be available 2007/08SAAP Annual National Performance report28.Number and proportion of people at risk of homelessness who were assisted by SAAP to obtain appropriate accommodation upon their exit from an institutionData to be obtained through research, expected to be available 2007/08SAAP Annual National Performance report29. Number and proportion of services engaged in early intervention and prevention strategies2006/07SAAP Annual National Performance report
+
+
+Multiple Support Needs and Linkages30. Number and proportion of clients referred to other servicesEffectiveness of referral measures require development2006/07SAAP Annual National Performance report 31. Number and proportion of accompanying children referred to other servicesEffectiveness of referral measures require development2006/07SAAP Annual National Performance report 32. Number and proportion of clients who need employment and training assistance and are referred to such servicesThe type of service referral is a secondary more detailed level of performance information which would require investigation of measures to identify type of service referred to e.g. Job Network2005/06Report on Government Services33. Evidence of co-operative arrangements and protocols between SAAP and other service systemsRequiring development2006/07SAAP Annual National Performance report 34. Number of cross portfolio funded initiativesRequiring development2006/07SAAP Annual National Performance report35. Number and proportion of Service Providers engaged in linkage development
+Requiring development2006/07SAAP Annual National Performance reportPost-crisis transition36. Number and proportion of clients supported by SAAP post crisis, ie after clients exit SAAP accommodationRequires improvement2006/07SAAP Annual National Performance report
+
+
+
+
+37. Number and proportion of clients not returning to SAAP within 6 monthsRequires improvement2006/07SAAP Annual National Performance report38. Number and proportion of services engaged in post crisis transition, ie after clients exit SAAP accommodationRequiring development2006/07SAAP Annual National Performance report
+ 
+
+Framework for monitoring SAAP V Principles for Implementation
+PrinciplesDescriptionIndicators of achievementPerformance Indicatorsa) Shared commitmentThe Commonwealth and all State and Territory Governments are committed to meet their responsibilities outlined in this Agreement. * Signed this Agreement and Bilateral Agreement;
+* Implementation of SAAP V Accountability Framework; and 
+* Participation in and contribution to the Coordination and Development Committee.* Multilateral signed
+* Bilateral signed
+* Completion of Mid Term Review and Evaluation
+* All parties engaged in CADb) Cultural appropriatenessSAAP services are inclusive and recognise that the characteristics of homelessness vary between cultural groups.  SAAP services will be appropriate to the needs of Indigenous people and people from culturally and linguistically diverse backgrounds.* Evidence that SAAP is providing culturally appropriate services to clients (NDC data);
+* Extent to which the needs of Indigenous clients are met (NDC data); and
+* Extent to which the needs of CALD clients are met (NDC data).* PI's 4-7
+* Measures to be identified within the Client satisfaction survey for Indigenous and CALD clientsc) Service responsiveness and flexibilitySAAP services are sensitive to the range of needs of the client.  Appropriate client-focussed responses are delivered as soon as practicable, and case management ensures that changing needs are being met.* Extent of client-focussed case management in SAAP;
+* Appropriateness of service measured through the Client Satisfaction Survey; and
+* Timeliness and responsiveness of service measured through the Client Satisfaction Survey.*  PI's 21-25
+*  Measures to be identified within the Client satisfaction surveyd) Service accessibilitySAAP services are accessible to all clients, and there are no barriers to access due to inability to pay.  Services are able to meet the special needs of specific client groups, and there are no discriminatory practices or policies.* Reasons for turning away clients from SAAP accommodation (Unmet Demand Collection);
+* Turn away rate for minority groups; and
+* Turn away rate for SAAP target groups.
+* PI's 1-3e) Clients rights and dignities protected and promotedThe SAAP service system supports effective client charters and ensures access to appropriate avenues of dispute resolution. * Extent to which clients understand their rights and service charters of SAAP agencies;
+* Extent to which clients perceive that their rights and dignities are upheld and protected; and
+* Extent to which the importance of protecting clients rights and dignities is promoted in SAAP services. *  Number and proportion of service contracts with client rights and service charters
+*  Measures to be identified within the Client satisfaction survey
+*  PI 25f) Client independence and resilience maximisedSAAP service delivery is aimed at maximising the client's capacity for independence and resilience, by establishing appropriate connections with the range of social and economic supports and enhancing the opportunities for participation.  These include reconnection with family and social networks and with employment, housing, education and income support to help with longer-term stabilisation.* Housing outcomes of SAAP clients, ie extent to which SAAP clients achieve independent housing after SAAP support (NDC data);
+* Employment outcomes of SAAP clients, ie extent to which SAAP clients achieve employment after SAAP support (NDC data);
+* Education outcomes of SAAP clients, ie extent to which SAAP clients maintain or improve their education status after SAAP support (NDC data);
+* Extent to which SAAP assisted clients obtain or maintain income support; and
+* Extent to which SAAP clients are connected with family, social and economic supports and networks (Self-reliance measurement project).*  Mid term review
+*  Evaluationg) A service system that is efficient and effectiveWithin available resources the service system is robust and sustainable, and is able to reform to meet emerging and changing needs without jeopardising existing system successes.* Efficiency performance measures (see Table 1: SAAP V Performance Indicators) and
+* Effectiveness performance measures (see Table 1: SAAP V Performance Indicators).*  PI's 8-14
+*  PI's 15-25
+
+Supported Accommodation Assistance Program (SAAP) V Program Logic
+
+Preamble
+
+
+The SAAP V Program Logic forms part of the broader SAAP V Accountability Framework.  It is a tool that identifies a chain of reasoning and links program inputs3, processes4, outputs 5and outcomes6.  The Program Logic map is a graphic representation of the way SAAP V operates, in that it shows the presumed effects of activities and resources.  
+
+The Program Logic can be useful for a number of purposes, including informing Program design, planning, risk assessment, performance monitoring and evaluation. 
+
+It should be noted that the SAAP V Program Logic hierarchy describes the primary linkages between program interventions and client outcomes only.  It is acknowledged that a multitude of secondary interconnections within SAAP exist and that achievement of many of the identified outcomes in the Program Logic will be influenced by factors outside the control of SAAP.  
+
+Furthermore, it is accepted that there are many interactions between SAAP and other service systems within the broader environment, and that the influence of external factors on the SAAP system will be greatest at the higher outcome levels.
+
+Inherent within the SAAP V Program Logic is the acceptance of the Principles and Strategic Priorities underpinning SAAP V.  These include SAAP's key role in the resolution of crisis and the provision of a safety net for homeless people, those at risk of homelessness, and people affected by domestic violence as defined by the Supported Accommodation Assistance Act 1994.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Schedule 2. FINANCIAL ARRANGEMENTS
+
+
+Subject to appropriation of funds by the Commonwealth Parliament and the Parliament/Legislative Assembly of the respective State or Territory, the following amounts will be made available for each jurisdiction7.
+
+Table1: SAAP V Program Base Funding
+Contributing Government2005-06       $ million2006-07       $ million2007-08       $ million2008-09       $ million2009-10       $ millionNSWCommonwealth57.50858.77360.06661.32762.615State58.07059.34860.65461.92863.228Additional cash0.0000.0000.0000.0000.000Total -NSW115.578118.121120.720123.255125.843VICCommonwealth38.22335.72136.50737.27338.056State25.13929.03529.67330.29630.932Additional cash0.0000.0000.0000.0000.000Total -VIC63.36264.75666.18067.56968.988QLDCommonwealth29.59428.91428.26828.86229.468State19.47721.47822.98523.46723.960Additional cash5.8039.4266.8066.9417.092Total -QLD54.87459.81858.05959.27060.520WACommonwealth17.62417.33016.93817.29417.657State11.99213.06213.99614.29014.591Additional cash0.0000.0000.0000.0000.000Total -WA29.61630.39230.93431.58432.248SACommonwealth16.92716.30015.94816.28316.625State10.29511.70212.48412.74613.014Additional cash0.0000.0000.0000.0000.000Total -SA27.22228.00228.43229.02929.639TASCommonwealth7.5797.4467.2777.4307.586State5.1325.6005.9996.1256.254Additional cash1.0910.7440.0550.3670.700Total -TAS13.80213.79013.33113.92214.540NTCommonwealth5.0374.8994.7914.8914.994State3.2353.6003.8493.9304.012Additional cash0.1300.1300.1300.1300.130Total -NT8.4028.6298.7708.9519.136ACTCommonwealth6.0385.8736.0026.1286.257State4.8715.2765.3935.5065.621Additional cash0.0130.0810.1510.2320.318Total -ACT10.92211.23011.54611.86612.196* Minor changes in funding may occur due to rounding of appropriations to $'000.
+
+
+Table 2: SAAP V Innovation and Investment Fund
+Contributing Government2005-06   $ million2006-07   $ million2007-08   $ million2008-09   $ million2009-10   $ millionCommonwealth* 7.20210.674  NSWCommonwealth1.0001.021StateTotal -NSW1.0001.021VICCommonwealth3.1673.234State6.6866.8346.9787.124Total -VIC6.6866.83410.14510.358QLDCommonwealth2.4492.501State2.1805.2845.3965.508Total -QLD2.1805.2847.8458.009WACommonwealth1.3631.392State1.3392.8462.9293.014Total -WA1.3392.8464.2924.406SACommonwealth1.6061.640State1.6343.4643.5383.612Total SA1.6343.4645.1445.252TASCommonwealth0.5920.605State0.4921.2781.3061.332Total -TAS0.4921.2781.8981.937NTCommonwealth0.4360.445State0.4080.9420.9620.982Total -NT0.4080.9421.3981.427ACTCommonwealth0.2820.288State0.6060.6270.6490.671Total -ACT0.6060.6270.9310.959* The distribution of Commonwealth contributions to the I&I Fund during years 2 & 3 will be decided during Year 1 of SAAP V through advice provided by CAD detailed in the national strategic directions action plan.
+** Minor changes in funding may occur due to rounding of appropriations to $'000.
+*** State and Territory contributions through State/Territory only funded SAAP Services and/or cash will be detailed in Bilateral Agreements.
+
+
+
+
+
+
+Table 3: Data and Program Evaluation Fund - State and Territory Contributions 
+2005-06   $ million2006-07   $ million2007-08   $ million2008-09   $ million2009-10   $ millionNSW0.7160.7160.7160.7160.716VIC0.5270.5270.5270.5270.527QLD0.3920.3920.3920.3920.392WA0.2080.2080.2080.2080.208SA0.1670.1670.1670.1670.167TAS0.0920.0920.0920.0920.092NT0.0920.0920.0920.0920.092ACT0.0920.0920.0920.0920.092TOTAL2.2862.2862.2862.2862.286* Minor changes in funding may occur due to rounding of appropriations to $'000.
+* * Contributions based on cost projections; should actuals be less than forecast, state contributions to be adjusted accordingly.
+
+Table 4: Total SAAP V Funding
+Contributing Government2005-06         $ million2006-07         $ million2007-08         $ million2008-09         $ million2009-10         $ millionNSWCommonwealth57.50858.77360.06662.32763.636State58.07059.34860.65461.92863.228Total -NSW115.578118.121120.720124.255126.864VICCommonwealth38.22335.72136.50740.44041.290State25.13935.72136.50737.27438.056Total -VIC63.36271.44273.01477.71479.346QLDCommonwealth29.59428.91428.26831.31131.969State25.28033.08435.07535.80436.560Total -QLD54.87461.99863.34367.11568.529WACommonwealth17.62417.33016.93818.65719.049State11.99214.40116.84217.21917.605Total -WA29.61631.73133.78035.87636.654SACommonwealth16.92716.30015.94817.88918.265State10.29513.33615.94816.28416.626Total -SA27.22229.63631.89634.17334.891TASCommonwealth7.5797.4467.2778.0228.191State6.2236.8367.3327.7988.286Total -TAS13.80214.28214.60915.82016.477NTCommonwealth5.0374.8994.7915.3275.439State3.3654.1384.9215.0225.124Total -NT8.4029.0379.71210.34910.563ACTCommonwealth6.0385.8736.0026.4106.545State4.8855.9636.1716.3876.610Total -ACT10.92311.83612.17312.79713.155* Minor changes in funding may occur due to rounding of appropriations to $'000.
+ATTACHMENT 1 of SCHEDULE 2
+
+SUPPORTED ACCOMMODATION ASSISTANCE PROGRAM (SAAP)
+FINANCIAL STATEMENT, INCLUDING CERTIFICATE OF COMPLIANCE
+
+STATE/TERRITORY:										
+FINANCIAL YEAR END 30 JUNE 20   -
+
+A.	BALANCE OF UNSPENT FUNDS (30 June previous financial year) 	
+							          	    		 	______
+B. Receipts
+1.	State/Territory Government 							
+2.	Commonwealth Government					
+3.	Other  (please provide details)					
+							   	    		______				Sub-total Receipts							
+									      				______
+       TOTAL AVAILABLE FUNDS (A+B)				 
+       		
+C. Expenditure
+1.	Payments to approved SAAP agencies *			
+a) Payments to Program base funding				
+b) Payments to Innovation and Investment Fund		
+    Sub total		
+2.	State/Territory SAAP administration allowance		
+3.	Evaluation/ Reviews	**						
+4.	Co-ordination/ Training  **						
+5.	Other  **										
+							     						______
+TOTAL EXPENDITURE				
+														______
+
+D.	1.	BALANCE OF FUNDS  (A+B-C)							
+								                			       	______
+2. Committed amount of D.1  **	
+(Outstanding agency/project approvals)						
+
+* 	Please itemise separately at agency level.
+**	Please itemise projects over $50,000.
+
+I certify this statement agrees with the Department  ..............................
+accounting records and the expenditure at Item C has been in accordance with the SAAP V Agreement, and that the funds forwarded to Service Providers for the above period, with the exception of those listed in the attachment, have been acquitted in accordance with the individual Service Provider agreements.  A summary of outstanding acquittals from other financial years is also attached. 
+
+
+
+Signed ..............................    Position..................................  Date     /     /
+           Schedule 3. CONSENT UNDER SECTION 10 SAA ACT 1994
+
+Consent under section 10 of the Supported Accommodation Assistance Act 1994 for inclusion of State and Territory services under the Supported Accommodation Assistance Program
+
+Pursuant to section 10 of the Supported Accommodation Assistance Act (the 'Act'), the following Ministers representing all parties to the proposed fifth Supported Accommodated Assistance Program (SAAP V) agree by written consent to the following:
+* That the form of agreement specified as an instrument under section 6 of the Act (namely the proposed SAAP V Agreement) allow for SAAP V to replace or duplicate services that are already provided by, or the responsibility of, any other government, program or organisation. 
+* That the replacement or duplication of services will be subject to the provisions of the SAAP V Agreement and meet the strategic directions of SAAP V.
+
+
+Dated this                   day of                               2005
+
+SIGNED for and on behalf of the				)
+COMMONWEALTH OF AUSTRALIA 		)
+by the Minister for Family and Community		)
+Services							)______________________
+
+SIGNED for and on behalf of the 			)
+STATE OF NEW SOUTH WALES			)
+by the Minister for Community Services		)
+and Youth							)______________________
+
+SIGNED for and on behalf of the 			)
+STATE OF VICTORIA					)
+by the Minister for Housing					)______________________
+
+SIGNED for and on behalf of the 			)
+STATE OF QUEENSLAND				)
+by the Minister for Communities, Disability	)
+Services and Seniors						)______________________
+
+SIGNED for and on behalf of the 			)
+STATE OF WESTERN AUSTRALIA		)
+by the Minister for Community Development,	)
+ Culture and the Arts, Women's Interests		)______________________
+
+
+SIGNED for and on behalf of the 	)
+STATE OF SOUTH AUSTRALIA	)
+by the Minister for Families and Communities	)______________________
+
+SIGNED for and on behalf of the 			)
+STATE OF TASMANIA					)
+by the Minister for Health and Human Services	)______________________
+
+SIGNED for and on behalf of the 			)
+AUSTRALIAN CAPITAL TERRITORY		)
+by the Minister for Disability, Housing and		)
+Community Services						)______________________
+
+SIGNED for and on behalf of the 			)
+NORTHERN TERRITORY					)
+by the Minister for Family and Community		)
+Services									)______________________
+
+1 National Performance of SAAP V are reported in: the SAAP National Data Collection Agency reports; the Report on Government Services; SAAP National Program Performance Reports; and the SAAP Mid-Term Review and Final Evaluation Report. 
+2 Target groups: single women, single men, women and children escaping domestic violence, young people and families.
+3 Input - the resources used to produce program outputs.
+4 Processes - the advice and support services that SAAP provides.
+5 Outputs - the products or services, which are produced and delivered by SAAP to achieve the outcomes.
+6 Outcomes - all impacts or consequences of SAAP.
+7 SAAP V Funding from Year 2 (2006-07) onwards reflects projected indexation parameters.
+??
+
+??
+
+??
+
+??
+
+
+
+
+
+
+
+	
+
+	
+
+
+
+
+
+
+
+
+32
+
+
+
+
+Schedule 1: Attachment A
+
+
+
+
+43
+
+
+Schedule 1: Draft SAAP V Multilateral Agreement 
+Accountability Framework
+
+
+
+	
+
+
+
+
+50
+SAAP V Multilateral Agreement	
+
+
+
+
+

@@ -1,0 +1,376 @@
+NEMDE SOLVER SERVICE AGREEMENT 
+
+NEMDE Solver Service Agreement
+
+Australian Energy Market Operator Ltd
+
+and
+
+#1#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Australian Energy Market Operator Ltd
+Level 12, 15 William Street
+MELBOURNE  VIC  3000
+TEL:  03 9648 8777
+FAX:  03 9648 8778
+
+Contents
+
+OPERATIVE PROVISIONS	4
+1	INTERPRETATION	4
+2	TERM		7
+3	PROVISION OF THE NEMDE SOLVER SERVICE	7
+4	RESTRICTIONS ON USE	7
+5	SECURITY		8
+6	PAYMENT		9
+7	TERMINATION OR SUSPENSION OF NEMDE SOLVER SERVICE	9
+8	CONFIDENTIAL INFORMATION	10
+9	INTELLECTUAL PROPERTY	10
+10	DISCLAIMER		10
+11	LIMITATION OF LIABILITY	11
+12	INDEMNITY		12
+13	FORCE MAJEURE		12
+14	NOTICES		12
+15	MISCELLANEOUS		12
+16	GOVERNING LAW ETC	13
+
+
+NEMDE SOLVER SERVICE AGREEMENT 
+
+
+Date:Parties:1 Australian Energy Market Operator Limited
+ABN 94 072 010 327 
+of Level 12, 15 William Street, MELBOURNE  VIC 3000  ("AEMO")
+
+and
+
+2 #1#  
+ABN #2#
+of #3#  
+("NEMDE Solver User").NEMDE Solver Fee:Annual Fee:$5,900 per yearNEMDE Support Fee:$185 per hour of supportSystems Contact:#4#
+#5#Address for Service of Notices:AEMO:
+
+Australian Energy Market Operator Ltd
+Facsimile:   03 9648 8778
+Attention:   Chief Executive Officer
+
+cc:
+Level 12, 15 William Street, MELBOURNE  VIC  3000
+Facsimile:  03 9648 8653
+Attention:  Senior Manager, Legal
+
+NEMDE Solver User:
+
+#6#
+Facsimile:   #7#
+Attention:   #8#
+
+
+Operative Provisions 
+1 Interpretation
+1.1 Unless a contrary intention appears, these meanings apply in this document:
+AEMO Help Desk means the user support help desk provided by AEMO in connection with the NEMDE Solver Service.
+Business Day means a day other than a Saturday or Sunday or a public holiday appointed under the Banks and Bank Holidays Act 1912 (NSW).
+Commencement Date means the date AEMO notifies the NEMDE Solver User that its NEMDE Solver Service account has been established.
+Confidential Information of a party ("Discloser") means all information:
+(a)	disclosed or received by the other party ("Recipient");  or
+(b)	learned or accessed by the Recipient,
+in connection with this Agreement that:
+(c)	is not, by reason of general publication or the like, readily available in the public domain; or
+(d)	if part of the public domain, became part of the public domain as a result of an unauthorised disclosure or otherwise by reason of a breach of confidence by the Recipient.
+Corporations Act means the Corporations Act 2001 (Cth).
+Dispatch Results means the actual dispatches made by AEMO to Registered Participants under the Rules.
+Force Majeure in respect of a party ("Affected Party"), means:
+(a)	a Labour Dispute that results in the Affected Party being unable to observe or perform on time and as required any obligation (not being an obligation to pay money) under this Agreement; or
+(b)	a circumstance that satisfies the following requirements:
+(i)	the circumstance is beyond the reasonable control of the Affected Party;
+(ii)	the circumstance is not the result of a breach of this Agreement or any Rules by the Affected Party or of an intentional or negligent act or omission of the Affected Party (or of any other person over whom the Affected Party should have exercised control); and
+(iii)	the circumstance results in the Affected Party being unable to observe or perform on time and as required any obligation (not being an obligation to pay money) under this Agreement.
+Insolvent means being an insolvent under administration or insolvent (each as defined in the Corporations Act) or having a controller (as defined in the Corporations Act) appointed, or being in receivership, in receivership and management, in liquidation, in provisional liquidation, under administration, wound up, subject to any arrangement, assignment or composition, protected from creditors under any statute, dissolved (other than to carry out a reconstruction while solvent) or being otherwise unable to pay debts when they fall due or having something with the same or a similar effect happen under the laws of any jurisdiction.
+Intellectual Property Rights means all rights conferred by Law in relation to patents, inventions, designs, copyright, trademarks, trade names, business names, logos and get-up, circuit layout rights and confidential information, whether registered or unregistered, in respect of the NEMDE Solver Service.
+Labour Dispute means a strike, lockout, ban, "go-slow" activity, stoppage, restraint of labour or other similar act that is not directed primarily at a party to this Agreement.
+ Law means Commonwealth, state, or local legislation, judicial, administrative, or regulatory decrees, judgments, awards or orders and all common laws and equity.
+Liability means all loss, damage, liability, costs or expenses whatsoever and howsoever arising and includes:
+(a)	liability in tort (including liability for negligence);
+(b)	liability in contract; and
+(c)	any liability for consequential loss including loss of profits, legal expenses, transaction losses, opportunity costs, interruption of business, loss of use, loss of goodwill, or loss or corruption of data suffered or incurred by the NEMDE Solver User howsoever caused or arising.
+National Electricity Law is contained in the Schedule to the National Electricity (South Australia Act) 1996 (SA).
+NEMDE Results means the off-line dispatch and pricing solutions for market scenarios provided to NEMDE Solver Users by the NEMDE Solver Service.
+NEMDE Solver Fee means: 
+(a)	the Annual Fee;  and
+(b)	the NEMDE Support Fee.
+NEMDE Solver Service means a fully automated facility for Registered Participants to access the off-line dispatch engine, NEMDE Solver, to test different market scenarios. 
+Prescribed Terms means the terms and conditions implied by Law into certain types of contracts that cannot be excluded.
+Registered Participant has the meaning given in the Rules.
+ Representative means any director, officer, employee, contractor, agent and any other authorised representative of a person.
+ Rules means the National Electricity Rules.
+ Capitalised terms not otherwise defined in this clause 1.1 are defined in the Details.
+1.2 Unless a contrary intention appears in this document, a reference to: 
+(a) this Agreement includes any schedules and annexures;
+(b) a document (including this Agreement) includes the document as novated, varied, or replaced, and despite any change in the identity of the parties; 
+(c) a clause, paragraph, schedule, or annexure is a reference to a clause, paragraph, schedule, or annexure to this Agreement;
+(d) a clause is a reference to all its subclauses;
+(e) legislation includes subordinate legislation and other instruments under them, and consolidations, amendments, re-enactments or replacements of any of them;
+(f) the singular includes the plural and vice versa and a gender includes all genders;
+(g) the word "person" includes a firm, a body corporate, a partnership, an unincorporated association or a government agency and any successor entity to those persons;
+(h) the word "includes" or "including" or "such as" are not words of limitation, and when introducing an example, do not limit the meaning of the words to which the example relates to examples of a similar kind; 
+(i) a person includes a reference to the person's executors, administrators, successors, substitutes (including persons taking by novation) and assigns;
+(j) a party includes, where the context requires it, that person's directors, officers, employees, contractors, agents and any other persons authorised by that party;
+(k) an agreement, representation or warranty:
+(i) in favour of two or more persons is for the benefit of them jointly and each of them severally; 
+(ii) by two or more persons binds them jointly and each of them severally;  
+(l) a thing (including an amount) is a reference to the whole and each part of it and a reference to a group of persons is a reference to all of them collectively, to any two or more of them collectively, and to each of them individually;  
+(m) "dollars" or "$" means Australian dollars;  and
+(n) writing includes any mode of representing or reproducing words in tangible and permanently visible form, and includes facsimile transmissions.
+1.3 If a word or phrase is defined in this Agreement, other parts of speech and grammatical forms of that word or phrase have corresponding meanings.
+1.4 Headings are inserted for convenience and do not affect the interpretation of this Agreement. 
+2 Term
+This Agreement starts on the Commencement Date and ends when it is terminated by either party in accordance with this Agreement.
+3 Provision of the NEMDE Solver Service
+3.1 AEMO will provide the NEMDE Solver Service to the NEMDE Solver User in accordance with this Agreement.
+3.2 AEMO may vary the NEMDE Solver Service and this Agreement by giving prior notice of the variation to the NEMDE Solver User.  Any use of the NEMDE Solver Service by the NEMDE Solver User after the expiry of the notice period will constitute acceptance of the variation.
+3.3	The NEMDE Solver User acknowledges that AEMO will endeavour to make the NEMDE 	Solver Service reasonably available at all times, however, AEMO does not guarantee the provision of a continuous and fault-free NEMDE Solver Service.
+3.4	The NEMDE Solver User acknowledges that the NEMDE Solver Service may be unavailable or available at a diminished capacity from time to time for various reasons, including:
+(a) a fault, virus, security breach or breakdown of the NEMDE Solver Service;
+(b) an electrical or telecommunications fault or failure;
+(c) an event of Force Majeure; 
+(d) an emergency or fault rectification procedure;
+(e) the conduct of the NEMDE Solver User or any other user of NEMDE Solver; or
+(f) scheduled maintenance.
+3.5	If the NEMDE Solver Service is unavailable, AEMO will notify the NEMDE Solver User of the unavailability and restore the NEMDE Solver Service as soon as AEMO is reasonably able to do so. 
+3.6	From time to time, AEMO may give the NEMDE Solver User instructions that AEMO reasonably believes are necessary for access to, or operation of, the NEMDE Solver Service and the NEMDE Solver User must comply with those instructions.
+3.7	The NEMDE Solver User must provide and maintain at its own expense, suitable hardware, software and telecommunications services necessary to receive, access, and use the NEMDE Solver Service. 
+3.8	AEMO will provide the NEMDE Solver User with access to the AEMO Help Desk to assist in the operation of the NEMDE Solver Service in consideration of the NEMDE Support Fee.  AEMO may withdraw access to the AEMO Help Desk on 30 days' notice to the NEMDE Solver User
+3.9	AEMO has no obligation to monitor the use of NEMDE Solver Service.
+4 Restrictions on Use
+4.1	The NEMDE Solver User may access the NEMDE Solver Service only in the manner permitted under this Agreement.  
+4.2	The NEMDE Solver User must not and must ensure that its Representatives having access to the NEMDE Solver Service do not use the NEMDE Solver Service:
+(a) other than in accordance with this Agreement; 
+(b) fraudulently, or in violation of any Law, relevant licences, or any other codes of practice, or in any other way that is unlawful in any jurisdiction where the NEMDE Solver Service is used;
+(c) to send, receive, upload, download, use or re-use any information or material that is offensive, abusive, indecent, defamatory, obscene, or menacing, or in breach of confidence, copyright, privacy or any other rights or to cause annoyance, inconvenience or needless anxiety to any person; 
+(d) in a manner that will expose AEMO to the risk of any claim, legal, or administrative action; 
+(e) to infringe the rights (including Intellectual Property Rights) of AEMO or a third party; 
+(f) to circumvent the security of, or to access, the software relating to the NEMDE Solver Service, including source codes or object codes; 
+(g) to damage or threaten the supply of the NEMDE Solver Service to the NEMDE Solver User or other persons;  and
+(h) to allow third parties to use the NEMDE Solver Service or resupply the NEMDE Solver Service.
+4.3	The NEMDE Solver User must not:
+(a)	use any device, software or routines, including  any viruses, trojan horses, worms, time bombs or cancelbots, intended to damage or interfere with the proper working of the NEMDE Solver Service or to surreptitiously intercept or expropriate any system, data or personal information from the NEMDE Solver Service; 
+(b) attempt to change or manipulate the NEMDE Solver Service;  or
+(c) connect an automatic system to re-run market cases.
+4.4	If the NEMDE Solver User's use of the NEMDE Solver Service interferes, or threatens to interfere with the efficiency of the NEMDE Solver Service or other AEMO systems, the NEMDE Solver User must follow AEMO's directions on how to end or avoid that interference.
+4.5	AEMO may introduce further limits on the NEMDE Solver User's use of the NEMDE Solver Service if it is necessary to the integrity of the systems used to provide the NEMDE Solver Service. 
+5 Security
+5.1 Promptly after the Commencement Date, AEMO will provide the NEMDE Solver User with a configured directory on an AEMO file share.    
+5.2 The NEMDE Solver User is responsible for the control of its Representatives' use of the configured directory referred to in clause 5.1.  
+5.3 The NEMDE Solver User must comply with any security policy or procedure issued to the NEMDE Solver User by AEMO.
+5.4 The NEMDE Solver User must ensure that, at all times, there is a Systems Contact to interact with AEMO on the technical aspects of the NEMDE Solver Service - this may be the existing information systems contact registered with the AEMO Helpdesk.  The NEMDE Solver User must promptly notify AEMO of any changes to the designated Systems Contact and any alternative contact when the Systems Contact is not available.  AEMO has no obligation to provide technical support to any person other than the Systems Contact, or that person's alternate when the Systems Contact is not available.
+5.5 The Market Management Systems Access Policy ("MMSA Policy") applies to the protection and management of the NEMDE Solver User's access to the NEMDE User Service and the NEMDE Solver User must comply with the MMSA Policy.  To the extent of any inconsistency between the MMSA Policy and this Agreement, the MMSA Policy will prevail.
+6 Payment
+6.1 The NEMDE Solver User must pay AEMO the NEMDE Solver Fee.
+6.2 AEMO may review and alter the NEMDE Solver Fee on each anniversary of the Commencement Date.
+6.3 AEMO will invoice the NEMDE Solver User with:
+(a) 	the Annual Fee on the anniversary of the Commencement Date of this Agreement;  and
+(b) 	the NEMDE Support Fee within 30 days of the provision of Support to the NEMDE Solver User. 
+6.4 	The NEMDE Solver User must pay the amount set out in the invoice within 10 Business Days of the receipt of the invoice.
+6.5 	AEMO may include amounts payable under this agreement in the statements under clause 3.15 of the Rules and, if it chooses to do so, those amounts are payable at the same time as any other amounts included in that statement under the Rules.
+6.6 Unless otherwise expressly stated, all prices and other sums payable, or consideration to be provided under this Agreement are exclusive of GST.
+6.7 	Each party must provide appropriate tax or other invoices to assist the other party to claim input tax credits for GST where relevant in connection with this Agreement and to provide such other reasonable assistance to facilitate the management by each party of its GST affairs in connection with this Agreement.
+6.8 	In clauses  6.6 and 6.7, the expressions "GST" "consideration", "input tax credit", "tax invoice" and "taxable supply" have the meanings given to those terms in the A New Tax System (Goods and Services Tax) Act 1999 (Cth).
+7 Termination or Suspension of NEMDE Solver Service
+7.1 The NEMDE Solver User may terminate this Agreement by giving not less than 30 days' notice to AEMO if the NEMDE Solver User no longer requires the NEMDE Solver Service, and AEMO will cease supplying the NEMDE Solver Service from the date identified in the notice. 
+7.2 	AEMO may terminate this Agreement on 14 days' notice if:
+(a)	AEMO considers there to be unusual usage of the NEMDE Solver Service, such that it threatens the security or reliability of the NEMDE Solver Service;
+(b)	AEMO reasonably determines that such action is desirable or necessary for the purpose of maintenance or restoration of any part of AEMO's systems;
+(c)	the NEMDE Solver User becomes Insolvent;
+(d)	permitted or required to do so by Law; 
+(e)	the NEMDE Solver User fails to make any payment due under this Agreement by the due date;  or
+(f)	the NEMDE Solver User breaches any material provision of this Agreement and has not cured the breach within that 14-day period.
+7.3 AEMO may terminate this Agreement at any time and for any reason by giving the NEMDE Solver User at least 30 days' notice.  
+7.4 Without limiting its rights under clause 7.2 or 7.3, AEMO may immediately suspend the NEMDE Solver User's access to the NEMDE Solver Service if at any time AEMO considers that:
+(a)	there has been or is likely to be a breach of security on the NEMDE Solver Service;
+(b)	if there is an emergency, including an emergency affecting the security of the power system;
+(c)	the NEMDE Solver User's use of the NEMDE Solver Service interferes with the efficiency or correct operation of any of AEMO's systems and the NEMDE Solver User fails to rectify the situation after being given 24 hours' notice by AEMO of the need for rectification; 
+(d)	the NEMDE Solver User ceases to be a Registered Participant or is suspended from trading under the Rules;   or
+(e)	it is necessary to maintain the integrity of AEMO's systems used to provide the NEMDE Solver Service.
+8 Confidential Information
+8.1 The NEMDE Solver User agrees to:
+(a)	keep secure and confidential all Confidential Information of AEMO;  and
+(b)	not use or disclose Confidential Information of AEMO except for the purposes of using the NEMDE Solver Service. 
+8.2 To the extent that AEMO accesses the content of any information sent by or to the NEMDE Solver User, AEMO agrees to:
+(a)	keep secure and confidential all Confidential Information; and
+(b)	not use or disclose Confidential Information of the NEMDE Solver User except for the purposes of providing or maintaining the NEMDE Solver Service.
+8.3 Nothing in clause 8.1 or 8.2 prevents a party (Recipient) from disclosing Confidential Information of the other party (Discloser):
+(a)	to the Recipient's related bodies corporate (as that term is defined in the Corporations Act) for the purposes of this Agreement and subject to the related bodies corporate being bound by obligations of confidence that are no less stringent than those in this Agreement; 
+(b)	with the consent of the Discloser;
+(c)	if required by Law or a stock exchange; 
+(d)	if required in connection with legal proceedings relating to this Agreement;  or
+(e)	if required by a Minister representing one of the Recipient's members, or any regulator who has jurisdiction over the Recipient.
+8.4 In the course of providing the NEMDE Solver Service, AEMO will collect and generate information concerning the NEMDE Solver User's use of the NEMDE Solver Service and may disclose aggregated data or statistical information about its use of the NEMDE Solver Service to third parties, provided that the data or information is not identifiable as relating to the NEMDE Solver User.
+9 Intellectual Property
+9.1 As between AEMO and the NEMDE Solver User, all Intellectual Property in the NEMDE Solver Service is owned by AEMO.  The NEMDE Solver User does not acquire any rights in the NEMDE Solver Service other than those set out in this Agreement.
+9.2 The NEMDE Solver User must do all things reasonably necessary to protect AEMO's Intellectual Property Rights.
+9.3 The NEMDE Solver User warrants that it will not copy, modify, reverse engineer, decompile or adapt the software relating to the NEMDE Solver Service or any related manuals or documentation without the express consent of AEMO.
+10 Disclaimer
+10.1 AEMO makes no representation or warranty, express or implied, as to:
+(a)	the reliability or availability of the NEMDE Solver Service or any NEMDE Results provided under this Agreement;
+(b)	that the NEMDE Results will be the same as the Dispatch Results;
+(b)	the time it will take for information to be transmitted or received using the NEMDE Solver Service or any NEMDE Results provided under this Agreement; 
+(c)	how quickly suitably qualified personnel will be available to provide the support referred to in clause 3.8;  or
+(d)	the number of users who will take up the NEMDE Solver Service.
+10.2 The NEMDE Solver User agrees to:
+(a)	retain copies of all information the NEMDE Solver User sends using the NEMDE Solver Service;  and
+(b)	establish sufficient communication bandwidth for use of the NEMDE User Service,
+for the purpose of mitigating any disruption to the NEMDE Solver User's business caused by the NEMDE Solver Service.
+10.3 	The NEMDE Solver User is solely responsible for any information that it transmits using the NEMDE Solver Service
+11 Limitation of Liability
+11.1 	To the extent permitted by Law and subject to Prescribed Terms, AEMO excludes all warranties, express or implied in relation to the NEMDE Solver Service or NEMDE Results provided under this Agreement, including warranties as to fitness for purpose or due care and skill.  For the avoidance of doubt, AEMO does not warrant that the NEMDE Solver Service will:
+(a)	be uninterrupted or fault free;
+(b)	provide specific results or otherwise meet the NEMDE Solver User's requirements; 
+(c)	prevent unauthorised access to the NEMDE Solver Service by third parties; 
+(d)	be free from computer viruses;  or
+(e)	produce NEMDE Results that are the same as the Dispatch Results.
+11.2 	AEMO does not authorise anyone to make a warranty of any kind on its behalf and the NEMDE Solver User shall not rely on anyone making such statements.
+11.3 	To the maximum extent permitted by Law, AEMO excludes all Liability to the NEMDE Solver User arising directly or indirectly in relation to:
+(a)	a breach by AEMO of this Agreement; or
+(b)	the use, performance, quality or standard of the NEMDE Solver Service or NEMDE Results provided under this Agreement.
+11.4 To the maximum extent permitted by Law, AEMO's total aggregate Liability to the NEMDE Solver User arising directly or indirectly under or in connection with this Agreement in relation:
+(a)	to a breach by AEMO of this Agreement;  or 
+(b)	the use, performance, quality or standard of the NEMDE Solver Service or NEMDE Results provided under this Agreement, 
+for all Liability of a kind not excluded by clause 11.4, is limited to $1.00.
+11.5 	Except to the extent provided in clauses 11.4 and 11.5, this Agreement does not vary or exclude the operation of sections 119, 120 or 120A of the National Electricity Law.
+11.6 	The parties agree that Part 4 of the Civil Liability Act 2002 (NSW) will not apply to any claim, action, suit or proceeding brought by AEMO against the NEMDE Solver User in connection with this Agreement, however, it will apply to any claim, action, suit or proceeding brought against AEMO in connection with this Agreement.
+11.7 	The NEMDE Solver User hereby releases AEMO from any Liability directly or indirectly associated with the NEMDE Solver User's use of the NEMDE Solver Service.
+12 Indemnity
+12.1 The NEMDE Solver User hereby indemnifies and holds AEMO harmless against all claims and Liability that AEMO may incur directly or indirectly in connection with:
+(a)	the NEMDE Solver User's use of the NEMDE Solver Service;
+(b)	the NEMDE Solver User's breach of this Agreement; and
+(c)	any claim against AEMO by a third party caused by the NEMDE Solver User's use of the NEMDE Solver Service.
+13 Force Majeure
+13.1	An obligation of a party under this Agreement (other than an obligation to pay money) shall be suspended during the time and to extent that the party is prevented from or delayed in complying with that obligation by an event of Force Majeure.  
+13.2	A party affected by an event of Force Majeure must give to the other party particulars of the event of Force Majeure and take reasonable steps to remove or mitigate the relevant event of Force Majeure, except that the party will not be obliged to settle a Labour Dispute.
+13.3	If the delay or failure to perform obligations due to Force Majeure exceeds 90 days, either party may immediately terminate this Agreement by providing notice to the other party.
+13.4	To avoid doubt, no damages (liquidated or unliquidated) are payable solely by reason of the termination of this Agreement under clause 13.3.
+14 Notices
+14.1 A notice, approval, consent, agreement, or other communication ("communication") required by this Agreement must be:
+(a) in writing;  
+(b) given by, or to the Representatives nominated for this purpose in the Details;  and
+(c) left at, sent by ordinary pre-paid post or by facsimile to, the address or number specified in the Details.
+14.2 Unless a later time is specified in it, a communication takes effect from the time it is received.
+14.3 A communication is taken to be received:
+(a) in the case of a posted letter, on the 3rd (7th, if posted to or from a place outside Australia) day after posting;  and
+(b) in the case of facsimile, at the time shown on a transmission report by the machine from which it was sent indicating that it was sent in its entirety to the facsimile number of the recipient.
+15 Miscellaneous
+Assignment 
+15.1 The NEMDE Solver User must not assign, transfer, novate or encumber its rights or obligations under this Agreement or declare itself a trustee in relation to this Agreement without first obtaining AEMO's consent.
+Waiver 
+15.2 A right may only be waived in writing, signed by the party giving the waiver and:
+(a) no other conduct of a party (including a failure to exercise, or delay in exercising, the right) operates as a waiver of the right, or otherwise prevents the exercise of the right;
+(b) a waiver of a right on one or more occasions does not operate as a waiver of that right if it arises again;  and 
+(c) the exercise of a right does not prevent any further exercise of that right or of any other right.
+Amendment
+15.3 An amendment to this Agreement will be effective only if made in writing and signed by the parties.
+Approvals and consent
+15.4 AEMO may exercise its rights, remedies or powers in any way it considers appropriate.
+Remedies cumulative
+15.5 A party's rights, powers and remedies under this Agreement are in addition to the rights, powers or remedies provided by Law.
+Indemnities
+15.6 Any indemnities in this Agreement are continuing obligations, independent from the parties' other obligations under this Agreement and continue after this Agreement ends.  It is not necessary for a party to incur expense or make payment before enforcing a right of indemnity under this Agreement.
+Severance
+15.7 If a provision of this Agreement is void, unenforceable, or illegal in a jurisdiction, it is severed for that jurisdiction.  The remainder of this Agreement remains effective and the validity or enforceability of that provision in any other jurisdiction is not affected.  This clause 15.8 has no effect if the severance alters the basic nature of this Agreement or is contrary to public policy.
+Counterparts
+15.8 This Agreement may consist of a number of copies, each signed by one or more parties to this Agreement.  If so, the signed copies make up one document and the date of this Agreement will be the date on which the last counterpart was signed.
+Entire agreement
+15.9 This Agreement constitutes the entire agreement of the parties about its subject matter and supersedes any previous agreements, understandings and negotiations on that subject matter.
+Survival
+15.10	Termination of this Agreement for any reason does not affect:
+(a)	any rights of a party against the other party that:
+(i)	arose prior to the time at which the termination occurred;  and
+(ii)	otherwise relate to or may arise at any future time from any breach or non-observance of obligations under this Agreement occurring prior to the termination;  or
+(b)	the rights and obligations of the parties under clauses 6, 7, 8, 9, 10, 11, 12, 13, 14, 15 and 16.
+16 Governing law etc
+16.1 This Agreement is governed by the Law in force in New South Wales.  Each party submits to the non-exclusive jurisdiction of the courts of that place. 
+
+EXECUTED as an agreement
+
+SIGNED by #9# as authorised representative for #1# in the presence of:
+
+	
+Signature of witness
+
+	
+Name of witness (block letters)
+
+	
+Address of witness)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+
+
+	
+By executing this agreement the signatory warrants that the signatory is duly authorised to execute this agreement on behalf of #1# 
+
+SIGNED by 
+as authorised representative for AEMO in the presence of:
+
+	
+Signature of witness
+
+	
+Name of witness (block letters)
+
+	
+Address of witness
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+
+
+
+	
+By executing this agreement the signatory warrants that the signatory is duly authorised to execute this agreement on behalf of AEMO
+		 
+
+
+

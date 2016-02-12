@@ -1,0 +1,313 @@
+OXFORD JOURNALS ARCHIVE
+
+LICENCE AGREEMENT FOR REMOTE ACCESS TO THE OXFORD JOURNALS ARCHIVE 2008 (FULL ARCHIVE) BETWEEN OXFORD UNIVERSITY PRESS AND XXXX UNIVERSITY (CAUL) 
+
+
+
+THIS AGREEMENT ("the Agreement") is made between OXFORD UNIVERSITY PRESS ("Licensor") and the Institution named below ("Licensee") and is effective from the date OUP receives this Agreement signed by an authorised representative of the Licensee. 
+
+IT IS AGREED as follows:
+
+1. DEFINITIONS
+
+In this Agreement, the following expressions shall have the following meanings:
+
+"Authorised User" shall mean an individual who is authorised by the Licensee to access the Licensee's information services available through the Licensee's Secure Network and who is (i) affiliated with the Licensee as a current student, faculty member, employee, or in some other capacity whereby they are permitted to access such services in the Licensee's ordinary course of business, whether from a computer or terminal on the Licensee's Secure Network, or offsite via a modem link to a valid IP address on the Licensee's Secure Network; or (ii) physically present at the Site; 
+
+ "Commercial Use" shall mean use for the purposes of monetary reward (whether by or for the Licensee, an Authorised User, or any other person or entity) by means of sale, resale, loan, transfer, hire, or other form of exploitation of the Licensed Work(s);
+
+
+"Licensed Work(s)" shall mean the online OUP Journals Archive and/or [insert details of collection] 
+  
+"Licensor Trademarks" shall mean the designations OXFORD and OXFORD UNIVERSITY PRESS;
+
+"Material" shall mean any abstract, article, index, advertising or other material contained in the Licensed Work(s) and accessed online;
+
+
+"Secure Network" shall mean a network (whether a stand alone network or a virtual network within the Internet) which is only accessible to Authorised Users. A cache server or any server or network which can be accessed by unauthorised users is not a secure network for these purposes;
+
+
+"Site" shall mean the geographical site (or sites)  in respect of which the Licensee has purchased the online OUP Journals Archive and/or [insert details of collection] from which Authorised Users can access the Licensed Work(s) onsite from a computer or terminal on the Licensee's Secure Network located at the Site and via which Authorised Users can additionally access the Licensed Work(s) offsite via a modem link to a valid IP address on the Licensee's Secure Network located at the site;
+
+
+
+2. GRANT OF LICENCE, USAGE RIGHTS AND LIMITATIONS ON USE
+
+2.1 Provided the Licensee complies in full with the terms and conditions of this Licence, the Licensor either as copyright owner or acting as authorised agent of the relevant rights owners, grants the Licensee the non-exclusive and non-transferable right to allow Authorised Users to access and use the Licensed Work(s) by means of one or more Secure Networks for the purposes of research, teaching, and private study.
+
+2.2 ,Authorised Users may, for personal use only:
+
+2.2.1 access the Server by means of a Secure Network in order to search the Licensed Work(s) and to view, retrieve, and display portions thereof; 
+
+2.2.2 electronically save portions of the Licensed Work(s); 
+
+2.2.3 print out single copies of portions of the Licensed Work(s);
+
+2.2.4 provide print or electronic copies of all or any part of the Licensed Work(s) to national or international regulatory authorities for the purposes of or in anticipation of regulatory approval and/or trademark applications or other regulatory purposes in respect of the Licensee's products or services.
+
+2.3 The Licensee and Authorised Users may not:
+
+2.3.1 remove or alter Licensor's copyright notices or other means of identification or disclaimers as they appear in the Licensed Work(s);
+
+2.3.2 systematically make printed or electronic copies of multiple portions of the Licensed Work(s) for any purpose; 
+
+2.3.3 display or distribute any part of the Licensed Work(s) on any electronic network, including without limitation the Internet and the World Wide Web, other than a Secure Network;
+
+2.3.4 permit anyone other than Authorised Users to access or use the Licensed Work(s); 
+
+2.3.5 use all or any part of the Licensed Work(s) for any Commercial Use.
+
+
+2.4 Where the Licensee is an academic library or part of a non-commercial organisation, then notwithstanding any restriction in clause 2.3, the Licensor hereby grants the Licensee the non-exclusive right to supply (whether by post, fax or secure electronic transmission, using Ariel or its equivalent, whereby the electronic file is deleted after printing) to an another academic library in the same country as the Licensee or library which is part of a non-commercial organisation in the same country as the Licensee, for the purposes of research or private study and not for commercial use, a single paper copy of an electronic original of an individual document from a journal included in the Licensed Work(s). If the number of copies provided in any one calendar year for any one journal title to any one library exceeds five articles, the Licensee may (i) supply the article and pay the Licensor's standard document delivery copyright royalty rate; (ii) forward the request to the Licensor who will undertake to provide the article on a pay per view basis; (iii) forward the request to a document delivery company; or (iv) return the request unfulfilled. The Licensor may request reports in respect of the Licensee's use of the Licensed Work(s) in such inter-library loans, provided the confidentiality of user data shall be maintained.
+
+If the Licensee is located in the United States of America, the Licensee agrees to fulfil such requests in compliance with Section 108 of the United States Copyright Law (17 USC ¶108, "Limitations on exclusive rights: reproduction by libraries and archives") and with guidelines developed by the National Commission on New Technological Uses of Copyrighted Works (CONTU Guidelines) from time to time, the text of which is available as part of the US Copyright Office Circular 21. 
+
+
+3. RESPONSIBILITIES OF THE LICENSEE
+
+3.1 The Licensee will provide all identifying information relating to the Licensee and its Authorised Users required by the Registration Materials. The Licensee acknowledges that access to the Licensed Work(s) under this Agreement is conditional upon the Licensee completing the Registration Materials..
+
+3.2 The Licensee will obtain at its cost all telecommunications and other equipment and software (including an Internet browser and portable document file reader) together with all relevant software licenses necessary to access the Licensed Work(s) online via the Licensee's Secure Network.
+
+3.3 The Licensee will:
+
+3.3.1 use all reasonable efforts to ensure that only Authorised Users are permitted access to the Licensed Work(s) by means of the Licensee's Secure Network;
+
+3.3.2         take all reasonable steps to ensure that all Authorised Users abide by terms of this Agreement. 
+
+3.4 The Licensee will notify Licensor as soon as practicable if it becomes aware of any  breach by an Authorised User of the terms of this Agreement. Upon becoming aware of any breach of the terms of this Agreement by an Authorised User, the Licensee further agrees promptly to initiate disciplinary procedures in accordance with the Licensee's standard practice.
+
+ 
+
+4. ACKNOWLEDGMENT AND PROTECTION OF INTELLECTUAL PROPERTY RIGHTS
+
+4.1 The Licensee acknowledges that all copyrights, patent rights, Licensor Trademarks, services marks, database rights, trade secrets and other intellectual property rights relating to the Licensed Work(s) (collectively the "Licensor Intellectual Property"), are owned by or exclusively licensed to the Licensor and that this Agreement does not convey to the Licensee any right, title, or interest therein except for the right to use the Licensed Work(s) in accordance with the terms and conditions of this Agreement.
+
+4.2 The Licensee shall notify Licensor promptly (i) of the facts and circumstances surrounding any unauthorised possession or use of the Licensed Work(s), or Licensor Intellectual Property, or any portion thereof; and (ii) on becoming aware of any claim by any third party that the Licensed Work(s) infringes an intellectual property or proprietary right of any third party.
+
+5. REPRESENTATIONS AND WARRANTIES
+
+5.1 LICENSOR REPRESENTS AND WARRANTS THAT IT HAS THE POWER TO ENTER INTO THIS AGREEMENT AND TO GRANT THE RIGHTS CONFERRED HEREIN TO THE LICENSEE AND THAT THE LICENSED WORK(S) DO NOT VIOLATE OR INFRINGE UPON ANY PATENT, COPYRIGHT, TRADEMARK, TRADE SECRET OR OTHER PROPRIETARY RIGHT OR CONTRACT RIGHT OF ANY THIRD PARTY.
+
+5.2 SAVE AS PROVIDED ABOVE, LICENSOR GIVES NO WARRANTY, EXPRESS OR IMPLIED, AND MAKES NO REPRESENTATION THAT (I) THE LICENSED WORK(S) WILL BE OF SATISFACTORY QUALITY, SUITABLE FOR ANY PARTICULAR PURPOSE OR FOR ANY PARTICULAR USE UNDER SPECIFIED CONDITIONS, NOTWITHSTANDING THAT SUCH PURPOSE, USE, OR CONDITIONS MAY BE KNOWN TO LICENSOR; OR (II) THAT THE LICENSED WORK(S) WILL OPERATE ERROR FREE OR WITHOUT INTERRUPTION OR THAT ANY ERRORS WILL BE CORRECTED; OR (III) THAT THE MATERIAL PUBLISHED IN THE LICENSED WORK(S) IS EITHER COMPLETE OR ACCURATE.
+
+5.3 IN NO CIRCUMSTANCES WILL LICENSOR BE LIABLE TO THE LICENSEE OR ANY THIRD PARTY FOR ANY LOSS RESULTING FROM A CAUSE OVER WHICH LICENSOR DOES NOT HAVE DIRECT CONTROL, INCLUDING BUT NOT LIMITED TO FAILURE OF ELECTRONIC OR MECHANICAL EQUIPMENT OR COMMUNICATION LINES, TELEPHONE OR OTHER INTERCONNECT PROBLEMS, UNAUTHORISED ACCESS, THEFT, OR OPERATOR ERRORS.
+
+5.4 IN NO CIRCUMSTANCES WILL LICENSOR BE LIABLE TO THE LICENSEE OR ANY THIRD PARTY FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL OR INDIRECT DAMAGES OR LOSS OF PROFITS INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF DATA OR CORRUPTION OF DATA, LOSS OF PROGRAMS, LOSS OF BUSINESS OR GOODWILL, OR OTHER DAMAGES OR LOSSES OF ANY NATURE ARISING OUT OF THE USE OF, OR INABILITY TO USE THE LICENSED WORK(S).
+
+5.5 WITHOUT PREJUDICE TO THE INDEMNITY IN CLAUSE 7.1,THE LICENSEE AGREES THAT THE ENTIRE LIABILITY OF LICENSOR TO THE LICENSEE OR AUTHORISED USERS ARISING OUT OF ANY KIND OF LEGAL CLAIM (WHETHER IN CONTRACT, TORT, BY STATUTE OR OTHERWISE) IN ANY WAY CONNECTED WITH THE USE OR INABILITY TO USE THE LICENSED WORK(S) SHALL BE THE REFUND OF ANY FEE PAID TO THE LICENSOR FOR THE LICENSED WORK(S).
+
+6. INDEMNIFICATION AND FORCE MAJEURE
+
+6.1 The Licensor shall defend, indemnify, and hold the Licensee harmless against all claims, suits, proceedings, losses, liabilities, and damages (including costs, expenses, and reasonable attorneys' fees) asserted by third parties against the Licensee which arise out of any act or omission by Licensor that constitutes a breach of Licensor's warranties hereunder.
+
+6.2 The obligations in clauses 7.1 and 7.2 will survive the termination of this Agreement. 
+
+6.3 The Licensee and Licensor shall not be responsible to one another for any failure to perform any obligation under this Agreement due to Acts of God, war, riot, embargoes, acts of civil or military authorities, fire, flood, typhoon, wind storm, snow storm, blizzard, hurricane, or other cause that is outside the control of the party and could not be avoided by the exercise of due care. Notwithstanding the occurrence of any of the events set forth in this clause, the parties shall at all times use reasonable efforts to perform all obligations under this Agreement in a timely manner, taking account of the existing circumstances.  
+
+7. TERMINATION
+
+7.1 The Licensee may terminate this Agreement at any time by deleting the Licensed Works from its computers.
+
+7.2 The Licensor may terminate this Agreement forthwith by serving written notice on the Licensee in the event that the Licensee commits a material breach of this Agreement and in the case of a breach capable of remedy fails to remedy the same within 30 days of a request so to do. Without limitation, a breach by the Licensee of the provisions of Clause 3.3 above would constitute a material breach of this Agreement.  
+
+8. GENERAL
+
+8.1 This Agreement is personal to and binding on the parties and neither this Agreement nor any of the rights under it may be assigned or sublicensed. 
+
+8.2 All notices required to be given under this Agreement shall be given in writing in English and left at or sent by first class registered or recorded delivery to the appropriate address shown at the head of this Licence, or such other address as the party concerned shall from time to time designate by notice pursuant to this Clause. Such notices shall be deemed to be delivered (i) when left at the addressee's address; or (ii) if posted 10 (ten) days after posting. All notices to Licensor shall be marked for the attention of the Group Legal Director. All notices to the Licensee shall be marked for the attention of the person whose contact details are given in the Online Registration Materials.
+
+8.3 This Agreement constitutes the entire agreement of the parties about its subject matter, supersedes all prior communications, understandings and agreements (whether written or oral) relating to its subject matter and may not be amended or modified except by agreement in writing signed by both parties.  
+
+8.4 No provision in this Agreement is intended to be enforceable by a person who is not a party to this Agreement.
+
+8.5 The rights of the parties arising under this Agreement shall not be waived except in writing. Any waiver of any of a party's rights under this Agreement or of any breach of this Agreement by the other party shall not be construed as a waiver of any other rights or of any other further breach.
+
+8.6 This Agreement is subject to the laws of England and Wales.
+
+8.7 Headings used in this Agreement are for convenience only and are deemed not to be part of the Agreement.
+
+We accept the terms of this Licence:
+
+
+.............................................date:...............
+Duly authorised on behalf of Xxxx University 
+
+
+.............................................date:...............
+Duly authorised on behalf of Oxford University Press
+
+
+
+APPENDIX A 
+
+
+Titles included in the Archive and year of first issue:
+
+
+African Affairs - 1901
+Age and Ageing - 1972
+Alcohol and Alcoholism - 1963
+American Journal of Epidemiology - 1921
+American Literary History - 1989
+Annals of Botany - 1887
+Annals of Occupational Hygiene - 1972
+Annals of Oncology - 1990
+Applied Linguistics - 1980
+Behavioral Ecology - 1990
+Bioinformatics - 1985
+Biometrika - 1901
+BJA: British Journal of Anaesthesia - 1923
+Brain - 1878
+The British Journal for the Philosophy of Science - 1950
+The British Journal of Aesthetics - 1960
+The British Journal of Criminology - 1960
+The British Journal of Social Work - 1971
+British Medical Bulletin - 1943
+Cambridge Journal of Economics - 1977
+The Cambridge Quarterly - 1965
+Carcinogenesis - 1980
+Cardiovascular Research (Included in the Archive from 2008) 
+Cerebral Cortex - 1991
+Chemical Senses - 1974
+Community Development Journal - 1966
+Contributions to Political Economy - 1982
+Early Music - 1973
+ELT Journal - 1946
+English Historical Review - 1886
+Epidemiologic Reviews - 1979
+Essays in Criticism - 1951
+European Heart Journal - 1980
+The European Journal of Orthodontics - 1979
+The European Journal of Public Health - 1991
+European Review of Agricultural Economics - 1973
+European Sociological Review - 1985
+Family Practice - 1984
+Forestry: An International Journal of Forest Research - 1927
+Forum for Modern Language Studies - 1965
+French History - 1987
+French Studies - 1947
+French Studies Bulletin - 1981 (Included in the Archive from 2007)
+Glycobiology - 1990
+Health Education Research - 1986
+Health Policy and Planning - 1986
+Health Promotion International - 1986
+History Workshop Journal - 1976
+Holocaust and Genocide Studies - 1986
+Human Molecular Genetics - 1992
+Human Reproduction - 1986
+Human Reproduction Update - 1995
+ICES Journal of Marine Sciences - 1903 (Included free in the Archive from 2007, added to the subscription/purchase fee from 2008)
+IMA Journal of Applied Mathematics - 1965
+IMA Journal of Management Mathematics - 1986
+IMA Journal of Mathematical Control and Information - 1984
+IMA Journal of Numerical Analysis - 1981
+Industrial and Corporate Change - 1992
+Industrial Law Journal - 1972
+Integrative and Comparative Biology - 1961. (Inlcuded in the archive from 2007)
+International and Comparative Law Quarterly - 1952 (leaving the Archive in 2008)
+International Immunology - 1989
+International Journal for Quality in Health Care - 1989
+International Journal of Epidemiology - 1972
+International Journal of Law and Information Technology - 1993
+International Journal of Law, Policy and the Family - 1987
+International Journal of Lexicography - 1988
+International Journal of Public Opinion Research - 1989
+International Journal of Refugee Law - 1989
+IT Now (formerly the Computer Bulletin) - 1957
+Japanese Journal or Clinical Oncology - 1971
+Journal of African Economies - 1992
+Journal of Antimicrobial Chemotherapy - 1975
+Journal of Biochemistry - 1922
+Journal of Design History - 1988 (Included in the Archive from 2007)
+Journal of Electron Microscopy - 1953
+Journal of Environmental Law - 1989
+Journal of Experimental Botany - 1950
+Journal of Heredity - 1910
+Journal of Islamic Studies - 1990
+Journal of Law, Economics, & Organization - 1985
+Journal of Logic and Computation - 1990
+Journal of Molluscan Studies - 1893
+Journal of Pediatric Psychology - 1976
+Journal of Petrology - 1960
+Journal of Plankton Research - 1979
+Journal of Public Administration Research - 1991
+Journal of Public Health - 1979
+Journal of Refugee Studies - 1988
+Journal of Semantics - 1982
+Journal of Semitic Studies - 1956
+Journal of the American Academy of Religion - 1933
+Journal of the History of Collections - 1989 (Included in the Archive from 2007)
+Journal of the History of Medicine and Allied Sciences - 1946
+Journal of the National Cancer Institute - 1988
+Journal of the Royal Musical Association - 1874
+Journal of Theological Studies - 1899
+Journal of Tropical Pediatrics - 1955
+Literary and Linguistic Computing - 1986
+Literature and Theology - 1987
+Logic Journal of the IGPL - 1993
+The Library - 1889
+Mathematical Medicine and Biology: A Journal of the IMA - 1984
+Medical Law Review - 1993
+Mind - 1876
+Modern Judaism - 1981
+Molecular Human Reproduction - 1995
+Music and Letters - 1920
+The Musical Quarterly - 1915
+Mutagenesis - 1986
+Nephrology Dialysis Transplantation - 1986
+Notes and Queries - 1849
+Nucleic Acids Research - 1974
+Occupational Medicine - 1948
+Opera Quarterly - 1983
+Oxford Art Journal- 1978 (Included in the Archive from 2007)
+Oxford Economic Papers - 1938
+Oxford Journal of Legal Studies - 1981
+Oxford Review of Economic Policy - 1985
+Parliamentary Affairs - 1947
+Past & Present - 1952
+Philosophia Mathematica - 1964
+Plant and Cell Physiology - 1959
+Political Analysis - 1989
+Protein Engineering - 1986
+Public Opinion Quarterly - 1936
+Publius - 1971 (Included in the Archive from 2007)
+QJM: An International Journal of Medicine - 1907
+Quarterly Journal of Mathematics - 1930
+Quarterly Journal of Mechanics and Applied Mathematics - 1948
+Refugee Survey Quarterly - 1982
+Review of English Studies - 1925
+Rheumatology - 1952
+Social History of Medicine - 1988
+Social Politics: International Studies in Gender, State & Society - 1994
+Statute Law Review - 1980
+Teaching Mathematics and its Applications - 1982
+Toxicological Sciences - 1981
+Twentieth Century British History - 1990
+World Bank Economic Review - 1986
+World Bank Research Observer - 1986
+Year's Work in Critical and Cultural Theory - 1991
+Year's Work in English Studies - 1919
+
+
+
+
+
+
+
+
+
+
+APPENDIX B - FEES 
+
+
+
+Total USD $xxxx
+
+Annual hosting fee of USDxxxx
+
+
+
+1
+
+

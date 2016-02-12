@@ -1,0 +1,106 @@
+TERMS AND CONDITIONS
+
+Subject to Telstra determining it will provide telecommunications network infrastructure to the Proposed Development in response to your Application, the following terms and conditions will apply to Telstra's provisioning of telecommunications network infrastructure to the Proposed Development. 
+
+Some of the words used in this document have particular meanings that are set out in clause 8.
+
+1.	Developer's Obligations.  
+
+1.1	The Developer warrants that it has the authority to enter into this agreement.  
+
+1.2	The Developer agrees to provide to Telstra after consultation with Telstra and at no cost to Telstra:
+
+(a) suitable trench/trenches (shared and/or exclusive trenches as notified by Telstra which meet Telstra's specifications, including ACIF Industry Code C524 2001 External Communication Cable Networks) and pit voids for the Network Infrastructure to connect to the proposed new lots or building development including, where required by Telstra, provisions for Future Developments; 
+
+(b) Finish surface levels; 
+
+(c) suitable space within the Proposed Development for above ground housing for the distribution of the network;
+
+(d) provide Telstra with safe access to the Land for the purposes of inspecting, installing and maintaining the Network Infrastructure;
+
+(e) comply with all reasonable directions of Telstra in relation to the Network Infrastructure; and
+
+(f) use best endeavours to ensure that no damage is done to the Network Infrastructure or that it is in anyway interfered with by any person.
+
+1.3	The Developer agrees to meet the costs of replacement or repair necessitated by a breach of 1.1(e).
+
+
+2.	No Restriction on Commonwealth Legislation
+
+(a) Nothing in this agreement affects, restricts, or limits the rights, powers and immunity of Telstra under and by virtue of the Act or any other applicable legislation and/or regulations of the Commonwealth, or any State or Territory.
+
+(b) The Developer agrees in accordance with clause 17(5) of Schedule 3 of the Act to waive its right to be given a notice under clause 17(1) or 19 (1) of Schedule 3 of the Act in relation to the exercise by Telstra of its power to inspect land, to install a low impact facility within the meaning of the Telecommunications (Low Impact Facilities) Determination 1997, or to maintain a facility. 
+
+(c) The Developer acknowledges and agrees that by waiving its right to receive a notice under clause 17(5) or 19(2) of Schedule 3 of the Act it is also waiving any right, including without limitation any right conferred by clause 4.30 of the Telecommunications Code of Practice 1997, to object to the activities that are the subject of the notice.
+
+
+(d) The operation of this clause survives the expiry or termination of this agreement.
+
+
+3. Indemnity
+
+(a)  The Developer indemnifies Telstra against any liability, loss, damage, costs or expenses incurred or suffered by Telstra which is caused solely and directly by: 
+
+       (i)                 a breach of this agreement by the Developer; or
+(ii)                the negligence of the Developer or an employee or agent of the Developer acting within the scope of their authority.
+
+(b) The indemnity provided by the Developer under this clause 3 will not exceed $20 million per event and in the aggregate.
+
+(c) The Developer's liability to indemnify Telstra under this clause 3 shall be reduced proportionately to the extent that any act or omission of Telstra contributed to the liability, loss, damage, costs or expenses. 
+
+
+4.	Intellectual Property
+
+4.1	The Developer grants to Telstra a perpetual, irrevocable licence to use, modify and adapt all Developer Material for the sole purpose of Telstra installing and maintaining the Network Infrastructure, including the use of the Developer Material to update and maintain Telstra's recording systems. 
+
+4.2	The Developer represents and warrants that it has sufficient right, title and interest in the Developer Material to license that material to Telstra for the sole purpose of Telstra installing and maintaining the Network Infrastructure and updating and maintaining Telstra's recording systems.
+
+4.3	The Developer indemnifies Telstra in respect of any and all loss, damage or expense suffered by Telstra due to a claim concerning infringement of intellectual property rights brought by a third party in relation to Telstra's use of Developer Material to install and maintain the Network Infrastructure and to update and maintain Telstra's recording systems.
+
+
+5.	Ownership of the Network Infrastructure
+
+5.1	Telstra shall own the Network Infrastructure, and any other equipment or facilities installed by Telstra (none of which shall be considered a fixture, notwithstanding that elements of the Network Infrastructure may be fixed to the Land in some way) up to the network boundary point. 
+
+5.2	 The Developer must not use, or permit anyone else to use, the Network Infrastructure.
+
+
+
+
+6.	Telstra's Liability
+
+Telstra is not liable (including in negligence) for any loss, damage or expense that the Developer may suffer in connection with the provisioning of the Network Infrastructure by Telstra, including in circumstances where Telstra is unable to provide Network Infrastructure due to circumstances beyond its control. To the full extent allowed by law, Telstra excludes all warranties, whether express or implied by law.
+
+7.	Relocating Network Infrastructure
+
+If, in Telstra's opinion, it becomes necessary to remove or alter the position of any Network Infrastructure on, over or under the Land because of the Proposed Development or alterations to the finish surface levels provided, Telstra's normal business practice applies.  This commonly involves the Developer reimbursing Telstra for all of its costs incurred in connection with anything reasonably done by Telstra in connection with that removal or alteration.
+
+The Developer acknowledges that after installation of the Network Infrastructure, additional works may still be required in order for telecommunications services to be provided to customers in the development.
+
+
+8. Explanation of Certain Words
+
+Where relevant and not already defined under this clause, words in these terms and conditions have the meaning given to them in the Act.
+
+Act means the Telecommunications Act 1997 (Cth). 
+
+Application means this online application for reticulation.
+
+Developer means the person listed in Step 4 of this Application and that person who acknowledges and agrees to the Terms and Conditions.
+
+Developer Material means any and all material provided by the Developer to
+Telstra for the purpose of Telstra installing the Network Infrastructure,
+including all trench plans and surveyors' plans submitted as part of this application.
+
+Land means the land described in Step 9 of this Application.	
+
+Network Infrastructure means the equipment and facilities (including, without limitation, conduits, cable, road crossings, pipe, pits, lead in starter pipe) and any provision for future development in shared or exclusive trench/trenches where required, installed or to be installed by Telstra on the Land.
+
+Proposed Development means the development in respect of which the applicant has submitted this form as referred to in Step 9 of this Application. 
+
+Telstra means Telstra Corporation Limited (ACN 051 775 556) and its
+employees, agents or subagents and employees of its agents and sub agents.
+
+Trench/Trenches and pit voids mean all excavations, backfill (with suitable material) and reinstatement without limitations necessary within the Land to accommodate the Telstra Network Infrastructure.
+
+Finish surface levels means the final level of the terrain (including development landscaping).

@@ -1,0 +1,242 @@
+
+This paragraph provides padding and has been hidden deliberately. Do not delete or unhide this paragraph.
+Agreement 
+Referral AgreementAusmed Publications Pty Ltd
+Trading as AusmedOnline
+The party named as the Referrer in item 2 of the schedule
+
+
+Contents
+Table of contents
+1	Definitions and interpretation	2
+1.1	Definitions	2
+1.2	Interpretation	4
+2	Introduction	4
+3	Referrer Fee	4
+3.1	General	4
+3.2	Taxes	5
+4	Role of the Referrer	5
+5	Hypertext Link	5
+6	Warranty	6
+7	Acknowledgment by the Referrer	6
+8	Records	6
+9	Prospective Member Data	6
+10	Indemnities	7
+11	Termination	7
+12	Confidential Information	7
+13	Notices	8
+14	General	8
+Schedule 1	10
+Signing page	12
+
+
+
+
+Referral Agreement
+Date ?
+Between the partiesAusmedAusmed Publications Pty Ltd
+ACN 005 611 727 of 
+277 Mt Alexander Road,
+Ascot Vale, Vic, 3032 
+trading as AusmedOnline
+(Ausmed)ReferrerThe party named as the Referrer in item 2 of the schedule
+(Referrer)
+
+Recitals1 The Referrer wishes to refer Prospective Members to AusmedOnline.com.
+2 Ausmed will pay the Referrer certain fees in respect of each Referral Purchase subject to this agreement.The parties agree as follows:
+
+This paragraph provides padding and has been hidden deliberately. Do not delete or unhide this paragraph.
+1 Definitions and interpretation
+1.1 Definitions
+The meanings of the terms used in this agreement are set out below.
+TermMeaningAustralian GSTmeans goods and services tax (GST) levied in accordance with the GST ActAusmed Website means the Website specified as the Ausmed Website in item 3 of the schedule or as varied by written agreement between the partiesBusiness Day means a day that is not a Saturday, a Sunday, a public holiday or a bank holiday in the State of Victoria, AustraliaConfidential Informationmeans all communications between the parties to this agreement and all data, information and other material supplied to one party by the other party or received by one party from the other party which is either marked "confidential" or by its nature intended to be confidential, and any information concerning the business transactions, financial arrangements or member details of either party coming to the knowledge of the other party which is conveyed in circumstances which indicate it is confidential, but which does not include information which is:
+1 in the public domain (other than by a breach of confidence); or
+2 required to be disclosed by law, regulation or industry code.
+Without limiting the foregoing, Ausmed's Confidential Information includes Prospective Member Data, material provided to the Referrer, in whatever form, by or on behalf of Ausmed and any personal information of a member of AusmedGST Actmeans the A New Tax System (Goods and Services Tax) Act 1999 and any associated or replacement legislation or regulationsHypertext Link means the link connecting locations on the internet, or Websites, to the Ausmed Website using the specific code provided to the Referrer by Ausmed for the purpose of recording referrals from the ReferrerIntellectual Property Rights means copyright and neighbouring rights, all rights conferred by statute, common law or equity in or in relation to inventions (including patents), registered or unregistered trade marks, registered and unregistered designs, circuit layouts and confidential information and all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fieldsMembershipa subscription that can be purchased via the Ausmed Website and which gives Prospective Members access to any study papers, audio lectures, books, educational resources, job descriptions, policies and procedures, images, fast fact sheets, documentation or other material and information available on the Ausmed Website Payment Period means one monthProspective Member means a person who has been referred by the Referrer via the Hypertext Link to the Ausmed WebsiteProspective Member Data means any list or database, regardless of form, of Prospective MembersReferrer Fee means the fee payable by Ausmed to the Referrer in respect of each Referral Purchase as specified in item 4 of the scheduleReferral Purchasehas the definition given in clause 2Term means the period specified in item 6 of the scheduleTransaction Taxmeans any goods and service tax, value added tax, consumption tax or any similar tax levied in any jurisdiction and for the avoidance of doubt expressly includes Australian GSTTransaction Tax Invoicemeans:
+(a)	in respect of Australian GST - a tax invoice as defined in the GST Act; and
+(b)	in respect of any other Transaction Tax - a tax invoice, invoice, receipt adjustment note or other documentation necessary for a party to be entitled to claim a Transaction Tax CreditTransaction Tax Creditmeans:
+(a)	in respect of Australian GST - an input tax credit as defined in the GST Act; and
+(b)	in respect of any other Transaction Tax - an input tax credit, deduction, credit, refund, offset, adjustment or other recognition of the Transaction Tax component of payments made or other consideration provided under this agreement by any relevant authority or under the applicable legislation under which the Transaction Tax is levied.Website means the collection of files comprising individual screen displays and associated scripts, applets or programs stored on a computer server running webserver software applications which are connected to the Internet1.2 Interpretation
+In this agreement unless the context requires otherwise:
+(a) words importing the singular include the plural and vice versa; and
+(b) a reference to legislation or other laws includes regulations and other statutory instruments under it and consolidations, amendments, re-enactments or replacements to them and includes reasonably equivalent legislation or laws in other jurisdictions.
+2 Introduction
+(a) The Referrer will introduce or refer to Ausmed from time to time Prospective Members via the Hypertext Link.
+(b) Ausmed will keep a record of those Prospective Members who subscribe and purchase a Membership from the Ausmed Website after being referred to the Ausmed Website in accordance with clause 2(a) ("Referral Purchase").
+3 Referrer Fee
+3.1 General
+(a) Ausmed must pay to the Referrer a Referrer Fee in respect of each Referral Purchase in accordance with Item 4 of Schedule 1.
+(b) Ausmed may vary the amount of the Referrer Fee from time to time by giving written notice to the Referrer.  Any such notice shall not affect the Referrer Fee applicable to any Referral Purchase arising out of a referral received by Ausmed at or before the time of giving the notice.
+(c) The Referrer Fee is payable only where the total amount of all Referrer Fees in a Payment Period is greater or equal to $AUD1000.
+(d) Where the total amount of all Referrer Fees payable in a Payment Period is less than $AUD1000 as outlined in clause 3.1(c), the Referrer Fees will be carried over to a Payment Period where the Referrer Fees accrue to an amount greater or equal to $AUD1000. 
+(e) If the Referrer is required by clause 3.2(c) to issue a Transaction Tax Invoice in respect of a Referrer Fee, notwithstanding anything else in this agreement, Ausmed is not required to pay that Referrer Fee until the Transaction Tax Invoice has been issued.
+(f) Subject to clauses 3.1(c), 3.1(d) and 3.1(e), the Referrer will be paid the Referrer Fee in the month following the Payment Period in the manner specified in item 5 of the schedule.
+(g) Where a Prospective Member has visited more than one Referrer before making a Referral Purchase, the Referrer most recently visited in time by the Prospective Member prior to making the Referral Purchase will be deemed to be the Referrer responsible for the Referral Purchase and will be entitled to the Referrer Fee.
+(h) In the event of a dispute between the parties as to the number of Referral Purchases in a Payment Period, the Referrer agrees that the decision of Ausmed is final and binding in determining the Referrer Fee.
+(i) The Referrer Fee is the only amount payable by Ausmed under this agreement.
+3.2 Taxes
+(a) Unless otherwise stated in the schedule, the Referrer Fee includes any taxes payable in respect of or in connection with this agreement, including Transaction Taxes, sales, excise, personal, property and other taxes, stamp duty, levies but not including taxes payable on a party's income (Taxes) and the Referrer Fee will not otherwise be increased on account of such Taxes. 
+(b) The Referrer must pay all Taxes and Ausmed may deduct from the Referrer Fee (or be entitled to a refund from the Referrer Fee already paid by Ausmed) any payments of Taxes which Ausmed is required to make or withhold on the Referrer's behalf and Ausmed will be deemed to have paid the amount deducted to the Referrer.
+(c) If any Transaction Taxes are payable in connection with anything done under or contemplated by this agreement, the relevant party shall issue such Transaction Tax Invoice as is necessary for a party to be entitled to claim any applicable Transaction Tax Credit.
+(d) If a correct ABN is not shown for the Referrer in Schedule 1 then: 
+(1) the Referrer warrants that none of the supplies to be made under this agreement will be made to Ausmed in the course or furtherance of an enterprise carried on in Australia by the Referrer; and
+(2) the Referrer indemnifies Ausmed for any loss suffered as a result of that warranty being incorrect including any taxes, withholding or associated penalties or interest payable by Ausmed.
+4 Role of the Referrer
+(a) The Referrer's role is limited to the introduction of Prospective Members to Ausmed as provided in the agreement.
+(b) Without obtaining prior written approval from Ausmed, the Referrer must not:
+(1) make any representations concerning Ausmed's products, services or policies or the Referrer's relationship with Ausmed; or
+(2) engage in conduct which is false, misleading or deceptive concerning any matter outlined in this agreement.
+(c) The Referrer must provide to Ausmed, for Ausmed's prior written approval, all material relating to Ausmed or which includes any reference to Ausmed which the Referrer proposes to make available for the purposes of promoting Ausmed.  The Referrer must immediately comply with Ausmed's instructions regarding the removal or amendment of such material.
+5 Hypertext Link
+(a) The Referrer must use the Hypertext Link to direct referrals to the Ausmed Website for a valid Referral Purchase to occur.
+(b) Ausmed grants to the Referrer for the duration of this agreement, a non-exclusive, limited licence to use those names, logos and trade marks provided by Ausmed to the Referrer solely for the provision of the Hypertext Link.  Ausmed may impose any further conditions Ausmed sees fit on the use by the Referrer of Ausmed's name, logos and trade marks.
+(c) The Referrer must not frame any of the Ausmed Website via the Hypertext Link.  
+6 Warranty
+In addition to any conditions and warranties that may be implied by operation of law, the Referrer warrants that:
+(a) the Referrer does not and will not infringe any law, regulation, or industry code;
+(b) all information in relation to the Ausmed Website used by the Referrer will at all times be accurate and not misleading or deceptive by act, omission or otherwise;
+(c) the Referrer will not do anything that may, in the view of Ausmed, adversely affect or put into disrepute Ausmed's name, reputation or business; and
+(d) the Referrer does not and will not infringe the Intellectual Property Rights of any person.
+7 Acknowledgment by the Referrer
+(a) The Referrer acknowledges and agrees that Ausmed will inform all Prospective Members that a Referrer Fee will be paid to the Referrer by Ausmed should a Referral Purchase occur.
+(b) The Referrer must inform each Prospective Member that the Referrer will receive a Referrer Fee from Ausmed should a Referral Purchase occur in relation to that Prospective Member.
+(c) The Referrer authorises Ausmed to conduct any investigations and to obtain any credit reports necessary for the purpose of satisfying itself as to the financial standing of the Referrer.
+8 Records
+The Referrer can track the total number of Referral Purchases made in a Payment Period by accessing a separate weblink provided to the Referrer by Ausmed following the execution of this agreement.
+9 Prospective Member Data
+(a) Notwithstanding any other term of this agreement, all Prospective Member Data, together with any Intellectual Property Rights in any Prospective Member Data, is and will remain the exclusive property of Ausmed. The Referrer hereby assigns all of its rights, title and interest to the Intellectual Property Rights (if any) in the Prospective Member Data to Ausmed.
+(b) All rights, powers and privileges with respect to Prospective Member Data will be held solely and exclusively by Ausmed.
+10 Indemnities
+The Referrer indemnifies and will keep indemnified and harmless Ausmed and its related bodies corporate and affiliates and their respective employees, contractors and agents against all losses, damages, liabilities, claims and expenses (including but not limited to reasonable legal costs and defence or settlement costs) whatsoever arising out of or referable to: 
+(a) any dispute, claim or action alleging infringement of any Intellectual Property Rights of any person on grounds in any way related to the Referrer's activities; and
+(b) any breach by the Referrer of its obligations under, or a misrepresentation or breach of warranty made by the Referrer under or in relation to, this agreement.
+11 Termination
+(a) This agreement will have effect from the date this agreement is made and continues for the Term or until it is otherwise terminated under this clause 11.
+(b) Either party may terminate this agreement by not less than 14 days written notice to the other party at any time. 
+(c) Ausmed may terminate this agreement immediately by written notice if there is any breach by the Referrer of clauses 4, 5, 6, 7 or 12.
+(d) Upon termination or expiry of this agreement: 
+(1) the Referrer must permanently remove the Hypertext Link;
+(2) subject to clause 11(e), each party must pay to the other party any outstanding amounts due to the other party under this agreement (if any); and
+(3) each party must deliver-up all documents and other materials, in any medium, in its possession, power or control (except for internal company documents) which contain or refer to the Confidential Information of the other party.
+(e) Ausmed will only be liable for a Referrer Fee applicable to a Referral Purchase arising out of a referral received prior to the month in which this agreement terminated or expired.  For the avoidance of doubt, Ausmed will not be liable for any Referrer Fees applicable to a Referral Purchase arising out of a referral received by Ausmed during the month in which this agreement terminated or expired.
+12 Confidential Information
+(a) Each party must at all times: 
+(1) keep confidential all the other party's Confidential Information;
+(2) not use or reproduce any of the other party's Confidential Information other than for the purposes of this agreement;
+(3) only disclose any Confidential Information of the other party to its employees, contractors, professional advisers or sub-contractors who need to know the information for the purposes of this agreement or to enforce any rights under this agreement; and
+(4) not disclose any Confidential Information of the other party to any third party.
+(b) Each party will ensure that its personnel, external contractors and advisers are aware of the confidential nature of the Confidential Information of the other party and do not do anything which if done by the party would cause a breach of this clause 12.
+13 Notices
+(a) Any notice or other communication required under this agreement:
+(1) must be in legible writing and in English addressed to the party concerned or to that party's last known postal address, facsimile number or email address; and 
+(2) may be delivered to a party by being left at, or posted by security post or sent by facsimile to, or sent by email to, that party's last known address or facsimile number or email address.
+(b) A notice sent by security post is regarded as given by the sender and received by the addressee 5 Business Days after the notice was sent.
+(c) A notice sent by facsimile transmission is regarded as given by the sender and received by the addressee when the transmission has been completed except where:
+(1) the sender's machine indicates a malfunction in transmission or the recipient immediately notifies the sender of an incomplete transmission, in which case the facsimile transmission is regarded as not given or received; or
+(2) the receipt is on a day which is not a day on which business is generally carried on in the place to which the notice is sent or is after 5.00 pm (addressee's time), in which case the notice is regarded as received at the commencement of business on the following Business Day in that place.
+(d) A notice sent by email is regarded as being given by the sender and received by the addressee unless, within 2 days of having sent a notice by email, the sender receives a non delivery report from the sender's email provider which states that the email was not successfully delivered to the recipient.
+14 General
+(a) Ausmed may assign its rights and obligations under this agreement without the consent of the Referrer. 
+(b) The Referrer may not assign its rights and obligations without the consent of Ausmed.
+(c) If a provision or any part of the agreement is void or voidable by either party or unenforceable or illegal but would not be void or voidable or unenforceable or illegal if it were read down and it is capable of being read down, it will be read down accordingly.
+(d) This agreement is governed by the law of the State of Victoria, Australia. The Referrer submits to the exclusive jurisdiction of the courts in the State of Victoria, Australia.
+(e) The agreement contains the entire agreement of the parties with respect to its subject matter and supersedes all prior understandings between the parties with respect to that subject matter.
+(f) The relationship between Ausmed and the Referrer is that of principal and contractor. Neither the Referrer nor the third parties engaged on behalf of the Referrer are, and nothing in this agreement will be taken as making either the Referrer or those third parties agents, partners, employees or servants of Ausmed, and the Referrer and third parties engaged on behalf of the Referrer must not make any representation that they are an agent, partner, employee or servant of Ausmed.
+(g) The Referrer will, upon Ausmed's reasonable request, do all things necessary in order to perfect the rights granted under this agreement.
+(h) This agreement may be executed in any number of counterparts.  All counterparts, taken together, constitute one instrument.  A party may execute this agreement by signing any counterpart.
+(i) Clauses 9, 10, 11(d), 12 and 14(c)-(e) survive the termination or expiry of this agreement.
+
+
+
+
+
+This paragraph provides padding and has been hidden deliberately. Do not delete or unhide this paragraph.
+Schedule 1
+This paragraph provides padding and has been hidden deliberately. Do not delete or unhide this paragraph.
+Schedule 1
+1 Agreement details
+Date of agreement:
+2 Referrer details
+Name of the Referrer:ABN (if applicable - see clause 3.2(d) if the Referrer does not have an ABN)Contact PersonAddress for correspondence and mailing of Referrer Fee:Telephone:Facsimile:Paypal account name:Email address:
+3 Websites
+Website(s):www.AusmedOnline.com (or as varied by written agreement between the parties)
+4 Referrer Fee
+EventReferrer FeeA Prospective Member, who:
+1. is still identifiable by Ausmed as being referred to Ausmed by a Referrer; and 
+2. within 21 days of having been referred to Ausmed by the Referrer through the Hypertext Link, 
+makes a Referral Purchase.25% of the total value of the Membership purchased (excluding GST)
+
+5 Manner of payment of Referrer Fee
+Manner of payment:By Paypal payment made to the Referrer's Paypal account.
+6 Term
+Term of agreementUntil terminated by either party
+
+
+This paragraph provides padding and has been hidden deliberately. Do not delete or unhide this paragraph.
+Signing page
+Executed as an agreement
+
+
+
+Signed for
+Ausmed Pty Limited
+by its representativesign here ?Representativeprint namein the presence ofsign here ?Witnessprint name
+
+
+
+ReferrerSigned by
+The party named as the Referrer in item 2 of the schedule
+bysign here ?Company Secretary/Directorprint namesign here ?Directorprint name
+
+Parties
+
+I.3081745Ausmed Referral Agreement - FINAL
+
+
+
+
+I.3081745Ausmed Referral Agreement - FINAL
+
+
+Contents
+
+I.3081745Ausmed Referral Agreement - FINALContents 12
+
+I.3081745.4Printed 12/10/09 (14:40)Ausmed Referral Agreement - FINALContents 1
+
+
+
+
+I.3081745Ausmed Referral Agreement - FINALpage 12
+
+
+
+
+I.3081745Ausmed Referral Agreement - FINALpage 1
+
+
+1     Definitions and interpretation
+
+I.3081745Ausmed Referral Agreement - FINALpage 3
+
+
+
+
+I.3081745Ausmed Referral Agreement - FINALpage 2
+
+
+Schedule 1     Schedule 1
+
+I.3081745Ausmed Referral Agreement - FINALpage 11
+
+
+
+I.3081745Ausmed Referral Agreement - FINALpage 10
+
+
+Schedule 1     Schedule 1
+
+I.3081745Ausmed Referral Agreement - FINALpage 11
+
+I.3081745Ausmed Referral Agreement - FINALpage 12
+

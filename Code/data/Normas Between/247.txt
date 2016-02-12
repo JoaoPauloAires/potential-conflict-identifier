@@ -1,0 +1,265 @@
+The Licensor shall deliver the Licensed Software and Source Code to the Licensee, and install the Licensed Software as it becomes available for release.
+
+The Licensee shall give the Licensor such reasonable assistance, including the provision of personnel and facilities, as the Licensor reasonably considers necessary to ensure satisfactory installation of the Licensed Software.  The Licensee shall ensure the Licensor is granted all reasonable access, including necessary security clearances, for the purposes of complying with subclause 1.
+
+If, in the opinion of the Licensor, the costs associated with the installation of the Licensed Software are greater than the Licensor could have reasonably contemplated on execution of this Agreement and are greater than the costs which would normally be associated with a similar installation project, the Licensor may make an Additional Charge.
+
+The Licensor shall grant to the Licensee a non-exclusive, non-transferable licence for the Initial Term to use so much of the Licensed Software at the Site as is released by the Licensor during the term of this Agreement but such use shall be solely for the purpose of conducting the Licensee's business.
+
+At the sole discretion of the Licensor, the Licence may be renewed for subsequent terms of similar duration to the Initial Term.  The Licensee shall provide at least thirty (30) days notice in writing prior to the expiry of the Initial Term or any subsequent term if it wishes to renew the Licence pursuant to this subclause.
+
+A licence renewal fee shall be payable in accordance with Schedule 2 in the event the licence is extended pursuant to this clause.
+
+The Documentation is licensed to the Licensee for the duration of the Agreement.
+
+The Licensor shall provide the Licensee with such number of copies of the Documentation as are specified in Schedule 1.
+
+The Licensee acknowledges that the Documentation contains sufficient information for the adequate use of the Licensed Software, except to the extent the Licensor has notified the Licensee of any omission or deficiency or of any variation which it considers necessary for the proper use of the Licensed Software.
+
+The Licensee shall not copy or reproduce the Documentation except to the extent otherwise authorised by this Agreement.
+
+The Licensee may only use the Licensed Software in accordance with the normal operating procedures as notified by the Licensor.
+The Licensed Software may only be used pursuant to this Agreement:
+by the Licensee; and
+at the Site.
+
+Unless specified to the contrary in Schedule 1, the Licensed Software may not be used on equipment other than Designated Equipment save that of the sole risk of the Licensee it may be used on alternative equipment if.
+the Designated Equipment is temporarily inoperable, due to malfunction, maintenance or change of installation site; or
+the Licensor has otherwise given its consent in writing to such alternate use.
+
+The Licensee shall not copy, alter, modify or reproduce the Licensed Software except to the extent otherwise authorised by this Agreement.
+
+In addition to any other remedies available to the Licensor under this Agreement or otherwise, any unauthorised use, alteration, modification, reproduction, publication, disclosure or transfer of the Licensed Software will entitle the Licensor to any available equitable remedy against the Licensee.
+
+Except to the extent specified to the contrary in this Agreement, the Licensor shall not be obliged to support the Licensed Software, whether by providing advice, training, error-correction, modifications, updates, new releases or enhancements or otherwise.
+
+The Licensee acknowledges that there is no transfer of title or ownership to the Licensee of the Licensed Software or the Documentation or any modifications, updates or new releases of the Licensed Software.
+
+Subject to subclause 2, the Licensee shall not copy or reproduce the Licensed Software or Documentation by any means or in any form without the Licensor's prior written consent.
+
+The Licensee may make one copy of the Licensed Software for the purpose of backup and security.  The Licensee shall acknowledge such copy as the property of the Licensor.  The terms of this Agreement, with the necessary modifications, apply to the said copy.
+
+The Licensee shall ensure any copy of the Licensed Software made pursuant to this Agreement bears notice of the Licensor's ownership of copyright and a notice stipulating that the Licensed Software contains information confidential to the Licensor.  The Licensee shall comply with any directions of the Licensor as to the form or content of such notices.
+
+If requested by the Licensor, the Licensee shall issue a notice in a form approved by the Licensor to all employees and other authorised users of the Licensed Software under its direction or control, advising such persons of the Licensee's obligations under this clause and also advising of the possible civil and criminal consequences of a breach of this clause.
+
+The Licensee may modify or alter the Licensed Software or merge all or any part of the Licensed Software with any other software without the Licensor's written permission.
+
+The Licensee hereby assigns to the Licensor all future copyright in the modifications or alterations made by the Licensee to the Licensed Software throughout all countries of the world in which the rights hereby assigned subsist to the intent that the said rights therein shall forthwith upon the creation of such modifications or alterations vest in the Licensor;
+
+If the Licensed Software is modified or altered by the Licensee:
+the costs associated with the modifications or alterations or the costs arising out of the investigation of the effects of proposed modifications or alterations will be borne solely by the Licensee;
+the Licensee shall provide to the Licensor the source code for the modified or altered Licensed Software;
+the Licensee shall not request the performance of any modification or alteration of the Licensed Software and shall not permit the creation of any material in which copyright may subsist relating to such modifications or alterations by any person other than an employee of the Licensee pursuant to the terms of that person's employment by the Licensee unless the Licensee shall have first secured an agreement from any such person to assign to the Licensor all intellectual property rights (including future copyright) in any work which may be created by that person in relation to the Licensed Software and to keep Source Code secret and confidential; and
+the Licensee will fully indemnify the Licensor against all liability which may be incurred by the Licensor if such modifications or alterations infringe any Intellectual Property Rights of a third person or otherwise cause the Licensor to suffer loss, damages or expense.
+
+The Licensed Software as modified or altered remains the property of the Licensor in all respects, whether modified by the Licensee, the Licensor or a third party and whether or not authorised pursuant to this Agreement.  Specifically, the Licensee shall if necessary assign the Licensor all Intellectual Property Rights arising out of any modifications or alterations to the Licensed Software which may not have passed to the Licensor pursuant to subclause 2.
+
+This Agreement shall apply to the Licensed Software as modified or altered.
+
+The Licensee shall execute such documents and perform such other acts as are necessary in order to give effect to subclause 3.
+
+The Licensee shall comply with the terms of any licence for the use of Open Source Software.
+
+The Licensee shall provide to the Licensor details of and the source code for any modifications or enhancements made by the Licensee to the open Source Software or any other software forming part of the System.
+
+All modifications and alterations made by the Licensee must include a file documenting the modification or alteration so made.
+
+The Licensee shall not directly or indirectly allow or cause a third party (other than a current Member) to reverse assemble or reverse compile the whole or any part of the Licensed Software.
+
+The Licensee shall be solely responsible for the use, supervision, management and control of the Licensed Software and Documentation.
+
+The Licensee shall ensure that the Licensed Software is protected at all times from misuse, damage, destruction or any form of unauthorised use.
+
+The Licensee shall keep accurate records of use, copying, modification and disclosure of the Licensed Software.  The Licensee shall permit the Licensor to inspect such records at any time during the Licensee's normal business hours.  If the Licensor requests, the Licensee shall furnish to the Licensor a copy of all or any part of such records.
+
+The Licensor shall determine at its discretion:
+what changes are made to the System; and
+what modifications or alterations are made to the Licensed Software or the Open Source Software forming part of the System.
+
+The Licensee shall only use the System as determined by the Licensor and only for its business purposes.
+
+The Licensor is under no obligation under this Agreement to provide updates or new releases for the Licensed Software or any other software or to complete and supply the Licensed Software.
+
+The Licensor will provide to the Licensee source code for:
+any updates or new releases of the Licensed Software; and
+any modifications or alterations to any software forming part of the System.
+
+The Licensee shall comply with a direction from the Licensor to redeliver the Licensed Software to the Suppler in substitution for an update or new release which provides functions equal to or better than the Licensed Software.
+
+Where an update or new release is provided pursuant to subclause 2 or any modification or alterations are made to the Licensed Software or the Open Source Software:
+the Licensor will deliver and install the update or new release at no additional charge to the Licensee;
+the charge for use of the new release will be no higher in respect of the then current term than the then current Licence Fee;
+this Agreement will continue to apply in all respects to the update or new release which shall be deemed to be the Licensed Software for the purpose of this Agreement; and
+the Licensee shall return to the Licensor all copies of the original Licensed Software or otherwise deal with all copies of the original Licensed Software in accordance with the Licensor's directions.
+
+Without limiting the Licensee's obligations under this clause, and notwithstanding any other provision of this Agreement, the Licensor shall be under no liability to the Licensee in the event of loss or damage suffered by the Licensor as a result of its failure to comply with this clause, and the Licensee shall indemnify the Licensor in respect of any loss or damage suffered by the Licensor as a result of the Licensee's failure to comply with this clause.
+
+The Licensee shall ensure that the appropriate officers or employees of the Licensee attend meetings of the User Group.
+The Licensee shall report (in writing) to the User Group giving details of:
+any development work the Licensor is doing with any of the Licensed Software, the Open Source Software or the System; and
+any faults or concerns the Licensee has with the System.
+
+The Licensee shall comply with the Source Code Control System used by the Licensor.
+The Licensee shall ensure that appropriate officers and employees of the Licensee are made available to participate in training in the use of the System.
+
+The Licensee shall pay the Licence Fee at the rate and in the manner specified in Schedule 2.
+
+If the Licensee disputes the whole or any portion of the amount claimed in an invoice submitted by the Licensor, the Licensee shall pay the portion of the amount stated in the invoice which is not in dispute and shall notify the Licensor in writing (within seven (7) days of receipt of the invoice) of the reasons for disputing the remainder of the invoice.  If it is resolved that some or all of the amount in dispute ought to have properly been paid at the time of the first invoice, then the Licensee shall pay the amount finally resolved together with interest on that amount in accordance with the terms of payment set out in this Agreement.
+
+The Licensee shall pay the Licensor interest on any amount due and not paid by the Customer within the timeframe required by this Agreement and the rate of interest specified in Schedule 2.
+
+In the event that:
+the supply or installation of the Licensed Program is delayed;
+the Licensor is required to deliver and install the Licensed Software or perform services in circumstances other than those expressly or reasonably anticipated to be associated with the delivery or installation or supply of services of a similar nature; or
+there is a change in the timing or complexity of the delivery or installation of the Licensed Software or the supply of services;
+for reasons other than a breach of this Agreement by the Licensor, then the Licensor shall be entitled to payment of an Additional Charge on a time and material basis in respect of additional resources reasonably utilised in order to fulfil its obligations under this Agreement.
+
+The Licence Fees are exclusive of taxes, duties and charges imposed or levied in Australia or overseas in connection with the supply and installation of the Licensed Software.  Without limiting the foregoing, the Licensee shall be liable for any new taxes, duties or charges imposed subsequent to the Commencement Date in respect of the goods and services which are the subject of this Agreement.
+
+For the duration of the Warranty Period, the Licensor warrants that the Licensed Software will operate in conformity with the Documentation in all material respects.
+
+If at any time during the Warranty Period the Licensee believes there is a defect in the Licensed Software such that the Licensed Software does not comply with or cannot be used in accordance with the Specifications, the Licensee shall notify the Licensor of such perceived defect.
+
+The Licensor shall investigate the perceived defect notified pursuant to subclause 2 and shall, upon the verification of the existence of the defect, rectify such defect without additional charge to the Licensee.
+
+If due investigation by the Licensor of a defect reported pursuant to subclause 2 reveals that no such defect in fact exists, the Licensor may make an Additional Charge in respect of such investigation.
+
+The Licensor shall not be liable under this clause to the extent that a defect is caused by the Licensee or a third party, including the failure of the Licensee or a third party to maintain the operating environment designated in the Documentation or to otherwise use the Licensed Software in accordance with specifications issued by the Licensor from time to time, whether in the Documentation or otherwise.
+
+A Party shall not, without the prior written approval of the other Party, disclose the other Party's Confidential Information.
+A Party shall not be in breach of subclause 1 in circumstances where it:
+is legally compelled to disclose the other Party's Confidential Information; or
+discloses Source Code to a Member whose membership is current at the time of such disclosure.
+
+Each Party shall take all reasonable steps to ensure that its employees and agents, and any sub-contractors engaged for the purposes of this Agreement, do not make public or disclose the other Party's Confidential Information.
+
+Notwithstanding any other provision of this clause, the Licensor may disclose the terms of this Agreement (other than Confidential Information of a technical nature) to its related companies, solicitors, auditors, insurers and accountants.
+
+This clause shall survive the termination of this Agreement.
+
+During the Restraint Period, neither Party shall solicit for employment, either directly or indirectly, any person who is employed or contracted by the other Party.
+
+A Party shall promptly advise the other Party if a person who is employed or contracted by the other Party seeks to be employed or contracted by the firstmentioned Party prior to the expiration of the Restraint Period.
+
+Subject to subclauses 2, 3 and 4, the Licensor shall indemnify the Licensee against liability under any final judgment in proceedings brought by a third party against the Licensee which determine that the Licensee's use of the Licensed Software constitutes an infringement in Australia of any Intellectual Property Rights in the Licensed Software.
+
+The Licensor shall not be required to indemnify the Licensee as provided in subclause 1 unless the Licensee:
+notifies the Licensor in writing as soon as practicable of any infringement, suspected infringement or alleged infringement;
+gives the Licensor the option to conduct the defence of such a claim, including negotiations for settlement or compromise prior to the institution of legal proceedings;
+provides the Licensor with reasonable assistance in conducting the defence of such a claim;
+permits the Licensor to modify, alter or substitute the infringing part of the Licensed Software at its own expense in order to avoid continuing infringement, or authorises the Licensor to procure for the Licensee the authority to continue the use and possession of the infringing Licensed Software.
+
+The Licensor shall not indemnify the Licensee to the extent that an infringement, suspected infringement or alleged infringement arises from:
+use of the Licensed Software in combination by any means and in any form with other goods not specifically approved by the Licensor;
+use of the Licensed Software in a manner or for a purpose not reasonably contemplated or not authorised by the Licensor;
+modification or alteration of the Licensed Software without the prior written consent of the Licensor;
+any transaction entered into by the Licensee relating to the Licensed Software without the Licensee's prior consent in writing; or
+use of modifications or alterations made to the Licensed Software by the Licensee.
+
+In the event that proceedings are brought or threatened by a third party against the Licensee alleging that the Licensee's use of the Licensed Software constitutes an infringement of Intellectual Property Rights, the Licensor may at its option and at its own expense conduct the defence of such proceedings.  The Licensee shall provide all necessary co-operation, information and assistance to the Licensor in the conduct of the defence of such proceedings.
+The Licensee shall indemnify the Licensor against any loss, costs, expenses, demands or liability, whether direct or indirect, arising out of a claim by a third party alleging such infringement if:
+the claim arises from an event specified in subclause 3; or
+the ability of the Licensor to defend the claim has been prejudiced by the failure of the Licensee to comply with any requirements of subclauses 2 or 4.
+
+Subject to subclause 2, any condition or warranty which would otherwise be implied in this Agreement is hereby excluded.
+
+Where legislation implies in this Agreement any condition or warranty, and that legislation avoids or prohibits provisions in a contract excluding or modifying the application of or exercise of or liability under such condition or warranty, the condition or warranty shall be deemed to be included in this Agreement.  However, the liability of the Licensor for any breach of such condition or warranty shall be limited, at the option of the Licensor, to one or more of the following:
+if the breach relates to goods:
+the replacement of the goods or the supply of equivalent goods;
+the repair of such goods;
+the payment of the cost of replacing the goods or of acquiring equivalent goods; or
+the payment of the cost of having the goods repaired; and
+if the breach relates to services:
+the supplying of the services again; or
+the payment of the cost of having the services supplied again.
+
+Except in relation to liability for personal injury (including sickness and death), the Licensor shall be under no liability to the Licensee in respect of any loss or damage (including consequential loss or damage) which may be suffered or incurred or which may arise directly or indirectly in respect of goods or services supplied pursuant to this Agreement or in respect of a failure or omission on the part of the Licensor to comply with its obligations under this Agreement.
+
+Subject to subclause 3, the Licensee warrants that it has not relied on any representation made by the Licensor which has not been stated expressly in this Agreement, or upon any descriptions, illustrations or specifications contained in any document including catalogues or publicity material produced by the Licensor.
+
+The Licensee acknowledges that to the extent the Licensor has made any representation which is not otherwise expressly stated in this Agreement, the Licensee has been provided with an opportunity to independently verify the accuracy of that representation.
+
+The Licensee shall at all times indemnify and hold harmless the Licensor and its officers, employees and agents ("those indemnified") from and against any loss (including reasonable legal costs and expenses) or liability reasonably incurred or suffered by any of those indemnified arising from any proceedings against those indemnified where such loss or liability was caused by:
+a breach by the Licensee of its obligations under this Agreement; or
+any wilful, unlawful or negligent act or omission of the Licensee.
+
+Without limiting the generality of any other clause in this Agreement, the Licensor may terminate this Agreement immediately by notice in writing if:
+the Licensee is in breach of any term of this Agreement and such breach is not remedied within thirty (30) days of notification by the Licensor;
+the Licensee for any reason destroys or disposes of or loses custody of the Licensed Software;
+the Licensee becomes, threatens or resolves to become or is in jeopardy of becoming subject to any form of insolvency administration;
+the Licensee, being a partnership, dissolves, threatens or resolves to dissolve or is in jeopardy of dissolving;
+the Licensee, being a natural person, dies;
+the Licensee ceases or threatens to cease conducting its business in the normal manner; or
+the Licensee ceases to be a Member.
+
+If notice is given to the Licensee pursuant to subclause 1, the Licensor may, in addition to terminating the Agreement:
+repossess any copies of the Licensed Software and Documentation in the possession, custody or control of the Licensee;
+retain any moneys paid;
+charge a reasonable sum for work performed in respect of which work no sum has been previously charged;
+be regarded as discharged from any further obligations under this Agreement; and
+pursue any additional or alternative remedies provided by law.
+
+In the event of the termination of this Agreement by the Licensor, the Licensee shall resign as a Member.
+
+Neither Party shall be liable for any delay or failure to perform its obligations pursuant to this Agreement if such delay is due to Force Majeure.
+
+If a delay or failure of a Party to perform its obligations is caused or anticipated due to Force Majeure, the performance of that Party's obligations will be suspended.
+
+If a delay or failure by a Party to perform its obligations due to Force Majeure exceeds sixty (60) days, either Party may immediately terminate the Agreement on providing notice in writing to the other Party.
+If this Agreement is terminated pursuant to subclause 3, the Licensor shall refund moneys previously paid by the Licensee pursuant to this Agreement for goods or services not provided by the Licensor to the Licensee.
+
+The Licensor may sub-contract for the performance of this Agreement or any part of this Agreement to the extent so specified in Schedule 1 or upon obtaining (subject to subclause 3) the Licensee's prior written consent.
+The Licensee shall not unreasonably withhold consent for the engagement of a sub-contractor in accordance with subclause 1.
+The Licensor may, without the consent of the Licensee, engage individuals on a sub-contract or consultancy basis, whether or not operating under a corporate structure, to assist in the provision of services pursuant to this Agreement.
+
+This Agreement constitutes the entire agreement between the Parties and supersedes all prior representations, agreements, statements and understandings, whether verbal or in writing.
+
+The documents comprising this Agreement shall be read in the following order of precedence:
+the clauses of this Agreement;
+the Schedules.
+
+Where any conflict occurs between the provisions contained in two or more of the documents forming this Agreement, the document lower in the order of precedence shall where possible be read down to resolve such conflict.  If the conflict remains incapable of resolution by reading down, the conflicting provisions shall be severed from the document lower in the order of precedence without otherwise diminishing the enforceability of the remaining provisions of that document.
+
+The benefit of this Agreement shall not be assigned by the Licensee without the Licensor's written consent.
+The Licensor may consent to the assignment or novation of this Agreement by the Licensee subject to such conditions as it chooses to impose.
+
+No right under this Agreement shall be deemed to be waived except by notice in writing signed by each Party.
+A waiver made by the Licensor pursuant by subclause 1 will not prejudice its rights in respect of any subsequent breach of the Agreement by the Licensee.
+
+Subject to subclause 1, any failure by the Licensor to enforce any clause of this Agreement, or any forbearance, delay or indulgence granted by the Licensor to the Licensee, will not be construed as a waiver of the Licensor's rights under this Agreement.
+
+The provisions of this Agreement, shall not be varied, except by agreement in writing signed by the Parties.
+
+If either Party wishes to vary the Agreement, the proposing Party shall submit a copy of the proposed variations to the other Party ("the receiving Party"), specifying a reasonable period in which the receiving Party is to provide written notice of acceptance or rejections of the proposal.
+
+If the receiving Party accepts the variations, the Agreement shall be deemed to be so amended from the date of acceptance.
+If the receiving Party rejects the proposed variations, each Party shall perform the Agreement in accordance with the unvaried terms.
+
+Any dispute arising in connection with this Agreement which cannot be settled by negotiation between the Parties or their representatives shall be submitted to arbitration in accordance with the Rules for the Conduct of Commercial Arbitrations for the time being of the Institute of Arbitrators Australia.  During such arbitration, both Parties may be legally represented.
+
+Prior to referring a matter to arbitration pursuant to subclause 1, the Parties shall:
+formally refer the dispute to their respective contract managers for consideration;
+if the respective contract managers are unable to resolve the dispute after five (5) days (or such other period as is agreed between the Parties) from the date of referral, refer the dispute to the respective chief executive officers of each Party; and
+in good faith explore the prospect of mediation.
+
+Nothing in this clause shall prevent a Party from seeking urgent equitable relief before an appropriate court.
+
+Any express statement of a right of the Licensor under this Agreement is without prejudice to any other right of the Licensor expressly stated in this Agreement or existing at law.
+
+Subject to any provision to the contrary, this Agreement shall enure to the benefit of and be binding upon the Parties and their successors, trustees, permitted assigns or receivers but shall not enure to the benefit of any other persons.
+
+The covenants, conditions and provisions of this Agreement which are capable of having effect after the expiration of the Agreement shall remain in full force and effect following the expiration of the Agreement:
+
+If any provision of this Agreement is held invalid, unenforceable or illegal for any reason, the Agreement shall remain otherwise in full force apart from such provisions which shall be deemed deleted.
+
+This Agreement will be governed by and construed according to the law of the jurisdiction specified in Schedule 1.
+
+Notices under this agreement may be delivered by hand, by mail or by facsimile to the addresses specified in Schedule 1.
+Notice will be deemed given:
+in the case of hand delivery, upon written acknowledgment of receipt by an officer or other duly authorised employee, agent or representative of the receiving Party;
+in the case of posting, three days after despatch;
+in the case of facsimile, upon receipt of transmission if received on a business day or otherwise at the commencement of the first business day following transmission.
+
+This Agreement may be executed in counterparts by the respective Parties, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement, provided that this Agreement shall be of no force and effect until the counterparts are exchanged.
+

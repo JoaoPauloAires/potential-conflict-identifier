@@ -1,0 +1,171 @@
+
+Appendix 9A
+
+Restriction agreement
+Introduced 1/7/96.  Origin:  Appendix 11.  Amended 1/7/98, 11/3/2002, 24/10/2005, 20/07/2007.
+
+We, the persons in:
+
+	Item 1 of the schedule ("entity");
+
+	Item 2 of the schedule ("holder");
+
+	Item 3 of the schedule ("controller"),
+
+agree as follows.
+
+
+Introduction
+
+*A.	The entity intends to issue restricted securities to the holder.  The holder will hold the restricted securities as set out in this agreement.  It is a condition of the issue of the restricted securities that we will comply with this agreement.
+
+*A.	The entity wants to be listed and has issued restricted securities.  The holder will hold the restricted securities as set out in this agreement on the basis that the entity will take the steps necessary to be admitted to the +official list of ASX.
+
+B.	We have provided ASX with all the information necessary to properly form an opinion about who is a +controller of the holder and who is required to execute this agreement.
+
+C.	We enter this agreement for the purpose of complying with chapter 9 of the listing rules.
+
+(* delete as applicable)
+
+
+Agreement
+
+Escrow restrictions
+
+1.	During the escrow period, the holder will not do any of the following.
+
+(a)	+Dispose of, or agree or offer to +dispose of, the restricted securities.
+
+
+(b)	Create, or agree or offer to create, any security interest in the restricted securities.
+
+(c)	Do, or omit to do, any act if the act or omission would have the effect of transferring effective ownership or control of the restricted securities.
+
+(d)	Participate in a return of capital made by the entity.
+Amended 24/10/2005.
+
+2.	During the escrow period, a controller will not do any of the following.
+
+(a)	+Dispose of, or agree or offer to +dispose of, the controller interests.
+
+(b)	Create, or agree or offer to create, any security interest in the controller interests.
+
+(c)	Do, or omit to do, any act if the act or omission would have the effect of transferring effective ownership or control of the controller interests.
+
+3.	We will comply with chapter 9 of the listing rules.  If any of us is not a listed entity, we will comply as if we were a listed entity.  Each of us will take any steps we are able to take that are necessary to enable any of the others to comply.
+
+4.	(a)	If the restricted securities are kept on the certificated subregister, the holder will deposit the certificates for the restricted securities with a bank or +recognised trustee for the escrow period.
+
+(b)	If the restricted securities are kept on the +issuer sponsored subregister, the holder hereby agrees in writing to the application of a +holding lock to the restricted securities.
+
+
+Warranties
+
+
+5.	If only the holder and the entity are parties to this agreement, one of the following applies.
+
+(a)	The holder is an individual.
+
+(b)	The holder has no +controller.
+
+(c)	The holder has the +controllers set out in item 3 with the interests identified in item 6, and each +controller comes within an exception set out in rule 9.1.4.
+
+
+The holder gives this warranty.
+
+6.	If the holder, the entity and any +controller are parties to this agreement, the holder has the +controllers set out in item 3 with the controller interests identified in item 6, and any +controller who is not a party to this agreement comes within an exception set out in rule 9.1.4.  The holder and each +controller give this warranty.
+
+7.	If item 7 of the schedule is completed, the full particulars of security interests which have been created, or are agreed or offered to be created, in the restricted securities are set out.  A release of the security interests is attached.  Apart from this, before the escrow period begins, the holder has not done, or omitted to do, any act which would breach clause 1 if done or omitted during the escrow period.  The holder gives this warranty.
+
+8.	If item 8 of the schedule is completed, the full particulars of security interests which have been created, or are agreed or offered to be created, in the controller interests are set out.  A release of the security interests is attached.  Apart from this, before the escrow period begins, the +controller has not done, or omitted to do, any act which would breach clause 2 if done or omitted during the escrow period.  Each +controller gives this warranty.
+
+9.	A breach of any of these warranties is a breach of this agreement.
+
+Consequences of breaching this agreement
+
+10.	If it appears to the entity that the holder or a +controller may breach this agreement, the entity must take the steps necessary to prevent the breach, or to enforce the agreement.
+
+11.	If the holder or a +controller breach this agreement, each of the following applies.
+
+(a)	The entity must take the steps necessary to enforce the agreement, or to rectify the breach.
+
+(b)	The entity must refuse to acknowledge, deal with, accept or register any sale, assignment, transfer or +conversion of any of the restricted securities.  This is in addition to other rights and remedies of the entity.
+
+(c)	The holder of the restricted securities ceases to be entitled to any dividends, distributions or voting rights while the breach continues.
+
+Amendment
+
+12.	This agreement will not be changed or waived without ASX's written consent.
+
+Jurisdiction
+
+13.	The laws of the State of the home branch of the entity apply to this agreement.  We submit to the jurisdiction of the courts of that State.
+
+Definitions and interpretation
+
+In this agreement:
+ASX  means ASX Limited.
+
+controller interests means the +securities, substantial economic interest or other interests in the restricted securities and each intermediate entity through which that interest occurs, full particulars of which are set out in item 6 of the schedule.
+
+escrow period  means the period set out in item 4 of the schedule.
+
+restricted securities  means the +securities set out in item 5 of the schedule and any +securities attaching to or arising out of those +securities that are restricted securities because of the definition of restricted securities in the listing rules.
+
+The singular includes the plural and vice versa.
+
+A reference to a party includes its successors, personal representatives and transferees.
+
+Words and expressions defined in the listing rules of ASX, and not in this agreement, have the meanings given to them in the listing rules.
+
+Every warranty or agreement (expressed or implied) in which more than one person joins, binds them individually and any combination of them as a group.
+
+Schedule
+1.	Entity's name and address:
+
+2.	Holder's name and address:
+
+3.	Each +controllers' name and address:
+
+4.	Escrow period (the date from which the initial restricted securities are escrowed):
+
+5.	Particulars of restricted securities:
+
+6.	Particulars of controller interests:
+
+7.	Particulars of security interests over restricted securities:
+
+8.	Particulars of security interests over controller interests:
+
+Dated:
+[Proper execution as a deed]
+Appendix 9A
+Restriction agreement	
+
+
+
+Appendix 9A
+Restriction agreement
+
+
+
+
++ See chapter 19 for defined terms.
+
+Appendix 9A Page 2	30/9/2001
+
+
++ See chapter 19 for defined terms.
+
+20/07/2007		 Appendix 9A Page 1
+
+
++ See chapter 19 for defined terms.
+
+Appendix 9A Page 2	20/07/2007
+
+
++ See chapter 19 for defined terms.
+
+Appendix 9A Page 4	20/07/2007
+

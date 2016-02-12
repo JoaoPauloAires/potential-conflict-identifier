@@ -1,0 +1,247 @@
+Clinical Trial Agreement
+Investigator Initiated Study Template
+
+
+
+
+Alfred Health
+
+
+and
+
+
+Monash University
+
+
+
+
+
+This Agreement is made on the             day of                                   20
+PARTIES
+
+MONASH UNIVERSITY (ABN 12 377 614 012) of Wellington Road, Clayton in the State of Victoria ('Monash')
+
+and
+
+ALFRED HEALTH (ABN 27 318 956 319) a body corporate established under the Health Services Act 1988 (Vic) of Commercial Road, Melbourne, 3004 ('Alfred Health')
+
+RECITALS
+A. Monash owns the Protocol for the Study and is responsible for providing support for the Study, which may be in the form of providing funding and/or the Investigational Product (if any) for the Study.
+B. Alfred Health, through the Principal Investigator, is responsible for the management and conduct of the Study at the Study Site(s) which is/are under the control of Alfred Health.
+C. The parties have agreed to participate in the Study on the terms and conditions set out in this document ('Agreement').
+
+OPERATIVE PROVISIONS
+1. INTERPRETATION
+1.1 In this Agreement:
+Adverse Event has the meaning given in the TGA document "Access to Unapproved Therapeutic Goods - Clinical Trials in Australia" (October 2004) or replacement.
+Agreement means this Agreement, including all the Schedules hereto.
+Background Intellectual Property means Intellectual Property not created under the Study which is contributed by a party for the purpose of carrying out the Study.
+Alfred Health Personnel means employees, agents and/or authorised representatives, of Alfred Health, including the Principal Investigator.
+Biological Samples means any physical samples obtained from Study Subjects in accordance with the Protocol.
+Case Report Form means a printed, optical or electronic document or database designed to record all of the information, required by the Protocol.
+GCP Guideline means the Committee for Proprietary Medicinal Products (CPMP)/International Conference on Harmonisation (ICH) Note for Guidance on Good Clinical Practice (CPMP/ICH/135/95) as adopted with annotation by the TGA, as amended from time to time.
+GST means the Goods and Services Tax payable under a GST Law.
+GST Law means the same as in A New Tax System (Goods and Services Tax) Act 1999 (Cth) as amended from time to time, and any regulations made pursuant to that Act.
+Intellectual Property means patents, copyright, future copyright, trade business, company or domain names, registered designs, registered and unregistered trade marks, know how, trade secrets inventions, discoveries, new uses and processes.
+Investigational Product is the medicine, tool or device being used, trialled or tested in the Study referred to in Item 3 of Schedule 1 and includes where relevant any placebo.
+Investigator's Brochure is a compilation of the clinical and non-clinical data on the Investigational Product(s) which are relevant to the study of the Investigational Product in humans.
+Monash Personnel means employees, agents, students and/or authorised representatives of Monash.
+NHMRC means the National Health and Medical Research Council of the Commonwealth of Australia.
+Personal Information has the same meaning as in the Privacy Act 1988 (Cth)
+Principal Investigator is the person responsible for the conduct of the Study at the Study Site(s) as described in Item 4 of Schedule 1.
+Protocol means the document for the Study, attached at Schedule 3, which document describes the objective(s), design, methodology, statistical considerations and organisation of the Study, as such document may be amended from time to time and most recently approved by the Responsible HREC.
+Publish means to publish by way of a paper, article, manuscript, report, poster, internet posting, presentation slides, abstract, outline, video, instruction material or other disclosure of Study Materials, in printed, electronic, oral or other form. Publication has a corresponding meaning.
+Regulatory Authority means any government body which has jurisdiction over the conduct of the Study at the Study Site and includes the TGA and any overseas regulatory authorities who may require to audit any part of the Study or Study Materials.
+Responsible HREC means The Alfred Hospital Ethics Committee.
+Relevant Privacy Laws means the Privacy Act 1988 (Cth), the Health Services Act 1988 (Vic), the Mental Health Act 1986 (Vic), the Health Records Act 2001 (Vic) and any other legislation, code or guideline which applies in the jurisdiction in which the Study Site is located and which relates to the protection of personal or health information.
+Serious Adverse Event has the meaning given in the TGA document "Access to Unapproved Therapeutic Goods - Clinical Trials in Australia" (October 2004) or replacement.
+Study means the investigation named in Item 2 of Schedule 1 to be conducted in accordance with the Protocol.
+Study Materials means all the materials and information created for the Study including all data, results, Biological Samples, Case Report Forms, (or their equivalent) in whatever form held, conclusions, discoveries, inventions, know-how and the like, whether patentable or not relating to the Study which are discovered or developed as a result of the Study.
+Study Subject means a person recruited to participate in the Study or whose Personal Information is used as part of the Study.
+Study Site means the location(s) under the control of Alfred Health referred to in Item 1 of Schedule 1 where the Study is actually conducted.
+TGA means the Therapeutic Goods Administration of the Commonwealth of Australia or any successor body.
+1.2 Except where the context otherwise requires:
+(1) clause headings are for convenient reference only and are not intended to affect the interpretation of this Agreement;
+(2) where any word or phrase has a defined meaning, any other form of that word or phrase has a corresponding meaning;
+(3) words in the singular include the plural and vice versa;
+(4) all the provisions in any schedule to this Agreement are incorporated in, and form part of, this Agreement and bind the parties; and
+(5) if a period of time is specified and dates from a given day or the day of an act or event, it is to be calculated inclusive of that day.
+2. STUDY
+2.1 The parties acknowledge that Monash owns and is responsible for the Protocol and the Study Materials.
+2.2 The parties must comply with, and must conduct the Study in accordance with:
+(1) any requirements of relevant Commonwealth or State or Territory laws or of Regulatory Authorities;
+(2) the requirements of the TGA in Access to Unapproved Therapeutic Goods - Clinical Trials in Australia (October 2004) or replacement and any other TGA publication or guideline that relates or may relate to clinical trials, or other such regulations or guidances governing the conduct of clinical research in the jurisdiction of the Study;
+(3) the GCP Guideline;
+(4) the principles that have their origins in the Declaration of Helsinki adopted by the World Medical Association in October 1996, and
+(5) the NHMRC National Statement on Ethical Conduct in Human Research (2007) or replacement, and any other relevant NHMRC publication or guideline that relates or may relate to clinical trials.
+3. PRINCIPAL INVESTIGATOR
+3.1 Role of Principal Investigator
+Alfred Health has authorised the Principal Investigator as the person responsible on a day to day basis for the conduct of the Study.  The Principal Investigator does not have authority on behalf of Alfred Health to amend this Agreement or the Protocol.
+3.2 Change of Principal Investigator
+If the Principal Investigator leaves Alfred Health or otherwise ceases to be available then Alfred Health must, as soon as is reasonably practicable, notify Monash and use reasonable endeavours to nominate a replacement. Monash, acting reasonably, shall have the right to approve any new Principal Investigator. In the event that a suitable replacement cannot be found, the parties will communicate with each other in good faith as to whether this Agreement is to be terminated.
+4. ALFRED HEALTH
+4.1 Obligations and responsibilities
+Alfred Health must:
+(1) be responsible for the management and conduct of the Study, including the recruitment of Study Subjects;
+(2) ensure written approval has been obtained to conduct the Study from the Responsible HREC prior to Study initiation and provide written evidence of approval to Monash ;
+(3) conduct the Study according to the Protocol and any condition of the Responsible HREC without changes except as provided in clause 4.2, or as agreed to in writing by the parties;
+(4) ensure that any amendments to the Protocol are approved by the Responsible HREC prior to implementation of the amendment;
+(5) notify Monash of any Adverse Events (including Serious Adverse Events) that occur during the course of the Study in accordance with the Protocol, and relevant ethical and regulatory guidelines; and
+(6) ensure that informed consent to participate in the Study is obtained from each Study Subject prior to their enrolment in the Study and documented using an information and consent document which has been reviewed and approved by the Responsible HREC.
+4.2 If any issue relating to the safety of Study Subjects arises which requires a deviation from the Protocol, Alfred Health through the Principal Investigator may immediately make such a deviation without breaking any obligations under this Agreement.  If there is a need for such a deviation Alfred Health must notify the Responsible HREC of the facts and circumstance causing the deviation as soon as is reasonably practical and in any event no later than five (5) working days after the change is implemented.
+5. MONASH
+5.1 Obligations and responsibilities
+Monash must:
+(1) where there is an Investigational Product involved in the Study, provide, prior to this Agreement being executed, Alfred Health with all current and relevant information regarding the Investigational Product as reasonably required to justify the nature, scope and duration of the Study.
+(2) monitor the application of the Investigational Product (if any) in other places (both within and outside Australia) and advise Alfred Health, through the Principal Investigator, and TGA of the cessation elsewhere of any relevant trial, or the withdrawal of the Investigational Product from any other market for safety reasons.
+(3) notify Alfred Health of any Adverse Events (including Serious Adverse Events) that occur during the course of the Study (either at the Study Site or other study sites, including overseas sites) of which it has actual knowledge of and which may require alteration of the conduct of the Study, or which may affect the rights, interests, safety or well-being of Study Subjects.
+(4) cooperate with Alfred Health in investigating any Adverse Event (including Serious Adverse Event) arising out of or in connection with the Study which occur at the Study Site(s).
+(5) make all reasonable attempts to:
+(a) obtain the information referred to in clause 5.1(1); and
+(b) identify itself of any Adverse Events (including Serious Adverse Events) that occur during the course of the Study (either at the Study Site or other study sites, including overseas sites) which may require alteration of the conduct of the Study, or which may affect the rights, interests, safety or well-being of Study Subjects.
+6. PAYMENTS
+6.1 In consideration of Alfred Health conducting the Study, Monash will pay to Alfred Health as nominated in Schedule 2 in the manner and on the basis of the prices and at the times set out in Schedule 2.  The prices set out in Schedule 2 do not include GST.  At the time of payment, Monash must pay to Alfred Health any amount of GST that Alfred Health is required to pay in addition to the prices set out in Schedule 2, and in accordance with GST Law.
+6.2 The obligation of Monash to pay Alfred Health arises on delivery by Alfred Health to Monash of a tax invoice in the format required by the law.
+6.3 Monash and Alfred Health warrant that they are registered under GST Law.  Tax invoices must identify supplies for which GST is payable.
+7. INVESTIGATIONAL PRODUCT
+7.1 This clause 7 applies only if Monash is providing an Investigational Product to Alfred Health or arranging for an Investigational Product to be provided to Alfred Health for the purposes of the Study.
+7.2 Alfred Health must ensure that all Investigational Product made available by Monash is used strictly according to the Protocol and is not used for any other purposes, unless agreed in writing by Monash. Alfred Health must also keep all Investigational Product under appropriate storage conditions as specified in the Protocol in a secured area accessible only to authorised Alfred Health Personnel, and that complete and current records are maintained for all received, dispensed and returned Investigational Product.
+7.3 Monash will ensure that the Principal Investigator is supplied with such quantities of the Investigational Product as will be required for the purpose of the Study.  All supplied Investigational Product will be packaged in safe and appropriately labelled containers.  
+7.4 In the event of termination, Alfred Health must promptly return (or destroy if requested by Monash, and provide evidence of such destruction) to Monash any unused Investigational Product.
+8. PRIVACY
+8.1 Each party must ensure that any Personal Information arising from the Study regarding Study Subjects, Alfred Health Personnel or Monash Personnel, is collected, stored, used and disclosed in accordance with the Relevant Privacy Laws.
+8.2 This clause 8 survives termination of this Agreement.
+9. PUBLICATIONS
+9.1 Alfred Health and any Alfred Health Personnel involved in the Study have the right to Publish the methods, results of, and conclusions from, the Study, subject to this clause and in accordance with copyright law.
+9.2 Alfred Health must give notice of any proposed Publication drafted by it or any Alfred Health Personnel involved in the conduct of the Study to Monash at least 30 days before seeking to Publish the Publication.
+9.3 Monash may, within that 30-day period do either of the following:
+(1) provide comments on the proposed Publication to Alfred Health, in which case the parties agree to communicate with each other in good faith with a view to reaching agreement on whether the proposed Publication can be Published in some amended form;
+(2) request delay of the Publication for no more than 90 days to allow Monash to file patent applications or take other measures to preserve its or third party proprietary rights, in which case Alfred Health must abide by that request.
+9.4 If Monash is required to make payments to Alfred Health under clause 6, Alfred Health must acknowledge Monash's support of the Study in all Publications.
+10. STUDY RESULTS AND INTELLECTUAL PROPERTY
+10.1 All Background Intellectual Property will remain with the contributing party. Where Background Intellectual Property is contributed by Monash, Alfred Health is licensed to use, reproduce, modify or adapt that Background Intellectual Property in undertaking the Study.
+10.2 All Intellectual Property in the Study Materials vest automatically upon its creation in Monash and Alfred Health hereby assigns all existing and future such Intellectual Property rights to Monash. Alfred Health agrees to execute or procure the execution by Alfred Health Personnel of any documents reasonably necessary to give effect to this assignment, at the expense of Monash.
+10.3 The provisions of this clause will survive the termination or expiry of this Agreement.
+10.4 Individual patient records, the Principal Investigator's research records and other information which Alfred Health must maintain for regulatory and patient care purposes shall remain the exclusive property of Alfred Health.  Alfred Health will provide copies of this information to Monash if reasonably requested by Monash.
+11. INDEMNITY
+11.1 The parties agree that where persons involved in the Study hold an appointment at both Alfred Health and Monash ("Dual Appointees"), those persons shall be taken to be involved in the Study in their Alfred Health capacity and not in their Monash capacity.
+11.2 Monash may provide, at the request of Alfred Health, Monash Personnel who are not Dual Appointees to assist with the conduct of the Study.  The parties agree that where any Monash Personnel who are not Dual Appointees provide assistance to Alfred Health for the purposes of the Study, those Monash Personnel remain Monash Personnel and shall be taken to be involved in the Study as Monash Personnel.
+11.3 In consideration of Alfred Health entering into this Agreement  and subject to clause 11.4, Monash undertakes to indemnify and keep indemnified, Alfred Health and Alfred Health Personnel ("those Indemnified") from and against any loss, damage, reasonable expense (including reasonable legal costs and expenses) or legal liability ("Loss") suffered or incurred by those Indemnified, arising from any claims or proceedings (including any settlements made with the consent of the parties hereto) made or brought against those Indemnified and directly caused by an unlawful, wrongful, fraudulent or negligent act or omission of Monash, any Monash Personnel, or any Dual Appointees (notwithstanding that they are acting in their Alfred Health capacity), in connection with the Study.
+11.4 Monash's liability to indemnify under clause 11.3:
+(1)	does not apply to indemnify for any Loss arising from any act or omission of any Dual Appointees to the extent that the same is recoverable under Alfred Health's insurance, it being agreed that the availability of indemnity under Alfred Health's insurance will be a first call and will preclude any claim for indemnity under this Agreement;
+(2)	will be reduced proportionately to the extent that any unlawful, wrongful, fraudulent or negligent act or omission of those Indemnified contributed to the relevant Loss (but excluding such contribution by a Dual Appointee);
+(3)	does not apply to indemnify for any Loss to the extent that the same is for consequential or indirect loss.
+12. INSURANCE
+12.1 Monash must maintain adequate insurance with respect to its activities under this Agreement.
+12.2 Prior to the commencement of the Study, Monash must provide Alfred Health with a certificate of currency of insurance issued by its brokers.
+12.3 Monash must not change its insurance arrangements regarding the Study without the prior approval of Alfred Health, which approval must not be unreasonably withheld.
+12.4 Alfred Health warrants that it is a public healthcare provider and named insured under the Department of Human Services Public Healthcare insurance program managed by the Victorian Managed Insurance Authority.
+13. TERM AND TERMINATION
+13.1 This Agreement commences from the date specified on the first page of this Agreement, or if such date is not included, on the date this Agreement is last signed by either party.
+13.2 Either party may terminate this Agreement with 30 days prior written notice or such shorter time period as is reasonably required in the circumstances if the other party is in breach of any obligations under the Agreement or the Protocol (including without just cause to meet a timeframe) and fails to remedy such breach where it is capable of remedy within 30 days of a written notice from the terminating party specifying the breach and requiring its remedy.
+13.3 In addition to clause 13.2, either party may terminate this Agreement immediately by written notice to the other party if it believes on reasonable grounds that:
+(1) continuing the Study poses an unacceptable risk to the rights, interests, safety or well-being of Study Subjects; and
+(2) terminating this Agreement is the most appropriate way to respond to that risk.
+13.4 In the event of early termination, Monash will cooperate with Alfred Health to ensure that Study Subjects who may be affected by termination receive adequate medical care. This may include the provision of Investigational Product in certain circumstances at Monash's expense.
+14. APPLICABLE LAW
+This Agreement will be governed by, and construed in accordance with, the law for the time being in force in the State or Territory in which Alfred Health is located and the parties submit to the jurisdiction of that State or Territory and courts entitled to hear appeals from those courts.
+15. MISCELLANEOUS
+15.1 Failure or delay by any party to enforce any provision of this Agreement will not be deemed to be a waiver by that party of any right in respect of any other such breach.
+15.2 No variations of this Agreement are legally binding on any party unless evidenced in writing signed by all parties.
+15.3 A party may not assign its rights or obligations under this Agreement without the prior written consent of the other party, such consent not to be unreasonably withheld.
+15.4 This Agreement constitutes the entire agreement between the parties and supersedes all prior representations, agreements, statements and understandings, whether verbal or in writing.
+15.5 In the event of any inconsistency between this Agreement and the Protocol, this Agreement prevails.
+15.6 This Agreement may be executed in any number of counterparts, which together will comprise the same Agreement.
+
+EXECUTION
+
+
+Signed on behalf of Monash University
+
+
+Signed:  ........................................
+
+
+Name:  .........................................
+
+
+Position:  .......................................
+
+
+Date: ........................................
+
+
+
+Signed on behalf of Alfred Health
+
+
+Signed:  ........................................
+
+
+Name:  .........................................
+
+
+Position:  .......................................
+
+
+Date: ........................................
+
+
+The Principal Investigator acknowledges this Agreement and understands the obligations it imposes on Alfred Health.
+
+Acknowledged by the PRINCIPAL INVESTIGATOR
+
+
+Signed:  ........................................
+
+
+Name:  .........................................
+
+
+Position:  .......................................
+
+
+Date: ........................................
+Schedule1 
+
+
+Item 1
+Study Site/s
+
+Item 2
+Study Name
+
+Item 3
+Investigational Product (if no Investigational Product, state 'None')
+
+Item 4
+Principal Investigator
+
+
+Schedule2 
+
+Payments
+
+Schedule3 
+
+Protocol
+
+
+Version as at 30th October 2008
+
+
+
+
+Version as at 30th October 2008
+
+
+
+Version as at 30th October 2008
+
+
+Bayside Health/100608 Template CTA - investigator initiated (Monash)(mkd up).doc
+
+Page 12 of 13
+
+
+

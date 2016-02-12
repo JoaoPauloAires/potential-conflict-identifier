@@ -1,0 +1,210 @@
+INDEPENDENT CONTRACTOR AGREEMENT
+
+
+THIS AGREEMENT is executed on       day of       20     .
+BETWEEN
+
+THE UNIVERSITY OF MELBOURNE [ABN 84 002 705 224] of Parkville, Victoria 3010, a body politic and corporate pursuant to the provisions of the Melbourne University Act 1958 (Vic)
+	(the University)
+AND
+THE CONTRACTOR SPECIFIED IN ITEM 1 OF THE SCHEDULE	
+		(the Contractor)
+
+RECITALS 
+
+A.	The University requires the Contractor to perform the Services detailed in the Schedule to this Agreement.
+
+B.	The parties have agreed that the Services will be provided on the terms and conditions contained in this Agreement.
+
+IT IS AGREED AS FOLLOWS
+
+1	DEFINITIONS 
+1.1	In this Agreement, unless the contrary intention appears from the context:
+"Agreement" means this document, together with the Schedule and any annexures, along with any amendments made in accordance with this agreement;
+"Confidential Information" means information that:
+       (a)	is by its nature confidential; 
+(b)	is designated by the parties as confidential; or
+(c)	the parties know or ought to know is confidential;
+and includes without limitation the terms of this Agreement and all information about the University, its employees, agents, research, property, policies and operations which is made available or which becomes known during the term of this Agreement or as a result of executing this Agreement but does not include information which:
+
+(d)	was in the public domain at the time of its provision by the University; or
+
+(e)	became part of the public domain after its provision by the University, otherwise than through a disclosure by the Contractor or any person to whom it has disclosed Confidential Information;
+
+"Schedule" means the Schedule attached to this Agreement;
+
+"Services" means the services to be provided by the Contractor as set out in Item 3 of the Schedule; 
+
+"Start Date" means the date on which the last party signs this agreement.
+
+1.2	Headings are for ease of reference only and do not affect interpretation.
+2 	TERM
+This Agreement will begin on the Start Date and will continue for the Term set out in Item 2 of the Schedule.
+3	CONTRACTOR'S OBLIGATIONS AND WARRANTIES
+3.1	The Contractor agrees:
+(a) to provide the Services to the University in accordance with this Agreement;
+(b) to perform its obligations under this Agreement in a competent and professional manner and to ensure that all staff employed or sub-contracted to carry out the Contractor's obligations are of a standard sufficient to satisfy its obligations under this Agreement;  
+(c) to comply with all reasonable instructions and directions issued by officers of the University; and
+(d) to comply with all occupational health and safety requirements of the University and all equal opportunity and other work place policies of the University while on University premises.  The University's Environmental Health and Safety Manual can be viewed at: http://www.unimelb.edu.au/ehsm/
+3.2	The Contractor warrants that the use by the University of any products or materials provided in connection with the Services will not breach third party intellectual property rights.
+3.3	The Contractor warrants that it has the appropriate licences, rights and/or title to any products or materials provided in connection with the Services.
+4	FEES
+4.1	The University agrees to pay the Contractor the fees set out in Item 4 of the Schedule in the manner described in Item 4 of the Schedule within 30 days of the end of the month in which the Contractor submits the relevant tax invoice subject to the following sub-clause.
+4.2	Despite anything set out in this Agreement or any other arrangement, the University will not be obliged to pay any fees or expenses to the Contractor until it is reasonably satisfied with the Services provided by the Contractor.
+4.3	The fees stated in Item 4 of the Schedule are inclusive of taxes, duties and charges imposed or levied in Australia in connection with the supply of the Services, including GST.
+5 	OWNERSHIP
+5.1 	If the Services require the Contractor to create or produce data, information, materials or anything which may be subject to copyright or which constitute intellectual property of whatsoever nature ("Contract Materials") those Contract Materials are owned by the University as and when they are created or produced.
+5.2 	The Contractor undertakes to execute all documentation and do all things necessary to assign to the University the Contractor's interest in Contract Materials and to give effect to this clause.
+6	INDEMNITY AND INSURANCE
+6.1	The Contractor indemnifies the University against all claims, demands, charges or expenses made against or incurred by the University as a result of any breach by the Contractor, its employees, agents or contractors, of this Agreement or any negligent or wilful act or omission by the Contractor, its employees, agents or contractors except to the extent to which such claims, demands, charges or expenses are caused by or contributed to by the University.
+6.3 	The Contractor agrees to take out and maintain Public Liability Insurance to cover the performance of its obligations under this agreement to the amount of ten million dollars ($10,000,000) and must provide written proof of maintenance of such insurance to the University on request.
+6.4 	The Contractor agrees to take out and maintain Professional Indemnity Insurance to cover the performance of its obligations under this agreement to the amount of five million dollars ($5,000,000) and must provide written proof of maintenance of such insurance to the University on request.
+				
+7	CONFIDENTIALITY AND PRIVACY
+7.1	The Contractor covenants to keep confidential and ensure its employees, agents and contractors keep confidential: 
+(a) all Confidential Information;
+(b) all information provided by the University to the Contractor for the purposes of   this Agreement; 
+(c) all information created as a result of this Agreement;
+and agrees not to disclose such information without the prior written approval of the University. 
+7.2	The Contractor agrees to comply with the Privacy Acts, any approved Privacy Codes and with the University's Privacy Policy and Guidelines as amended from time to time in respect of any personal or health information held by the University which the Contractor becomes aware of or has access to in connection with this Agreement and any personal or health information collected, held, managed, used, disclosed or transferred by the Contractor in connection with this Agreement. The University's privacy policy can be located at: http://www.unimelb.edu.au/unisec/privacy 
+7.3	The expression "personal or health information" used above means personal information as defined in the Information Privacy Act 2000 (Victoria) or health information as defined in the Health Records Act 2001 (Victoria).
+7.4	The term "Privacy Acts" used above means the Information Privacy Act 2000 (Victoria) and the Health Records Act 2001 (Victoria).
+8	TERMINATION
+8.1	Either party may terminate this Agreement by notice in writing to the other party if the other party is in breach of a term or condition of this Agreement and the breach is not remedied within fourteen (14) days of service on the other party of a written notice specifying the breach and requiring it to be remedied.
+8.2	If the Contractor breaches any provision of this Agreement, the University may after seven days written notice to the Contractor, suspend the payment of any amounts otherwise due under this Agreement until the breach is remedied by the Contractor. 
+8.3	Either party may terminate the Agreement immediately if the other party: 
+(a) enters into any arrangement between itself and its (or any class of its) creditors;
+(b) ceases to be able to pay its debts as they become due;
+(c) ceases to carry on business;
+(d) has a mortgagee enter into possession or disposes of the whole or any part of its assets or business;
+(e) enters into liquidation or any form of insolvency administration; or
+(f) has a receiver, a receiver and manager, a trustee in bankruptcy, an administrator, a liquidator, a provisional liquidator or other like person appointed to the whole or any part of its assets or business.
+8.4	Termination of the Agreement (for whatever cause) will not affect any right or cause of action which has accrued to the party which terminates the Agreement at or prior to the date of termination.
+8.5	Clauses 3.2, 3.3, 5, 6.1, 7, 8.2 and this clause 8.5 survive the expiration or termination of this Agreement (for whatever cause).
+9	RELATIONSHIP
+9.1 	This Agreement constitutes a relationship of Principal (on the part of the University) and Independent Contractor (on the part of the Contractor) and no employment, partnership or joint venture relationship is hereby constituted.
+9.2 	The Contractor is responsible for its own employees, agents and subcontractors and carries out the Services at its own risk.
+
+
+10	DISPUTE RESOLUTION
+10.1 	A party claiming that a dispute has arisen under this Agreement (Dispute) must notify the other party giving written details of the Dispute.  The parties agree to negotiate in good faith on a commercially realistic basis to resolve the Dispute and will refer resolution of the Dispute to officers within each party who are authorised to hear the Dispute before commencing any legal proceedings in relation to the Dispute.
+10.2 	Any Dispute which cannot be settled under clause 12.1 within a reasonable time must be referred for determination by a person appointed for that purpose by the Parties and failing Agreement, appointed by the President of the Institute of Arbitrators and Mediators Australia (Victorian Division).
+10.3	Any determination made under the above clause is binding on the parties and the Commercial Arbitration Act 1984 (Vic) applies to the determination except to the extent otherwise agreed by the Parties.  
+10.4	Nothing in this clause 10 will prevent a party from seeking interlocutory relief.
+11 	SPECIAL CONDITIONS
+11.1 	This Agreement is subject to the Special Conditions (if any) set out in Item 5 of the Schedule.
+11.2 	In the event of inconsistency between the Special Conditions and the provisions of the Agreement, the Special Conditions apply.
+12 	GENERAL 
+12.1	Governing law. The laws that are applicable in Victoria, Australia govern this Agreement and each party submits to the jurisdiction of the courts of that state and any courts which may hear appeals from those courts.
+12.2	Entire Agreement. This Agreement constitutes the entire agreement between the parties in connection with its subject matter and supersedes all previous agreements or understandings between the parties in connection with its subject matter.
+12.3	Amendment. This Agreement may only be amended in writing signed by the parties.
+12.4	Assignment. A party may only assign the Agreement and any rights under the Agreement with the prior written consent of the other party.
+12.5	Waiver. A party does not waive a right, power or remedy if it fails to exercise or delays in exercising that right, power or remedy. A single or partial exercise of a right, power or remedy does not prevent another or further exercise of that or another right, power or remedy. A waiver of a right, power or remedy must be in writing and signed by the party granting the waiver.
+12.6	Severance. Any term of this Agreement which is void, illegal or unenforceable may be severed from this Agreement and the remaining terms or parts of the term of this Agreement continue in force.
+12.7	Notices. Notices to or by a party delivered in person are deemed to be given by the sender and received by the addressee when delivered to the addressee: if by post, 3 Business Days from and including the date of postage; or if by facsimile, when transmitted to the addressee provided that if transmission is on a day which is not a Business Day or is after 5.00 pm (addressee's time) on the next Business Day.
+12.8 	Force Majeure. Neither party will be liable to the other for the consequences of any delays or failures of its performance which are caused by any event beyond the first party's reasonable control, including without limitation acts of God, fire, flood, accident, terrorism, strike and riots and either party may terminate the Agreement if such an event occurs and continues for a period of 30 days or more.
+
+
+.
+
+
+EXECUTION PAGE
+
+
+SIGNED for and on behalf of the
+UNIVERSITY OF MELBOURNE by 
+its authorised officer:
+
+
+
+.....................................................
+Authorised Officer
+
+
+
+
+
+If the Contractor is a company:
+
+SIGNED for and on behalf of
+the CONTRACTOR by its 
+authorised officer:
+
+
+
+.....................................................
+Authorised Officer
+
+
+
+
+
+OR, If the Contractor is an individual:
+SIGNED by the CONTRACTOR
+
+
+...................................................
+Contractor
+in the presence of: 					
+
+
+...................................................                                       
+Witness
+
+
+
+...................................................                                       
+Name
+
+
+
+...................................................                                       
+Address
+
+
+[The last party to sign the Agreement must complete the date field on the first page]
+
+SCHEDULE
+
+
+ITEM 1	CONTRACTOR	NAME:	     
+
+			ABN:	     
+
+			ADDRESS:	     
+
+
+
+ITEM 2	TERM	
+
+     
+
+
+ITEM 3	SERVICES TO BE PROVIDED
+
+     
+
+
+ITEM 4	FEES1
+
+     
+
+
+ITEM 5	ADDITIONAL SPECIAL CONDITIONS (if any)
+
+     
+
+
+
+
+1 Fees may be expressed as one lump sum or as an hourly rate with a total maximum amount payable.  State how often or when payments are to be made (eg by monthly instalment) & include dates where known. If the Contractor is registered to collect GST, the fees should include GST and state clearly what component of the fee is GST.
+??
+
+??
+
+??
+
+??
+
+Independent Contractor Agreement
+

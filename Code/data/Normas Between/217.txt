@@ -1,0 +1,76 @@
+Subject to clause 3.2, the Recipient may disclose Confidential Information to the Recipient's Personnel on a need to know basis, solely to assist the Recipient in complying with or carrying out the Approved Purposes and on the condition that the Recipient's Personnel do not disclose the Confidential Information to any other person.
+
+The Recipient must ensure that:
+the Recipient's Personnel who have access to the Confidential Information are made fully aware of the confidential nature of all Confidential Information; and
+if required by RMIT, each of the Recipient's Personnel must sign the Confidentiality Undertaking contained at the end of this deed.
+
+The Recipient must ensure that none of the Recipient's Personnel do or omit anything which, if done or omitted to be done by the Recipient, would constitute a breach of its obligations under this deed.
+
+Upon the earlier to occur of:
+a notice by RMIT; and
+the time when the Confidential Information is no longer required by the Recipient for the Approved Purposes,
+the Recipient must deliver to RMIT (or with RMIT's prior written consent, destroy or erase) all material forms of Confidential Information in the possession, power or control of the Recipient or any of the Recipient's Personnel whether or not those material forms were created by RMIT, but such delivery does not release the Recipient from its obligations under this deed.
+
+The Recipient acknowledges and agrees that:
+neither RMIT nor any employee or other representative of RMIT has made or makes any representation or warranty, express or implied, as to the accuracy or completeness of its Confidential Information; and
+it must make its own assessment of all Confidential Information disclosed to it and satisfy itself as to the accuracy and completeness of the Confidential Information.
+
+To the extent permitted by law, the Recipient releases RMIT from all liability for any loss or damage (whether foreseeable or not) suffered by any person acting on any Confidential Information whether the loss or damage arises in connection with any negligence, default, lack of care, misrepresentation or any other cause.
+
+The Recipient must immediately notify RMIT of all information which comes to its attention regarding any actual or potential disclosure or use of Confidential Information other than in accordance with this deed.
+
+The Recipient acknowledges that damages may not be an adequate remedy for RMIT for any breach of this deed by the Recipient and that RMIT is entitled to seek specific performance or injunctive relief as a remedy for any such breach or threatened breach, in addition to any other remedies available at law or in equity under this deed or independently of this deed.
+
+A provision of or a right created by this deed cannot be waived except in writing signed by the party granting the waiver.  No variation to or amendment of this deed can be made without the consent in writing of all of the parties.
+
+Where any provision of this deed provides for a party to provide its consent or approval then such party may conditionally or unconditionally in its absolute discretion give or withhold such consent or approval unless this deed expressly provides otherwise.
+
+This deed is governed by and construed in all respects in accordance with the laws of the State of Victoria, Australia and the parties hereby submit to the non-exclusive jurisdiction of the courts of the said State of Victoria and any courts empowered to hear appeals therefrom in respect of any proceedings in connection with this deed.
+
+The parties agree to bear their own costs (including legal costs) in respect of this deed.
+
+This deed can be executed in a number of counterparts and the counterparts taken together will be deemed to constitute the one and the same document.
+
+Any notice, demand, consent, approval or other communication ("a Communication") in connection with this deed by a party may (without limitation to any other valid form of execution) be signed by an Authorised Officer of that party (if a corporation), or by any solicitor acting for that party, whose signature may be handwritten or printed or otherwise reproduced by mechanical means.
+
+In addition to any method of service provided for by statute, a Communication in connection with this deed to be sent to or made upon a party is taken to have been given to or made on the party to whom it is addressed if:
+sent by facsimile to the facsimile number of the address which in the case of each party is as set out in Item 4;
+left for the addressee, or sent by mail (and by airmail if to an address outside Australia) to the addressee at:
+any address of that person set out in this deed; or
+the registered office of any corporate addressee.
+
+Service under clause 9.2 will be valid even though the addressee may have been wound up or in liquidation (if a corporation) or the addressee is absent from the place at or to which the Communication is left, delivered or sent, or where the Communication is sent by post or otherwise, it is returned unclaimed.
+
+A Communication in connection with this deed will be deemed to have been received by the person:
+if left or delivered personally, on the same day;
+if sent by post to an address in Australia, on the second business day after the date of posting;
+if sent by post to an address outside Australia, on the fourth business day after the date of posting;
+in the case of a facsimile, on receipt of the facsimile in legible form.
+
+Unless the parties otherwise agree in writing a Communication in connection with this deed may not be sent by electronic mail ("email").
+
+The parties agree that any special conditions detailed in Item 5 are incorporated in and form part of this deed.
+
+RMIT will allow the Covenantor access to Confidential Information for [specify purpose for giving the Confidential Information] ("Approved Purposes") in consideration of the Covenantor executing this undertaking.
+The Recipient has executed in favour of RMIT a Confidentiality Deed dated the 	day of	20    ("the Confidentiality Deed").
+
+The Covenantor covenants with RMIT that it will:
+only use or copy Confidential Information for the Approved Purposes;
+not disclose, communicate, or permit the disclosure or communication of the Confidential Information to any third person in any manner without the written consent of RMIT except as permitted by this undertaking or for the Approved Purposes to a person who has executed an undertaking in identical form to this undertaking; and
+comply with any reasonable request from RMIT regarding the Confidential Information. 
+
+Despite clause 1, the Covenantor is allowed to disclose Confidential Information to the extent required by law but only for that sole purpose after making every reasonable effort to object to such requirement for disclosure, and after giving RMIT 10 days prior written notice of the proposed disclosure or which, subsequent to disclosure to the Covenantor, becomes generally available in the public domain.
+
+If Confidential Information is no longer required by the Covenantor for the Approved Purposes, or after a request from RMIT, the Covenantor must, within 5 working days of either event, deliver (or with RMIT's prior consent, destroy or erase) all forms of Confidential Information in the possession, power or control of the Covenantor (whether or not those forms were created by RMIT) to RMIT.
+
+The Covenantor indemnifies RMIT against all liability or loss arising directly or indirectly from, and any costs (including legal costs) incurred in connection with:
+any breach by the Covenantor of this undertaking; or
+any act or omission of the Covenantor's employees or officers which if done by the Covenantor would constitute a breach of this undertaking.
+
+This undertaking remains in full force and effect until all of the Confidential Information becomes generally available in the public domain.
+
+or the purpose of this undertaking, "Confidential Information" has the meaning set out in the Confidentiality Deed.
+
+The Covenantor acknowledges having been provided with and read a copy of the Confidentiality Deed.
+
+

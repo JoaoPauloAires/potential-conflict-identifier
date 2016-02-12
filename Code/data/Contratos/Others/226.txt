@@ -1,0 +1,190 @@
+
+Definitions
+
+The following words shall where the context so permits have the following meanings:
+
+"Goods"	means the materials, supplies, plant, equipment, machinery, stores, services and the like.
+"Order"	means the agreement between the Purchaser and the Supplier evidenced in the Purchase Order.
+"Purchaser"	means HWE Mining Pty Limited
+"HWE Mining"	means HWE Mining Pty Limited
+"Supplier"	means the person, firm, or corporation to which this Purchase Order is addressed.
+
+
+1.0	ORDER
+
+1.1	The Purchase Order form when properly signed and bearing an order number is the only form which will be recognised by the Purchaser as authority for charging Goods to its account and supersedes all previous communications and negotiations. This form together with all documents attached hereto, or incorporated therein by reference constitutes the entire terms of the Order. No terms stated by the Supplier in accepting or acknowledging the Order shall be binding upon the Purchaser unless accepted in writing by the Purchaser. No waiver of a breach of any provision of the Order shall constitute a waiver of any other breach of such provision or any other provision. The parties shall not admit or permit any variation to the Order nor add to or delete from the any term, provision or part hereof unless the terms of such variation shall first have been set in writing and agreed to by both parties. The Supplier shall not assign or sub-contract the Order without the prior written consent of the Purchaser except in regard to supply of raw materials or other minor details.
+
+2.0	PRICE
+2.1	All prices in the Order shall be firm unless stated in the Order.
+3.0	TIME
+3.1	Time is of the essence of the Order.
+4.0	RISK
+4.1	All Goods shall be at the Supplier's risk until such Goods have been delivered to the Purchaser, or where Goods are to be installed by or on behalf of the Supplier, on completion of installation.
+
+
+5.0	LAWS, REGULATIONS, ETC.
+
+5.1	The Supplier shall conform with the provisions of all laws ( Federal, State or Municipal ) in any way affecting or applicable to the manufacture and/or supply of the Goods and shall obtain all permits and licences and give all notices required to be given and shall pay all fees, deposits and taxes in connection therewith.
+
+6.0	PATENTS, TRADEMARKS, COPYRIGHTS.
+
+6.1	The Supplier warrants that the sale or use of the Goods will not infringe or contribute to the infringement of any patents, trademarks or copyrights in either Australia or foreign countries. The Supplier shall indemnify the Purchaser and any of the Purchasers Joint Venturers against any loss or damage ( including legal fees and other costs in defending in action ) arising from breach of warranty, and shall bear all costs associated with providing equivalent Goods which do not infringe as aforesaid.
+
+7.0	WARRANTY
+7.1 The Supplier warrants that all Goods supplied in accordance with this Purchase Order will conform to description and any applicable specification and standards, shall be of good merchantable quality, and shall be fit for the purpose for which they are supplied.
+
+8.0	SERVICE WARRANTY
+
+8.1	Without prejudice to Condition 8, the Supplier warrants that for a period of 12 months from the date of commissioning or 18 months from the date of despatch by the Supplier ( whichever is sooner ), it will at its cost repair or replace any defective parts in the Goods which become apparent under normal working conditions during such period. The provisions of this Condition shall likewise apply to any part of any Goods which has been repaired or replaced, until the expiration of a similar period from the date of repair or replacement.
+
+9.0	INSPECTION & TESTING
+
+9.1	The Purchaser shall be the sole judge of whether Goods supplied are in accordance with the Order and are to the standard, quality and finish required. The Supplier agrees that the Purchaser or his designated agent shall have the right to inspect and/or test any Goods at any stage of engineering, manufacture and delivery with the right to reject any Goods or workmanship performed or being performed that does not conform to the Order whereupon such Goods shall be replaced or corrected or workmanship re-performed at no additional cost to the Purchaser. Any such inspection and/or test shall not relieve the Supplier from full and entire responsibility for the performance of its obligations in accordance with the Order.
+
+9.2	All Goods shall be subject to inspection and/or test within a reasonable time after arrival at the delivery point. 	The Purchaser shall be entitled to either reject or retain and correct any Goods that are damaged, are 	defective in materials or workmanship, or otherwise fail to meet the requirements of the Order. The Supplier 	shall reimburse the Purchaser for expenses incurred in correcting damaged and defective Goods and for any 	amounts paid on account. Rejected Goods may be returned by the Purchaser to the Supplier at the Supplier's 	risk and the Supplier shall be liable for all packing, handling and transportation expenses so incurred.
+
+9.3	The Supplier shall make this condition of any sub-contract work.
+
+10.0	TRANSPORT, DELIVERY & PACKAGING
+
+10.1	All Goods shall be packed, marked and transported as stated in the Order, but if not stated, then in a proper and suitable manner and in all cases in accordance with the proper requirements of the carriers. Immediately the Supplier dispatches the Goods the Supplier shall notify the Purchaser of the time of dispatch, the Order number, the kind and amount of Goods dispatched and the expected date and time of arrival at the delivery point. The Supplier shall be liable for any difference in freight costs arising from its failure to follow any transport instructions in the Order or to advise the Purchaser of time of arrival. If the Supplier fails to meet the delivery requirements of the Order and the Purchaser directs transport of the Goods by an expedited method of transport, the Supplier shall pay all additional costs so incurred.
+
+10.2	The Supplier shall properly and carefully package and protect all parts of the Goods ready for despatch in accordance with the best practices having regard to the method of transport and handling to be used and to the climatic and road conditions through and over which the Work will pass.
+
+10.3	The Supplier shall ensure the Goods are clearly marked with the Purchase Order number, Equipment number if known, HWE Mining Project number, HWE Mining Project name and the number of consignments or packages that form the Goods on the Order.
+
+11.0	QUANTITY
+
+11.1	The quantity of the Goods delivered shall not be greater than the amount stated in the Order unless an additional amount is first ordered by the Purchaser in writing. The Purchaser may return excess quantities of Goods to the Supplier at the Supplier's risk and expense.
+
+11.2	Should the Supplier be unable to supply the total quantity or the minimum delivery quantities required from time to time, then without prejudice to the rights and remedies available to the Purchaser, the Supplier shall obtain any shortfall in the Supplier's deliveries from other suppliers, with no additional cost being incurred by the Purchaser.
+
+12.0	ENGINEERING DATA
+
+12.1	The Supplier shall furnish all Purchasing and other data in accordance with this Purchase Order and within the time stated and without prejudice to any specific requirement set out in this Purchase Order shall supply to the Purchaser all such engineering data, installation instructions, maintenance and operating manuals, spare parts lists and other information as necessary or reasonably required in connection with the installation, operation and maintenance of the Goods, in such time as not to delay the installation, operation or maintenance of the Goods.
+
+13.0	INSTALLATION AND COMMISSIONING
+
+13.1	The following conditions shall apply in addition to the foregoing conditions where the Supplier provides work in connection with the installation or fitting of any Goods or where this Purchase Order requires either specifically or by implication the presence of Supplier or any of it's servants as agents on the Company's premises:
+
+13.2	All work shall be performed in the best and workmanlike manner.
+
+13.3	If any of the work or materials is found by the Purchaser to be defective or not in compliance with this Purchase Order and the Supplier on request of the Purchaser fails to remedy any defect or default to the satisfaction of the Purchaser the same may be remedied by the Purchaser at the cost of the Supplier.
+
+13.4	The Supplier shall supply all labour, tools, equipment and materials necessary to complete the work.
+
+13.5	The Supplier shall use it's best endeavours not to impede or interfere with work in progress on the Company's premises.
+
+13.6	The Supplier at its own expense obtain all requisite licences and permits and comply with all laws and regulations in connection with the work or installation of the Goods.
+
+13.7	The Supplier, its servants, agents and sub-contractors shall comply with the safety policies and procedures of the Purchaser and with the reasonable directions and orders of the Purchaser or its manager or authorised officers.
+
+13.8	The Supplier shall not sub-contract or assign the work or any part thereof without the Purchaser's written consent.
+
+13.9	The Supplier performs all work as an independent contractor and not as an agent or employee of the Purchaser.
+
+
+14.0	INSURANCES
+
+14.1	Where the supply of the Goods includes installation, fitting and/or on-site management of the Goods, the Supplier shall effect and maintain throughout the Term of this Order, at its own cost and expense, the following insurances with responsible insurers on terms and conditions acceptable to the Purchaser:
+
+14.1.1	Workers Compensation insurances covering liability to employees of the Supplier under the laws of <Western Australia> or other relevant jurisdiction and at Common Law for an amount of $50 Million on any one event, including Industrial Disease Levy cover that may be required. Such policy shall include an Indemnity extension for both statutory liability and Common Law liability in favour of the Purchaser and shall further include a Waiver of Subrogation in favour of the Purchaser; and
+
+14.1.2	Public liability insurance covering liability to any third party for death, bodily injury, loss of and damage to property arising out of any act or omission in the provision of the Services for a limit of liability of no less than A$5 million per accident and unlimited as to the number of accidents occurring during each period of insurance. These obligations apply to the Supplier or any person otherwise engaged by the Supplier in the performance of the Service Contract; and
+
+14.1.3	Motor Vehicle Third Party Liability Insurance in respect of all motor vehicles including those required to be licensed or otherwise registered by law which are in the ownership or control of the Supplier used in connection with performance of the Services for an amount of at least $5 million in respect of each and every accident and unlimited as to the number of accidents occurring during the period of insurance.
+
+14.2	Each policy of insurance referred to, other than under Clause 14.1.1, shall be maintained by the Supplier in connection with this Order and be in the joint name of both parties for each of their respective rights, interest and liabilities.
+
+14.3	Each policy of insurance referred to, other than under Clause 14.1.1, shall be maintained as if a separate policy has been issued to each named insured and include a waiver by the insurer of subrogation rights which any insured party may have against other insured parties under the policies.
+
+14.4	Each policy of insurance referred to shall contain an agreement by the insurer that breach by the Supplier of any conditions or warranty of the policies shall not prejudice the rights of other parties who may be entitled to indemnity under such insurance.
+
+14.5	Within ten (10) days of granting of the Order and on each anniversary thereof, the Supplier shall provide the Purchaser of each policy of insurance and/or certificates of renewal of the relevant policies of insurance.
+
+14.6	Should the Supplier default in performing any of the requirements of this Clause, the Purchaser may insure against any risk with respect and to the extent to which default has occurred and deduct all premiums and charges there from monies due or to become due to the Supplier.
+
+14.7	Insurers shall agree to provide thirty (30) days notice to the Purchaser in respect of any variation, alteration, cancellation or amendment to the insurances.
+
+14.8	The Supplier shall indemnify and hold harmless HWE Mining in respect of any liability, loss or expense of any description which the Purchaser may suffer where such liability, loss or expense arises out of failure by the Supplier or its servants, agents or sub-contractors to comply with its obligations under this Clause.
+
+14.9	Prior to commencement of and during the Term, all insurances under this clause shall be effected and effective with Insurers approved by the Purchaser in terms and conditions acceptable to the Purchaser and the Supplier shall provide the Purchaser with evidence of insurance in such form as is satisfactory to the Purchaser.
+
+14.10	The Supplier shall not do any act or make any omission, which may provide grounds for an Insurer to refuse payment of any claim made under a policy.
+
+15.0	PAYMENT
+
+15.1	Unless otherwise stated in these Terms and Conditions, payment for the Goods shall be made within 45 days after the end of the month in which an invoice is issued to the Purchaser. 
+15.2	Where the Purchaser notifies the Supplier at the time the Order is placed that the Order forms part of a contract entered into by the Purchaser requiring a proportionate retention of funds for a period of time, the Purchaser will be entitled to retain for that period a proportion of the price payable for the Goods commensurate with the proportionate amount required to be retained under the contract. 
+15.3	Payment for the Goods does not imply acceptance of the Goods by the Purchaser. 
+15.4 The Purchaser may withhold payment where the Supplier fails to provide adequate documentation or other information required by the Order.
+
+15.5 HWE may deduct (Set Off) from monies due to the Supplier any monies due or which will or may become due from the Supplier to HWE under or in connection with the supply of Goods or Services under this agreement.
+
+16.0	INVOICES
+
+16.1	Invoices must show the Order number and the name of the Project or other destination to which the Goods were delivered or shipped. If any GST, duty, excise or other similar tax or charge, for which the Purchaser has not furnished or agreed to furnish an exemption certificate, is applicable to the Order, it must be stated separately on the invoice.
+
+
+17.0	TAXES, DUTIES AND IMPOSTS
+
+17.1	The Supplier agrees to pay and discharge all taxes, duties and imposts on the Goods including taxes in relation to employees, customs duties, import or export licences, harbour dues, loading/unloading costs and applicable fees. The Supplier agrees to indemnify the Purchaser against any liability for such taxes, duties and imposts. The Purchaser retains the right to withhold monies due to the Supplier in respect of any unpaid taxes, duties and imposts where payment of such by the Purchaser is required by law. 
+
+18.0	GOODS AND SERVICEES TAX ("GST") 
+
+18.1	In these Terms and Conditions the expressions: "Adjustments", "Adjustment Event", "Adjustment Note", "Commissioner", "GST", "GST exclusive value", "Input Tax Credits", "Supply", "Taxable Supply", Taxable Importation", and "Tax Invoice" have the same meanings as those expressions have in A New Tax System (Goods and Services Tax) Act 1999 (Commonwealth), as it may be amended from time to time (the "GST Act"). 
+18.2	GST Law means the GST Act and any other law of the Commonwealth, States or Territories of Australia relating to a goods and service tax. 
+18.3	If the Supply of goods and/or services under these Terms and Conditions, results in the Supplier being liable to pay GST to the Commissioner pursuant to the GST Act, the Supplier will pay that GST and will provide a Tax Invoice to the Purchaser requiring it to pay to the Supplier the amount of that GST. The Purchaser agrees to pay the amount of that GST to the Supplier. 
+18.4	The liability to pay GST to the Commissioner under the GST Act for any Supply under these Terms and Conditions and liability for all penalties, interest and other charges under the GST Act, remains at all times with the Supplier 
+18.5	Payment of the GST set out in the Tax Invoice will be in accordance with the terms of payment for the Supply set out in these Terms and Conditions. 
+18.6	The Supplier is not entitled to claim from the Purchaser payment of an amount for GST owed by the Supplier to the Commissioner which is greater than the actual GST due by the Supplier to the Commissioner and in particular cannot claim from the Purchaser any amount for any administrative costs or expenses which are incurred or arise as a consequence of the introduction or payment of GST. 
+18.7	If for any reason, (including an Adjustment, Adjustment Event or any amendment, repeal or enactment of any laws relating in any way to GST), the amount of GST payable by the Supplier on any supply of goods and/or services under this Agreement is reduced (including to nil), the Supplier must inform the Purchaser of the reduction in writing (including, where applicable, providing an Adjustment Note in accordance with the Supplier's obligations under the GST Act) and must reduce accordingly the amount payable by the Purchaser under clause 6 (b) (iii) , or, if the Purchaser has already paid that amount to the Supplier, refund the amount of the reduction to the Purchaser within 14 days. 
+18.8	If as a result of the reduction or removal of any tax, duty, excise or statutory change (including but not limited to sales tax, fuel excise, stamp duty, financial institutions duty and debits tax) the GST exclusive value of the Supplier's goods and/or services is reduced, the Supplier will pass on in full to the Purchaser the cost savings from the time at which the savings apply to the Supplier, by reducing the amount payable by the Purchaser for the supply of the goods and/or services by that amount of those costs savings or, if the Purchaser has already made payment with respect to a supply to which the cost savings apply, refund to the Purchaser the amount equal to those costs savings for that supply. 
+18.9	Upon prior notice in writing to the Supplier, the Purchaser may carry out or appoint agents on its behalf to carry out an audit of the Supplier in order to ensure that the Supplier is complying with its obligations as to passing on cost savings in accordance with the preceding paragraph. For the purpose of the audit, the Supplier will do all things reasonably necessary to co-operate with the Purchaser and will make available to the Purchaser its accounts, books and records and other relevant documentation.
+
+19.0	CANCELLATION
+
+19.1	The Purchaser may at its option and on reasonable notice cancel the Order. If the Order covers standard stock Goods, the Purchaser's liability will be to pay for Goods shipped prior to the cancellation. If the Order covers Goods manufactured to the Purchaser's specification or specification prepared by the Supplier for the Purchaser, upon receipt of notice of cancellation, the Supplier shall cease manufacture, supply or work in accordance with and to the extent specified in the notice and shall immediately do everything possible to mitigate any costs incurred by it from such cancellation. Provided the Supplier is not in default, the Purchaser will pay the Supplier the costs incurred by the Supplier in fulfilling this Order prior to cancellation, contract value of the Goods manufactured and/or Supplier in accordance with the Order at the date of the cancellation, cost of materials and other items ordered for which the Supplier is legally bound to pay, plus 6% of the balance of the Contract Price. Upon such payment title to and property in the Goods and any ordered materials and other items shall pass to the Purchaser.
+
+20.0	TERMINATION FOR DEFAULT
+
+20.1	If the Supplier fails to observe any condition of the Order including the Supplier's warranties or fails to proceed with due diligence so as to endanger delivery of the Goods by the time(s) stated in the Order, the Purchaser may give notice to the Supplier that unless the failure is remedied within a stated and reasonable time from receipt of the notice the Order shall be terminated in whole or in part.
+
+
+21.0	TITLE
+
+21.1.1 The Supplier warrants that the Goods are free and clear of all liens and encumbrances and that the   Supplier has good and marketable title to same.
+21.2 Title to Goods passes to HWE Mining upon the Goods being delivered in accordance with clause 10.
+
+22.0	LAW APPLICABLE
+
+22.1	The Supplier and the Purchaser accept the laws of the State of Western Australia as the proper law of the Order and the Supplier and Purchaser both submit to the jurisdiction of the Courts of the State and all courts of appeal therefrom.
+
+23.0	HWE Mining ENVIRONMENTAL POLICY AND STANDARD
+
+23.1	HWE Mining is committed to operating in a sustainable manner. As such, HWE Mining requires that the environment, social and economic impacts of goods and services are considered for all items designed, supplied and constructed for HWE Mining. 
+
+23.2	All items designed, supplied and constructed shall be in accordance with all relevant legal requirements including but not limited to the WA Environmental Protection Act 1986 Part 5, Australian Standards and Industry Codes of Practice. HWE Mining's Safety, Health and Environment Policy, Group Standards and Code of Business Conduct are available on request.
+
+24.0	HWE Mining HEALTH & SAFETY POLICY & STANDARD
+
+24.1	Occupational health and safety is an integral component when designing, purchasing and constructing plant, equipment and infrastructure. All items designed, supplied and constructed shall be in accordance with the Western Australia DOIR Regulations, the relevant Australian Standards and the relevant HWE Mining Safe Work Standards.
+
+25.0	LOCAL CONTENT
+
+It is HWE Mining's policy to support local industry and as a consequence the supplier shall give proper consideration and wherever possible, preference to local suppliers, manufacturers and contractors where price, quality, delivery and service are equal to or better than that obtainable elsewhere. HWE Mining may request evidence of compliance with this policy.
+
+
+
+
+Standard Conditions for Purchase Orders 
+
+
+
+
+Prepared By:Contracts SuperintendentDate:08/06/06Document Number:FM-PR-012Approved By:Group Procurement ManagerDate:08/06/06Date Implemented:09/06/06Electronic File & Path:D:\Documents and Settings\condjx\Desktop\FM-PR-002 Supplier Details - HWE Mining Pty Limited.docPage 1 of 9
+
+
+
+
+

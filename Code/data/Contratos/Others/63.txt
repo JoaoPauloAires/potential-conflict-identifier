@@ -1,0 +1,579 @@
+CONSULTANCY AGREEMENTAGREEMENT IN RELATION TO  [INSERT DESCRIPTION OF SERVICES HERE]AUSTRALIAN INSTITUTE OF HEALTH AND WELFARE 
+
+
+-AND-
+
+
+[INSERT NAME OF CONSULTANT]
+CONTENTS
+1.	Interpretation	2
+1.1.	Definitions	2
+1.2.	Interpretation	5
+1.3.	Guidance on construction of this agreement	5
+2.	Provision of Consultancy Services	6
+2.1.	Obligations of the Consultant	6
+2.2.	Specified Personnel	6
+2.3.	Liaison with the Project Officer	7
+2.4.	Conduct at Institute premises	7
+2.5.	Responsibility of Consultant	7
+3.	Fees, allowances and assistance	7
+3.1.	Fees, allowances and assistance	7
+3.2.	Institute's right to defer payment	8
+3.3.	Taxes, duties and government charges	8
+4.	Material	8
+4.1.	Institute Material	8
+4.2.	Intellectual Property in Contract Material	9
+4.3.	Moral Rights	9
+4.4.	Dealing with Copies	10
+5.	Confidential Information	10
+5.1.	Interpretation of clause	10
+5.2.	Confidential Information not to be disclosed	10
+5.3.	Written undertakings	10
+5.4.	Exceptions to obligations	10
+5.5.	Additional Confidential Information	10
+5.6.	Period of confidentiality	10
+5.7.	No reduction in privacy obligations	10
+6.	Security	10
+6.1.	Interpretation of this clause	10
+6.2.	General Security Obligations	10
+6.3.	Personnel Security	10
+6.4.	Information Security	10
+6.5.	Physical Security	10
+6.6.	Notification of Security Incident	10
+7.	Protection of Personal Information	10
+7.1.	Application of clause	10
+7.2.	Interpretation of this clause	10
+7.3.	Obligations of Consultant in relation to Personal Information	10
+8.	Indemnity	10
+9.	Dispute resolution	10
+9.1.	Procedure for dispute resolution	10
+9.2.	Costs	10
+9.3.	Continued performance	10
+9.4.	Exemption	10
+10.	Termination or reduction in scope of the Consultancy Services	10
+10.1.	For convenience	10
+10.2.	Termination for Fault	10
+11.	General provisions	10
+11.1.	Compliance with other laws	10
+11.2.	Conflict of interest	10
+11.3.	Audit and Access	10
+11.4.	Insurance	10
+11.5.	Subcontractors	10
+11.6.	Relationship of the parties	10
+11.7.	Waiver	10
+11.8.	Assignment and novation	10
+11.9.	Survival	10
+11.10.	Notice	10
+Schedule 1.	10
+Attachment A	10
+
+
+CONSULTANCY AGREEMENT
+
+AGREEMENT IN RELATION TO  [INSERT DESCRIPTION OF SERVICES HERE]
+Date
+This agreement is dated [^day(numeric) month(name) year(numeric) in full^].
+
+Parties
+This agreement is made between and binds the following parties:
+1. Australian Institute of Health and Welfare    
+26 Thynne Street, Fern Hill Park, Bruce, ACT (the Institute)
+2. [insert name and address of consultant] (the Consultant)
+
+Context
+This agreement is made in the following context:
+A. The Institute wishes to engage the Consultant to provide the Consultancy Services.
+B. The Consultant has fully informed itself about the Consultancy Services and has submitted the proposal and quotation referred to in Item A [Proposal and Quotation] of the Schedule.
+
+Operative provisions
+In consideration of the mutual promises contained in this document, the parties to this agreement agree as follows:
+1. 
+Interpretation
+1.1. Definitions
+1.1.1. In this agreement, unless the context indicates otherwise:
+Business Day in relation to the doing of any action in a place, means a weekday other than a public holiday in that place;
+Commencement Date means the date on which this agreement is made, unless otherwise specified in Item E [Commencement and Time-frame];
+Confidential Informationwhen used to describe the Institute's Confidential Information means information of or provided by the Institute that:
+a.	is by its nature confidential;
+b.	is designated by the Institute as confidential; 
+c.	the Consultant knows or ought to know is confidential; and/or
+d.	the parties agree in writing after the date of this agreement is confidential information for the purposes of this agreement;
+but does not include information which:
+e.	the Consultant can demonstrate by documentary evidence was independently developed or acquired by the Consultant;
+and,
+when used to describe the Consultant's Confidential Information means information of or provided by the Consultant:
+a.	that is described in Item Q [Consultant's Confidential Information]; and/or
+b.	that the parties agree in writing after the date of this agreement is confidential information for the purposes of this agreement;Consultancy Servicesmeans the services described in Item B [Consultancy Services] and includes the provision to the Institute of the Material specified in Item C [Required Contract Material]; Contract Materialmeans any Material:
+a.	created for the purposes of this agreement;
+b.	provided or required to be provided to the Institute as part of the Consultancy Services; or
+c.	derived at any time from the Material referred to in paragraphs a or b;
+Instalment means an instalment of fees payable under clause 3 in relation to part of the Consultancy Services;Instituteincludes the Institute and any department or agency of the Commonwealth which is from time to time responsible for administering this agreement;Institute Materialmeans any Material:
+a.	provided by the Institute to the Consultant for the purposes of this agreement; or
+b.	derived at any time from the Material referred to in paragraph a;
+Intellectual Property includes: 
+a. all copyright (including rights in relation to phonograms and broadcasts);
+b. all rights in relation to inventions, plant varieties, trademarks (including service marks), designs and circuit layouts; and 
+c. all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields, 
+but does not include:
+d. Moral Rights; 
+e. the rights of performers; or 
+f. rights in relation to Confidential Information;
+Material means the subject matter of any category of Intellectual Property rights;
+Moral Rights includes the following rights of an author of copyright Material:
+a.	the right of attribution of authorship;
+b.	the right of integrity of authorship; and
+c.	the right not to have authorship falsely attributed;
+Personal Information means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about a natural person whose identity is apparent, or can reasonably be ascertained, from the information or opinion;Personnelmeans a party's officers, employees, agents, contractor staff or professional advisers engaged in, or in relation to, the performance or management of this agreement;
+Project Officer means the person specified (by name or position) in Item K [Project Officer] or any substitute notified to the Consultant; 
+Specified Personnel means the Personnel specified in Item J [Specified Personnel] as required to perform all or part of the work constituting the Consultancy Services.
+1.2. Interpretation
+1.2.1. In this agreement, unless the contrary intention appears:
+a. words importing a gender include any other gender;
+b. words in the singular include the plural and words in the plural include the singular;
+c. clause headings are for convenient reference only and have no effect in limiting or extending the language of provisions to which they refer;
+d. words importing a person includes a partnership and a body whether corporate or otherwise;
+e. a reference to dollars is a reference to Australian dollars;
+f. a reference to any legislation or legislative provision includes any statutory modification, substitution or re-enactment of that legislation or legislative provision;
+g. if any word or phrase is given a defined meaning, any other part of speech or other grammatical form of that word or phrase has a corresponding meaning;
+h. a reference to an Item is a reference to an Item in the Schedule;
+i. the Schedule and any attachments form part of this agreement;
+j. if any conflict arises between the terms and conditions contained in the clauses of this agreement and any part of the Schedule (and attachments if any), the terms and conditions of the clauses prevail;
+k. if any conflict arises between any part of the Schedule and any part of an attachment, the Schedule prevails;
+l. a reference to the Schedule (or an attachment) is a reference to the Schedule (or an attachment) to this agreement, including as amended or replaced from time to time by agreement in writing between the parties; and
+m. a reference to writing is a reference to any representation of words, figures or symbols, whether or not in a visible form.
+1.3. Guidance on construction of this agreement
+1.3.1. This agreement records the entire agreement between the parties in relation to its subject matter.
+1.3.2. A variation of this agreement is binding only if agreed in writing and signed by the parties.
+1.3.3. Any reading down or severance of a particular provision does not affect the other provisions of this agreement.
+1.3.4. This agreement is to be construed in accordance with the laws of the Australian Capital Territory.
+1.3.5. The terms of this agreement apply on and from the Commencement Date.
+1.3.6. A provision of this agreement shall not be construed to the disadvantage of a party solely on the basis that it proposed that provision.
+2. Provision of Consultancy Services
+2.1. Obligations of the Consultant
+2.1.1. The Consultant agrees to: 
+a. perform the Consultancy Services as specified in Item B [Consultancy Services];
+b. provide to the Institute the Material specified in Item C [Required Contract Material];
+c. adopt relevant best practice, including any Institute, Commonwealth or industry standards and guidelines specified in Item D [Standards and Best Practice]; 
+d. comply with the time frame for the performance of the Consultancy Services specified in Item E [Commencement and Time-frame]; and
+e. submit invoices, and any required supporting documents, in the manner specified in Item I [Invoicing and Payment].
+2.2. Specified Personnel
+2.2.1. The Consultant agrees that the Specified Personnel will perform work in relation to the Consultancy Services in accordance with this agreement.
+2.2.2. If Specified Personnel are unable to perform the work as required under clause 2.2.1, the Consultant agrees to notify the Institute immediately.
+2.2.3. The Institute may, at its absolute discretion, request the Consultant to remove Personnel (including Specified Personnel) from work in relation to the Consultancy Services. 
+2.2.4. If clause 2.2.2 or clause 2.2.3 applies, the Consultant will provide replacement Personnel acceptable to the Institute at no additional cost and at the earliest opportunity.
+2.3. Liaison with the Project Officer
+2.3.1. The Consultant agrees to liaise with and comply with directions of the Project Officer as reasonably required from time to time.
+2.4. Conduct at Institute premises
+2.4.1. When using the Institute's premises or facilities, the Consultant will comply with all directions and all current procedures relating to occupational health and safety that apply to those premises or facilities.
+2.5. Responsibility of Consultant
+2.5.1. The Consultant is fully responsible for the performance of the Consultancy Services and for ensuring compliance with the requirements of this agreement, and will not be relieved of that responsibility because of any:
+a. involvement by the Institute in the performance of the Consultancy Services;
+b. payment made to the Consultant on account of the Consultancy Services;
+c. subcontracting of the Consultancy Services; or
+d. acceptance by the Institute of replacement Personnel.
+3. Fees, allowances and assistance
+3.1. Fees, allowances and assistance
+3.1.1. The Institute agrees to:
+a. pay the fees in the Instalments (if any) specified in Item F [Fees];
+b. pay the allowances and meet the costs specified in Item G [Allowances and Costs]; 
+c. make all payments in the manner specified in Item I [Invoicing and Payment]; and
+d. provide the facilities and assistance specified in Item H [Facilities and Assistance].
+3.2. Institute's right to defer payment
+3.2.1. The Institute will be entitled (in addition and without prejudice to any other right it may have) to defer payment or reduce the amount of any Instalment if and for so long as the Consultant has not completed, to the satisfaction of the Institute, that part of the Consultancy Services to which the Instalment relates.
+3.3. Taxes, duties and government charges
+3.3.1. Except as provided by this clause 3.3, the Consultant must pay all taxes, duties and government charges imposed or levied in Australia or overseas in connection with the performance of this agreement.
+3.3.2. The following terms have the meanings respectively given to them in the A New Tax System (Goods and Services Tax) Act 1999:
+Consideration;GST;input tax credit;supply;taxable supply; andTax invoice.3.3.3. Unless otherwise indicated, all consideration for any supply made under this agreement is exclusive of any GST imposed on the supply.
+3.3.4. If one party (the supplier) makes a taxable supply to the other party (the recipient) under this agreement, on receipt of a tax invoice from the supplier, the recipient must pay without setoff an additional amount to the supplier equal to the GST imposed on the supply in question.
+3.3.5. No party may claim from the other party under this agreement any amount for which the first party may claim an input tax credit.
+4. Material
+4.1. Institute Material
+4.1.1. The Institute agrees to provide Material to the Consultant as specified in  Item L [Required Institute Material].
+4.1.2. The Institute grants (or will procure) a royalty-free, non-exclusive licence for the Consultant to use, reproduce and adapt the Institute Material for the purposes of this agreement.
+4.1.3. Institute Material shall remain the property of the Institute and on the expiration or earlier termination of this Contract, the Consultant shall forward to the Institute, or as directed, all Institute Material.
+4.1.4. The Institute will inform the Consultant of any Institute Material produced for and on behalf of the Institute in which third parties hold the copyright or intellectual property rights, and of any conditions attaching to the use of that Material because of that copyright or intellectual property rights. The Consultant shall use that Material only in accordance with those conditions.
+4.1.5. The Consultant shall be responsible for the safekeeping and maintenance of Institute Material and shall comply with all reasonable directions of the Institute in relation to the storage and safekeeping of Institute Material.
+4.2. Intellectual Property in Contract Material
+4.2.1. Intellectual Property in all Contract Material vests or will vest in the Institute.
+4.2.2. Clause 4.2.1 does not affect the ownership of Intellectual Property in:
+a. any Institute Material incorporated into Contract Material; or
+b. any existing Material which is specified in Item M [Existing Material].
+4.2.3. The Consultant grants to (or will procure for) the Institute a permanent, irrevocable, royalty-free, world-wide, non-exclusive licence (including a right of sublicence) to use, reproduce, adapt and exploit any existing Material referred to in clause 4.2.2.b, in conjunction with the Contract Material.
+4.2.4. The Consultant agrees, on request by the Institute, to create, sign, execute or otherwise deal with any document necessary or desirable to give effect to this clause 4.2.
+4.2.5. The Consultant warrants that:
+a. it is entitled; or
+b. it will be entitled at the relevant time, 
+to deal with the Intellectual Property in the Contract Material in the manner provided for in this clause 4.2.
+4.3. Moral Rights
+4.3.1. For the purposes of this clause 4.3, 'Permitted Acts' means any of the following classes or types of acts or omissions:
+a. using, reproducing, adapting or exploiting all or any part of the Contract Material, with or without attribution of authorship;
+b. supplementing the Contract Material with any other Material; and
+c. using the Contract Material in a different context to that originally envisaged; 
+but does not include false attribution of authorship.
+4.3.2. Where the Consultant is a natural person and the author of the Contract Material, he or she consents to the performance of the Permitted Acts by the Institute or any person claiming under or through the Institute.
+4.3.3. If clause 4.3.2 does not apply, the Consultant agrees:
+a. to obtain from each author a written consent which extends directly or indirectly to the performance of the Permitted Acts by the Institute or any person claiming under or through the Institute (whether occurring before or after the consent is given); and
+b. on request -  to provide the executed original of any such consent to the Institute.
+4.3.4. This clause 4.3 does not apply to any Institute Material incorporated in the Contract Material.
+
+
+4.4. Dealing with Copies
+4.4.1. In this clause 4.4:
+Copymeans any document, device, article or medium in which Institute Material, Contract Material or Confidential Information of the Institute is embodied.4.4.2. Property in each Copy vests or will vest in the Institute.
+4.4.3. The Consultant agrees to establish and maintain procedures to secure all Copies against loss and unauthorised access, use, modification or disclosure.
+4.4.4. The Consultant agrees, on expiration or termination of this agreement, to ensure that all Copies are delivered to the Institute or otherwise dealt with as directed by the Institute, subject to any requirement of law binding on the Consultant relating to such Copies.
+5. Confidential Information
+5.1. Interpretation of clause
+5.1.1. In this clause 5:
+Third Party Interestmeans any legal or equitable right, interest, power or remedy in favour of any person other than the Institute or the Consultant in connection with the agreement, including, without limitation, any right of possession, receivership, control or power of sale, and any mortgage, charge, security or other interest.5.2. Confidential Information not to be disclosed
+5.2.1. Subject to clause 5.4, a party must not, without the prior written consent of the other party, disclose any Confidential Information of the other party to a third party. 
+5.2.2. The Institute may impose any conditions it considers appropriate when giving consent under this clause 5.2 and the Consultant agrees to comply with these conditions. 
+5.3. Written undertakings
+5.3.1. The Consultant agrees, on request by the Institute at any time, to arrange for:
+a. its Personnel; or
+
+ 
+b. any person with a Third Party Interest,
+to sign the Institute's Confidentiality Undertaking at Attachment A and/or any other written undertaking relating to the use and non-disclosure of the Institute's Confidential Information as may be requested by the Institute from time to time.
+5.4. Exceptions to obligations
+5.4.1. The obligations on the parties under this clause 5 will not be taken to have been breached to the extent that Confidential Information:
+a. is disclosed by a party to its Personnel solely in order to comply with obligations, or to exercise rights, under this agreement;
+b. is disclosed to a party's internal management Personnel, solely to enable effective management or auditing of agreement-related activities;
+c. is disclosed by the Institute to the responsible Minister;
+d. is disclosed by the Institute, in response to a request by a House or a Committee of the Parliament of the Commonwealth of Australia;
+e. is shared by the Institute within the Institute's organisation, or with another agency, where this serves the Commonwealth's legitimate interests;
+f. is authorised or required by law to be disclosed; or
+g. is in the public domain otherwise than due to a breach of any obligations of confidentiality or by any other unlawful means.
+5.4.2. Where a party discloses Confidential Information to another person pursuant to clauses 5.4.1.a - 5.4.1.e, the disclosing party must notify the receiving person that the information is confidential.
+5.4.3. In the circumstances referred to in clauses 5.4.1.a, 5.4.1.b and 5.4.1.e, the disclosing party agrees not to provide the information unless the receiving person agrees to keep the information confidential.
+5.5. Additional Confidential Information 
+5.5.1. The parties may agree in writing after the date of this agreement that certain additional information is to be Confidential Information for the purposes of this agreement.
+5.6. Period of confidentiality
+5.6.1. The obligations under this clause 5 continue, notwithstanding the expiry or termination of this agreement:
+a. in relation to the Institute's Confidential Information:
+A. until the information enters the public domain otherwise than due to a breach of any obligations of confidentiality or by any other unlawful means; or
+B. until such time as specified by the Institute
+whichever is the earliest;
+b. in relation to an item of information described in Item Q [Consultant's Confidential Information] - for the period set out in Item Q [Consultant's Confidential Information] in respect of that item; and
+c. in relation to any item of information referred to in clause 5.5 - for the period agreed by the parties in writing in respect of that item.
+5.7. No reduction in privacy obligations
+5.7.1. This clause 5 does not detract from any of the Consultant's obligations under the Privacy Act 1988 (Cth), or under clause 7, in relation to the protection of Personal Information.
+6. Security
+6.1. Interpretation of this clause
+6.1.1. In this clause 6:
+Official Informationmeans any information developed, received or collected by or on behalf of the Commonwealth of Australia through its agencies and contracted providers;Official Resourcesincludes:
+a. Official Information; 
+b. people who work for or with the Institute; and 
+c. assets belonging to (even if in the possession of contracted providers) or in the possession of the Institute;Protective Security Manualmeans the Commonwealth Protective Security Manual 2000 as updated from time to time; Security Classified Informationmeans Official Information that, if compromised, could have adverse consequences for the Institute; andSecurity Incidentmeans a security breach, violation, contact or approach from those seeking unauthorised access to Official Resources.6.2. General Security Obligations
+6.2.1. The Consultant agrees to ensure that its Personnel comply with:
+a. all relevant security requirements specified in the Protective Security Manual;
+b. any variations or additions to these security requirements that the Institute (in its absolute discretion) notifies the Consultant in writing, from the date specified in the notice (or 7 days after it receives the notice if no date is specified). 
+6.2.2. If the Consultant can substantiate that changes to the security requirements pursuant to clause 6.2.1.b have cost implications for it, the Consultant may apply to the Institute for a variation in the fees payable as specified in Item F [Fees].
+6.2.3. The Consultant acknowledges that in performing the agreement, it may become subject to certain statutory provisions relating to security and security issues, and agrees to ensure that its Personnel are aware of, and comply, with those statutory provisions.
+6.3. Personnel Security
+6.3.1. The Consultant agrees to obtain prior written authorisation from the Institute for any Personnel who may be required to:
+a. enter secure areas in the Institute's buildings or places;
+b. work with the Institute's Personnel for extended periods;
+c. have access to Security Classified Information, or valuable assets; or
+d. hold a particular kind of security clearance that the Institute notifies to the Consultant.
+6.3.2. The Consultant agrees to ensure that all Personnel proposed:
+a. are of good fame and character;
+b. are properly qualified for the tasks they are to perform; and
+c. will act in all circumstances in a fit and proper manner while they are carrying out work under the agreement.
+6.3.3. The Consultant agrees to provide any information the Institute reasonably requests to enable the Institute to investigate whether particular Personnel should be authorised.
+6.3.4. The Institute agrees that it will not unreasonably withhold authorisation.
+6.3.5. The Institute agrees to notify the Consultant of:
+a. the Personnel who have been granted authorisation ('Authorised Persons');
+b. the type and level of Commonwealth security clearance (if any) given to each Authorised Person; and
+c. the period during which the authorisation is effective; and
+d. the Personnel who have not been granted authorisation.
+6.3.6. The Consultant must promptly notify the Institute of any change in an Authorised Person's circumstances that, in the Consultant's reasonable opinion, is likely to affect the Institute's authorisation of that person.
+6.3.7. The Institute may, at any time, on reasonable grounds, without any liability whatsoever, withdraw, limit or suspend its authorisation of a particular person, and in such event must notify the Consultant accordingly.
+6.3.8. In the event referred to in clause 6.3.7, the Consultant agrees, upon request, to propose and make available another person for authorisation by the Institute under this clause 6 within a reasonable time and without inconvenience or cost to the Institute.
+6.4. Information Security
+6.4.1. The Consultant agrees not to permit any of its Personnel to have any access to Security Classified Information and Institute's confidential information unless the Institute has given written authority under this clause 6.  
+6.4.2. The Consultant agrees to inform the Institute immediately if it becomes aware that any unauthorised person has had access to Security Classified Information and institute's confidential information.
+6.4.3. The Consultant agrees not to perform the Consultancy Services outside Australia, or transfer Security Classified Information outside Australia, without the Institute's prior written approval.
+  Physical Security
+6.4.4. The Consultant may only access the Institute's premises if it complies with the Institute's requirements set out in this agreement or otherwise notified by the Institute.
+6.4.5. The Consultant must ensure that its Personnel safeguard any keys or passes or other Material detailing access arrangements that are provided to the Consultant for the purposes of this agreement.
+6.4.6. The Consultant agrees to protect any Official Resources it possesses or controls to the same extent as if it were the Institute, including ensuring that unauthorised persons cannot access any Official Information. 
+6.5. Notification of Security Incident
+6.5.1. The Consultant agrees to notify the Institute immediately if it becomes aware that a Security Incident has occurred.
+7. Protection of Personal Information
+7.1. Application of clause
+7.1.1. This clause 7 applies only to the extent that the Consultant deals with Personal Information in providing Consultancy Services under this agreement.
+7.2. Interpretation of this clause
+7.2.1. In this clause 7, the following terms have the same meaning as they have in the Privacy Act 1988 (Cth) (the Privacy Act):
+APC(approved privacy code);contracted service provider;IPPs(Information Privacy Principles); andNPPs(National Privacy Principles).7.3. Obligations of Consultant in relation to Personal Information
+7.3.1. The Consultant acknowledges that it is a contracted service provider and agrees, in providing Consultancy Services under this agreement:
+a. to use or disclose Personal Information obtained in the course of providing Consultancy Services under this agreement only for the purposes of this agreement;
+b. to carry out and discharge the obligations contained in the IPPs as if it were the Institute;
+c. not to do any act or engage in any practice which, if done or engaged in by the Institute, would be a breach of an IPP;
+d. not to use or disclose Personal Information in breach of section 16F [Direct marketing] of the Privacy Act (where applied to the Consultant), unless that use or disclosure is explicitly required under this agreement;
+e. not to engage in an act or practice that would breach an NPP (particularly NPPs 7 to 10) or an APC (where applied to the Consultant), unless that act or practice is explicitly required under this agreement;
+f. to comply with any request under section 95C of the Privacy Act (relating to disclosure of any provisions of this agreement that are inconsistent with an NPP or an APC binding on a party to this agreement);
+g. to notify the Institute immediately if the Consultant becomes aware of a breach or possible breach of any of the obligations contained in, or referred to in, this clause 7, whether by the Consultant or its Personnel;
+h. to comply with any directions, guidelines, determinations or recommendations referred to or relating to the matters set out in Item R [Privacy Directions, Guidelines, Determinations or Recommendations];  
+i. to ensure that all Personnel required to deal with Personal Information for the purposes of this agreement are made aware of the obligations of the Consultant set out in this clause 7.
+7.3.2. The Consultant agrees to ensure that any subcontract entered into by the Consultant for the purpose of fulfilling its obligations under this agreement imposes on the subcontractor the same obligations that the Consultant has under this clause (including this requirement in relation to subcontracts).
+8. Indemnity
+8.1.1. The Consultant indemnifies the Institute from and against any:
+a. cost or liability incurred by the Institute; 
+b. loss of or damage to property of the Institute; or
+c. loss or expense incurred by the Institute in dealing with any claim against it including legal costs and expenses on a solicitor/own client basis and the cost of time spent, resources used or disbursements paid by the Institute,
+arising from either:
+d. a breach by the Consultant of this agreement; or
+e. an act or omission involving fault on the part of the Consultant or its Personnel in connection with this agreement.
+8.1.2. The Consultant's liability to indemnify the Institute under clause 8.1.1 will be reduced proportionately to the extent that any act or omission involving fault on the part of the Institute or its Personnel contributed to the relevant cost, liability, loss, damage or expense.
+8.1.3. The right of the Institute to be indemnified under this clause 8 is in addition to, and not exclusive of, any other right, power or remedy provided by law, but the Institute is not entitled to be compensated in excess of the amount of the relevant cost, liability, loss, damage or expense.
+9. Dispute resolution
+9.1. Procedure for dispute resolution
+9.1.1. The parties agree that a dispute arising under this agreement will be dealt with as follows:
+a. the party claiming that there is a dispute will give the other party a notice setting out the nature of the dispute;
+b. within 7 Business Days each party will nominate a representative not having any prior involvement in the dispute;
+c. the representatives will try to settle the dispute by direct negotiation between them;
+d. failing settlement within a further 14 Business Days, the parties may agree to refer the dispute to an independent third person with power:
+A. to intervene and direct some form of resolution, in which case the parties will be bound by that resolution; or
+B. to mediate and recommend some form of non-binding resolution;
+e. the parties will cooperate fully with any process instigated under clause 9.1.1.d in order to achieve a speedy resolution; 
+f. if a resolution is not reached within a further 28 Business Days, either party may commence legal proceedings.
+9.2. Costs
+9.2.1. Each party will bear its own costs of complying with this clause 9, and the parties must bear equally the cost of any third person engaged under clause 9.1.1.d.
+9.3. Continued performance
+9.3.1. Despite the existence of a dispute, the Consultant must (unless requested in writing by the Institute not to do so) continue to perform the Consultancy Services.
+9.4. Exemption
+9.4.1. This clause 9 does not apply to:
+a. action by the Institute under or purportedly under clause 10.1;
+b. action by either party under or purportedly under clause 10.2; or
+c. legal proceedings by either party seeking urgent interlocutory relief.
+10. Termination or reduction in scope of the Consultancy Services
+10.1. For convenience
+10.1.1. The Institute may, at any time by notice, terminate this agreement or reduce the scope of the Consultancy Services immediately.
+10.1.2. The Consultant agrees, on receipt of a notice of termination or reduction:
+a. to stop or reduce work as specified in the notice;
+b. to take all available steps to minimise loss resulting from that termination or reduction; and
+c. to continue work on any part of the Consultancy Services not affected by the notice.
+10.1.3. In the event of termination under clause 10.1.1, the Institute will be liable only:
+a. to pay any Instalment relating to Consultancy Services completed to the satisfaction of the Institute before the effective date of termination;
+b. to reimburse any expenses the Consultant unavoidably incurs relating entirely to Consultancy Services not covered under clause 10.1.3.a;
+c. to pay any allowance and meet any costs unavoidably incurred under Item G [Allowances and Costs] before the effective date of termination;
+d. to provide the facilities and assistance necessarily required under Item H [Facilities and Assistance] before the effective date of termination.
+10.1.4. The Institute will not be liable to pay compensation under clause 10.1.3.a and 10.1.3.b in an amount which would, added to any fees already paid to the Consultant under this agreement, together exceed the fees set out in Item F [Fees].
+10.1.5. In the event of a reduction in the scope of the Consultancy Services under clause 10.1.1, the Institute's liability to pay fees or allowances, meet costs or provide facilities and assistance under clause 3 will, unless there is agreement in writing to the contrary, reduce in accordance with the reduction in the Consultancy Services. 
+10.1.6. The Consultant will not be entitled to compensation for loss of prospective profits.
+10.2. Termination for Fault
+10.2.1. If a party fails to satisfy any of its obligations under this agreement, then the other party - if it considers that the failure is:
+a. not capable of remedy - may, by notice, terminate this agreement immediately; 
+b. capable of remedy - may, by notice require that the failure be remedied within the time specified in the notice and, if not remedied within that time, may terminate this agreement immediately by giving a second notice.
+10.2.2. The Institute may also by notice terminate this agreement immediately (but without prejudice to any prior right of action or remedy which either party has or may have) if the Consultant:
+a. being a corporation - comes under one of the forms of external administration referred to in chapter 5 of the Corporations Act 2001 (Cth), or has an order made against it for the purpose of placing it under external administration; or
+b. being an individual - becomes bankrupt or enters into a scheme of arrangement with creditors.
+11. General provisions
+11.1. Compliance with other laws
+11.1.1. The Consultant agrees, in carrying out this agreement, to comply with all relevant legislation of the Commonwealth or of any State, Territory or local authority, and in particular:
+a. the Crimes Act 1914 (Cth);
+b. the Racial Discrimination Act 1975 (Cth);
+c. the Sex Discrimination Act 1984 (Cth);
+d. the Disability Discrimination Act 1992 (Cth); and
+e. the Equal Opportunity for Women in the Workplace Act 1999 (Cth).
+11.2. Conflict of interest
+11.2.1. In this clause 11.2:
+Conflictmeans any matter, circumstance, interest, or activity affecting the Consultant (including its Personnel) which may or may appear to impair the ability of the Consultant to provide the Consultancy Services to the Institute diligently and independently.11.2.2. The Consultant warrants that, to the best of its knowledge after making diligent inquiry, at the Commencement Date no Conflict exists or is likely to arise in the performance of the Consultancy Services.
+11.2.3. If, during the period of this agreement a Conflict arises, or appears likely to arise, the Consultant agrees:
+a. to notify the Institute immediately;
+b. to make full disclosure of all relevant information relating to the Conflict; and 
+c. to take any steps the Institute reasonably requires to resolve or otherwise deal with the Conflict. 
+11.3. Audit and Access
+11.3.1. The Consultant agrees:
+a. to give the Project Officer, or any persons authorised in writing by the Project Officer, access to premises occupied by the Consultant where the Consultancy Services are being performed; and 
+b. to permit those persons to inspect and take copies of any Material relevant to the Consultancy Services.
+11.3.2. The rights referred to in clause 11.3.1 are subject to:
+a. the Institute providing reasonable prior notice;
+b. the Consultant's reasonable security procedures; and
+c. if appropriate, execution of a deed of confidentiality relating to non-disclosure of the Consultant's Confidential Information.
+11.3.3. Without in any way affecting the statutory powers of the Auditor-General under the Auditor-General Act 1997 (Cth), and subject to the provisions of that Act, the Auditor-General is a person authorised for the purposes of this clause 11.3.
+11.4. Insurance
+11.4.1. The Consultant agrees:
+a. to effect and maintain insurance specified in Item N [Insurance];
+b. and on request, to provide proof of insurance acceptable to the Institute.
+11.4.2. This clause 11.4 continues in operation for so long as any obligations remain in connection with the agreement.
+11.5. Subcontractors
+11.5.1. The Consultant agrees not to subcontract the performance of any part of the Consultancy Services without the Institute's prior written approval.
+11.5.2. The Institute may impose any terms and conditions it considers appropriate when giving its approval under clause 11.5.1.
+11.5.3. The Consultant will ensure that any subcontract for the performance of any part of the Consultancy Services contains provisions equivalent to clauses 5, 6, 7, 10.1 and 11.3 of this agreement.
+11.6. Relationship of the parties
+11.6.1. The Consultant is not by virtue of this agreement an officer, employee, partner or agent of the Institute, nor does the Consultant have any power or authority to bind or represent the Institute.
+11.6.2. The Consultant agrees:
+a. not to misrepresent its relationship with the Institute; and
+b. not to engage in any misleading or deceptive conduct in relation to the Consultancy Services.
+11.7. Waiver
+11.7.1. A failure or delay by a party to exercise any right or remedy it holds under this agreement or at law does not operate as a waiver of that right.
+11.7.2. A single or partial exercise by a party of any right or remedy it holds under this agreement or at law does not prevent the party from exercising the right again or to the extent it has not fully exercised the right.
+11.8. Assignment and novation
+11.8.1. The Consultant cannot assign its obligations, and agrees not to assign its rights, under this agreement without the Institute's prior written approval.
+11.8.2. The Consultant agrees to consult the Institute before entering negotiations with any other person regarding any arrangement that might require novation of the agreement.
+11.8.3. The Institute will not withhold approval of an assignment to a wholly owned subsidiary of the Consultant if:
+a. the proposed assignee is sufficiently capitalised to meet all of the Consultant's obligations under the agreement, including indemnities;
+b. the Specified Personnel continue to provide the Consultancy Services, subject to the terms of this agreement;
+c. the Consultant guarantees the performance of this agreement by the assignee and any liability on the part of the assignee arising under this agreement;
+d. the proposed assignee fully complies with all criteria applied to the Consultant as a tenderer for provision of the Consultancy Services; and
+e. the Consultant provides to the Institute all information reasonably required to determine compliance under clause 11.8.3.d.
+11.9. Survival
+11.9.1. Unless the contrary intention appears, the expiry or earlier termination of this agreement will not affect the continued operation of any provision relating to:
+a. licensing of Intellectual Property;
+b. Confidential Information;
+c. the protection of Personal Information;
+d. audit;
+e. information security;
+f. an indemnity; or
+g. any other provision which expressly or by implication from its nature is intended to continue.
+11.10. Notice
+11.10.1. A notice under this agreement is only effective if it is in writing, and dealt with as follows:
+a. if given by the Consultant to the Institute - addressed to the Project Officer at the address specified in Item O [Institute's Address for Notices] or as otherwise notified by the Institute; or
+b. if given by the Institute to the Consultant - given by the Project Officer (or any superior officer to the Project Officer) and addressed (and marked for attention) as specified in Item P [Consultant's Address for Notices] or as otherwise notified by the Consultant.
+11.10.2. A notice is to be:
+a. signed by the person giving the notice and delivered by hand; or
+b. signed by the person giving the notice and sent by pre-paid post; or
+c. transmitted electronically by the person giving the notice by electronic mail or facsimile transmission.
+11.10.3. A notice is deemed to be effected:
+a. if delivered by hand - upon delivery to the relevant address;
+b. if sent by post - upon delivery to the relevant address;
+c. if transmitted electronically - upon actual receipt by the addressee.
+11.10.4. A notice received after 5.00 pm, or on a day that is not a Business Day, is deemed to be effected on the next Business Day.
+         Schedule 1. 
+A. Proposal and Quotation
+(see Context paragraph B)
+B. Consultancy Services
+(see clause 2.1)
+
+C. Required Contract Material
+(see clause 2.1.1.b)
+
+D. Standards and Best Practice
+(see clause 2.1.1.c)
+
+E. Commencement and Time-frame
+(see clause 2.1.1.d)
+
+Time frame:
+F. Fees
+(see clauses 3.1.1.a & 10.1.5)
+
+
+G. Allowances and Costs
+(see clause 3.1.1.b & 6.2.2)
+
+H. Facilities and Assistance
+(see clause 3.1.1.d)
+
+
+I. Invoicing and Payment
+(see clause 3.1.1.c)
+
+
+J. Specified Personnel
+(see clause 2.2)
+
+K. Project Officer
+(see clause 2.3)
+
+L. Required Institute Material
+(see clause 4.1)
+
+M. Existing Material
+(see clause 4.2.2)
+
+N. Insurance
+(see clause 11.4)
+
+O. Institute's Address for Notices
+(see clause 11.10.1.a)
+
+Physical address(Division Head)
+(Division Name)
+Australian Institute of Health and Welfare
+GPO Box 570
+CANBERRA ACT 2601
+Postal addressGPO Box  570 Canberra ACT 2601EmailFacsimile
+
+
+P. Consultant's Address for Notices
+(see clause 11.10.1.b)
+
+Physical addressPostal addressEmailFacsimile
+Q. Consultant's Confidential Information 
+(see clause 5)
+
+
+ItemPeriod of Confidentiality^insert relevant items^
+R. Privacy Directions, Guidelines, Determinations or Recommendations 
+( see clause 7.3.1.h)
+
+'Guidelines Under Section 95 of the Privacy Act 1988' issued by the National Health and Medical Research Council, as amended from time to time.
+
+
+
+Signatures
+SIGNED for and on behalf of  Australian Institute of Health and Welfare by:
+
+[^insert name of signatory^])
+)
+)
+Signature In the presence of:
+
+[^insert name of witness^]
+Signature of witness
+SIGNED for and on behalf of    by:
+
+[^insert name of signatory^])
+)
+)
+Signature In the presence of:
+
+[^insert name of witness^]
+Signature of witnessATTACHMENT A
+                                     CONFIDENTIALITY UNDERTAKING
+Undertaking of Confidentiality 
+Agency Staff / Contractors / Consultants
+
+I, ..................................................................................
+acknowledge and understand that the Australian Institute of Health and Welfare acquires and holds information which is "health-related information and statistics" or "welfare-related information and statistics" as defined in the Australian Institute of Health and Welfare Act 1987 ("the AIHW Act"), and that such information is subject to the provisions of Section 29 of the AIHW Act . I understand that I may become an "informed person" within the meaning of Section 29 of the AIHW Act. I further understand that criminal penalties apply for improperly divulging or communicating such information and statistics. 
+I hereby agree to faithfully, and to the best of my ability, execute the powers or duties conferred on me by the AIHW Act and undertake that I will not directly or indirectly access, use, divulge, communicate or retain such information or statistics except for purposes permitted by the Act (where these purposes do not conflict with [my obligations/my employer's obligations - delete one] under the Consultancy Agreement dated [insert date] (the Consultancy Agreement)).
+I also understand that the Institute acquires and holds information that is "Personal Information" as defined in Section 6(1) of the Privacy Act 1988 (the Privacy Act). I acknowledge and understand that such information must be managed in accordance with:
+* Information Privacy Principles defined in the Privacy Act,  
+
+
+* the Guidelines for the Protection of Privacy in the Conduct of Medical Research, approved from time to time by the Privacy Commissioner under Section 95 of the Privacy Act ; and
+* clause 7 of the Consultancy Agreement, and
+I agree to protect the confidentiality of Personal Information in accordance with these Acts and Guidelines and [my obligations/my employer's obligations - delete one] under the Consultancy Agreement.
+................................................................................           
+Signature  							Date
+Witnessed by
+...............................................................................
+Name in full (Block letters)			Signature  	Date 
+
+
+
+
+			
+
+Page i
+
+	
+
+	Page 1 of 34
+
+
+
+
+
+
+
+
+
+
+
+
+
+

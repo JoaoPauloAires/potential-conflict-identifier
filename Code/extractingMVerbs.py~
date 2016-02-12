@@ -1,0 +1,30 @@
+import nltk
+from normClassifier import *
+from nltk.tag import stanford
+from nltk.tag.stanford import POSTagger
+import re
+
+jar = 'stanford-postagger.jar'
+model = 'wsj-0-18-bidirectional-distsim.tagger'
+
+stanford = POSTagger(model, jar)
+classifier = start()
+sent_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
+
+def extractVerbs(path):
+    contract = ' '.join(open(path, 'r').read().split()[1:-1])
+    contractSents = sent_tokenizer.tokenize(contract)
+    for sent in contractSents:
+        taggedToken = []
+        if classifier(feature(sent)) == 'norm':
+            tokens = nltk.word_tokenize(sent)
+            taggedToken = stanford.tag(tokens)
+#    words, tags = zip(*taggedSent)
+        if taggedToken:
+            print "I am a sentence!"    
+            for tup in taggedToken:
+                if tup[1] == 'MD' and tup[0] != 'shall':
+                    print [nltk.tag.tuple2str(x) for x in taggedToken[taggedToken.index(tup)-4:taggedToken.index(tup)+4]]
+                    break           
+
+extractVerbs('/home/lsa/Dropbox/PUCRS/Dissertation/Corpus/xibinCorpus/noHTML/licence/beckman.lic.2000.05.19.shtml')

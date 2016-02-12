@@ -1,0 +1,263 @@
+
+
+
+
+
+
+iTEL Community Telco Limited
+WEB HOSTING SERVICES
+
+Service Agreement
+V1.2 WH 09/05/07
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+1.0  	Terms and Conditions
+1.1 iTEL Community Telco Limited is an Internet Service Provider that provides website hosting services.
+1.2 This Agreement sets out the terms and conditions on which iTEL offers website hosting services to Customer.
+
+2.0  	The Services
+2.1	The Customer may select one Base Hosting Package and, if desired, additional Optional Services.
+2.2	The Base Hosting Package and the Optional Services can be selected by marking the appropriate boxes on the Agreement Details form at the front of this Agreement or by requesting such services by written notice to ITEL.
+
+3.0	Base E Hosting Package
+3.1	A number of Base Hosting Packages are available.
+3.2	Customer must select one Base Hosting Package.
+3.3	The details of what is included in each Base Hosting Package are set out on the Price List.
+3.4	Each Base Hosting Package comprises of the following features:
+* storage space on iTEL's server to allow the Customer to store Customer's website;
+* the transfer of data from iTEL's server to Internet users via the iTEL Internet connection;
+* Internet email mailboxes so that the Customer can send and receive Internet email;
+* CGI capabilities;
+* database access;
+* if required, a link from iTEL's own website to Customer's website;
+* provision of usage statistics; and
+* help desk services.
+3.4 iTEL may add features to a Base Hosting Package without prior notice to the Customer.
+3.5 iTEL may remove features of a Base Hosting Package used by the Customer only upon prior notice to the Customer.
+3.6 iTEL will host the Customer's website, and if required by the Customer, make it generally available to Internet users.  
+3.7 iTEL has added the facility of creating and designing websites for customers upon request.  
+3.8 iTEL may provide software or automated services to assist the Customer develop the Customer's website.  The customer is responsible for the creation of the Customer's website in all circumstances, including when using such software or automated services.
+3.9 The Customer can change and update the Customer's website using FTP access and other methods made available by iTEL from time to time.
+
+4.0	Optional Services
+4.1	The Customer may accept one or more of the Optional Services offered by ITEL.
+4.2	The details of what is included in an Optional Service will be set out on the Price List for the Optional Service when these become available.
+4.3 Use of an Optional Service is subject to the terms of this Agreement and the Terms of Use for the Optional Service.
+4.4 iTEL may add Optional Services and features to Optional Services without prior notice to the Customer.
+4.5 In respect of Optional Services selected by the Customer, iTEL may remove Optional Services and features of Optional Services only upon prior notice to the Customer.
+4.6 The Customer must have a Base Hosting Package as a precondition to obtaining Optional Services.
+
+5.0	Fees and Charges
+5.1	Different fees are charged for commercial enterprises and non-profit/community organisations.  The Customer warrants that the category of user selected by the Customer on the Agreement Details form correctly describes the Customer.
+5.2	The Customer must pay iTEL the fees and usage charges set out on the current Price List for iTEL's services selected by the Customer.
+5.3	iTEL will not provide any services pursuant to this Agreement until:
+* this Agreement is signed by the Customer and ITEL; and
+* all applicable establishment fees and "pay in advance" fees are paid by the Customer. 
+5.4 iTEL will not refund any establishment fees or "pay in advance" fees  if the Customer:
+* terminates this Agreement; or
+* does not use any services paid for by the Customer.
+5.5 Certain fees and charges are payable by the Customer to iTEL in arrears.  These fees and charges are set out in the Price List and include charges for maintenance requested by the Customer, specialist support, and usage greater than that covered by the Base Hosting Package selected by the Customer.
+5.6 The amount of all fees and charges are determined according to iTEL's current Price List.
+5.7 iTEL may vary its Price List at any time in accordance with clause 16 of this Agreement.
+
+6.0	Billing
+6.1	iTEL will issue invoices for all fees and charges that are payable in arrears.
+6.2	The Customer must pay iTEL all invoiced amounts within 14 days of the date of the invoice.
+6.3	If the Customer disputes an invoiced amount, the Customer must notify iTEL in writing within 14 days of the date of the invoice.  The undisputed amount of the invoice must be paid on time.
+6.4	iTEL may charge the Customer an administration fee of $20 if a cheque presented by the Customer is not honoured or if an electronic or credit card payment made by the Customer is reversed.
+6.5	If an amount remains unpaid after the due date, the Customer may be required to pay interest on that amount until it is paid in full.  The rate of interest will be the Reserve Bank's Official Cash Rate (as published in the Australian Financial Review) plus 5%. 
+
+7.0	Term and Termination
+7.1	This Agreement continues in force until terminated by either party.
+7.2	The Customer may terminate this Agreement by providing two weeks written notice to ITEL.
+7.3	iTEL may terminate this Agreement:
+* by providing four weeks written notice to the Customer;
+* immediately and without notice, if the Customer breaches this Agreement; or
+* if required by law or court order.
+7.4 This Agreement automatically terminates if the Customer provides notice to iTEL in accordance with clause 16.2.
+7.5 Upon termination of this Agreement, the Customer will be provided with an invoice in relation to services used prior to termination.  This invoice must be paid within 14 days.  All prior invoices immediately become due and payable upon termination of this Agreement.
+7.6 Upon termination of this Agreement, iTEL may delete the Customer's website from iTEL's computer system or prevent access to the Customer's website.
+
+8.0	Supervisor
+8.1	The Customer must appoint one Supervisor.
+8.2	In relation to the Customer's service, iTEL will only accept instructions from the Supervisor.
+8.3	The Customer may change its Supervisor at any time by written notice from the existing Supervisor to ITEL.
+
+9.0	Registered Users
+9.1	The Customer may nominate one or more Registered Users to access and change the Customer's website and access the Customer's email service.
+9.2	Each Registered User must be a natural person.
+9.3	Each Registered User must be associated with the Customer, for example, as a principal, owner, employee or contractor of the Customer.
+9.4 Each Registered User of the Customer will have:
+* a User ID and initial password; and
+* if e-mail is provided by iTEL as part of the service requested by the Customer, an e-mail address and mailbox.
+9.5 The Customer and each Registered User are responsible for maintaining the secrecy of their passwords.
+9.6 All access to and use of any iTEL services under a User ID and password will be assumed to be access and use by the Registered User to whom the User ID has been allocated.
+9.7 The Customer and its Registered Users must not permit another person to access iTEL's service using a User ID allocated to a Registered User of the Customer.
+9.8 The Customer is responsible for all usage fees, and use and misuse of an iTEL service, by any person using a User ID allocated to a Registered User of the Customer.
+
+10.0	Use of iTEL's Services
+10.1	The Customer and each Registered User must use iTEL's services in a responsible, cooperative and professional manner.
+10.2	The Customer is responsible for the content contained on the Customer's website.  iTEL does not exercise editorial control over the Customer's website.
+10.3 The Customer is responsible for obtaining and maintaining the equipment and telephone services necessary to access and use any of iTEL's services and for any telephone charges associated with connecting to any iTEL services.
+10.4 The Customer cannot resell, on-sell or on-provide iTEL's services to third parties.  For example, the Customer may not "sub-host" another's website as part of the Customer's website or using iTEL's services.
+
+
+
+10.5 The following are Prohibited Acts:
+* using  iTEL's service for any illegal purpose;
+* tampering with, hindering the operation of or making unauthorised modifications to iTEL's service (other than the Customer's own website in the normal use and operation of the website);
+* deleting another's data from  iTEL's service without permission;
+* knowingly transmitting a computer virus, worm or disabling feature to ITEL, to another iTEL customer or via iTEL's service;
+* using iTEL's service to access another's computer system without permission;
+* using iTEL's service to publish, transmit or store any communication or data that is defamatory, obscene, sexually explicit, abusive or violates any federal, state or local law or regulation;
+* using iTEL's service to engage in misleading or deceptive marketing practices;
+* use iTEL's service to conduct or promote a business that is illegal;
+* using iTEL's service to copy, store, distribute or transmit any work in violation of another's copyright, trade mark or moral rights;
+* using iTEL's service to host a website for a third party;
+* using iTEL's service to spam another or to send bulk email;
+* using another's User ID or password to access iTEL's service without permission; and
+* while using iTEL's service, impersonating another person or entity.
+10.6 An attempt to do a Prohibited Act is a Prohibited Act.
+10.7 Knowingly permitting another to do a Prohibited Act is a Prohibited Act.
+10.8 The Customer must not do any Prohibited Acts.
+10.9 The Customer must instruct all the Customer's Registered Users not to do any Prohibited Acts.  The Customer is responsible if any of the Customer's Registered Users (or any person using the User ID allocated to a Registered User of Customer) does any Prohibited Act.
+10.10 The Customer and each Registered User agree to notify iTEL if the Customer or the Registered User become aware that another person has obtain unauthorised access to a Registered User's password, or if there is a threat to the security or proper operation of iTEL's service.
+
+11.0	Suspension and Cancellation of Service
+11.1	The Customer may cancel a Base Hosting Package or Optional Service by notifying iTEL in writing.
+
+
+11.2	Without limiting iTEL's right to terminate under clause 7.3, iTEL may suspend or cancel an iTEL service, delete the Customer's website from iTEL's computer system, or prevent access to the Customer's website, if:
+* there is an emergency;
+* the Customer does not pay an invoice on time;
+* the Customer becomes bankrupt, insolvent or has a receiver, manager or liquidator appointed;
+* the Customer's or a Registered User's use of iTEL's service interferes with the proper operation of ITEL;
+* the Customer breaches this Agreement;
+* iTEL believes (whether this belief is reasonable or not) Customer or a Registered User of Customer have performed or are attempting to perform a Prohibited Act; 
+* iTEL believes (whether this belief is reasonable or not) that the Customer's website infringes or may infringe another's intellectual property rights, is defamatory, or may involve iTEL in a legal dispute;
+* the Customer brings legal action against ITEL;
+* the Customer's level of use of iTEL's service is significantly greater than normal; or
+* required to do so by law or a court order.
+11.3 If the Base Hosting Package is cancelled or suspended pursuant to clause 11.2, then all the Customer's Optional Services will be cancelled or suspended.
+11.4 iTEL may temporarily suspend an iTEL service if necessary to allow iTEL to perform maintenance of iTEL's hardware or software.  In doing so, iTEL will attempt to give the Customer prior notice of the suspension and will attempt to minimise inconvenience to the Customer.
+
+12.0	Ownership
+12.1	iTEL and its respective suppliers retain ownership of all software and data provided by iTEL to the Customer, including all intellectual property rights therein.
+12.2 iTEL has no ownership rights in the Customer's website.
+12.3 The Customer warrants that the Customer's website does not and will not infringe the intellectual property rights of any other person.
+12.4 Without limiting clause 15.1, the Customer indemnifies, will defend and hold iTEL harmless from any claim, action, loss, damage, expense, or cost (including all legal costs and fees) arising out of or resulting from any claimed or actual intellectual property infringement by the Customer or relating to the Customer's website.
+
+13.0	Addresses and Domain Names
+13.1	Each iTEL e-mail address or iTEL web address (sub-domain) allocated by iTEL to a Customer or selected by the Customer remains the property of ITEL.  Customer obtains no ownership rights or goodwill in any such address.
+13.2 iTEL may require the Customer to change an iTEL e-mail or web address selected by the Customer.
+13.3 Subject to technical limitations, use of an iTEL e-mail address may be transferred to another Customer upon consent of the Customer associated with the e-mail address.
+
+14.0	Limitation of Liability
+14.1	This clause limits iTEL's liability in relation to this Agreement.  Please read it carefully.
+14.2	To the maximum extent permitted by law, in relation to a service provided under this Agreement to the Customer, iTEL's liability to the Customer is limited to:
+* at iTEL's option, resupplying the service; or
+* at iTEL's option, paying for the resupply of the service.
+14.3 To the maximum extent permitted by law, iTEL is not liable to Customer or any Registered User:
+* for anything iTEL does or fails to do in relation to this Agreement; and
+* for any loss or damage, whether direct or indirect or consequential, including time, money, good will, lost profits, damage to or loss of data, or damage to hardware or software, which may arise from the use, operation, maintenance or failed use of  iTEL's service or which may arise from delays, defects, errors, omissions or interruptions in iTEL's service.
+14.4 iTEL does not warrant the quality, accuracy or fitness for any particular purpose of an iTEL service.
+14.5 Due to technology, iTEL does not warrant that the Customer's website will be accessible at all times or that any of iTEL's service will be uninterrupted or error free.
+14.6 The Customer is responsible for obtaining, installing and operating the hardware and software to use and access iTEL's services.
+14.7 The Customer is responsible for the creation and modification of the Customer's website.
+14.8 The Customer is responsible for all approvals, consents and permissions necessary in relation to the Customer's website.
+14.9 The Customer acknowledges that iTEL's services are provided in part using third party services and products.  If iTEL use of such third party services or products is restricted or interrupted, then this may effect the provision of iTEL's services to the Customer.  iTEL is not liable to the  Customer if this occurs.
+14.10 iTEL does not own or control the Internet and is not responsible for Internet problems, faults or delays.
+
+
+15.0 Indemnification
+15.1	The Customer indemnifies, will defend and hold iTEL harmless from any claim, action, loss, damage, expense, or cost (including all legal costs and fees) arising out of or resulting from:
+* any action of, representation made by or conduct of the Customer;
+* the storage, transmission, display, operation, failed operation or publication of the Customer's website, including the content and information provided on the Customer's website;
+* any breach of this Agreement by the Customer;
+* any Prohibited Acts of the Customer or the Customer's Registered Users; or
+* access to or use of an iTEL service by the Customer or the Customer's Registered Users. 
+
+16.0 Variation
+16.1	The current version of this Agreement, the Terms of Use for each Optional Service and associated Price Lists are available on-line at http://www.itel.net.
+16.2 iTEL may vary the terms of this Agreement by written notice to the Customer.  If the Customer objects to the change in terms, the Customer must notify iTEL in writing within 7 days and cease using all services provided under this Agreement.
+16.3 If iTEL changes the details or pricing for a Base Hosting Service or Optional Service not used by the Customer or if the change will not effect the Customer, iTEL needs not to notify the Customer.
+
+17.0 Notices
+17.1	Written notice may be given by iTEL to the Customer by: 
+* mail to the Customer address set out on the Agreement Details form;
+* by email to the Customer email address set out on the Agreement Details form; or
+* by fax to the Customer fax number set out on the Agreement Details form.
+17.2 The Customer may change the Customer's address, email or fax details by providing written notice to ITEL.
+17.3 Written notice may be given by the Customer to iTEL only by e-mail to the following e-mail address:
+* helpdesk@itel.net
+
+18.0 Taxes and GST
+18.1 The Customer must pay any GST payable on the supply of iTEL's services when required by ITEL.
+18.2 The Customer must pay to iTEL any additional amount which iTEL determines represents any GST payable by iTEL for which iTEL is not entitled to an input tax credit.
+18.3 "GST" means any goods and services tax or any similar tax which may be imposed in Australia and have application to the supply of iTEL's services.  If payable, it will be calculated by multiplying the amount payable for this supply by the prevailing GST rate.
+19.0 Miscellaneous
+19.1 iTEL is not liable for any failure to comply with this Agreement if that failure is caused by an act beyond iTEL's reasonable control.
+19.2 The Customer may not transfer this Agreement or any service provided under this Agreement without iTEL's prior written consent.  iTEL may assign this Agreement to a third party without the Customer's consent.
+19.3 Cancellation or suspension of the Base Hosting Package or any Optional Services does not effect the provisions of this Agreement regarding limitation of liability and indemnity.
+19.4 The Customer may not set-off any claim against amounts payable to ITEL.
+19.5 iTEL may, but is under no obligation to, monitor the Customer's website (including non-public sections) to ensure compliance with this Agreement and for any other reason considered appropriate by ITEL.
+19.6 The Customer expressly permits and authorises iTEL to furnish to the Customer, electronically or by any other means selected by iTEL, information prepared by iTEL or by (or on behalf of) other entities, including advertising information and solicitations. 
+19.7 No terms are implied into this Agreement.  The only warranties and representations made by iTEL are those set out in this Agreement.
+19.8 iTEL is willing to enter into this Agreement only if the Customer accepts all the terms of this Agreement.
+19.9 If there is an express inconsistency between this document and a Schedule or Price List, then the Schedule or Price List will prevail.
+
+20.0 Definitions
+21.0	Some of the terms used in this Agreement are defined in the Agreement Details form at the front of this Agreement.  The following additional terms are defined:
+* "Agreement" includes the Schedules, Terms of Use for Optional Services and Price Lists.
+* "iTEL" refers to iTEL Community Telco Limited and its wholly owned subsidiary Global Info Links Pty Ltd (GIL).
+* "Customer's website" is the website hosted by iTEL pursuant to this Agreement, and includes all data and programs stored by the Customer on iTEL's computer system.
+* "iTEL's service" is a service provided by iTEL to the Customer in accordance with this Agreement.
+* "Price List" is the current price list or lists published by iTEL on its website for the services provided to Customer by ITEL.
+* "Registered User" is a person nominated in accordance with clause 9.1.
+
+Schedule A - E-Business Package
+Description Price(a) Establishment Fee (once-off)		$ 55.00(b) Monthly Charge: includes Zeus Virtual Web Server (Unix or NT); statistics; shared and local cgi-bin access; MS Access Database Support; shared SSL access; FTP/Frontpage; Server-side scripting: ASP#, VBScript#, JavaScript, Perl, PHP3; 20 Mb storage; 750 Mb bandwidth from site; 1 virtual mail server; 5 mailboxes; 25 email addresses$ 35.00(c) (i)Extra Storage (charged per Mb/per month) - cgi/web content and private directories$ 5.50(c) (ii) Storage Web Log Files (5 Mb allocation, charged $0.11cents/Mb additional)$ 0.11(d) Extra megabtyes of bandwidth outbound (charged per Mb)$ 0.25(e) Extra Mailbox with 5 addresses (per month)$ 5.50Schedule B - E-Trade
+DescriptionPrice(a) Establishment Fee (once-off)	$ 50.00(b) Monthly Charge: includes Zeus Virtual Web Server (Unix or NT); statistics; shared and local cgi-bin access; MS Access/MSSQL/MySQL Database Support; shared SSL access; FTP/Frontpage; Server-side scripting: ASP#, VBScript#, JavaScript, Perl, PHP3; 50 Mb storage; 1 Gb bandwidth from site; 1 virtual mail server; 15 mailboxes; 75 email addresses$ 55.00(c) (i) Extra Storage (charged per Mb/per month) - cgi/web content and private directories (more than 10 Mb priced on application)$ 5.50(c) (ii) Storage Web Log Files (5 Mb allocation, charged $0.11cents/Mb additional)	$ 0.11(d) Extra megabtyes of bandwidth outbound (charged per Mb)$ 0.25(e) Extra Mailbox with 5 addresses (per month)$ 5.50Schedule C - E-Com
+DescriptionPrice(a) Establishment Fee (once-off)$ 55.00(b) Monthly Charge: includes Zeus Virtual Web Server (Unix or NT); statistics; shared and local cgi-bin access; shared SSL access; Private FTP Server; Frontpage 2000 Server Extensions (NT Only); Frontpage 98 Server Extensions (Unix Only); 100 Mb storage; 1.5Gb bandwidth from site; 1 virtual mail server; 20 mailboxes; 100 email addresses; 3 mailing lists (up to 1000 email addresses each); MS Access/MSSQL/MySQL Database Support; Multiple Site Access permissions; Server-side scripting: ASP#, VBScript#, JavaScript, Perl, PHP3; Unlimited products on Elatro "E-Shop" Online Catalogue w/ Shopping Cart; Banner Ad management scripts; $ 80.00(c) (i) Extra Storage (charged per Mb/per month) - cgi/web content and private directories (more than 10 Mb priced on application)$ 5.50(c) (ii) Storage Web Log Files (5 Mb allocation, charged $0.11cents/Mb additional)$ 0.11(d) Extra megabtyes of bandwidth outbound (charged per Mb)$ 0.25(e) Extra Mailbox with 5 addresses (per month)$ 5.50Schedule D - E-Non-Profit
+DescriptionPrice(a) Establishment Fee (once-off)$ 20.00(b) (i) Monthly Charge: Virtual Web Server (Unix or Windows),10 Mb Storage, MS Access database support (NT Only, 1 DSN supplied), Live statistics, 750 Mb bandwidth outbound per month, Shared & Local cgi-bin access, Shared SSL access, FrontPage Server Extensions, Server-side scripting: ASP, Perl, PHP, 1 mailbox, Unlimited email addresses/Aliases, 1 virtual mail server
+(b) (ii) Annual Charge$ 25.00
+
+
+
+
+$235.00(c) Extra Storage (charged per Mb/per month) - cgi/web content and private directories (more than 10 Mb priced on application)$ 5.50(d) Extra megabtyes of bandwidth outbound (charged per Mb)$ 0.27(e) Extra Mailbox with 5 addresses (per month)$ 5.50Schedule E - E-Education
+DescriptionPrice(a) Establishment Fee (once-off)$ 55.00(b) Annual Charge: Virtual Web Server (Unix or Windows),  250 Mb Storage, Database access (SQL), Live statistics, 1000 Mb bandwidth outbound per month, Shared & Local cgi-bin access, Shared SSL access, FrontPage Server Extensions, Server-side scripting: ASP, Perl, PHP, 200 mailboxes, Unlimited email, Addresses/Aliases. 1 virtual mail server, Bulletin Board/Forum, 1 Mailing List (up to 1000 members)$960.00
+
+
+
+(c) Extra Storage (charged per Mb/per month) - cgi/web content and private directories (more than 10 Mb priced on application)$ 5.50(d) Extra megabtyes of bandwidth outbound (charged per Mb)$ 0.27(e) Extra Mailbox with 5 addresses (per month)$ 5.50Schedule G - E-Gov 
+DescriptionPrice(a) Establishment Fee (once-off)$ 250.00(b) Monthly Charge:  Virtual Web Server (Unix or Windows), 1000 Mb Storage, Database access (SQL), Live statistics, 2000 Mb bandwidth outbound per month, Shared & Local cgi-bin access, Shared SSL access, FrontPage Server Extensions, Server-side scripting: ASP, Perl, PHP, 100 mailboxes, 1 virtual mail server, Bulletin Board/Forum, 1 Mailing List (up to 1000 members)
+(b) (ii) Annual Charge$290.00
+
+
+
+
+$3000.00(c) Extra Storage (charged per Mb/per month) - cgi/web content and private directories (more than 10 Mb priced on application)$ 5.50(d) Extra megabtyes of bandwidth outbound (charged per Mb)$ 0.27(e) Extra Mailbox with 5 addresses (per month)$ 5.50Schedule H - E-Park
+DescriptionPrice(a) Establishment Fee$20(b) Annual Charge: allows a customer to "park" their domain until such time as they are ready to utilize it.$ 60.00Schedule I - E-Mail  
+DescriptionPrice(a) Establishment Fee$20(b) Monthly Charge: includes 1 'parked' domain; 1 virtual mail server; 5 mailboxes and 25 aliases; 10 Mb storage/per mail box; auto forwarders/responders.   $ 15.00 
+# - NT only
+All Prices listed are inclusive of GST
+
+iTEL Community Telco Ltd - Web Hosting Services Agreement V1.2 WH 120407				Page 2
+
+
+
+11/03/03								Page 12
+

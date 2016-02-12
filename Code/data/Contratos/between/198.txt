@@ -1,0 +1,1124 @@
+
+
+
+AGREEMENT
+
+between
+
+COMMONWEALTH OF AUSTRALIA
+as represented by the Department of Health and Ageing
+ABN 83 605 426 759   
+
+
+and
+
+
+INSERT NAME OF ORGANISATION 
+ABN insert number
+
+
+
+
+
+
+
+
+
+
+
+
+ TABLE OF CONTENTS
+1.	Definitions and interpretation	1
+1.1	1.1 Definitions	1
+1.2	1.2 Interpretation	6
+2.	Term of the Agreement	7
+3.	Planning, design and Approvals	7
+3.1	3.1 Project Budget and Project Plan	7
+3.2	Design of the Works	8
+3.3	Project Documents	9
+3.4	Approvals	9
+4.	Conduct of the Project	9
+4.1	4.1 Obligation to perform the Project	9
+4.2	Performance of the Works	10
+4.3	Specified Personnel Positions	10
+4.4	Commencement of the Works	11
+4.5	Subcontracting	11
+4.6	Inspection of Works	12
+4.7	Not used	12
+4.8	Variations to the Works	12
+4.9	Practical Completion of the Works	13
+4.10	Date for Practical Completion	13
+4.11	Defects after Practical Completion	13
+5.	Assumption of risks for the Works	14
+5.1	5.1 Responsibility for the Project	14
+5.2	5.2 Acceptance of risk	14
+6.	The Property	14
+6.1	6.1 Performing the Project	14
+6.2	6.2 The Property	14
+6.3	Tenure	14
+6.4	Securities in relation to the Property	15
+6.5	Financial securities	15
+6.6	Other securities	16
+6.7	No encumbrances	17
+7.	Designated Use	18
+7.1	Use and condition of the Property and the Works for the Designated Use	18
+7.2	Repayment Amount	18
+7.3	Organisation's acknowledgement	19
+7.4	Accreditation, registration and licensing	19
+8.	The Funding	19
+8.1	8.1 Payment of the Funds	19
+8.2	Use of the Funds	20
+8.3	Amounts of Funds	20
+8.4	Sufficiency of amounts	20
+9.	Management of Funds	20
+10.	Other Contributions	21
+11.	Records, Reports and Acquittals	21
+11.1	11.1 Records and accounts	21
+11.2	Organisation must keep records	21
+11.3	Provision of records to the Commonwealth	22
+11.4	Financial records	22
+11.5	Reports	22
+11.6	Audits	23
+11.7	Acquittals	23
+11.8	Retention of records and information	23
+11.9	Participation in evaluations and analysis of the Project	23
+12.	Liaison	23
+12.1	Commonwealth's Project Contact	23
+12.2	Provision of information	24
+13.	Access to premises and records	24
+13.1	Access to records and Materials	24
+13.2	Access to hardware and software	24
+13.3	Costs	24
+13.4	Auditor-General, Ombudsman and Privacy Commissioner	25
+13.5	Application of this clause	25
+13.6	Subcontracts	25
+14.	Project Material and Intellectual Property	25
+14.1	Ownership rights in Project Material	25
+14.2	Licensing of rights in Reports	25
+14.3	Licensing of rights in other Project Material	25
+14.4	Project Material	25
+14.5	Intellectual Property warranty	26
+14.6	Commonwealth Material	26
+14.7	Moral Rights	26
+15.	Acknowledgement and Publications	26
+16.	Assets	27
+16.1	Purchasing of Assets	27
+16.2	Use of Assets	27
+16.3	Obligations in relation to Assets	27
+16.4	Disposal of Assets	27
+16.5	Interest	28
+17.	Step in rights	28
+17.1	Rights to step in	28
+17.2	Organisation's obligations on step in	28
+18.	Suspension and termination	30
+18.1	Termination for default	30
+18.2	Liability of the Commonwealth	31
+18.3	Dealing with Funds on termination	31
+18.4	Deemed termination for convenience	31
+19.	Repayment of Funds	31
+19.1	19.1 Repayment of Funds	31
+19.2	Failure to repay Funds	32
+20.	Indemnities	32
+20.1	20.1 Organisation agrees to release and indemnify the Commonwealth	32
+20.2	Proportional reduction of liability	33
+20.3	Commonwealth's right to be indemnified is additional to other rights	33
+20.4	Definition of fault	33
+21.	Insurance	33
+21.1	21.1  Obligation to take out and maintain insurance	33
+21.2	Copies of insurance	34
+21.3	Proceeds of Insurance	35
+22.	Confidential Information	35
+22.1	22.1 Organisation not to disclose	35
+22.2	22.2 Commonwealth disclosure	35
+23.	Personal Information	36
+23.1	23.1 When does this clause apply?	36
+23.2	23.2 Other definitions relating to Personal Information	36
+23.3	23.3 Organisation's obligations about Personal Information	36
+23.4	Subcontractors	36
+24.	Compliance with Laws and policies	36
+24.1	24.1 Obligations	36
+24.2	BCII Act and OHS Accreditation Scheme	36
+25.	Disputes	38
+25.1	25.1 Dispute resolution	38
+25.2	25.2 When clause 25.1 does not apply	39
+25.3	25.3 Obligations continue	39
+26.	Taxes, duties and government charges	40
+26.1	26.1 Definitions	40
+26.2	26.2 Responsibility for Taxes	40
+26.3	26.3 Funds includes GST	40
+26.4	26.4 Input Tax Credits	40
+26.5	Tax Invoice	40
+27.	General	40
+27.1	27.1 Notices	40
+27.2	27.2 Survival of provisions	40
+27.3	27.3 Jurisdiction	41
+27.4	Entire Agreement	41
+27.5	27.5 Variation and Waiver	41
+27.6	27.6 Illegality	41
+27.7	27.7 Novation and assignment	42
+27.8	27.8 Negation of employment, partnership and agency	42
+27.9	27.9 Management of Conflicts	42
+28.	Organisation to comply with all special conditions	42
+29.	Warranties and representations	42
+Schedule 1 Particulars	45
+
+This Agreement is made on 
+between
+COMMONWEALTH OF AUSTRALIA (the Commonwealth), as represented by the Department of Health and Ageing ABN 83 605 426 759 
+and
+INSERT NAME OF ORGANISATION
+ABN insert number (the Organisation)
+
+RECITALS
+A. The Commonwealth is providing financial support through insert title of Program.
+B. The insert title of Program is funding insert brief description of the Program and its strategic objectives.  
+C. The Organisation is committed to helping to achieve the Program Objectives and the Project Aim through the conduct of the Project.
+D. The Organisation has been approved to receive funding from the Commonwealth to carry out the Project on the terms and conditions set out in this Agreement. In particular, the Commonwealth is providing the Funds to the Organisation to assist with insert details for which the funding will be used, e.g the purchase of a Property, the construction of a new building on the Property, or the refurbishment and fit-out of an existing building on the Property. 	
+E. In consideration of the Commonwealth providing the Funds to the Organisation, the Organisation has agreed to perform the Project in accordance with the terms and conditions of this Agreement.
+
+OPERATIVE PROVISIONS 
+
+1. Definitions and interpretation
+1.1 1.1	Definitions
+In this Agreement, unless the contrary intention appears:
+ Accounting Standards has the same meaning as it has in sections 9 and 334 of the Corporations Act 2001, and refers to the accounting standards made by the Australian Accounting Standards Board;
+ Agreement means this document and includes any Schedules or annexures;
+ Approval includes any consent, authorisation, registration, filing, agreement, notification, certificate, permission, licence, approval, permit, authority or exemption issued by, from or with any Proper Authority;
+ Approved Auditor means:
+(a) a company auditor under the Corporations Act 2001 or a member of the Institute of Chartered Accountants in Australia, CPA Australia, or the National Institute of Accountants; 
+(b) acting in a professional capacity as an auditor; and
+(c) not a principal, officer or employee of the Organisation;
+ Asset means:
+(a) the items identified in Item 11 of Schedule 1 (if any); and
+(b) any item of tangible property purchased or leased either wholly or in part with the use of the Funds, that is not a fixture, with a value at the time of acquisition of five thousand dollars ($5,000) or more, excluding GST, 
+ but does not include the Property or the Works; 
+ Audit means an audit carried out by the Approved Auditor in accordance with the Auditing Standards;
+ Auditor-General means the office established under the Auditor-General Act 1997 and includes any other person that may, from time to time, perform the functions of that office; 
+ Auditor's Report has the same meaning it has in the Auditing Standards;
+ Auditing Standards has the same meaning as it has in sections 9 and 336 of the Corporations Act 2001, and refers to the auditing standards made by the Australian Auditing and Assurance Standards Board;
+ Bank means an "authorised deposit-taking institution" as that term is defined in the Banking Act 1959;
+ BCII Act means the Building and Construction Industry Improvement Act 2005;
+ Business Day means, in relation to the doing of any action in a place, any day other than a Saturday, Sunday, or public holiday in that place;
+ Certificate of Occupancy means a certificate issued by the Proper Authority that provides such certificates confirming that the relevant Works comply with all relevant Laws, Approvals and other requirements and are fit for the purpose of occupancy and use for the Designated Use;
+ Code means the National Code of Practice for the Construction Industry 1997.  The Code can be downloaded from deewr.gov.au/building; 
+ Code Monitoring Group has the same meaning as is given to that term in the Implementation Guidelines;
+ Committed means expected expenditure backed by an agreement;
+ Commonwealth means the Commonwealth of Australia represented by the Department;
+ Commonwealth Material means any Material:
+(a) provided by the Commonwealth to the Organisation for the purposes of this Agreement; or
+(b) copied or derived at any time from the Material referred to in paragraph (a); 
+ Commonwealth Project Contact means the Commonwealth person or position holder specified in Item 7 of Schedule 1; 
+ Completion Date means the date specified in Item 3.3 of Schedule 1; 
+ Confidential Information means information of, or provided by, the Commonwealth that:
+(a) is by its nature confidential; 
+(b) is designated by the Commonwealth as being confidential; or
+(c) the Organisation knows or ought to know is confidential,
+ but does not include information which:
+(d) is or becomes public knowledge, other than by breach of this Agreement or by any other unlawful means; 
+(e) is in the possession of the Organisation without restriction in relation to disclosure before the date of receipt from the Commonwealth; or
+(f) has been independently developed or acquired by the receiving Party;
+ Conflict means any circumstance in which the Organisation or any of the Organisation's officers, employees, agents or subcontractors has an interest (whether financial or non-financial) or an affiliation that is affecting, will affect, or could be perceived to affect, the Organisation's ability to perform the Project, or its obligations under this Agreement, fairly and independently;
+ Date for Practical Completion means the date specified in Item 3.2 of Schedule 1 by which the Organisation must achieve Practical Completion of the Works;
+ Date of this Agreement means the date this Agreement is executed by the Parties and, if executed on separate days, the date on which this Agreement is executed by the last Party to do so;
+ Department means the Commonwealth Department of Health and Ageing or such other department or agency as may be responsible from time to time for the administration of this Agreement;
+ Depreciation has the same meaning as it has in Australian Accounting Standard AASB 116 Property, Plant and Equipment (as amended); 
+ Designated Use means the designated use specified in Item 4.2 of Schedule 1;
+ Designated Use Period means the period specified in Item 4.1 of Schedule 1;
+ Dispose means to sell, mortgage or encumber, lease or sub lease, license or sub-license, assign or otherwise transfer or give up ownership or the right to occupy or use, or to enter into an agreement to do any of the preceding acts;
+ Financial Report means a financial report relating to the Organisation's receipt, retention and expenditure of the Funds including, at a minimum:
+(a) a balance sheet, an income statement and a cash flow statement in relation to the Funds;
+(b) a statement identifying any Funds paid by the Commonwealth to the Organisation under this Agreement that were not spent or Committed by the end of the relevant financial year during the Term of this Agreement;
+(c) a detailed statement of revenue and expenditure in relation to the Funds received and receivable by the Organisation under this Agreement, which must include a definitive statement as to whether the Organisation's financial accounts in relation to the Funds are complete and accurate, and a statement of the balance of the bank account referred to in clause 9; and
+(d) notes, comprising a summary of significant accounting policies and other explanatory notes that are relevant to the Funds,  
+ prepared in accordance with the Accounting Standards for the relevant financial year and audited by an Approved Auditor;
+ Funds means the amount payable by the Commonwealth under this Agreement and includes any interest earned on the Funds;  
+ Implementation Guidelines means the Australian Government Implementation Guidelines for the National Code of Practice for the Construction Industry August 2009.  The Implementation Guidelines can be downloaded from deewr.gov.au/building;, 
+ Intellectual Property means all copyright (including all rights in relation to phonograms and broadcasts), all rights in relation to inventions (including patent rights), plant varieties, registered and unregistered trademarks (including service marks), registered and unregistered designs, circuit layouts and all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields;
+ Interest means interest calculated at the 90 day bank-accepted bill rate (available from the Reserve Bank of Australia) less 10 basis points;
+ Law means any applicable statute, regulation, by-law, ordinance or subordinate legislation in force from time to time anywhere in Australia, whether made by a State, Territory, the Commonwealth, or a local government, and includes the common law as in force from time to time;
+ Material includes documents, records, software (including source code and object code), goods, information and data stored by any means including all copies and extracts of the same; 
+ Milestone means a milestone set out in the Milestone Schedule;
+ Milestone Schedule means the milestone schedule set out in the table in Item 6.2 of Schedule 1;
+ Minister means the Commonwealth minister from time to time responsible for the Department;
+ Minister for Education, Employment and Workplace Relations means the Commonwealth minister from time to time responsible for the Commonwealth Department of Education, Employment and Workplace Relations or such other department or agency as may be responsible from time to time for the administration of the Code and the Implementation Guidelines;
+ Moral Rights has the meaning given under the Copyright Act 1968; 
+ OHS Accreditation Scheme means the OHS accreditation scheme established by the Building and Construction Industry Improvement (Accreditation Scheme) Regulations 2005;
+ Ombudsman means the office established under the Ombudsman Act 1976 and includes any other person that may, from time to time, perform the functions of that office; 
+ Organisation Project Contact means the Organisation person or position holder  specified in Item 7 of Schedule 1; 
+ Party means a party to this Agreement;
+ Personal Information means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about a natural person whose identity is apparent, or can reasonably be ascertained, from the information or opinion;
+ Practical Completion occurs when the requirements of clause 4.9 have been met;
+ Privacy Act means the Privacy Act 1988;
+ Privacy Commissioner means the office established under the Privacy Act and includes any other person that may, from time to time, perform the functions of that office; 
+ Program means the program referred to in Recitals A and B of this Agreement;
+ Program Objectives means the program objectives described in Item 1.3 of Schedule 1 and as set out in the Health and Hospitals Fund Funding Application and Assessment Guidelines (as amended from time to time) as published by the Department; 
+ Project means the project described in Item 1.1 of Schedule 1 and includes carrying out the Works; 
+ Project Aim means the specified intended impact or result of the Project, including the objectives and outcomes of the Project, as specified in Item 1.2 of Schedule 1;
+ Project Budget means the budget detailing how the Organisation will expend the Funds, and identifying the Organisation's contributions and other contributions (if any) and the proposed expenditure of such amounts for the purposes of conducting the Project and otherwise performing obligations under this Agreement; 
+ Project Documents means all plans, drawings and other information relating to the Project and the Works that are brought into existence by or on behalf of the Organisation under or in connection with this Agreement or otherwise relating to the Project or the Works, including those documents identified in Item 1.4 of Schedule 1; 
+ Project Manager means an independent, suitably qualified project manager engaged by the Organisation to supervise all construction works (including the Works) who is not a principal, an employee or an officer of the Organisation; 
+ Project Material means all Material including Reports:
+(a) brought into existence for the purpose of performing the Project, including all Project Documents;
+(b) incorporated in, supplied or required to be supplied along with the Material referred to in paragraph (a); or 
+(c) copied or derived from the Material referred to in paragraphs (a) or (b);
+ Project Parties means all contractors, subcontractors, consultants and employees who perform work on site in relation to the Works;
+ Project Plan means the project plan detailing how the Organisation will conduct and complete the Project in accordance with this Agreement, including timeframes for completion of various stages of the Project;   
+ Proper Authority includes any ministry, department, government, governmental or semi-governmental authority, agency, instrumentality, council, corporation or other legal entity with legislative authority which has jurisdiction or authority over or in connection with this Agreement, the Works, the Project, the Property or the Designated Use;
+ Property means the property on which the Works are to be undertaken that is detailed in Item 2 of Schedule 1 and includes the land, and any buildings, fixtures and other improvements on the land, but does not include items that would be regarded as fittings or chattels at Law;
+ Reports means the reports that the Organisation is required to produce and provide to the Commonwealth in accordance with clause 11.3 and Item 5 of Schedule 1; 
+ Specified Personnel Position means a position identified in Item 8 of Schedule 1; and
+ Term of this Agreement has the meaning given in clause 2; and
+ Works means that part of the Project which relates to the design, construction, modification, expansion, refurbishment or fit-out (as the case may be) and related activities at the Property, as contemplated by the Project Plan accepted in accordance with clause 3.1 and also as described in Item 1.1 of Schedule 1.
+1.2 1.2	Interpretation
+In this Agreement, unless the contrary intention appears:
+(a) headings are for convenience only and do not affect interpretation;
+(b) person includes an individual, the estate of an individual, a corporation, an authority, an association or a joint venture (whether incorporated or unincorporated), a partnership and a trust;
+(c) a reference to a Party includes that Party's executors, administrators, successors and permitted assigns, including persons taking by way of novation and, in the case of a trustee, includes a substituted or an additional trustee;
+(d) a reference to a document (including this Agreement) is to that document as varied, novated, ratified or replaced from time to time;
+(e) a reference to a statute includes its delegated legislation and a reference to a statute or delegated legislation or a provision of either includes consolidations, amendments, re-enactments and replacements;
+(f) a word importing the singular includes the plural (and vice versa), and a word indicating a gender includes every other gender;
+(g) a reference to a clause, exhibit, attachment or annexure is a reference to a clause, exhibit, attachment or annexure to or of this Agreement;
+(h) a reference to Schedule or Recital is to a schedule or recital to or of this Agreement;
+(i) if a word or phrase is given a defined meaning, any other part of speech or grammatical form of that word or phrase has a corresponding meaning;
+(j) includes in any form is not a word of limitation;
+(k) a reference to $ or dollar is to Australian currency; and
+(l) no provision of this Agreement is to be interpreted to the disadvantage of a Party because that Party (or its representative) drafted that provision.
+2. Term of the Agreement
+This Agreement commences on the Date of this Agreement and, unless terminated earlier, expires on the Completion Date.
+3. Planning, design and Approvals
+3.1 3.1	Project Budget and Project Plan
+(a) The Organisation must submit to the Commonwealth a Project Plan and Project Budget on or before the date specified in the Milestone Schedule in Item 6.2 of Schedule 1, or if no date is specified, within 20 Business Days of the Date of this Agreement.  
+(b) The Organisation must ensure that the Project Plan and Project Budget:
+(i) have been prepared diligently, effectively and to a high professional standard;
+(ii) will, if implemented in accordance with this Agreement, ensure that all timeframes arising under this Agreement will be met and the Works will meet all requirements of this Agreement and, in particular, will be fit for the Designated Use; and
+(iii) are consistent with the Project Aim.
+(c) The Commonwealth will review the Project Plan and the Project Budget submitted under clause 3.1(a) and notify the Organisation that either:
+(i) the Project Plan and the Project Budget are acceptable to the Commonwealth; or
+(ii) the Project Plan or the Project Budget (or both as the case may be), in the Commonwealth's opinion, require amendment in order to meet the requirements specified in clause 3.1(b).
+(d) On receipt of notification under clause 3.1(c)(ii), the Organisation must amend the Project Plan and the Project Budget so as to take into account the Commonwealth's comments and resubmit those documents within 20 Business Days of the date of the Commonwealth's notification for re-consideration by the Commonwealth in accordance with clause 3.1(c).
+(e) The Organisation must perform the Project in accordance with the Project Plan and the Project Budget accepted in accordance with this clause 3.1 and must not make any amendments to the Project Plan or the Project Budget (or both as the case may be) that would substantively alter:
+(i) nature of, or the manner of completion of, the Works as provided for in the Project Plan or Project Budget (or both as the case may be); 
+(ii) amount of the Funds to be spent by the Organisation on any aspect of the Works or the nature of items on which the Funds are to be spent as provided for in the Project Budget; or
+(iii) consistency of the Project Plan or the Project Budget (or both as the case may be) with the Project Aim,
+  unless approved in writing by the Commonwealth.
+(f) For the avoidance of doubt, the Commonwealth's review of, or comment on, the Project Plan and the Project Budget do not in any way limit or affect the Organisation's obligations under this Agreement.  
+(g) To the extent of any inconsistency between:
+(i)  the Project Plan accepted in accordance with this clause 3.1 and this Agreement (including the Milestone Schedule); or
+(ii) the Project Budget accepted in accordance with this clause 3.1 and this Agreement (including the Milestone Schedule),
+this Agreement (including the Milestone Schedule) will prevail.
+3.2 Design of the Works
+The Organisation is responsible for the design of the Works and must ensure the design of the Works:
+(a) is conducted with the level of skill and care of a prudent and competent design professional;
+(b) complies with the regulatory requirements of the relevant State or Territory and local government in the jurisdiction in which the Works are to be conducted;
+(c) will ensure that the Works are fit for the purpose of the Designated Use on and from the Date for Practical Completion, and throughout the Designated Use Period; and
+(d) will ensure that a Certificate of Occupancy will be issued in respect of the Works on their completion.
+3.3 Project Documents
+(a) The Organisation must develop, prepare and maintain copies of all documents necessary to complete the Works in accordance with this Agreement, including all documents that would be prepared by a prudent and competent design professional, in order to ensure the Works are, on completion, fit for use for the Designated Use, throughout the Designated Use Period.
+(b) The Organisation must deliver the Project Documents identified in Item 1.4 of Schedule 1 to the Commonwealth no later than the date specified in the Milestone Schedule.
+(c) Without limiting or affecting the Organisation's obligations under this Agreement, the Organisation must make copies of the Project Documents available to the Commonwealth for inspection and audit in accordance with clause 13.
+3.4 Approvals
+(a) The Organisation must obtain all Approvals for:
+(i) the construction of the Works; and
+(ii) the use of the Works for the Designated Use during the Designated Use Period,
+in accordance with this Agreement and must deliver a copy of each Approval to the Commonwealth promptly on request.
+(b) If the Works must be varied to obtain any Approval, the Organisation must notify the Commonwealth in writing of those variations and, unless the Commonwealth otherwise consents in writing, must ensure that no variation will adversely affect the Project, the Works, the Project Aim and the use of the Works for the Designated Use throughout the Designated Use Period.
+4. Conduct of the Project
+4.1 4.1	Obligation to perform the Project
+In consideration of the provision of the Funds, the Organisation must:
+(a) perform the Project in accordance with the terms and conditions set out in this Agreement;
+(b) complete each of the Milestones identified in Item 6.2 of Schedule 1 (by achieving the criteria for completion of the relevant Milestone specified in the Milestone Schedule, if any) on or before the relevant date for completion of that Milestone specified in the Milestone Schedule, with time being of the essence; and
+(c) ensure that all work undertaken under this Agreement is consistent with, and in furtherance of, the Program Objectives and the Project Aim.
+4.2 Performance of the Works	
+(a) The Organisation must:
+(i) if specified in Item 8 of Schedule 1, appoint in accordance with clause 4.3 a Project Manager to supervise the Works;
+(ii) comply with the timeframes (if any) specified in the Project Plan accepted in accordance with clause 3.1 and otherwise comply with the timeframes specified in the Milestone Schedule for completion of the Works and the Project more generally; and
+(iii) ensure that the Works are carried out:
+A. in accordance with the Approvals for the Works;
+B. in accordance with the Project Plan and Project Budget accepted in accordance with clause 3.1;
+C. in accordance with the requirements and standards of all Laws applicable to the Works;
+D. diligently, effectively and to a high professional standard; and
+E. so as to ensure that the Works will be fit for purpose of the Designated Use.
+(b) For the avoidance of doubt, to the extent of any inconsistency between the timeframes (if any) specified in the Project Plan accepted in accordance with clause 3.1 and the timeframes specified in Items 3 and 6.2 of Schedule 1, the timeframes specified in Items 3 and 6.2 of Schedule 1 will prevail.  
+4.3 Specified Personnel Positions
+The Organisation must:
+(a) promptly after the Date of this Agreement, appoint a suitably qualified person to each Specified Personnel Position;
+(b) promptly after appointment, notify the Commonwealth of the identity and qualifications of each person appointed to a Specified Personnel Position;
+(c) where requested to do so by the Commonwealth, promptly (and in all cases in the period (if any) required by the Commonwealth) replace a person occupying a Specified Personnel Position in circumstances where the Commonwealth considers it necessary to do so in order for the Organisation to properly comply with its obligations under this Agreement;
+(d) where a person ceases to perform a Specified Personnel Position for any reason, promptly notify the Commonwealth of the date of that cessation and ensure that the Specified Personnel Position is not left vacant for a period of more than 10 Business Days; and
+(e) promptly after appointment, notify the Commonwealth of the identify and qualifications of any person appointed to fill a vacant Specified Personnel Position.
+4.4 Commencement of the Works
+(a) Without limiting the Organisation's obligations under clause 4.4(b), the Organisation must not commence the Works until it has:
+(i) obtained all relevant Approvals required under clause 3.4 that are necessary to enable the commencement of the Works;
+(ii) obtained all insurances required under clause 21.1(a);
+(iii) where applicable, provided financial security to the Commonwealth in accordance with clause 6.5; and
+(iv) complied with its obligations under clause 6.3(a),
+and it has obtained written confirmation from the Commonwealth (which will not be unreasonably withheld) that the Commonwealth is satisfied that the Organisation has complied with the requirements set out in paragraphs (a) (i) to (a) (iv) (inclusive) above.
+(b) The Organisation must: 
+(i) obtain written confirmation from the Commonwealth under clause 4.4(a); and
+(ii) commence the Works, 
+on or before the date specified for the commencement of the Works in Item 3.1 of Schedule 1, with time being of the essence.
+4.5 Subcontracting
+(a) The Organisation must, promptly on request by the Commonwealth, provide details in writing of all subcontractors that the Organisation is using, or proposes to use, in relation to the conduct of the Project.
+(b) In respect of all subcontracts the Organisation must ensure that:
+(i) the subcontract facilitates compliance by the Organisation with its obligations under this Agreement;
+(ii) the subcontract will not conflict with or detract from the rights and entitlements of the Commonwealth under this Agreement;
+(iii) the other party to the subcontract is financially viable, has the necessary relevant expertise and the appropriate types and amounts of insurance to perform the work in relation to the Project;
+(iv) the subcontract contains all the relevant terms of this Agreement including those relating to subcontracting, intellectual property, audit and access, privacy, security, confidentiality, warranties and indemnities, disclosure and termination and in particular that the Organisation has or will secure itself a right to terminate the subcontract on terms no less favourable than those accorded to the Commonwealth by clause 18, in the event of this Agreement being terminated;
+(v) the other party to the subcontract acknowledges that it may be considered a 'Commonwealth service provider' for the purposes of the Ombudsman Act 1976 and subject to investigation by the Ombudsman under that Act, and that the Commonwealth will not be liable for the cost of any such investigation by the Ombudsman in connection with the subject matter of the subcontract or the subject matter of this Agreement.
+(c) If requested, the Organisation must promptly provide to the Commonwealth a copy of any subcontract.
+4.6 Inspection of Works
+(a) At all reasonable times during the construction of the Works upon giving reasonable notice and subject to the Organisation's reasonable requirements in relation to safety and security:
+(i) the Commonwealth or persons authorised by the Commonwealth may enter the Property to inspect and examine the Works; and
+(ii) the Commonwealth may give notice to the Organisation of any omission, fault or defect in the Works.
+(b) Within 10 Business Days, or such longer time as may be agreed to in writing by the Commonwealth, having regard to the nature of the omission, fault or defect, after the receipt of a notice under clause 4.6(a)(ii), the Organisation must cause all matters specified in that notice to be rectified and must notify the Commonwealth when rectification has been effected.
+(c) Despite the Commonwealth's right to inspect and examine the construction of the Works:
+(i) the Commonwealth is not obliged to check the construction of the Works for any defect, fault or omission; and
+(ii) the Organisation is not relieved of responsibility for any defect, fault or omission in respect of the Works.
+4.7 Not used
+4.8 Variations to the Works
+(a) The Organisation must notify the Commonwealth in writing of all proposed variations to the Works that would or might reasonably be expected to have an effect on:
+(i) the price of the Works;
+(ii) the timeframes for completion of the Works, including the Date for Practical Completion;
+(iii) the fitness of the Works for the purpose of the Designated Use;
+(iv) the accuracy of the Project Plan or the Project Budget accepted in accordance with clause 3.1; or
+(v) the Approvals obtained in relation to the Works.
+(b) The Organisation must not vary the Works in a manner described in clause 4.8(a) without the consent in writing of the Commonwealth, which will not be unreasonably withheld.
+4.9 Practical Completion of the Works
+In order to achieve Practical Completion:
+(a) the Works must be:
+(i) complete and free from errors, omissions and defects, except for errors, omissions or defects that:
+A. are of a minor nature;
+B. the immediate making good of which by the Organisation is not reasonably practicable;
+C. the existence of which or the making good of which by the Organisation will not significantly inconvenience users of the Property or the Works for the Designated Use; and
+D. which do not cause any legal or physical impediment to the use and occupation of the Property and the Works for the Designated Use; and
+(ii) fit for the purpose of the Designated Use;
+(b) the Organisation must have provided to the Commonwealth a copy of the Certificate of Occupancy in respect of the Works;
+(c) the Works must have been commenced to be used by or on behalf of the Organisation for the Designated Use; and
+(d) the Organisation must obtain from:
+(i) its authorised representative; and
+(ii) a suitably qualified and independent person engaged for the purposes of inspecting the Works on their completion and determining whether, in the professional opinion of that person, the Works meet the requirements set out in clauses 4.9(a)(i) and 4.9(a)(ii),
+written certification that the Works meet the requirements set out in clauses 4.9(a)(i) and 4.9(a)(ii), and provide each such written certification to the Commonwealth.
+4.10 Date for Practical Completion
+The Organisation must achieve Practical Completion of the Works on or before the Date for Practical Completion, with time being of the essence.
+4.11 Defects after Practical Completion
+The Organisation must promptly rectify any defects, faults or omissions in the Works which: 
+(a) are the exceptions referred to in clause 4.9(a)(i); or
+(b) otherwise become apparent after the Date for Practical Completion and which would, or would reasonably be expected to affect the fitness of the Works or the Property (or both as the case may be) for the purpose of the Designated Use.
+5. Assumption of risks for the Works
+5.1 5.1	Responsibility for the Project
+The Organisation is fully responsible for the performance of the Project and for ensuring compliance with the requirements of this Agreement and all Laws, and will not be relieved of that responsibility because of any: 
+(a) involvement by the Commonwealth or any third party in the performance of the Project;
+(b) payment of the Funds made to the Organisation on account of the Project; or
+(c) subcontracting of all or any part of the Works or the Project.
+5.2 5.2	Acceptance of risk
+The Organisation accepts all risks in respect of, and the Commonwealth does not accept any risk for, the conduct of the Works and the Project including all risks of, and associated with, the design, construction and commissioning of the Works, and the risk of the actual cost of the design, construction and commissioning of the Works being greater than anticipated. 
+6. The Property
+6.1 6.1	Performing the Project 
+The Organisation must perform the Project, including carrying out the Works, on the Property.
+6.2 6.2	The Property
+The Organisation must promptly provide to the Commonwealth from time to time upon request:
+(a)	details of the ownership of the Property including a title search of the Property identifying the registered proprietors of the Property; and   
+(b) details of the nature of the Organisation's tenure of the Property, certified as being true and correct by the Organisation's legal adviser.  
+6.3 Tenure
+(a) On or before the date specified in Item 6.2 of Schedule 1, or, if no date is specified, within 20 Business Days of the Date of this Agreement, the Organisation must have tenure, and must substantiate (including certify in accordance with clause 6.2(b)) to the reasonable satisfaction of the Commonwealth that it has tenure of the Property by way of fee simple, lease or otherwise, that is sufficient to enable the Organisation to undertake the Project and to comply with its obligations under this Agreement, including under clause 7. 
+(b) Without in any way limiting or affecting clause 6.3(a), where the Organisation does not own the Property, the Commonwealth may request the Organisation to arrange, and the Organisation must on receiving such a request arrange, for the owner of the Property to enter into a Use Agreement with the Commonwealth.
+(c) For the purpose of clause 6.3(b), Use Agreement means a written agreement between the Commonwealth and the owner of the Property, in which the owner of the Property agrees to the Works being undertaken on the Property and to the Property and the Works being used for the purpose of the Designated Use until the expiry of the Designated Use Period.
+(d) The Organisation agrees not to do anything during the Term of this Agreement that would give the owner of the Property the right to terminate the Organisation's tenure of the Property or the Organisation's right to use the Property and the Works for the purpose of the Designated Use for the Designated Use Period (or both as the case may be).
+(e) Notwithstanding any other clause in this Agreement, the Organisation acknowledges and agrees that it is not entitled to receive, and the Commonwealth is not obliged to pay, any part of the Funds, and, if it has been paid Funds, no Funds are to be expended by the Organisation, unless and until the Organisation has complied with clause 6.3(a). 
+(f) If the Organisation has not complied with clause 6.3(a) within the timeframes specified in the Milestone Schedule, the Commonwealth may in its absolute discretion terminate this Agreement for default in accordance with clause 18.1.
+6.4 Securities in relation to the Property
+Without in any way limiting or affecting the Organisation's obligations or the Commonwealth's rights under this Agreement or otherwise at Law or in equity, if the Organisation owns the Property, the Organisation irrevocably:
+(a) agrees that the Commonwealth has the right to register and maintain a caveat against the title of the Property, preventing dealings with the Property that the Commonwealth considers are or would be inconsistent with this Agreement, until such time as the conditions imposed under this Agreement have been fully satisfied or discharged; 
+(b) charges its rights, title and interest in and to the Property and the Works; and
+(c) agrees to sign all consents, as required by the Commonwealth to the lodgement of caveats against the title of the Property in the form required by the Commonwealth from time to time. to prevent the lapsing, or withdrawal, of any caveat.
+6.5 Financial securities
+If Item 14 of Schedule 1 specifies that the Organisation must provide a financial security, then:
+(a) on or before the date specified in Item 6.2 of Schedule 1, or, if no date is specified within 20 Business Days of the Date of this Agreement, the Organisation must provide financial security for performance of this Agreement, in the amount specified in Item 14 of Schedule 1;
+(b) the Organisation must ensure that the financial security provided under clause 6.5(a) remains valid and exercisable by the Commonwealth at all times until the Completion Date is achieved;  
+(c) the financial security must be:
+(i) unconditional;
+(ii) on terms satisfactory to the Commonwealth; and
+(iii) from a Bank acceptable to the Commonwealth;
+(d) unless clause 6.5(e) applies, the financial security will be released by the Commonwealth within 60 Business Days after the Completion Date or the earlier termination of this Agreement;
+(e) the Commonwealth may, in its absolute discretion and without limiting its rights under this Agreement or otherwise, exercise its rights under the financial security:
+(i) to obtain compensation for any loss, damage, cost, liability or expense incurred or suffered in the event that the Organisation fails to perform any or all of its obligations under this Agreement as and when they fall due, including upon termination of this Agreement under clause 18.1; or
+(ii) to recover any debts due to the Commonwealth under or in connection with this Agreement;
+(f) if the Commonwealth exercises any or all of its rights under the financial security provided under clause 6.5(a), the Commonwealth is not liable for, and the Organisation releases the Commonwealth from liability for, any resultant loss, damage, cost, expense or liability of or to the Organisation;
+(g) the rights of the Commonwealth to recover from the Organisation the balance, after draw down or exercise of any rights under the financial security provided under clause 6.5(a), of all loss, damage, cost, expense or liability incurred or suffered by the Commonwealth are not limited by the Commonwealth's exercise of any or all its rights under the financial security; and
+(h) if the Commonwealth exercises any or all of its rights under the financial security provided under clause 6.5(a), the Commonwealth may, in its absolute discretion, require the Organisation to top up that financial security to the amount specified in Item 14 of Schedule 1.
+6.6 Other securities
+If Item 14 of Schedule 1 specifies that the Organisation must provide other securities, then:
+(a) on or before the date specified in Item 6.2 of Schedule 1, or, if no date is specified, within 20 Business Days of this Agreement, the Organisation must provide the other securities for performance of this Agreement;
+(b) the Organisation must ensure that the other securities provided under clause 6.6(a) remain valid and exercisable by the Commonwealth at all times until 60 Business Days after the Completion Date is achieved;  
+(c) the Organisation must provide the other securities in the form specified in Item 14 of Schedule 1 which may be in the form of any or all of the following:
+(i) a business assets charge over the assets (including Assets) of the Organisation;
+(ii) a real property mortgage (registered or unregistered) over the Property; and
+(iii) any other form of security required by, and satisfactory to, the Commonwealth;
+(d) the other securities must be:
+(i) unconditional; and
+(ii) on terms satisfactory to the Commonwealth;
+(e) unless clause 6.6(f) applies, the other securities will be released by the Commonwealth within 60 Business Days after the Completion Date or the earlier termination of this Agreement;
+(f) the Commonwealth may, in its absolute discretion and without limiting its rights under this Agreement or otherwise, exercise its rights under any or all of the other securities:
+(i) to obtain compensation for any loss, damage, cost, liability or expense incurred or suffered in the event that the Organisation fails to perform any or all of its obligations under this Agreement as and when they fall due, including upon termination of this Agreement under clause 18.1; or
+(ii) to recover any debts due to the Commonwealth under or in connection with this Agreement; and
+(g) if the Commonwealth exercises any or all of its rights under any or all of the other securities provided under clause 6.6(a), the Commonwealth is not liable for, and the Organisation releases the Commonwealth from liability for, any resultant loss, damage, cost, expense or liability of or to the Organisation.
+6.7 No encumbrances
+The Organisation must not create or grant, or enter into any agreement to create or grant, any restrictive covenants, restriction on user, easements, encumbrances, interests, mortgages, caveats, leases or rights affecting the Property or the Organisation's interest in the Property after the Date of this Agreement, without first obtaining the written consent of the Commonwealth which will not be unreasonably withheld.
+7. Designated Use
+7.1 Use and condition of the Property and the Works for the Designated Use
+As a fundamental condition of this Agreement, the Organisation undertakes:
+(a) for the Designated Use Period:
+(i) to use the Property and the Works, or to ensure the Property and the Works, are used for the Designated Use; 
+(ii) to ensure the Property and the Works are not left unused or unoccupied for a period in excess of four weeks without first obtaining the written consent of the Commonwealth;  and
+(iii) not to use the Property or the Works, or permit the Property or the Works to be used for any purpose, other than the Designated Use, without first obtaining the written consent of the Commonwealth; and 
+(b) at all times during the Term of this Agreement:
+(i) to safeguard the Property and the Works against loss, damage and unauthorised use;
+(ii) to maintain the Property and the Works in good condition;
+(iii) to reinstate the Property and the Works if they are damaged or destroyed;
+(iv) not to grant or Dispose of any interest in the Property, or any part of the Property, without first:
+A. obtaining the Commonwealth's consent in writing (such consent may be withheld at the Commonwealth's sole and unfettered discretion); and.
+B. requiring the purchaser, transferee, lessee, licensee, mortgagee, chargee or other disponee, to enter into a deed of covenant with the Commonwealth, on terms acceptable to the Commonwealth under which the purchaser, transferee, lessee, licensee, mortgagee, chargee or other disponee covenants in favour of the Commonwealth to use the Property and the Works for the Designated Use until the expiry of the Designated Use Period.
+7.2 Repayment Amount
+Without limiting the Commonwealth's rights under this Agreement or otherwise at Law or in equity, if within the Designated Use Period the Commonwealth is satisfied on reasonable grounds that the Organisation has failed to comply with any of its obligations under clause 7.1, the Commonwealth may by written notice to the Organisation require the Organisation to repay to the Commonwealth the relevant amount calculated in accordance with Item 13 of Schedule 1.  The Organisation must pay to the Commonwealth the amount set out in the notice, within 20 Business Days of the date of the Commonwealth's notice.  If the Organisation fails to make payment within 20 Business Days, the Commonwealth may recover the amount specified in its notice as a debt due from the Organisation.
+7.3 Organisation's acknowledgement
+The Organisation acknowledges and agrees that:
+(a) the amounts payable by the Organisation under clause 7.2 represent a genuine and reasonable pre-estimate of the loss to the Commonwealth; and
+(b) the Organisation releases the Commonwealth from all claims arising out of or in connection with the Commonwealth's rights under clause 7.2.
+7.4 Accreditation, registration and licensing
+The Organisation must take all reasonable steps to ensure that any services provided during the Designated Use Period meet all relevant industry accreditation standards and any requirements to be registered and licensed. 
+8. The Funding
+8.1 8.1	Payment of the Funds
+(a) Subject to Parliamentary appropriation and to the provisions of this Agreement, the Commonwealth agrees to pay to the Organisation the maximum amount of the Funds specified in Item 6.1 of Schedule 1 in accordance with Item 6.2 of Schedule 1. 
+(b) Notwithstanding any other clause of this Agreement:
+(i) the Commonwealth may, at its absolute discretion defer, reduce or not make a payment of Funds;
+(ii) the Organisation is not entitled to receive, and the Commonwealth is not obliged to pay, any amount under this Agreement; and
+(iii) if the Organisation has received any Funds, the Organisation is not entitled to spend those Funds,
+  if at any time:
+(iv) the Commonwealth has insufficient Program funding available at the time the payment is due to the Organisation;
+(v) the Commonwealth has become entitled to terminate this Agreement under clause 18.1;
+(vi) the Commonwealth forms the opinion on reasonable grounds that the full payment is not properly required by the Organisation to carry out the Project or because of Project surpluses or underspends;
+(vii) before the commencement of the Works, the Organisation has not complied, to the reasonable satisfaction of the Commonwealth, with its obligations to:
+A. have tenure in accordance with clause 6.3(a)
+B. provide a financial security as required by clause 6.5;
+C. provide other securities as required by clause 6.6; or
+D. take out the insurances required by clause 21.1(a); or
+(viii) the Organisation has not complied with any provision of this Agreement which provides that the Organisation will not be entitled to spend or receive any Funds until that obligation has been complied with. 
+8.2	Use of the Funds
+Funds provided under this Agreement:
+(a) must only be used for the purposes of carrying out the Project and performing this Agreement;
+(b) are not to be applied towards administrative and other general costs of the Organisation that are not directly associated with the performance of the Project (including the Organisation's administrative costs in administering this Agreement) unless any such costs are expressly included in the Project Budget; and
+(c) must not, unless the prior written approval of the Commonwealth has been obtained, be used in a manner which is inconsistent with the Project Budget accepted in accordance with clause 3.1.
+8.3	Amounts of Funds
+The funding to be contributed by the Commonwealth in relation to the Project will not exceed the maximum amount of Funds specified in Item 6.1 of Schedule 1. The Commonwealth accepts no liability for:
+(a) any debts incurred by the Organisation;
+(b) any monies owing by the Organisation to its officers, employees, agents, contractors or subcontractors;  
+(c) any budget or cost overruns of the Works; or
+(d) any insufficient monies to complete the Works.. 
+8.4	Sufficiency of amounts
+The Organisation warrants that the Funds, together with all other contributions made or received by the Organisation in relation to the Project, will be sufficient to ensure the due and proper completion of the Works and the Organisation's obligations under this Agreement.
+9. Management of Funds
+The Organisation must: 
+(a) maintain with a Bank a bank account which is controlled solely by the Organisation to hold all Funds under this Agreement; 
+(b) immediately deposit all Funds received into that bank account and notify the Commonwealth Project Contact of the identifying details of that bank account; 
+(c) ensure that the bank account does not, at any time during the Term of this Agreement, contain any monies other than the Funds and any interest forming part of the Funds; and
+(d) every 6 months, commencing 3 months after the Date of this Agreement, until the Date for Practical Completion, provide to the Commonwealth a statement of the balance of the Funds in the bank account.
+
+10. Other Contributions
+The Organisation must:
+(a) promptly notify the Commonwealth in writing of the amount and source of any funding or other contributions for the Project (other than Funds provided under this Agreement) and, if requested by the Commonwealth, promptly provide  to the Commonwealth copies of any written arrangements entered into, or proposed to be entered into, in respect of such other funding or contributions; and
+(b) ensure that the terms on which any other funding or contributions are provided to the Organisation for, or in connection with, the Project are not inconsistent with the terms of this Agreement and do not in any way limit or affect the Organisation's ability to comply strictly with its obligations, or the Commonwealth's ability to exercise its rights, under this Agreement. 
+
+11. Records, Reports and Acquittals
+11.1 11.1	Records and accounts
+The Organisation must:
+(a) keep comprehensive and accurate accounts and records of its use of the Funds, that can be separately identified from other accounts and records of the Organisation; and
+(b) retain the accounts and records referred to in this clause 11 for a period of 7 years or such longer period as may be required by Law. 
+11.2 Organisation must keep records
+The Organisation must keep comprehensive written records of the conduct of the Project including progress against the Milestones and the achievements of the Project Aim and Program Objectives.
+11.3 Provision of records to the Commonwealth
+The Organisation must:
+(a) produce reports (including Reports), information and other Material produced under or in connection with this Agreement and otherwise as reasonably required by the Commonwealth; and 
+(b) provide all reports (including Reports), information and other material to the Commonwealth in accordance with the timeframes specified in this Agreement and otherwise promptly upon demand.
+11.4 Financial records
+The Organisation must keep financial records relating to the Project so as to enable:
+(a) all revenue and expenditure related to the Project to be identified in the Organisation's accounts;
+(b) the preparation of a Financial Report; and
+(c) the Audit of these records.
+11.5 Reports
+(a)	Without limiting the Organisation's other obligations under this Agreement, the Organisation must provide to the Commonwealth the Reports specified in Item 5 of Schedule 1:
+(i) at the times specified in Item 5 of Schedule 1; and
+(ii) in the format (if any) and including the content specified in Item 5 of Schedule 1, 
+(b) In addition to paragraph (a), the Commonwealth may at any time, and from time to time, during the Term of this Agreement, require the Organisation to provide reports and other information in addition to the reports required under clause 11.5(a) (Additional Reports).  Where the Commonwealth requires an Additional Report, it will issue a direction in writing to the Organisation requiring an Additional Report to be provided and specifying the Commonwealth's requirements in relation to the:
+(i) format;
+(ii) content;
+(iii) information and substantiating documentation to be submitted; and
+(iv) auditing or certification (if any),
+for that Additional Report.  The Organisation must comply with a direction of the Commonwealth under this clause 11.5(b) by submitting the requested Additional Report which complies with all requirement of the Commonwealth as set out in its direction, within 20 Business Days of receiving the Commonwealth's direction or within such longer period (if any) as the Commonwealth may allow.. 
+11.6 Audits
+The Organisation must prepare a Financial Report at the end of each financial year in which the Organisation has received, expended or retained Funds pursuant to this Agreement.  The Organisation must engage an Approved Auditor to Audit the Financial Reports of the Organisation and to prepare an Auditor's Report.
+11.7 Acquittals
+Within 60 Business Days of the end of each financial year in which the Organisation has received, expended or retained Funds pursuant to this Agreement, or within 60 Business Days of the earlier termination of this Agreement, the Organisation must provide to the Commonwealth:
+(a) a certificate signed by a representative of the Organisation with the authority to make representations on behalf of the Organisation stating whether:
+(i) the Funds have been used for the purpose for which they were provided; and
+(ii) all terms and conditions of the Agreement were complied with; and
+(b) the Auditor's Report on the Financial Reports; and
+(c) the Financial Reports referred to in clause 11.6.
+11.8 Retention of records and information
+The Organisation must retain its financial records and other information referred to in this clause 11 for a period of 7 years or such longer period as may be required by Law.
+11.9 Participation in evaluations and analysis of the Project
+The Organisation must participate, at its own cost and as required by the Commonwealth, in studies, evaluations and other activities intended to analyse the success of the Project in achieving the Project Objectives and the Project Aim, on terms required by the Commonwealth. Such participation may, where required by the Commonwealth, include:
+(a) attendance at relevant conferences and forums in which evaluations and analysis are being undertaken;
+(b) allowing third parties access to the Property to undertake analysis and evaluation of the Program and the Project; and 
+(c) making reports (including Reports), records and other information available to third parties for the purposes of evaluation and analysis.  
+12. Liaison
+12.1 Commonwealth's Project Contact
+The Organisation must liaise with and report to the Commonwealth's Project Contact in relation to the Project, and as reasonably required by the Commonwealth's Project Contact for the purposes of this Agreement.
+12.2 Provision of information
+Upon request, the Organisation must within the timeframe stipulated in the request, or promptly if no timeframe is stipulated in the request, provide all information, in relation to the Project or the Organisation, as requested by the Commonwealth Project Contact for the purposes of this Agreement, including for monitoring and evaluation purposes.
+13. Access to premises and records
+13.1 Access to records and Materials
+The Organisation acknowledges and agrees that the Commonwealth and any persons nominated by the Commonwealth may, at reasonable times and on giving reasonable notice to the Organisation:
+(a) access and inspect the Organisation's premises to the extent relevant to the performance of this Agreement;
+(b) access and inspect the Property and the Works;
+(c) access and inspect any Assets, wherever they may be located;
+(d) require the Organisation (including its officers, employees, agents and subcontractors) to provide records, Project Documents and information relevant to the performance of this Agreement in a data format and storage medium accessible by the Commonwealth; 
+(e) inspect and copy documentation, books and records, however stored, in the custody or under the control of the Organisation (including its officers, employees, agents and subcontractors) relevant to the performance of this Agreement; and
+(f) require assistance in respect of any inquiry into or concerning the Works, the Project, the Program or this Agreement. For the purpose of this clause 13.1(f), an inquiry includes any administrative or statutory review, audit or investigation (whether within or external to the Commonwealth), any request for information directed to the Commonwealth, any judicial or quasi-judicial inquiry, and any inquiry conducted by Parliament or any Parliamentary committee.
+The Organisation must promptly comply with all requirements of the Commonwealth under this clause 13.1.
+13.2 Access to hardware and software
+The Organisation must provide the Commonwealth (including its nominees, officers, employees and agents) with access to the Organisation's computer hardware and software to the extent necessary for the Commonwealth to exercise its rights under clause 13.1, and must provide the Commonwealth with any reasonable assistance requested by it to use that hardware and software.
+13.3 Costs
+(a) Subject to clause 13.3(b), each Party must bear its own costs of any inspections, reviews, audits and inquiries conducted pursuant to this clause 13.
+(b) If an audit, inspection, review or inquiry conducted pursuant to this clause 13 identifies a breach by the Organisation of this Agreement, the Commonwealth may recover its costs of conducting that inspection, review, audit or inquiry as a debt due from the Organisation.
+13.4 Auditor-General, Ombudsman and Privacy Commissioner
+Without limiting clause 13.1, the Commonwealth's rights under clauses 13.1 and 13.2 apply equally to the Auditor-General or a delegate of the Auditor-General, the Ombudsman or a delegate of the Ombudsman, and the Privacy Commissioner or a delegate of the Privacy Commissioner, for the purpose of each performing their functions or activities (as the case may be).
+13.5 Application of this clause 
+This clause 13 applies for the duration of the Term of this Agreement and for a period of 7 years from the termination or expiry of this Agreement.
+13.6 Subcontracts
+The Organisation must ensure that any subcontract entered into for the purposes of this Agreement contains a clause granting the Commonwealth access rights on terms equivalent to clauses 13.1 to 13.5 (inclusive).
+14. Project Material and Intellectual Property
+14.1 Ownership rights in Project Material
+All rights in relation to Intellectual Property comprised in the Project Material created by the Organisation will vest, upon creation, in the Organisation.
+14.2 Licensing of rights in Reports
+The Organisation grants, and must ensure all third parties holding rights in relation to Intellectual Property comprised in Reports grant, to the Commonwealth a perpetual, irrevocable, royalty-free, worldwide, non-exclusive licence (including a right of sub-licence) to use, reproduce, modify, adapt, communicate, publish, broadcast and exploit the Reports for Commonwealth purposes.
+14.3 Licensing of rights in other Project Material
+The Organisation grants, and must ensure all third parties holding rights in relation to Intellectual Property comprised in Project Material (other than the Reports) grant, to the Commonwealth a perpetual, irrevocable, royalty-free, worldwide, non-exclusive licence (including a right of sub-licence) to use, reproduce, modify, adapt, communicate, publish,  and broadcast the Project Material (other than the Reports) for the purposes of the Project, the Program or for other purposes connected with the operation of this Agreement.
+14.4 Project Material
+On termination or expiry of this Agreement, or earlier if requested by the Commonwealth, the Organisation must promptly deliver a copy of all Project Material then in existence to the Commonwealth in an agreed format, or as otherwise directed by the Commonwealth.
+14.5 Intellectual Property warranty
+The Organisation warrants that anything done by the Organisation in the course of the Project, including in developing the Reports, will not infringe the Intellectual Property and Moral Rights of any person.  The Organisation further warrants that the Commonwealth will not, at any time, be infringing the Intellectual Property and Moral Rights of any person when it undertakes an activity allowed for under this Agreement or uses Project Material in a manner consistent with the licences granted, or to be granted, to the Commonwealth under this clause 14.
+14.6 Commonwealth Material
+Intellectual Property rights and title to, or in relation to, Commonwealth Material remains vested at all times in the Commonwealth.  The Commonwealth grants the Organisation a royalty-free, world-wide, non-exclusive licence (including a right of sub-licence to sub-license subcontractors) to use, reproduce and modify the Commonwealth Material for the purposes of the Project. The Organisation must ensure that all Commonwealth Material is used strictly in accordance with any conditions or restrictions specified by the Commonwealth from time to time.
+14.7 Moral Rights
+(a) The Organisation must, unless otherwise agreed by the Commonwealth in writing, ensure that each person who:
+(i) has been involved in the performance of the Project ; and
+(ii) is or will be the author of any Project Material (including the Reports) that is to be licensed to the Commonwealth in accordance with this clause 14,
+provides a written consent to the Commonwealth permitting the Commonwealth (including its officers, employees and other persons through it) to conduct any act which would otherwise infringe the Moral Rights held by that person. 
+(b)	The consent provided under clause 14.7(a) must be consistent with the Commonwealth being able to conduct any act it is licensed to conduct under this Agreement. 
+15. Acknowledgement and Publications
+The Organisation must acknowledge the financial and other support it has received from the Commonwealth:
+(a) in all publications, promotional and advertising materials, public announcements, signs or plaques displayed at the Property;
+(b) in all activities by it or on its behalf in relation to the Project; 
+(c) if requested by the Commonwealth, with any products, processes or inventions developed as a result of the Project; 
+(d) at, and by inviting representatives of the Commonwealth (including the Minister) to any formal public openings of the Works;
+(e) in respect of publications, promotional and advertising materials, public announcements, signs or plaques in a form approved by the Commonwealth prior to its use; and
+(f) otherwise at the times and in the manner as the Commonwealth directs from time to time.
+16. Assets
+16.1 Purchasing of Assets
+The Organisation must not use Funds towards the purchase of Assets unless the Asset is identified in the Project Budget accepted in accordance with clause 3.1. 
+16.2 Use of Assets
+The Organisation must not use Assets for any purpose other than the performance of the Project and the Designated Use unless it has obtained the prior written approval of the Commonwealth which will not be unreasonably withheld.
+16.3 Obligations in relation to Assets
+The Organisation must:
+(a) not Dispose of any Asset, or deal with any Asset other than in accordance with this Agreement, without having obtained the prior written approval of the Commonwealth which will not be unreasonably withheld;
+(b) maintain all Assets in good working order;
+(c) be fully responsible for, and bear all risks arising in relation to, the use or Disposal of any Asset;
+(d) maintain a register of all Assets, recording the date of purchase or lease, the purchase or lease price, Asset description, Asset location, the proportion of the Funds used to create or acquire the Asset, the carrying amount of the Asset and (where approved under clause 16.3(a)) details of Disposals of the Asset, including the sale price; and
+(e) as and when requested, provide copies of the register of Assets to the Commonwealth.
+16.4 Disposal of Assets
+The Organisation must obtain the prior written approval from the Commonwealth before Disposing of an Asset.  If, at the time of the Disposal, the Asset has not been fully Depreciated the Organisation must, at the option of the Commonwealth:
+(a) pay to the Commonwealth within 20 Business Days of the date of the Disposal, an amount equal to the proportion of the value of the Asset following Depreciation that is equivalent to the proportion of the purchase price of the Asset that was funded from the Funds;
+(b) pay to the Commonwealth within 20 Business Days of the date of the Disposal, the proceeds of the Disposal, less an amount equal to the sum of the Organisation's proportionate contribution to the purchase price of the Asset and the Organisation's reasonable costs of Disposal of the Asset; or
+(c) use the amount payable to the Commonwealth under clause 16.4(a) or (b) (as the case may be) for a purpose (as is determined by the Commonwealth) , and in accordance with conditions, approved in writing by the Commonwealth.
+16.5 Interest
+If the Organisation fails to make a payment or use the amount as required by clause 16.4(a), (b) or (c) (as the case may be):
+(a) the Organisation must pay the Commonwealth Interest on the relevant amount from the date it was due, for the period it remains unpaid; and
+(b) the relevant amount, and Interest owed under this clause 16.5(a) will be recoverable by the Commonwealth as a debt due from the Organisation.
+17. Step in rights
+17.1 Rights to step in
+Without prejudice to any other right or remedy that the Commonwealth may have under this Agreement, any Law or in equity, if, in the Commonwealth's opinion, the Organisation has breached, or is in breach of, any obligation under this Agreement, the Commonwealth may (either itself or through a third party):
+(a) step-in and take control of management of part or the whole of the Project, including by performing any or all of the Organisation's obligations under this Agreement; or
+(b) make any other arrangements considered necessary or desirable by the Commonwealth to complete all or part of the Project or to otherwise ensure the completion of all of the Organisation's obligations under this Agreement. 
+17.2 Organisation's obligations on step in
+(a) The Organisation must do everything necessary or desirable to give effect to the Commonwealth's rights under clause 17.1 as directed by the Commonwealth including:
+(i) novating or assigning to the Commonwealth or its nominee any contracts with subcontractors or other third parties relating to the Project or the due and proper completion of the Works;
+(ii) authorising the Commonwealth to deal with all Funds held by the Organisation, including authorising the Commonwealth or its nominee to act as a signatory to the Organisation's bank account in which Funds are held, or to be held, in accordance with clause 9; 
+(iii) assigning to the Commonwealth or its nominee any leases or licences relating to the Project that are, in the Commonwealth's opinion, required for the due and proper completion of the Project or the Works (or both as the case may be); 
+(iv) providing to the Commonwealth or its nominee unfettered access to the Property and the Works for the purposes of the Commonwealth exercising its rights under clause 17.1; and
+(v) at the Commonwealth's sole and unfettered discretion, repaying to the Commonwealth or its nominee, within the timeframes specified by the Commonwealth or, if no timeframes are specified, promptly, all Uncommitted Funds (in whole or in part) identified by the Commonwealth. 
+(b) For the purposes of this clause 17.2 Uncommitted Funds means all Funds that are, at the time of the Commonwealth's request, unspent or uncommitted, or cannot be shown to the reasonable satisfaction of the Commonwealth to have been spent or Committed in accordance with this Agreement.
+(c) Without limiting or affecting the Commonwealth's rights under this Agreement, the Commonwealth may recover all its costs associated with exercising its rights under this clause 17 (including costs associated with recovering any amount of Uncommitted Funds from the Organisation) as a debt due from the Organisation.  
+(d) The Commonwealth will not be liable in any way to the Organisation, its officers, employees, agents, subcontractors and any third party in relation to any act or omission arising out of or in connection with the exercise of the Commonwealth's rights under this clause 17. The Organisation releases the Commonwealth from all liability arising out of, or in connection with, the exercise of the Commonwealth's rights under this clause 17
+(e) The Organisation indemnifies and will continue to indemnify the Commonwealth from and against all:
+(i) loss, damage, costs and expenses suffered or incurred by the Commonwealth, including as the result of any claim made in relation to:
+A. loss of or damage to third party property; or
+B. the injury, illness or death of a third party; 
+(ii) loss of, or damage to, Commonwealth property; or
+(iii) loss, damage, costs and expenses suffered or incurred by the Commonwealth in dealing with any claim against the Commonwealth, including legal costs and expenses on a solicitor/own client basis and the cost of time spent, resources used, or disbursements paid by the Commonwealth;
+arising out of or in connection with the exercise of the Commonwealth's rights under this clause 17.
+(f) The Organisation's liability to indemnify the Commonwealth under clause 17.2(e) will be reduced proportionately to the extent that any negligent or unlawful act or omission of, or wilful misconduct by, the Commonwealth, its officers and employees contributed to the relevant loss, damage, cost, expense or liability. 
+18. Suspension and termination
+18.1 Termination for default
+If:
+(a) the Organisation fails to provide evidence of the Organisation's tenure over the Property to the satisfaction of the Commonwealth within the timeframes specified in the Milestone Schedule;
+(b) the Organisation fails to comply with any timeframe under this Agreement which is stated to be of the essence;
+(c) the Organisation does not commence the Works within the timeframe specified in Item 3.1 of Schedule 1 for the commencement of the Works;
+(d) the Organisation fails to remedy its failure to comply with any term or condition of this Agreement within 10 Business Days of receiving a notice  (or such longer period as the Commonwealth may at its sole and unfettered discretion specify in the notice)  from the Commonwealth requiring the Organisation to do so;
+(e) the Commonwealth is satisfied on reasonable grounds that any statement, representation or warranty made by the Organisation is incorrect or incomplete in a way which would have affected the original decision to approve the Funds for the Project;
+(f) the Commonwealth is satisfied on reasonable grounds that a report (including a Report) given by the Organisation is significantly misleading, or substantially incomplete or inaccurate;
+(g) the Organisation:
+(i) becomes or is likely to become insolvent;
+(ii) makes an assignment of its estate for the benefit of creditors or enters into any arrangement or composition with its creditors or has a receiver, manager or administrator appointed on behalf of debenture holders or creditors; or
+(iii) suffers any execution against its assets which has or will have an adverse effect on its ability to perform the Agreement;
+(h) the Organisation breaches any term or condition of any other funding agreement between the Organisation and the Commonwealth;
+(i) the Organisation, by notice in writing given to the Commonwealth, withdraws from this Agreement; or
+(j) the Commonwealth considers it appropriate for any other reason,
+the Commonwealth may by written notice to the Organisation, require the Organisation to immediately suspend dealings with the Funds (in whole or in part), or terminate this Agreement in its entirety (or both as the case may be).. 
+18.2 Liability of the Commonwealth
+(a) If this Agreement is terminated in accordance with clause 18.1(j), the Commonwealth will only be liable for any reasonable costs (excluding, without limitation, loss of prospective income or profits) unavoidably and properly incurred by the Organisation prior to the date of termination, which are directly attributable to the termination.
+(b) Without limiting any other right the Commonwealth may have under this Agreement, any Law or in equity, including rights to recover the Funds, the Commonwealth will not be liable to pay any amount in excess of the amount of Funds remaining unpaid under this Agreement as at the date of termination.
+(c) Except as provided in this clause 18.2, the Commonwealth will not be liable to the Organisation in any way for termination of this Agreement in accordance with clause 18.1(j).
+18.3 Dealing with Funds on termination
+(a) On termination of this Agreement, or for the duration of any suspension of dealings with the Funds, the Organisation must only deal with the Funds in accordance with the directions of the Commonwealth and must cease all other dealings with the Funds. The directions of the Commonwealth may be given at any time after the termination or during any period of suspension.  If the Commonwealth does not provide any directions the Organisation must not deal with the Funds.
+(b) The Commonwealth may end the suspension of dealings with the Funds by written notice to the Organisation, subject to such preconditions (including variations to this Agreement) which the Commonwealth may require.
+(c) The Commonwealth will not be obliged to pay any part of the Funds to the Organisation during any period of suspension of dealings with the Funds. or, subject to clause 18.2, after the termination of this Agreement.
+18.4 Deemed termination for convenience
+If a purported termination for cause by the Commonwealth under any of clauses 18.1(a) to 18.1(h) (inclusive) is determined by a competent authority not to be properly a termination for cause, then that termination by the Commonwealth will be deemed to be a termination for convenience under clause 18.1(j), which termination has effect from the date of the notice of termination referred to in clause 18.1, and the Organisation's sole rights in such circumstances will be only those set out in clause 18.2.
+19. Repayment of Funds
+19.1 19.1	Repayment of Funds
+If:
+(a) on expiry or on any earlier termination of this Agreement, any or all of the Funds: 
+(i) have not been spent or Committed in accordance with this Agreement; or
+(ii) cannot, by reconciliation between the accounts and records maintained by the Organisation and the Project Budget accepted in accordance with clause 3.1, be shown to the reasonable satisfaction of the Commonwealth to have been spent or Committed in accordance with this Agreement; or
+(b) at any time the Commonwealth forms the reasonable opinion that any Funds have been used, spent or Committed by the Organisation other than in accordance with this Agreement;
+the Commonwealth may by written notice to the Organisation: 
+(c) require the Organisation to repay that part of the Funds, and the Organisation must repay to the Commonwealth the amount set out in the notice, within 20 Business Days of receipt of the notice;
+(d) deduct an equivalent amount from the Funds payable to the Organisation pursuant to this Agreement or from any other amounts payable to the Organisation under any other agreement with the Commonwealth; or
+(e) require the Organisation to use all or part of those Funds as the Commonwealth in its sole and unfettered discretion sees fit.
+19.2 Failure to repay Funds
+(a)	If the Organisation fails to repay the Funds in accordance with a notice issued under clause 19.1(c) or fails to use the Funds as directed under clause 19.1(e) (as the case may be):
+(i) the Organisation must pay the Commonwealth Interest on the amount set out in the notice from the date it was due, for the period it remains unpaid; and
+(ii) the amount set out in the notice, and Interest owed under this clause 19.2(a), will be recoverable by the Commonwealth as a debt due from the Organisation.
+(b)	The Organisation acknowledges that Interest payable under clause 19.2(a)(i) represents a reasonable pre-estimate solely in respect of the loss incurred by the Commonwealth as a result of the loss of investment opportunity for, or the reasonable cost of borrowing money in place, of the amount which should have been repaid.  
+20. Indemnities
+20.1 20.1	Organisation agrees to release and indemnify the Commonwealth
+The Organisation releases the Commonwealth from, and indemnifies and continues to indemnify the Commonwealth against, all: 
+(a) loss, damage, costs and expenses suffered or incurred by the Commonwealth, including as the result of any claim made in relation to:
+(i) loss of or damage to third party property; or
+(ii) the injury, illness or death of a third party; 
+(b) loss of or damage to Commonwealth property; or
+(c) loss, damage, costs and expenses suffered or incurred by the Commonwealth in dealing with any claim against the Commonwealth, including legal costs and expenses on a solicitor/own client basis and the cost of time spent, resources used, or disbursements paid by the Commonwealth;
+arising from: 
+(d) any act or omission by the Organisation (including any of its officers, employees, agents or subcontractors) in connection with this Agreement, where there was fault on the part of the person whose conduct gave rise to that liability, loss, damage, cost or expense; 
+(e) any breach by the Organisation (including any of its officers, employees, agents or subcontractors) of its obligations or warranties under this Agreement; 
+(f) any use or disclosure by the Organisation (including its officers, employees, agents or subcontractors) of Personal Information or Confidential Information (or both, as the case may be) held or controlled in connection with this Agreement; or 
+(g) the use by the Commonwealth of the Project Material, including the Intellectual Property and Moral Rights comprised in the Project Material. 
+20.2 Proportional reduction of liability
+The Organisation's liability to indemnify the Commonwealth under clause 20.1 will be reduced proportionately to the extent that any fault on the part of the Commonwealth (including its officers and employees) contributed to the relevant loss, damage, expense, cost or liability. 
+20.3 Commonwealth's right to be indemnified is additional to other rights
+The Commonwealth's right to be indemnified under clause 20.1 is in addition to, and not exclusive of, any other right, power, or remedy provided by Law or in equity, but the Commonwealth is not entitled to be compensated in excess of the amount of the relevant loss, damage, expense, cost or liability. 
+20.4 Definition of fault
+In this clause 20, fault means any negligent or unlawful act or omission, or wilful misconduct.
+21. Insurance
+21.1 21.1		Obligation to take out and maintain insurance
+(a) The Organisation must take out or have taken out for the period specified in clause 21.1(b) or 21.1(c) (as the case may be):
+(i) on execution of this Agreement, workers compensation and public liability insurances as specified in Item 9.1 of Schedule 1; 
+(ii) prior to commencement of the Works, all insurances as specified in Item 9.2 of Schedule 1 and all other appropriate types and amounts of insurance to cover the Organisation's activities and obligations under or in connection with this Agreement; and
+(iii) prior to commencement of the Designated Use Period, all insurances as specified in Item 9.3 of Schedule 1 and all other appropriate types and amounts of insurance to cover the Organisation's activities and obligations under or in connection with this Agreement. 
+(b) If the Organisation takes out a 'claims made policy', which requires all claims and any fact situation or circumstance that might result in a claim to be notified within the period of insurance, the Organisation must:
+(i) in the case of insurance taken out as required by clause 21.1(a)(i). maintain the policy (or a policy in like terms) during the Term of this Agreement and for a period of 7 years on and from the expiry or the early termination of this Agreement;
+(ii) in the case of insurance taken out as required by clause 21.1(a)(ii), maintain the policy (or a policy in like terms) during the construction of the Works until Practical Completion and for a period of 7 years on and from Practical Completion having occurred or the early termination of this Agreement; and
+(iii) in the case of insurance taken out as required by clause 21.1(a)(iii), maintain the policy (or a policy in like terms) during the Designated Use Period and for a period of 7 years on and from the expiry or the early termination of this Agreement. 
+(c) If the Organisation takes out an 'occurrence' policy, which requires the circumstances to which a claim relates to occur during the period of insurance whilst the notification of event can occur at any time subsequently, the Organisation must maintain the policy:
+(i) in the case of insurance taken out pursuant to clause 21.1(a)(i). during the Term of this Agreement;
+(ii) in the case of insurance taken out pursuant to clause 21.1(a)(ii), during the construction of the Works until Practical Completion; and
+(iii) in the case of insurance taken out pursuant to clause 21.1(a)(iii), during the Designated Use Period.  
+(d) The Organisation must ensure that any subcontract entered into by the Organisation in relation to this Agreement places on the subcontractor, in respect of the subcontractor's activities, the same or similar obligations about insurances, as this clause 21 places on the Organisation.
+21.2 Copies of insurance
+The Organisation must, on request, promptly provide to the Commonwealth any relevant insurance policies and certificates of currency for inspection.
+21.3 Proceeds of Insurance
+If during the Term of this Agreement:
+(a) the Works or the Property (or both as the case may be) are lost, damaged or destroyed by a risk against which the Organisation is required under this Agreement to be insured; and
+(b) the payment of insurance moneys under the relevant insurance policy has not been refused in whole as a direct consequence of any act or omission of the Commonwealth in breach of this Agreement,
+then the Organisation must:
+(c) claim and obtain payment of any insurance moneys to which it is entitled under the relevant insurance policy in respect of the relevant loss, damage or destruction;
+(d) apply all relevant insurance proceeds in:
+(i) if required by the Commonwealth, reinstating the Works or the Property (or both as the case may be); or
+(ii) otherwise, paying the Commonwealth: 
+A. an amount calculated in accordance with Item 13 of Schedule 1; or
+B. where the insurance proceeds are less than the amount calculated in accordance with Item 13 of Schedule 1, the total insurance proceeds.
+22. Confidential Information
+22.1 22.1	Organisation not to disclose
+(a) The Organisation must not disclose to any person other than the Commonwealth any Confidential Information without prior approval in writing from the Commonwealth.  
+(b) The Commonwealth may at any time by notice or in writing to the Organisation, require the Organisation to give, and to arrange for its officers, employees, agents and subcontractors undertaking activities under or in connection with the performance of this Agreement to give, written undertakings, in a form required by the Commonwealth relating to the non-disclosure of Confidential Information. The Organisation must promptly comply with all such requirements of the Commonwealth.
+22.2 22.2	Commonwealth disclosure
+The Organisation acknowledges and agrees that the Commonwealth may disclose all information relevant to this Agreement that is confidential to the Organisation to any person:
+(a) to the extent required by Law or by a lawful requirement of any Proper Authority;
+(b) if required in connection with legal proceedings;
+(c) for public accountability reasons, including disclosure on request to other government agencies, and a request for information by Parliament, a Parliamentary Committee or a Commonwealth minister; or
+(d) for any other requirement of the Commonwealth relevant to the administration of this Agreement.
+23. Personal Information
+23.1 23.1	When does this clause apply?
+This clause 23 applies only if the Organisation deals with Personal Information when it conducts the Project.
+23.2 23.2	Other definitions relating to Personal Information
+In this clause 23, the terms agency and Information Privacy Principles (or IPPs) have the same meaning as they have in section 6 of the Privacy Act, and subcontract  has the same meaning it has in section 95B(4) of the Privacy Act.
+23.3 23.3	Organisation's obligations about Personal Information
+The Organisation agrees that:
+(a) if it obtains Personal Information while conducting the Project or otherwise performing its obligations under this Agreement it will use or disclose that Personal Information only for the purposes of this Agreement;
+(b) it will comply with the IPPs as if the Organisation were an agency under the Privacy Act; and
+(c) it will otherwise comply with the Privacy Act.
+23.4 Subcontractors
+The Organisation must ensure that any subcontract entered into by it in relation to this Agreement places the same obligations about Personal Information on the subcontractor as this clause 23 places on the Organisation.
+24. Compliance with Laws and policies
+24.1 24.1	Obligations
+The Organisation must, in carrying out this Agreement, comply with the provisions of any and all relevant Laws, and requirements of any Commonwealth, State, Territory or local authority (including any Proper Authority), and any policies notified to the Organisation in writing by the Commonwealth.
+24.2 BCII Act and OHS Accreditation Scheme
+(a) The provisions of this clause 24.2 only apply if the total amount of the Funds is:
+(i) $10 million or more; or
+(ii) $5 million or more and represents at least 50% of the total construction value of the Works;
+  unless the Commonwealth otherwise specifies.
+(b) In the performance of the Project (including the Works), the Organisation must comply, and must ensure that the Project Parties comply, with the Code and the Implementation Guidelines.   
+(c) The Organisation must ensure that:
+(i) all requests for tender, expressions of interest, submissions and invitations to join common use arrangements in relation to the Works made by it or any of the Project Parties contain the commitment to apply the Code and the Implementation Guidelines set out in the model tender documents referred to in the Implementation Guidelines; and  
+(ii) all contracts entered into in relation to the Works by it, or any of the Project Parties, contain the commitment to apply the Code and the Guidelines as set out in the model contract clauses referred to in the Implementation Guidelines.;
+(d)	The Organisation must ensure that all head contracts for building work in relation to the Project that are valued at three million dollars ($3,000,000) or more are:
+(i)	notified to the Office of the Federal Safety Commissioner at the earliest possible opportunity (that is, when approaching the market); and
+(ii)	contain a requirement that the subcontractor:
+A. is accredited under the OHS Accreditation Scheme;
+B. maintains the OHS Accreditation Scheme accreditation for the life of the contract; and
+C. complies with all conditions of the OHS Accreditation Scheme.
+(iii)	For the purpose of this clause building work has the same meaning as given to it in section 5 of the BCII Act.   
+(e)		The Organisation must maintain, adequate records of compliance by it and each of the Project Parties with the Code, the Implementation Guidelines and the OHS Accreditation Scheme in relation to the Project (including the Works).  
+(f)		The Organisation must permit, the Commonwealth and those authorised by the Commonwealth, including a person occupying a position in the Office of the Australian Building and Construction Commissioner full access to the premises and records of the Organisation and the Project Parties to:
+(i) inspect any work, material, machinery, appliance, article or facility;
+(ii) inspect and copy any record relevant to the Works, the Project or this Agreement; and
+(iii) interview any person;
+as is necessary to monitor compliance with the Code and the Implementation Guidelines. 
+(g)	The Organisation undertakes that it, and each of the Project Parties, will agree to a request from the Commonwealth, including a person occupying a position in the Office of the Australian Building and Construction Commissioner to produce a specified document within a specified period in person, by fax or by post.  
+(h)	The Commonwealth and those persons authorised by it may publish or otherwise disclose information in relation to compliance by the Organisation and the Project Parties, with the Code and the Implementation Guidelines.    The Organisation must obtain the consent of the Project Parties to the publication or disclosure of information under this clause.
+(i)	The Organisation must not appoint a contractor, subcontractor or consultant in relation to the Project where:
+(i) the appointment would breach a sanction imposed by the Minister for Employment and Workplace Relations or;
+(ii) the contactors, subcontractor or consultant has had a judicial decision against them relating to employee entitlements, not including decisions under appeal, and has not paid the claim
+(j) While acknowledging that value for money is the core principle underpinning decisions on Government procurement, when assessing tenders the Organisation may preference contractors, subcontractors and consultants that have a demonstrated commitment to:
+(i) adding and/or retaining trainees and apprentices;
+(ii) increasing the participation of women in all aspects of the industry; or
+(iii) promoting employment and training opportunities for Indigenous Australians in regions where significant indigenous populations exist.
+(k) The Organisation must ensure that all subcontracts impose obligations on the subcontractors equivalent to the obligations under this clause 24.2.
+25. Disputes
+25.1 25.1	Dispute resolution
+(a) Subject to clause 25.2, the Parties agree not to commence any legal proceedings in respect of any dispute arising under this Agreement, which has not been resolved by informal discussion, until the procedure provided by this clause 25 has been followed.
+(b) The Parties agree that any dispute arising during the course of this Agreement will be dealt with as follows:
+(i) the Party claiming that there is a dispute will send the other a written notice setting out the nature of the dispute;
+(ii) the Parties will try to resolve the dispute through direct negotiation, including by referring the matter to persons who have the authority to intervene and direct some form of resolution; and
+(iii) if within 30 Business Days from the date of the notice issued under clause 25.1(b)(i):
+A. there is no resolution of the dispute;
+B. there is no agreement on submission of the dispute to mediation or some alternative dispute resolution procedure; or
+C. there is a submission to mediation or some other form of alternative dispute resolution procedure, but there is no resolution within 15 Business Days of the submission, or within such further extended time as the Parties may agree to extend in writing before the expiration of the 15 Business Days;
+then, either Party may commence legal proceedings.
+25.2 25.2	When clause 25.1 does not apply
+Clause 25.1 does not apply where:
+(a) either Party commences legal proceedings for urgent interlocutory relief;
+(b) action is taken by the Commonwealth under, or purportedly under, clauses 8, 13, 18 or 19; or
+(c) an authority of the Commonwealth, a State or Territory (including a Proper Authority) is investigating a breach or suspected breach of the Law by the Organisation.
+25.3 25.3	Obligations continue
+(a) Despite the existence of a dispute, both Parties must continue to perform their respective obligations under this Agreement, unless directed otherwise by the Commonwealth in accordance with clause 25.3(b).
+(b) If directed and notified in writing by the Commonwealth to do so, the Organisation must cease performing the obligations of the Organisation under this Agreement which are specified in the Commonwealth's notice until the Commonwealth issues a further written notice to the Organisation directing it to resume performance of those obligations. 
+26. Taxes, duties and government charges
+26.1 26.1	Definitions
+In this clause 26, GST, Input Tax Credits, Tax Invoice and Taxable Supply have the meaning given to those terms in the A New Tax System (Goods and Services Tax) Act 1999.
+26.2 26.2	Responsibility for Taxes
+Subject to this clause 26, all taxes, duties and government charges (Taxes) imposed or levied in Australia or overseas in connection with this Agreement or the payment of the Funds must be paid by the Organisation, or as the Organisation might arrange.
+26.3 26.3	Funds includes GST
+The Organisation acknowledges and agrees that the Funds payable under this Agreement include an amount in respect of GST on any Taxable Supplies under this Agreement.
+26.4 26.4	Input Tax Credits
+The Organisation is responsible for claiming all Input Tax Credits to which it is entitled related to this Agreement. 
+26.5 Tax Invoice
+If any Taxable Supplies are made under this Agreement, the Organisation must provide the Commonwealth with a Tax Invoice within 20 Business Days of the Taxable Supply being made, unless the Milestone Schedule states otherwise.
+27. General
+27.1 27.1	Notices
+(a) A Party giving notice under this Agreement must do so in writing, that is:
+(i) directed to the other Party's contact person and address as specified in Item 7 of Schedule 1; and
+(ii) hand delivered, sent by pre-paid post or facsimile to that address.
+(b) A notice given in accordance with clause 27.1(a) is received:
+(i) if hand delivered, on delivery;
+(ii) if sent by pre-paid post on the third Business Day after the date of posting; and
+(iii) if sent by facsimile, at the time the sender receives notification that the notice has been transmitted satisfactorily.
+27.2 27.2	Survival of provisions
+Termination or expiry of this Agreement for any reason does not extinguish or otherwise affect:
+(a) any rights of either Party against the other which:
+(i) accrued prior to the time of termination or expiry; or
+(ii) otherwise relate to or may arise at any future time from any breach of non-observance of obligations under this Agreement which arose prior to the time of termination or expiry; and
+(b) the provisions of this Agreement which by their nature survive expiry or termination, including clauses 4.2, 11.8, 13, 13.6, 18.2, 18.3, 19, 20, 21, 23 and 27.8.
+27.3 27.3	Jurisdiction
+This Agreement is to be interpreted in accordance with the Laws of the jurisdiction in which the Project is undertaken.  Each party irrevocably submits to the non-exclusive jurisdiction of the courts of the Australian Capital Territory.
+27.4 Entire Agreement
+To the extent permitted by Law:
+(a) this Agreement represents the entire understanding of the Parties, and constitutes the entire agreement between the Parties in relation to its subject matter; and
+(b) supersedes any prior written or other agreement between the Parties.
+27.5 27.5	Variation and Waiver
+(a) This Agreement may only be varied by a document signed by each Party.
+(b) A failure to exercise or enforce, or a delay in exercising or enforcing, or the partial exercise of enforcement of, a right, power or remedy provided by Law, in equity or under this Agreement by a Party does not preclude, or operate as a waiver of, the exercise or enforcement, or further exercise or enforcement, of that or any other right, power or remedy provided by Law or under this Agreement.
+(c) A waiver, approval or consent given by a Party under this Agreement is only effective and binding on that Party if it is given or confirmed in writing by that Party.
+(d) No waiver of a breach of a term or condition of this Agreement operates as a waiver of another breach of that term or condition, or as a waiver of a breach of any other term or condition of this Agreement.
+27.6 27.6	Illegality
+If, at any time, any provision of this Agreement is or becomes illegal, invalid or unenforceable in any respect under the Law in any jurisdiction, that will not affect or impair the legality, validity or enforceability of any other provision of this Agreement, or the legality, validity or enforceability of that provision or any other provision of this Agreement in any other jurisdiction. 
+27.7 27.7	Novation and assignment
+Except as expressly provided for under this Agreement, a Party cannot assign, novate or otherwise transfer any of its rights or obligations under this Agreement without the prior consent of the other Party.
+27.8 27.8	Negation of employment, partnership and agency
+(a) The Organisation is not by virtue of this Agreement, or for any purpose, an officer, employee, partner or agent of the Commonwealth, or invested with any power or authority to bind or represent the Commonwealth.  
+(b)	The Organisation must not represent itself and must ensure that its officers, employees, agents and subcontractors do not represent themselves, as being an officer, employee, partner or agent of the Commonwealth, or as otherwise able to bind or represent the Commonwealth.
+27.9 27.9	Management of Conflicts
+If during the Term of this Agreement, a Conflict arises, or appears likely to arise the Organisation must:
+(a) immediately notify the Commonwealth in writing of the Conflict making a full disclosure of all relevant information relating to the Conflict and setting out the steps the Organisation proposes to take to resolve or otherwise deal with the Conflict; and
+(b) take such steps as the Commonwealth may reasonably require to resolve or otherwise deal with that Conflict.
+28. Organisation to comply with all special conditions
+The Organisation must comply with each special condition set out in Item 12 of Schedule 1.  A breach by the Organisation of a special condition constitutes a fundamental breach of this Agreement.
+29. Warranties and representations
+29.1	Organisation warranties and representations
+	The Organisation represents and warrants to the Commonwealth that:
+	(a)	if it is a body corporate, it is duly incorporated in accordance with the Law of its place of  incorporation, validly exists under that Law and has the capacity to sue or be sued in its own name and to own its property and conduct its business as it is being conducted; 
+	(b)	it has full power and authority to enter into, perform and observe its obligations under this Agreement;
+	(c)	the execution, delivery and performance of this Agreement has been duly and validly authorised by the Organisation;
+	(d)	this Agreement constitutes valid and legally binding obligations on it and is enforceable against it by the Commonwealth in accordance with its terms;
+	(e)	each authorisation from, and filing and registration with, a government agency necessary to enable it to unconditionally execute and deliver and comply with its obligations under this Agreement and carry on its principal business or activity has been obtained, effected and complied with;
+	(f)	the unconditional execution and delivery of, and compliance with its obligations by it under this Agreement do not:
+(i)	contravene any Law to which it or any of its property is subject or any order or directive from a Proper Authority binding on it or any of its property;
+	(ii)		contravene its constituent documents;
+	(iii)	contravene any agreement or instrument to which it is a party;
+	(iv)	contravene any obligation of it to any other person; or
+(v)	require it to make any payment or delivery in respect of any financial indebtedness before the scheduled date for that payment or delivery;
+(g)		no litigation, arbitration, mediation, conciliation or administrative proceedings are taking place, pending, or to the knowledge of any of its officers after due inquiry, are threatened which, if adversely decided, could have an adverse effect on its ability to perform its obligations under this Agreement;
+(h)		unless otherwise disclosed in this Agreement, it is not entering into this Agreement as trustee of any trust or settlement;
+(i)		it has not made any false declaration in respect of any current or past dealings with the Commonwealth or any Proper Authority, including in any tender or application process or in any agreement;
+(j)		it has had no significant deficiency in the performance of any substantive requirement or obligation under any prior agreement with the Commonwealth or any Proper Authority which would adversely affect its ability to perform this Agreement;
+(k)	it has, and will continue to have and to use, the skills, qualifications and experience, including Specified Personnel, to perform the Project in an efficient and controlled manner with a high degree of quality and responsiveness and to a standard that complies with this Agreement; 
+(l)	it has and will continue to have skilled, qualified and experienced Specified Personnel who are capable of performing the Project in accordance with this Agreement; and
+(m)	it has and will continue to have the necessary resources to perform the Project and will use those resources to perform the Project.
+29.2	No restriction 
+	The interpretation of any statement contained in any representation or warranty will not be restricted by reference to or inference from any other statement contained in any other representation or warranty.
+29.3	Organisation acknowledgement
+	The Organisation acknowledges that the Commonwealth in entering into this Agreement is relying on the warranties and representations contained in this Agreement. 
+Schedule 1  Particulars
+1. Project
+1.1	The Project
+The Project consists of:
+(a) [Option A] the purchase of the Property by the Organisation;
+(b) [Option B] the construction on the Property of a insert details which will operate so as to achieve the Program Objectives;
+(c) [Option C] the *extension / "refurbishment / *renovation of an existing building on the Property in order to establish insert details which will operate so as to to achieve the Program Objectives.
+* = Select Option A if purchasing Property only. Select Option B if constructing a new structure or building. Select Option C if refurbishing an existing structure or building.  Please make sure Recital D and Schedule Item 1.2(a) and (b) below correspond correctly with the option(s) chosen.
+The Organisation must carry out, or arrange for the carrying out of the following Works:
+If Option B or C is chosen, list the nature of the Works. 
+1.2	Project Aim
+The Project Aim is to deliver the objectives and outcomes of the Project, through:
+(a)	e.g the purchase of a Property, the construction of a new building on the Property, or the refurbishment and fit-out of an existing building on the Property; and
+(b)	the use of the Works and the Property/Property for the Designated Use throughout the Designated Use Period.
+
+1.3	Program Objectives
+The Program Objectives are as follows:
+The Program Objectives are the aims and objectives of the overall program and may be based on the funding guidelines (if any) applicable to that program.    
+1.4	Project Documents
+The Organisation must provide the following Project Documents:
+
+1.	drawings and specifications for the Works which contain sufficient details and definition to enable a competent builder to construct the Works without further determination as to form, quality or quantity; and
+2,	a site plan including ingress and egress arrangements for pedestrians and motor vehicles.
+The Project Documents required will depend on the nature of the Works being conducted.  You will need to determine what documents are required for each Project.
+
+2. The Property
+[Option A]The Property is a parcel of land commonly known as insert street address, suburb and state/territory if new construction or a purchase
+[Option B] The Property is the area comprising insert number square metres in the building currently known as insert name of existing building commonly known as insert street address if a refurbishment of part of a building 
+* = Select Option B if part of a building is being refurbished; otherwise select Option A 
+
+3. Time frames
+3.1	Commencement of the Works
+The Organisation must commence the Works within insert number months after the Date of this Agreement.
+3.2	Date for Practical Completion
+The Date for Practical Completion is insert date.
+3.3	Completion Date
+The Completion Date is the date that is insert number Business Days after the Commonwealth has received the operations phase Final Report referred to in Item 5 of this Schedule 1 and all deliverables required under this Agreement.
+4. Designated Use
+4.1	Designated Use Period 
+The Designated Use Period is the period commencing on the date that the Organisation achieves Practical Completion of the Works and expiring insert number years after that date.
+4.2	Designated Use
+The Designated Use is the provision of insert details of designated use that operates in a way that best achieves the Project Aim and Program Objectives.
+
+5. Reports
+5.1	Reports during the construction phase:
+The Organisation must provide the following Reports from the Date of this Agreement until the Date for Practical Completion in accordance with the requirements set out below:
+The Construction Phase Reports Schedule is specific to each Project and will need to be reviewed on an individual basis. The details in the Report Schedule below may assist identifying relevant Reports. A construction final report is normally required.  If the required thresholds are met, each of the Reports in the Construction Phase need to include whether the Organisation has met its obligations in clause 24.2 up to the date of each Report.
+
+Report NoReport title and content and format requirementsDate for delivery of report1.A report on the status of the Works and the progress against the Project Plan once accepted in accordance with clause 3.1(c)(i) in a format specified by the Commonwealth, any material change in the Works that may result in a delay in the Works reaching Practical Completion on the Date for Practical Completion, and whether, if the required thresholds are met, the Organisation has met its obligations under clause 24.2 up to the date of the Report.insert date2.Should the Project be delayed for any reason, a report on the status of the Works and the progress against the Project Plan accepted in accordance with clause 3.1(c)(i) in a format specified by the Commonwealth, including whether, if the required thresholds are met, the Organisation has met its obligations under clause 24.2 up to the date of the Report.insert date3.A construction phase final report including a report on the expenditure of the Funds for the purposes of the Project and how the Project Aim  and Program Objectives been supported by the completion of the Works, including whether, if the required thresholds are met the Organisation met its obligations in clause 24.2.Within insert number months after the date that the Organisation achieves Practical Completion of the Works in accordance with clause 4.9
+5.2	Reports during the operations phase:
+The Organisation must provide the following Reports from the Date of Practical Completion until the Completion Date in accordance with the requirements set out below:
+The Operations Phase Reports Schedule is specific to each Project and will need to be reviewed on an individual basis. The details in the Report Schedule below may assist identifying relevant Reports. An operations phase final report is normally required 
+
+Report NoReport title and content and format requirementsDate for delivery of report4.An annual report reporting on operational details including a description of the health care services delivered and the policies, practices and processes used to deliver those services as they relate to the Project Aim and Program Objectives up to the date of the first anniversary of the Date for Practical Completion.The first annual report within insert number Business Days after the first anniversary of the Date for Practical Completion.5.An annual report reporting on operational details including a description of the health care services delivered and the policies, practices and processes used to deliver those services as they relate to the Project Aim and  Program Objectives up to the date of the second anniversary of the Date for Practical Completion.The second annual report within insert number Business Days after the second anniversary of the Date for Practical Completion.6.An operations phase final report, including a comprehensive report on whether the objectives and outcomes of the Project were achieved and if not, why not, and a copy of the Assets register.Within insert number months of the expiry of the Designated Use Period, or within insert number months of the earlier termination of this Agreement
+6. Funds
+6.1	Maximum Amount of Funds
+The maximum amount of Funds payable by the Commonwealth under this Agreement will be $insert amount (inclusive of GST) or the lesser amount required to complete the Project.
+6.2 Milestone Schedule
+[Option A] The proportion of the Funds specified in respect of each Milestone in the table below will be paid to the Organisation in accordance with the table below within 25 Business Days of the Organisation achieving the Milestone to the satisfaction of the Commonwealth and after receipt by the Department of a correctly rendered invoice.  
+[Option B] The maximum amount of the Funds of $insert amount (inclusive of GST) will be paid to the Organisation within 25 Business Days after the Date of this Agreement and after receipt by the Department of a correctly rendered invoice, but the Organisation must only expend Funds when it achieves a Milestone in accordance with the table below. The amount of Funds that the Organisation is entitled to spend on achieving each Milestone is set out in respect to each Milestone in the last column of the Milestone Schedule. For each Milestone, the Organisation must not spend an amount of Funds greater than the amount specified in the last column of the Milestone Schedule in respect of achieving that Milestone.
+* = Select Option A if payment is made in instalments. Select Option B if payment is made up front  
+A correctly rendered invoice is one that:
+(a)	identifies the name of the Project;
+(b)	sets out the name of the Commonwealth Project Contact;
+(c)	contains a claim for the amount of the Funds properly required; and
+(d)	is a Tax Invoice.
+
+
+MilestoneMilestone description and requirements for achievements of MilestoneDate for completion of Milestone[Option A] Amount of Funds payable on achievement of Milestone
+[Option B] Amount of Funds the Organisation may expend on achieving the Milestone1.Signing of the Agreement by the Organisation and the Commonwealth and (if required by Item 14 of Schedule 1) provision of financial security in accordance with clause 6.5 and other securities in accordance with clause 6.6Within insert number Business Days of the Date of this Agreement.$insert amount (inclusive of GST)2.Submission of a Project Plan and Project Budget in accordance with clauses 3.1(a) and (b) Within insert number Business Days of the Date of this Agreement.$insert amount (inclusive of GST)3.The Organisation provides evidence of tenure over the Property that is satisfactory to the Commonwealth in accordance with clause 6.3(a). 
+
+The Organisation provides certificates of currency in accordance with clause 21.2 in respect of the insurances required under Item 9.1 of Schedule 1.Within insert number Business Days of the Date of this Agreement.$insert amount (inclusive of GST)4.The Organisation notifies the Commonwealth of the personal details of the Project Manager in accordance with clause 4.2.Within insert number Business Days of the Date of that appointment.$insert amount (inclusive of GST)5.Confirmation that the Organisation has obtained all necessary Approvals in accordance with clause 3.4, including as applicable:
+(a) Development consent or approval to the construction /refurbishment works by relevant government body or council;
+(b) Development consent or approval to the use of the Property as a medical centre by the by relevant government body or council; and
+(c) Current town planning certificate.Within insert number Business Days of the Date of this Agreement.$insert amount (inclusive of GST)6.The Organisation provides the Project Documents in accordance with clause 3.3(b) and Item 1.3.
+The Organisation provides certificates of currency in accordance with clause 21.2 in respect of the insurances required under Item 9.2 of Schedule 1.Within insert number Business Days of the Date of this Agreement.$insert amount (inclusive of GST)7.The Organisation commences the Works.Insert date$insert amount (inclusive of GST)8.Practical Completion of the Works is achieved.Insert date$insert amount (inclusive of GST)9.Receipt by the Commonwealth of Certificate of Occupancy.
+The Organisation provides certificates of currency in accordance with clause 21.2 in respect of the insurances required under Item 9.3 of Schedule 1.Within insert number Business Days of the achievement of Practical Completion.$insert amount (inclusive of GST)
+The Milestone Schedule is specific to each Project and will need to be reviewed on an individual basis. The details in the above Milestone Schedule may assist identifying relevant Milestones. 
+
+7. Project Contact and address 
+Commonwealth Project Contact
+
+The Commonwealth Project Contact is the person occupying the positions of insert title of position, insert Section. This position is currently occupied by insert name of person, available at the following address:
+
+insert name of Division
+Department of Health and Ageing
+MDP insert number, 
+GPO Box 9848
+Canberra ACT 2601
+Fax:	insert fax number
+
+    and available on the following telephone number and email address:
+
+Email: 	insert email address  
+Phone: 	insert number
+
+
+Organisation Project Contact
+
+The Organisation Project Contact is the person occupying the position of insert title of position. This position is currently occupied by insert name of person available at the following address:
+
+insert postal and street address
+Fax:	insert fax number
+
+    and available on the following telephone numbers and email address:
+
+Email:	insert email address
+Phone:	insert number
+
+8. Specified Personnel Positions
+The Specified Personnel Positions are:
+(a) Project Manager
+If no position is to be stated, please delete "(a) Project Manager" and insert "None required". If a Project Manager is required, please have "(a) Project Manager" remain.  Add other positions if required.  
+9. Insurance
+9.1	On execution of this Agreement:
+(a) to the extent required by Law, workers compensation insurance in respect of the Organisation's liability for any loss or claim by a person employed or otherwise engaged, or deemed to be employed or otherwise engaged, by the Organisation in connection with the Project; and
+(b) public liability policy covering legal liability (including liability assumed under contract) for loss or damage to property or injury or death to persons arising out of or in connection with carrying out the Works, for the sum of twenty million dollars ($20,000,000) per claim, or per occurrence giving rise to a claim.
+9.2 On commencement of the Works:
+(a) contract works policy covering loss or damage to the Works and any temporary work including materials stored off-site or in transit, for the full reinstatement and replacement cost of the Works including:
+(i)	the full amount of the cost to the Organisation to construct the Works (Works Cost);
+(ii)	an amount reasonably providing for additional costs of demolition and of removal of debris (to be not less than 10% of the Works Cost);
+(iii)	a further amount reasonably sufficient for consultants' fees (to be not less than 5% of the Works Cost); and
+(iv)	an amount providing for escalation costs incurred including those costs as may be incurred (during any period of reinstatement or replacement) during the period up to Practical Completion,
+and the Organisation must ensure that the policy specified in this Item 9.2(a) notes the interest of the Commonwealth;
+(b)	products liability policy covering legal liability (including liability assumed under contract) for loss or damage to property or injury or death to persons arising out of or in connection with carrying out the Works, for the sum of twenty million dollars ($20,000,000) per claim, or per occurrence giving rise to a claim;
+(c)	if asbestos decontamination work is required as part of the Works, an asbestos liability policy in respect of the risks associated with asbestos decontamination work, for the sum of twenty million dollars ($20,000,000) per claim, or per occurrence giving rise to a claim; 
+(d) professional indemnity insurance, covering liability for any act, error or omission arising out of or in any way connected with the design elements of the Project.  The professional indemnity insurance policy must have a limit of indemnity for an amount of not less than one million dollars ($1,000,000) per claim, or occurrence giving rise to claim.  The policy must:
+(i) cover claims under the Trade Practices Act 1974, Fair Trading Act 1992 (ACT) and any similar legislation in any other State or Territory; and
+(ii) include at least one (1) automatic right of reinstatement of the sum insured; and
+(e)	the Organisation must ensure that each professional service provider identified in the table below, holds a professional indemnity policy in the amount specified in respect of that professional service provider in the table below, to cover its liability for breach of professional duty (if applicable) arising out of any negligence, whether in relation to errors in design, documentation, supervision or other professional duties.  Such cover must extend to liability for personal injury, illness or death of anyone in connection with the provision of professional services or as a result of breach of professional duty: 
+
+Professional Service ProviderProfessional indemnity coverageArchitect$10 millionBuilder$20 millionFire Services$2 millionElectrical $10 millionHydraulic$5 millionCivil$10 millionMechanical$10 millionBuilding Code of Australia$5 million
+Please note insurance amounts and types of insurance are by way of an example and may vary depending on the nature of the individual Project.   	
+9.3	On commencement of the Designated Use Period:
+(a) 	The type and amount of the insurance will need to be listed here. The listed insurance will differ depending on whether the Organisation is the Property owner or not. Details to be listed should be discussed with the Department's insurance officer, currently Mr Terry McGuiness. 
+10. Other contributions
+The total amount of the Organisation's contribution must be fully set out in the Project Budget submitted by the Organisation in accordance with clauses 3.1(a) and (b) and must be made, or agreed to be made, on or before the Commonwealth notifies the Organisation that the Project Budget is acceptable to the Commonwealth. 
+The Project Budget submitted by the Organisation in accordance with clauses 3.1(a) and (b) must set out details of all other contributions the Organisation will make or receive from a third party. 
+11. Assets
+The Organisation must acquire the following Assets with the Funds:
+List any assets worth less than $5,000 that you want clause 16 to apply to, or if none, the words "None specified"
+12. Special conditions
+The following special conditions apply for the purposes of this Agreement:
+Insert relevant special conditions to cover specific issues or important matters of a particular nature. If none, the words "None stated"
+13. Repayment amount
+The repayment amount will be calculated according to the following formula:
+Repayment = F - (F x Y / DUP)
+where:
+F is the total of all Funds paid by the Commonwealth to the Organisation plus any interest earned on those Funds, but excluding all monies that have been previously recovered from the Organisation by the Commonwealth at the date that the formula is applied; 
+Y is the number of completed years since the commencement of the Designated Use Period (or if the Designated Use Period has not yet commenced Y is zero); and
+DUP is the number of years in the Designated Use Period.
+14. Financial Securities and Other Securities
+Financial securities
+The Organisation is required to provide financial security in accordance with clause 6.5. 
+The financial security must be in the amount of insert amount.
+If no financial security is required, delete the above two sentences and insert the words "None required".
+Other securities
+The Organisation is required to provide other securities in accordance with clause 6.6 as follows: 
+(a) The insert name of other security must be in the form of insert form required.
+(b) The insert name of other security must be in the form of insert form required.
+If no other security is required, delete paragraphs (a) and (b) and insert the words "None required". 
+
+
+
+
+
+
+
+Executed as an agreement.
+
+Signed for and on behalf of the  Commonwealth of Australia as represented by the Department of Health and Ageing ABN 83 605 426 759 on:
+
+
+Date
+Signature of Witness
+
+
+Signature of Authorised PersonName of Witness in fullName of Authorised Person in full
+
+
+Signed for and on behalf of 
+insert Name of Organisation 
+ABN insert number on:
+
+
+Date
+Signature of Witness
+
+
+Signature of Authorised PersonName of Witness in fullName of Authorised Person in full 
+Legal\106279620.4
+
+		
+
+Legal\106279620.4
+
+	
+		iv
+
+		46
+
+
+
+
+
+		56
+
+
+
+
+
+OATSIH Capital Works Funding Agreement Nov 07 V9
+Legal\106225730.5106279620.4
+

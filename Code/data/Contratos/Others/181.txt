@@ -1,0 +1,126 @@
+
+
+Acceptance of this offer is subject to the terms and conditions of this Agreement. Acceptance of materials, work or services, payment or any inaction by Company Drilling Pty Ltd, (Company) shall not constitute the Company's consent or acceptance of any such terms. Upon acceptance, the terms contained in this Agreement shall constitute the entire agreement the Company and the Supplier with respect to the subject matter of this Agreement an order(s) and shall not be modified or rescinded nor any terms stated by the Supplier in accepting or acknowledging this order shall be binding upon Company unless accepted in writing by the nominated Company  Representative.  The terms and conditions of this Agreement constitutes the entire agreement and supersede all contemporaneous oral agreements and all prior oral and written communications and understandings of the parties with respect to the subject matter of this Agreement.
+
+Contract:
+The delivery of the Purchase Order Documents (whether electronically or otherwise) by Company to the Supplier shall constitute the contract between Company and the Supplier for the provision of the Goods and Services stated in the Purchase Order Documents. The Company Purchase Order Terms and Conditions specified herein shall form part of the Purchase Order Documents delivered by Company to the Supplier unless otherwise stated in the Purchase Order Documents.
+The Contract is formed when the Supplier:
+(a) confirms (verbally or in writing) acceptance of the order; or
+(b) provides the Goods and Services to Company .
+ Subcontract Work Requiring Approval:
+The Supplier may not subcontract any part of the provision of the
+Goods and Services set out in the Purchase Order Documents unless the subcontractor has been nominated in the Supplier's tender submission (if any) and the prior written approval of Company has been obtained. The Supplier shall be liable to Company for the acts, defaults or omissions of subcontractors, employees and agents of subcontractors as if they were those of the Supplier. Approval to subcontract shall not relieve the Supplier from any liability or obligation under this Contract.
+
+Quantity of Goods:
+The quantity of Goods delivered shall not be greater than the amount  specified in the Purchase Order Documents. Company may return excess quantities to Supplier at the Supplier's expense.
+
+Delivery: 
+The Supplier shall deliver the articles in accordance with the terms specified in the order and at the time or times nominated by Company. The Supplier shall unload the articles at the delivery point. The Supplier shall immediately advise the Company in writing of any circumstances that may cause delay in delivery, the action taken to avoid or minimise the delay and the estimated period of delay. 
+
+Passing of Title: 
+Except if title has heretofore passed to Company  or Company's customers under other provisions of this order,  title to the articles shall always pass to Company  upon completion of unloading of such articles at the delivery point even in the event of any clause to the contrary in the suppliers invoice documentation.
+Extras:
+ No charges will be allowed for transportation packing or returnable  containers unless stated. All shipments must be packaged and must conform with the Company packaging specifications referred to elsewhere in this order if any, and so as to permit efficient handling and to provide protection in shipment. If tendered to a common carrier for delivery, packaging must also conform to the packaging requirements applicable to such carrier, and acts of the common carrier shall be deemed to be acts of the Supplier. Repairs for damage to any articles resulting from improper packaging will be charged to Supplier.
+
+Payment:
+ The price noted on the order is a firm price and is not subject to rises and falls. Payments shall be deemed to have been made on the date on which the cheque or electronic transfer for payment is drawn by the Company. The Company shall pay for the articles on normal 30 days Terms.
+
+Invoices:
+Invoices may only be rendered on or after delivery of the relevant Goods and Services and must show the Purchase Order number, item number and, if delivery is DDP (Incoterms), the location to which the Goods were delivered or shipped. If any GST, sales tax, duty, excise or other similar tax or charge, for which Company  has not furnished or agreed to furnish an exemption certificate, is applicable to the Purchase Order, it must be stated separately on the invoice. The Supplier must submit all invoices to either:
+
+Electronic Invoices:
+accounts_icondrilling@iconenergy.com
+
+Mail Invoices:
+Icon Drilling Pty Ltd
+Attention: Accounts 
+PO Box 3366
+Robina TC
+QLD Australia 4230
+
+ Inspection and Defective Goods and Services:
+Supplier agrees that the Company or its designated agent shall have the
+right of inspection of all work contained in the Purchase Order Documents at any time and during any stage of engineering, manufacture, or installation of Goods and provision of Services. The Company or its designated agent shall have the power to reject any work performed or being performed that does not conform to the Purchase Order Documents. If upon inspection any Goods and Services are found to be unsatisfactory, defective or of inferior
+quality or workmanship or fails to meet the specifications or any other requirements of the Company's Purchase Order Documents ("Defective Goods and Services"), the Company may:
+(a) in the case of Goods not yet delivered, reject the work;
+(b) in the case of Goods delivered, return such Goods to the
+Supplier at Supplier's expense; and
+(c) in the case of Services, reject the Services supplied. Upon rejection or return of any Defective Goods and Services, and without limiting the Company's rights under this Contract, the Supplier shall:
+(a) in the case of Goods not yet delivered redo the work at no additional cost to the Company's; 
+(b) in the case of Goods delivered, reimburse the Company for:- (i) Any amounts paid by the Company on account of the purchase price of the Defective Goods, and (ii) Any cost incurred by the Company in connection with the delivery or return of such Goods.
+(c) in the case of Services, re-perform the Defective Services, at no cost to the Company and at a time convenient to the Company. If the Supplier fails to remedy any defect or default to the satisfaction of the Company then the Supplier agrees that the same may be remedied by the Company at the cost of the Supplier. The Supplier shall make this clause a condition of any subcontracted work. Any inspection or lack of inspection shall not relieve the Supplier of any obligations contained in the Purchase Order Documents and any payment for Goods and Services prior to inspection shall not be construed to be an acceptance of Defective Goods and Services.
+
+Warranty: 
+Supplier acknowledges and warrants that:
+(a) it is registered and holds all requisite licences, permits etc, required by Law and that are necessary to properly provide the Goods and Services and that such registration or licences / permits will remain current for the period of this Contract.
+(b) that all work shall be performed in the best and workmanlike manner and acknowledges that the Company entered into this Contract relying on the particular skill, competence, experience and ability of the Supplier to provide the Goods and Services.
+(c) The Supplier has sufficient resources of all kinds to maintain efficient and timely provision of the Goods and Services.
+(d) The Supplier has knowledge of all the applicable Laws, business practices and standards which must be followed in providing the Goods and Services and will comply with all applicable laws and standards.
+(e) All consents and a non-exclusive, irrevocable, royalty-free, transferable, paid up licence for the use of any third party intellectual property has been obtained.
+(f) in the case of Goods, the Goods will conform to its description in the Purchase Order Documents and any applicable specifications and shall be of good merchantable quality, free from defects in material and workmanship and fit for the purpose for which it is sold (if known to the Supplier) or for
+which such Goods is normally sold (in any other case). This warranty is in addition to and not to the exclusion of any warranty or service guarantee stated in the Purchase Order Documents or implied by law.
+
+Australian Acceptable Electrical / Field Codes:
+All electrical goods must be as specified and meet Australian Standard Electrical codes, in the case of electrical devices used in the Explosive gas zones at the rig all electrical goods must be explosion proof as specified by the Company.
+
+ Patents, Trademarks & Copyrights:
+Supplier warrants that the sale or use of the Goods or provision of the Services will not infringe or contribute to the infringement of any patents, trademarks or copyrights in either Australia or any foreign country. Supplier shall indemnify the Company against any loss or damage (including attorney's fees and other costs of defending an action) arising from breach of this warranty. This indemnity shall continue not withstanding any cancellation of order or termination of this agreement.
+
+Intellectual Property:
+Copyright and property in all Vendor Data created by the Supplier in providing the Goods and Services shall vest with the Supplier and the Supplier grants Company an irrevocable, paid-up, non-exclusive,  transferable and royalty free licence to use the Vendor Data for any purpose. The Supplier shall do everything necessary to perfect such a licence. Notwithstanding any provision of this Contract, the Supplier indemnifies Company  against any claims made by a third party in respect of the use of any intellectual property for or in connection with any Goods or Services supplied under this Contract.
+
+Excusable Delays: 
+Neither party shall be liable for damages for delay in delivery arising out of
+causes beyond its reasonable control and without its fault or negligence including but not limited to acts of God, or of criminals, or acts of the  Government, fires, floods, epidemics, quarantine restrictions, and
+unusually severe weather. However this clause shall not apply to strikes, design errors, manufacturing errors or equipment failure in any circumstances. The Supplier will notify Company  in writing within ten (10) working days after the beginning of any such cause. Buyer may terminate the order at no charge if the delay under this clause continues for more than 45 days.
+
+Termination: 
+(a) The Company may terminate this order if Supplier: (i) fails to comply with any of the provisions hereof; (ii) fails to remedy breach within seven days of notice of breach by Company; (iii) is insolvent; or (iv)if Supplier becomes the subject of administration, liquidation, a proceeding for relief of debtors or
+makes an assignment for the benefit of creditors. (b) Without affecting its right to terminate this order under paragraph (a) hereof, Company  may for its convenience terminate this order in whole or from time to time in part provided that the Company is paid reasonable compensation (calculated on the same basis as purchase order pricing) for work started but  not completed. The Supplier and shall provide auditable details of its proposal for such compensation within seven days of receiving a notice under this clause
+10(b), and at any other time at the request of the Company. Company may withdraw a notice under this clause 10(b) within 14 days of receiving the Supplier's compensation proposal. If the parties do not agree on compensation, and the notice is not withdrawn, either party may refer the matter to the disputes process.
+
+Gratuities: 
+Supplier warrants that not any of its employees agents or representatives has offered or given any gratuities to the Company's employees, officers, agents or representatives with a view toward securing this order or securing favourable treatment with respect thereto.
+
+ Rights, Remedies and Waiver:
+ The rights and remedies provided to Company herein shall be cumulative and in addition to any other rights and remedies provided by law or equity. A waiver of a breach of any provision hereof shall not constitute a waiver of any other breach. The laws of Queensland shall apply, and the Seller hereby submits to the jurisdiction of the courts of that State.
+
+Vendor Data:
+Supplier shall furnish all Vendor Data required by and within the time stated in the Purchase Order Documents. At commencement of the Contract,  Company  may nominate and hold retention until all Vendor Data is complete, submitted and accepted. 
+
+Requirements of Supplier:
+The Supplier agrees that the Supplier: (a) shall supply all labour, tools, equipment and materials necessary to complete the work. (b) shall use its best endeavours not to impede or interfere with other work in progress on the Company's premises.
+(c) its employees, servants and agents enter the Company's premises at
+their own risk and shall also be liable for and indemnify Company against any loss, damage, claims or liability arising directly or indirectly out of the performance of the work or presence on Company premises including claims against Company  whether alleging negligence of the Company or otherwise.
+(d) shall at its own expense obtain all requisite licences and permits and comply with all laws and regulations in connection with the provision of Goods and Services.
+(e) will: (i) pay all wages, superannuation and any other contributions or payments required by law to be paid by an employer in respect of persons supplied by the Supplier in the provision of the Goods and Services,
+including without limitation, payroll tax; and (ii) make all appropriate deductions from their wages in respect of income tax required by law to be made.
+(iii) indemnify and keep indemnified, the Company  from and against any payments required to be made by the Supplier in respect of the persons referred to in sub-clause 22(e)(i).  
+(f) performs all work as an independent contractor and not as an agent or employee of Company
+(g) shall, prior to commencement of work at the Company 's premises provide  the Company with notification of the Supplier's Workers Compensation Registration Number.
+
+Confidentiality
+The Supplier will and will ensure that its employees, subcontractors
+and agents keep all information provided or available to the Supplier
+as a consequence of undertaking the work, confidential. The Supplier will immediately advise the Company's Legal Manager in the event that a breach of confidentiality has occurred by the Supplier, its employees, subcontractors, officers and/or   agents. 
+
+General
+(a) The law of Queensland shall apply to this Contract. The parties irrevocably and unconditionally submit themselves to the exclusive jurisdiction of the courts of Queensland. 
+(b) If any provision or part of a provision of this Contract is void,
+invalid or unenforceable for any reason, that provision or part of the provision may be severed from this Contract and does not affect the validity, operation or enforceability of any other provision of this Contract.
+(c) Each party bears its own cost to do all things reasonably to give effect to this Contract.
+(d) No variation to this Contract will be binding on the parties unless agreed in writing.
+
+Disputes:
+a) Any Party who claims that a dispute has arisen with respect to this Agreement or its subject matter must give written notice of the dispute to the other Party, outlining the grounds of dispute.
+(b) Each Party's representatives must attempt to resolve the dispute through discussions/ negotiations within ten (10) business days of receipt of the notice. 
+(c) If after the expiry of any time established by or agreed under this clause for reaching agreement, the dispute is to be resolved by expert determination if both parties agree. To this end, the dispute must be determined by a person who both parties agree upon and who the parties deem is an expert and if the parties cannot agree on the appropriate person to be the expert, then a person appointed by the Queensland Law Society. When making his or her determination, the appointed person will act as an expert and not as an arbitrator and his or her determination will be final and binding on the parties. The costs of determination must be paid equally by the parties unless otherwise decided by the appointed person.
+
+	ICON DRILLING PTY LTD 			
+	ABN 067 226 484			
+Purchase Order 
+Terms & Conditions		
+
+1
+
+

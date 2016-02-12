@@ -1,0 +1,135 @@
+VERSION 3.3
+PROFORMA DEED OF GUARANTEE FOR CREDIT SUPPORT
+
+THIS DEED is made the                day of                                        200  .
+BY
+[Insert name and ABN of Entity] of [insert address] ("Credit Support Provider") 
+IN FAVOUR OF
+INDEPENDENT MARKET OPERATOR (ABN 95 221 850 093) of 221 St Georges Terrace Perth, Western Australia ("IMO").
+RECITALS
+A. The IMO is a body corporate formed under the Electricity Industry (Independent Market Operator) Regulations 2004.
+B. The IMO administers the process for the provision of Credit Support under Chapter 2 of the Wholesale Electricity Market Rules ("Rules").
+C. The IMO has developed the Market Procedure for Prudential Requirements ("Market Procedure"), which is a market procedure under clause 2.43.1 of the Rules and regulation 9 of the Electricity Industry (Wholesale Electricity Market) Regulations 2004 ("Regulations").
+D. [Insert name and ABN of Market Participant] ("Market Participant") is registered as a Rule Participant under Chapter 2 of the Rules.
+E. The Market Participant is required under clause 2.38.1 of the Rules to arrange Credit Support, in accordance with the Rules and the Market Procedure, to the IMO in respect of the Market Participant's obligations under the Market Rules.
+F. If the Market Participant does not meet the requirements of clause 9.22.6 of the Rules, then under clauses 9.23.4 and 9.24 of the Rules the Market Participant will be liable to pay the Maximum Amount, or part of the Maximum Amount, to the IMO.
+G. The IMO has agreed to accept this Guarantee as the Market Participant's Credit Support under the Rules and the Market Procedure.
+H. If the Depositor's Credit Limit is increased, the existing Credit Support is no longer current or valid, or the IMO draws upon the Credit Support then the Market Participant is required to produce further Credit Support in accordance with clause 2.38.3 the Rules.
+THE PARTIES AGREE:
+1. DEFINITIONS AND INTERPRETATION
+1.1 Unless otherwise provided for, terms used in this Guarantee which are defined in the Rules or Market Procedure have the same meaning as in the Rules and the Market Procedure.
+1.2 The following principles of interpretation apply:
+(a) references to any statute, statutory provision, order, regulation or rule include that statute, provision, order, regulation or rule as amended, modified, re-enacted or replaced from time to time whether before or after the date hereof;
+(b) headings to clauses are for information only and do not affect the interpretation of this Guarantee;
+(c) references in this Guarantee to any agreement, deed or document (including, without limitation, references to this Guarantee) shall be deemed to include references to such agreement, deed or document as varied, amended, modified, supplemented or replaced from time to time;
+(d) "under" includes by, by virtue of, pursuant to and in accordance with;
+(e) "including" and similar expressions are not words of limitation; and
+(f) where a word or expression is given a particular meaning, other parts of speech and grammatical forms of that word or expression have a corresponding meaning.
+2. GUARANTEE
+The Credit Support Provider unconditionally and irrevocably guarantees to the IMO the due and punctual payment by the Market Participant from time to time of any and all amounts to an aggregate amount not exceeding [insert amount of Credit Support in words and figures] ("Maximum Amount").  
+3. DEMAND
+3.1 A demand from the IMO under this Guarantee must:
+(a) specify that it is made under this Guarantee;
+(b) subject to clause 2, specify the amount demanded;
+(c) specify the manner in and the account to which the Credit Support Provider is to pay the amount demanded by the IMO under clause 3.1(b); and
+(d) be executed by the IMO in accordance with regulation 52 of the Electricity Industry (Independent Market Operator) Regulations 2004.
+3.2 Unless otherwise specified in the demand, the Credit Support Provider must pay the amount specified in clause 3.1(b) in cleared funds in the manner and to the account specified in the written demand under clause 3.1(c) within ninety (90) minutes of the demand being made.
+3.3 The Credit Support Provider must make the payment demanded:
+(a) without reference to the Market Participant; 
+(b) despite any contrary notice or direction from the Market Participant; and
+(c) despite the IMO not having made a prior demand for the amount from the Market Participant.
+4. OTHER MATTERS
+4.1 This Guarantee is a primary obligation and is not ancillary or collateral to any other obligation.  This Guarantee is not reduced, impaired, discharged or otherwise affected by anything which might otherwise affect it, or would discharge a surety, at law or in equity including but not limited to any extension or variation to the Rules (including the Market Participant's obligations under the Rules) or time or other indulgence of forbearance on the part of the IMO or the Market Participant to each other made or agreed with the Credit Support Provider's knowledge or consent.
+4.2 The Credit Support Provider irrevocably waives, to the fullest extent it is permitted to do so by law, any right to claim sovereign immunity for itself and its assets (including from jurisdiction, enforcement or execution) to which it might otherwise be entitled in any action based on this Guarantee which may be instituted in a competent court.
+5. EFFECTIVE DATE
+This Guarantee takes effect on and from the date of this Guarantee.
+6. TERMINATION
+6.1 This Guarantee continues until it is terminated. 
+6.2 This Guarantee is terminated by the first to occur of:
+(a) the Credit Support Provider receiving a notice in writing from the IMO that the Guarantee is no longer required;
+(b) this Guarantee is returned to the Credit Support Provider; or 
+(c) replacement of this Guarantee by another guarantee in a form satisfactory to the IMO for the Maximum Amount.
+6.3 Once this Guarantee has been terminated, for any of the reasons specified above, then the IMO must return it to the Credit Support Provider immediately.
+7. REPRESENTATIONS AND WARRANTIES
+7.1 The Credit Support Provider warrants and represents that as at the date of execution of this Guarantee:
+(a) any authorisations, consents, approvals and licenses required or necessary for the Credit Support Provider to:
+(i) enter into this Guarantee;
+(ii) enter into the transactions the subject of this Guarantee;
+(iii) undertake and perform the obligations imposed on it by this Guarantee
+have been obtained;
+(b) this Guarantee creates valid and binding obligations of the Credit Support Provider which are enforceable in accordance with their terms; 
+(c) the execution of this Guarantee and the performance of its terms do not contravene any law, regulation or contractual restriction binding on the Credit Support Provider; and
+(d) it and its assets do not have immunity from the jurisdiction of the courts of Western Australia or from legal process (whether through service of notice, attachment prior to judgment, attachment in aid of execution, execution or otherwise). 
+7.2 The representations and warranties in clause 7.1 shall survive the execution of this Guarantee and the termination of this Guarantee.
+7.3 The Credit Support Provider covenants with the IMO to indemnify and keep indemnified the IMO from and against any loss, damage, cost, expense or claim which the IMO may suffer or incur in connection with or in consequence of any breach of any of the representations and warranties in clause 7.1.
+8. FURTHER ASSURANCE
+Each party must promptly, at its own cost and expense, execute all documents and do all things that may reasonably be required by the other party to effect, perfect or complete the provisions of this Guarantee and any transaction contemplated by it.
+9. WAIVER
+No delay or omission of either party in exercising any right, power or privilege in this Guarantee impairs such right, power or privilege or is to be construed as a waiver of such right, power or privilege nor shall any single or partial exercise of any such right, power or privilege preclude any further exercise of it or the exercise of any other right, power or privilege.  The rights and remedies of each party in this Guarantee are cumulative and not exclusive of any rights or remedies provided by law.
+10. COUNTERPARTS
+This Guarantee may be executed in any number of counterparts, all of which taken together are deemed to constitute one and the same instrument.
+11. NOTICES
+11.1 Any notice, demand or other communication ("notice") to be served under this Guarantee may be served upon any party only if it is communicated in writing and sent to:
+(a) in the case where it is delivered personally to the party - the party's place of business; 
+(b) in the case where it is sent by certified mail addressed to the party - the party's postal address; or
+(c) in the case where the notice is sent by facsimile transmission to the party -the party's facsimile number. 
+11.2 For the purposes of clause 11.1 and until another address or facsimile number has been notified by a party to the other party in accordance with clause 11.1, the addresses and facsimile numbers of the parties are:
+(a) Credit Support Provider:
+(i) Place of Business: [insert address for service by personal delivery]
+(ii) Postal Address: [insert address for postal service]; and
+(iii) Facsimile: [insert facsimile number for service]
+(b) IMO:
+(i) Place of Business: Level 22, 221 St Georges Terrace, Perth, Western Australia, 6000; and
+(ii) Postal Address:  PO Box 7096, Cloisters Square, Perth  Western Australia  6850
+(iii) Facsimile: +61 (0) 8 9254 4399
+11.3 A notice that is:
+(a) personally delivered is deemed received at the time it is handed (with or without acknowledgement of delivery) to any person at the recipient's place of business who in the reasonable judgment of the person making the delivery (upon making appropriate enquiries) appears to be, and represents himself or herself as, a representative of the recipient;
+(b) served by certified mail is deemed received on the second Business Day after the date of posting; and 
+(c) sent by facsimile transmission is deemed to have been received at the time of transmission unless it is received after 5.00pm Perth time in which case it will be deemed received at 9.00am Perth time on the next Business Day.
+12. GOVERNING LAW AND SUBMISSION TO JURISDICTION
+This Guarantee is governed by and shall be construed in accordance with the laws of Western Australia and the parties shall submit to the exclusive jurisdiction of the courts of Western Australia.
+13. INVALIDITY AND SEVERANCE
+If at any time one or more provisions of this Guarantee is or becomes invalid, illegal, void or unenforceable under any law, the remaining provisions of this Guarantee shall not be in any way affected or impaired and shall continue in full force and effect.
+14. STAMP DUTY
+The Depositor is liable for and shall duly pay any and all stamp duty which is assessed or payable in respect of this Guarantee or any transactions it evidences or contemplates.
+
+EXECUTED AS A DEED  
+[Credit Support Provider - please select applicable execution clause]
+
+EXECUTED by				)
+[insert name and ABN of Credit Support Provider]		)
+pursuant to section 127 of the Corporations Act 2001	)
+ 
+ 
+.......................................................		.................................................
+DIRECTOR	DIRECTOR/SECRETARY
+......................................................	......................................................
+NAME (Please Print)	NAME (Please Print)
+
+EXECUTED FOR AND ON BEHALF OF 		)
+[insert name and ABN of Credit Support Provider]	)
+by its attorney in the presence of				)
+ 
+ 
+.......................................................		.................................................
+WITNESS	ATTORNEY
+......................................................	......................................................
+NAME (Please Print)	NAME (Please Print)
+
+
+THE COMMON SEAL of			)
+[insert name and ABN of Credit Support Provider]		)
+the fixing of which was witnessed by:			)
+
+
+
+.......................................................		.................................................
+DIRECTOR	DIRECTOR/SECRETARY
+......................................................	......................................................
+NAME (Please Print)	NAME (Please Print)
+- 6 -
+
+Dated: 30/08/2005 2:16 PM			i #569327 V15
+
+Dated: 30/08/2005 2:16 PM			i #569327 V15
+

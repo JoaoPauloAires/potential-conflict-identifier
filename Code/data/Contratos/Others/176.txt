@@ -1,0 +1,290 @@
+OPTUS DIGITAL MOBILE SERVICE
+SERVICE DESCRIPTION
+
+Click on the section that you are interested in
+
+1.	ABOUT THIS SERVICE DESCRIPTION	3
+2.	THE SERVICE	3
+2.1	What is the service?	3
+2.2	Who supplies the service?	4
+2.3	Coverage	4
+2.4	Use of the service	5
+3.	SERVICE CHARGES	5
+3.1	What does the cost of the service depend on?	5
+3.2	Can you change your pricing plan?	6
+4.	CANCELLATION FEES	6
+4.1	What is the cancellation fee based on?	6
+4.2	Cancellation fees where the agreement has a 24 month minimum term	6
+4.3	Cancellation fees where the agreement has an 18 month minimum term	7
+4.4	Cancellation fees where the agreement has a 12 month minimum term	8
+5.	OPTUS SIM CARD	8
+5.1	What do I need to connect to the service?	8
+5.2	Who owns the Optus SIM card?	8
+5.3	What do you do if your Optus SIM card is lost or stolen?	8
+5.4	Replacing the Optus SIM card	9
+6.	PHONE NUMBERS	9
+6.1	How do you obtain a phone number?	9
+6.2	How are phone numbers issued?	9
+6.3	Can we change the phone number we have issued to you?	9
+6.4	Can you change the phone number we have issued to you?	10
+6.5	Who owns the phone number?	10
+6.6	Our liability to you in respect of phone numbers	10
+7.	MOBILE NUMBER PORTABILITY	10
+7.1	Porting from another carrier or carriage service provider	10
+7.2	Porting from us	11
+8.	YOUR MOBILE PHONE	11
+8.1	Provision of the mobile phone	11
+8.2	Providing proof of ownership of your mobile phone	11
+8.3	Your responsibilities in relation to your mobile phone	12
+8.4	What can we do if your mobile phone is faulty or interferes with the service?	12
+9.	LOST OR STOLEN MOBILE PHONE	12
+9.1	What should you do if your mobile phone is lost or stolen?	12
+9.2	What charges will you incur when there is a bar on calls or Optus IMEI blocking is activated?	13
+9.3	Unbarring calls or de-activating Optus IMEI blocking	13
+9.4	Important things to note whilst your mobile phone is barred or Optus IMEI blocking is activated	13
+9.5	In what other circumstances could we block your mobile phone?	13
+9.6	Who do we inform that your mobile phone is blocked or unblocked?	14
+10.	PHONE NUMBER DISPLAYS	14
+10.1	CLI	14
+10.2	SMS and MMS	14
+11.	ACCESS RESTRICTIONS	14
+11.1	Barring of calls made from the mobile phone	14
+11.2	Barring of calls to 1900 numbers	14
+12.	TEMPORARY SUSPENSION OF THE SERVICE BY YOU	14
+12.1	Can you temporarily suspend the service?	14
+12.2	Will you be charged a fee for temporarily suspending the service?	15
+12.3	Will you have to pay access fees whilst the service is temporarily suspended?	15
+12.4	For how long can we temporarily suspend the service?	15
+13.	BARRING AS AN ALTERNATIVE TO SUSPENSION	15
+14.	SUPPLIER AND THIRD PARTY SERVICES	15
+15.	WHAT DO TERMS IN THE AGREEMENT MEAN?	16
+
+1. ABOUT THIS SERVICE DESCRIPTION
+(a) This is the service description for the Optus Digital Mobile Service.  
+(b) The agreement is made up of: 
+(i) your application, 
+(ii) consumer terms or SMB terms (as applicable to you), 
+(iii) this service description
+(iv) the standard pricing table (SMB) or standard pricing table (consumer) and 
+(v) the appendices.
+(c) You may obtain a copy of the latest version of the consumer terms or SMB terms, service description, standard pricing table (SMB) or standard pricing table (consumer) and appendices from us or on our website: www.optus.com.au/standardagreements. 
+(d) Where you may be charged a fee or charge, then this fee or charge is set out in the standard pricing table (SMB) or standard pricing table (consumer).  Please check the standard pricing table (SMB) or standard pricing table (consumer) carefully to see what fees and charges apply to your use of the service.
+(e) The meaning of the words printed like this is set out at the end of this service description or in the consumer terms or SMB terms (as applicable to you). 
+2. THE SERVICE
+2.1 What is the service?
+(a) The service allows you to:
+(i) make calls from and receive calls to your mobile phone, 
+(ii) send content from and receive content to your mobile phone, and
+(iii)  subject to clause 2.1(b), use a range of value added service features,
+on our network for your own personal or business use only.
+(b) We do not activate all value added service features when you connect to the service.  Many value added service features require specific equipment to use them (for example video calls access the Optus 3G network and you will need a compatible mobile phone to make these calls using the service).  Appendix Y contains detailed information on the value added service features available to use with the service including whether there are special activation procedures, equipment requirements or limitations on use.
+2.2 Who supplies the service?
+Optus Mobile Pty Limited (ABN 65 054 365 696) supplies the service to you.
+2.3 Coverage
+(a) The service is not available in all areas of Australia.   You may obtain coverage maps showing where the service is available in Australia from us or from our website: www.optus.com.au  
+(b) In areas that the service is available, it is technically impracticable for us to guarantee that:
+(i) the service is available in each place within an area where there is coverage,
+(ii) 'drop-outs' will not occur during a call, and 
+(iii)  there will be no congestion on our network.
+(c) Certain value added service features are only available in specific network coverage areas.  For example, some value added service features are only available in our Optus 3G network coverage areas.  The description of the value added service feature in Appendix Y  and the Optus Thuraya Service Service Description will tell you if availability of the value added service feature is limited to specific network coverage areas.
+(d) Roaming is not available in all countries or in all areas of those countries.  The countries where roaming is available may change.  You can obtain information on where roaming is available from us or from our website: www.optus.com.au
+(e) Due to technical reasons, we are not able to guarantee that calls to '13' prefix numbers will be diverted to the nearest location for that '13' prefix number.
+2.4 Use of the service
+(a) In addition to any other obligations you may have under the agreement (including your obligations under the consumer terms or the SMB terms (as applicable to you) and the Optus Mobile Fair Go Policy (Appendix W )), you must not:
+(i) make or receive calls or send or receive content on our network other than for your own personal or business use, as described in clause 2.1 above,
+(ii) wholesale any service (including transit, refile or aggregate domestic or international traffic) on our network, or
+(iii) use the service (including any Optus SIM card) in connection with a device that switches or reroutes calls to or from our network or the network of any supplier,
+without obtaining our written consent first.  We may give or withhold our consent, or make our consent subject to conditions, in our discretion.
+(b) If you breach paragraph (a) above, we may, in addition to and without limiting our other rights under the agreement, immediately suspend or cancel the service by giving you notice. 
+(c) Change of ownership is permitted during the minimum term as long as the new applicant meets our credit assessment criteria and both you and new owner agree to the conditions on the Optus Change of Ownership form.
+3. SERVICE CHARGES
+3.1 What does the cost of the service depend on? 
+The cost of the service depends on:
+(a) the pricing plan you select, 
+(b) your use of the service (including, for example, length of call, time and day of call (which may not be the local time where the call is made), destination of call and call type, and your use of any value added service features), and
+(c) any changes you make to your pricing plan, the value added service features you use or acquire and if you accept the terms of a special.
+3.2 Can you change your pricing plan? 
+You may change pricing plan:
+(a) if your current pricing plan allows you to change, and
+(b) if you meet the eligibility criteria of the pricing plan to which you are wanting to change (for example, if you are changing from a pricing plan with lower charges to a pricing plan where there are higher charges that you meet the credit requirements of the pricing plan with higher charges).
+4. CANCELLATION FEES
+4.1 What is the cancellation fee based on?
+The cancellation fee is based on:
+(a) the maximum cancellation fee, 
+(b) the minimum term of the agreement, and
+(c) when you cancel the agreement.
+4.2 Cancellation fees where the agreement has a 24 month minimum term 
+If the minimum term of the agreement is 24 months, the cancellation fee payable is:
+
+
+
+Time of cancellation (number of months after the service start date)Cancellation fee payable (% of the maximum cancellation fee)0 to 1210013 to 158016 to 186019 to 214022 to 2420
+4.3 Cancellation fees where the agreement has an 18 month minimum term
+If the minimum term of the agreement is 18 months, the cancellation fee payable is:
+Time of cancellation (number of months after the service start date)Cancellation fee payable (% of the maximum cancellation fee)0 to 910010 to 127513 to 155016 to 1835
+4.4 Cancellation fees where the agreement has a 12 month minimum term
+If the minimum term of this the agreement is 12 months, the cancellation fee payable is:
+Time of cancellation (number of months after the service start date)Cancellation fee payable (% of the maximum cancellation fee)0 to 61007 to 97010 to 12405. OPTUS SIM CARD
+5.1 What do I need to connect to the service?
+(a) To be able to connect to the service, you need an Optus SIM card.  
+(b) If you do not already have an Optus SIM card for use with the service, we will give you an Optus SIM card.  You may have an Optus SIM card if you transfer from our pre-paid mobile service to the service.
+5.2 Who owns the Optus SIM card?
+(a) We own the Optus SIM card and it remains our property at all times.  
+(b) We may request that you return the Optus SIM card if we issue you with a replacement Optus SIM card or we no longer supply the service to you.
+(c) You must not interfere with or impair the operation of the Optus SIM card.
+5.3 What do you do if your Optus SIM card is lost or stolen?
+(a) We are not responsible for any lost or stolen Optus SIM cards. 
+(b) You must notify us as soon as possible if the Optus SIM card we have given you is lost or stolen and we will bar outgoing calls, suspend the service or activate Optus IMEI blocking on your mobile phone (see clause 9 below).  
+(c) You are responsible for all charges for calls made using the lost or stolen Optus SIM card up until the time you notify us that your Optus SIM card has been lost or stolen and we bar outgoing calls, suspend the service or activate Optus IMEI blocking (see clause 9 below).
+5.4 Replacing the Optus SIM card
+Unless you are otherwise in breach of the agreement, we will replace the Optus SIM card (including where your mobile phone has been lost or stolen or the Optus SIM card has been damaged), and may charge a replacement fee.
+6. PHONE NUMBERS 
+6.1 How do you obtain a phone number?
+If you do not already have a phone number for your mobile phone for use with the service, we will issue you a phone number. 
+6.2 How are phone numbers issued?
+(a) All phone numbers are selected, issued and used by us in accordance with ACMA's Numbering Plan and Telecommunications Numbering Plan Number Declarations (numbering regulations).  
+(b) For an additional charge, you may apply for a specific phone number.
+6.3 Can we change the phone number we have issued to you? 
+(a) We may be required to recover or recover and replace a phone number we have issued to you in order for us to comply with the numbering regulations.  
+(b) We will give you as much notice as is reasonably practicable if we have to do this.
+6.4 Can you change the phone number we have issued to you?
+(a) You may request a new phone number.  If we agree to issue you a new phone number, you may have to pay a charge.
+(b) If you need a new phone number because you have received calls of a harassing nature and you reported the matter to the relevant law enforcement agency, we will supply you with a new phone number free of charge on the first two occasions. You will have to pay a charge for any further phone number changes.
+6.5 Who owns the phone number?
+(a) You do not own the phone number but your right to use the phone number starts when we issue the phone number to you.
+(b) Your right to use the phone number ends if you no longer obtain the service unless you port the phone number (see clause 7 below).  
+(c) If you stop obtaining the service and do not port the phone number, we may issue the phone number to another customer in accordance with the numbering regulations.
+6.6 Our liability to you in respect of phone numbers
+We are not liable to you for any expense or loss incurred by you due to:
+(a) any recovery or recovery and replacement of the phone number under clause 6.3 above, or
+(b) you ceasing to have the right to use the phone number under clause 6.5(a) above.
+7. MOBILE NUMBER PORTABILITY
+7.1 Porting from another carrier or carriage service provider
+(a) You may be able to port a phone number you have obtained from another carrier or carriage service provider when you connect to the service.  
+(b) We will not charge you a fee for porting a phone number from another carrier or carriage service provider. 
+(c) You must not cancel the service you have with the other carrier or carriage service provider before you port the phone number.  We will inform the carrier or carriage service provider from which you have ported the phone number that you have ported the phone number and they will cancel the service.
+(d) You may need a new mobile phone or you may need to have your mobile phone unlocked if you are porting between different types of mobile networks.
+7.2 Porting from us
+(a) You can port a phone number you have obtained from us for use with the service to another carrier or carriage service provider.  
+(b) We may charge you a fee to port the phone number to another carrier or carriage service provider. 
+(c) You must not cancel the service before you port the phone number.  The carrier or carriage service provider to which you have ported the phone number will inform us that you have ported the phone number and we will cancel the service.
+(d) You can only port the phone number, you cannot port any value added services.
+(e) You may only port a phone number for which you are the authorised customer.
+8. YOUR MOBILE PHONE
+8.1 Provision of the mobile phone
+You may obtain a mobile phone from us for use with the service under a mobile equipment payment plan or you may choose to use a mobile phone you have or have obtained from a third party.  
+8.2 Providing proof of ownership of your mobile phone
+(a) To protect consumers from illegal trade in mobile phones, if we have a reasonable belief that your mobile phone is stolen, we may ask you to provide proof of ownership of your mobile phone.  
+(b) If we ask you to provide proof, you must provide us with that proof within ten (10) business days.
+8.3 Your responsibilities in relation to your mobile phone
+(a) Unless you obtain the mobile phone from us for use with the service, we make no warranty under the agreement:
+(i) that the mobile phone is suitable for use in connection with the service or any value added service features, or
+(ii) about the quality of the mobile phone.
+(b) Unless you obtain the mobile phone from us for use with the service, you are responsible for making sure that:
+(i) all regulatory approvals for your mobile phone have been obtained, and
+(ii) your mobile phone complies with all relevant technical regulations and specifications at all times.
+(c) You are responsible for the maintenance of your mobile phone.
+8.4 What can we do if your mobile phone is faulty or interferes with the service?
+If your mobile phone appears to be faulty or interferes with the service, we are entitled to require you to:
+(a) provide your mobile phone for us to inspect, and/or
+(b) cease using that mobile phone until the problem has been corrected.
+9. LOST OR STOLEN MOBILE PHONE
+9.1 What should you do if your mobile phone is lost or stolen?
+If your mobile phone is lost or stolen, you may contact us to request: 
+(a) incoming and outgoing calls be temporarily barred, and/or  
+(b) Optus IMEI blocking be activated, or
+(c) if you are on a non fixed-length agreement only, that the service be suspended, in which case clause 12 below applies.
+9.2 What charges will you incur when there is a bar on calls or Optus IMEI blocking is activated?
+You will continue to be charged your access fee whilst the bar is in place and/or Optus IMEI blocking is activated.
+9.3 Unbarring calls or de-activating Optus IMEI blocking
+If you find your mobile phone or it is returned to you, you will need to call us to request: 
+(a) incoming and outgoing calls be unbarred, and/or  
+(b) Optus IMEI blocking be de-activated, or
+(c) the service be reactivated. 
+9.4 Important things to note whilst your mobile phone is barred or Optus IMEI blocking is activated
+(a) To contact emergency services while your phone is blocked you must dial 112 (rather than 000).  
+(b) Customers with hearing impairments who wish to access the TTY 106 emergency services number from their mobile phone should be aware that this number may not work from some blocked mobile phones.
+9.5 In what other circumstances could we block your mobile phone?
+(a) If you obtain a mobile phone that we reasonably believe is lost or stolen, we may activate Optus IMEI blocking on your mobile phone without your consent, even if you are not aware it is stolen. 
+(b) If you obtain the service from us under false pretences, we may activate Optus IMEI blocking on your mobile phone without your consent. 
+(c) In the event that we know you have made an insurance claim when your mobile phone is lost or stolen, if Optus IMEI blocking is not already activated we will activate Optus IMEI blocking on your mobile phone. 
+9.6 Who do we inform that your mobile phone is blocked or unblocked?
+In the event we activate or de-activate Optus IMEI blocking on your mobile phone, we will inform other national carriers to put this block or unblock into effect on their own networks.
+10. PHONE NUMBER DISPLAYS
+10.1 CLI
+(a) If you do not bar CLI on your mobile phone, the phone number assigned to you may be displayed on the phone of the person you are calling. 
+(b) When another person calls you, the phone number of that person may be displayed on your mobile phone if that person has not barred CLI on their phone. 
+10.2 SMS and MMS
+When you send a SMS or MMS, the phone number assigned to you or your name may be displayed on the phone of the person to whom you are messaging.  You cannot bar the phone number assigned to you or your name when you send a SMS or MMS. 
+11. ACCESS RESTRICTIONS
+11.1 Barring of calls made from the mobile phone
+At your request we can bar certain calls made from the mobile phone.  We cannot bar calls to emergency service numbers 112 and 000.
+11.2 Barring of calls to 1900 numbers
+Calls to 1900 numbers can only be barred if we also bar international calls.
+12. TEMPORARY SUSPENSION OF THE SERVICE BY YOU
+12.1 Can you temporarily suspend the service?
+If the agreement is a non fixed-length agreement, we may temporarily suspend the service at your request. We may need to disable roaming from your service to temporarily suspend the Thuraya Satellite Service component. 
+12.2 Will you be charged a fee for temporarily suspending the service?
+We may charge you a fee for temporarily suspending the service.
+12.3 Will you have to pay access fees whilst the service is temporarily suspended?
+You will not have to pay access fees whilst the service is temporarily suspended.
+12.4 For how long can we temporarily suspend the service?
+(a) The maximum length of time the service can be temporarily suspended is three months.
+(b) If you wish to extend the temporary suspension for longer than three months, you must contact us before the end of the three month period or we may reactivate or cancel the service.  
+(c) We are entitled to refuse to extend the temporary suspension beyond the three month period.
+13. BARRING AS AN ALTERNATIVE TO SUSPENSION
+(a) We may choose to bar outgoing and/or incoming calls and/or content on your mobile phone, instead of suspending the service.
+(b) If we bar outgoing and/or incoming calls and/or content on your mobile phone, we may later suspend or cancel the service for the same or a different reason.
+14. SUPPLIER AND THIRD PARTY SERVICES
+You acknowledge that:
+(a) the service relies on the services of suppliers for its operation, who are not controlled by us, and
+(b) we do not exercise any control over, authorise or make any warranty regarding:
+(i) your right or ability to use, access or transmit any content using the service,
+(ii) the accuracy or completeness of any content which you may use, access or transmit using the service,
+(iii) the consequences of you using, accessing or transmitting any content using the service, including without limitation any virus or other harmful software, and
+(iv) any charges which a third party may impose on you in connection with your use of their services accessed via the service.
+15. WHAT DO TERMS IN THE AGREEMENT MEAN?
+3G/HSDPA means WCDMA/UMTS (Wideband Code Division Multiple Access/Universal Mobile Telecommunications System) which operates to transmit voice and data services at 2100MHz and 900MHz frequency depending on your location within a 3G/HSDPA coverage area, provided you have a 3G/HSDPA compatible device.
+access line means a line or link and the ancillary facilities over which a telephony service is delivered, connecting the premises where the telephony service is delivered to a local exchange of a carrier or carriage service provider.
+chargeable calling time means that part of each call's duration for which you are charged.  The chargeable calling time commences when the call is answered and finishes when the circuit established for the call is released at the local exchange or other network facility which connects you, or the other exchange or network facility at which call duration is measured.
+CLI stands for calling line identification.  This facility allows the phone number assigned to you to be displayed on the phone of the person you are calling (if their phone is CLI enabled).
+equipment term means the period of time you have to pay us the equipment charges for any mobile phone you purchase from us under the mobile equipment payment plan.  
+flagfall means a connection charge or an initial charge per call. 
+GPRS means general packet radio service
+HSDPA means high speed downlink packet access
+local call means a call made to an access line (that is, calls not made to a mobile phone) where the call distance is less than 165 kilometres.  The call distance is measured from the base station from which the call originates to the charge point of the charging zone in which the called number is located.  A list of charging zones is set out in Appendix A.
+issue means to provide you with a phone number for use with the service.  We issue a phone number to you at the time we agree to provide the service to you in association with the phone number.
+maximum cancellation fee is the cancellation fee set out in each pricing plan.
+mobile equipment payment plan means the Mobile Equipment Payment Plan described in Appendix D
+mobile phone includes, without limitation, a mobile phone, a voice and data handset and a data only handset.
+national long distance call means a call made to an access line (that is, calls not made to a mobile phone) where the call distance is 165 kilometres or more.  The call distance is measured from the base station from which the call originates to the charge point of the charging zone in which the called number is located.  A list of charging zones is set out in Appendix A.
+Optus 3G network means our 3G network used to transmit 3G services (including HSDPA services)
+Optus GPRS network means our GPRS network used to transmit data services
+Optus IMEI blocking allows us to block your mobile phone if your mobile phone is lost or stolen.
+Optus SIM card is our subscriber identity module (SIM) card which when  inserted into mobile phones gives you access to the service on our network. 
+Optus Thuraya Service comprises the Optus Digital Mobile Service and the Thuraya Satellite Service. 
+our network means the network used to supply the service to you being  our digital GSM cellular mobile network and /or our GPRS network and/or 3G network (as the case may be). 
+port means to transfer your phone number from one carrier or carriage service provider to another carrier or carriage service provider in conjunction with your service.
+Thuraya Satellite Service means the satellite service provided by Thuraya Telecommunications Ltd. 
+unsuccessful call means a call which is not successfully connected to a called number (including a number to which a called number diverts), including where:
+(a) the called number is engaged, disconnected or out of order,
+(b) the called number cannot be accessed using the service, or
+(c) there are network or other service failures that have caused temporary interruptions to the service.
+For the avoidance of doubt, unsuccessful calls do not include, without limitation, SMS and MMS.
+value added service features are the additional features you may obtain with the service.  Descriptions of the value added service features available with the service and the associated fees and charges are set out in Appendix Y. 
+
+CONTACT DETAILSCustomer ServiceBy phone - 
+1300 300 937 if your phone number starts with 04
+1800 500 269 if your phone number starts with 0145
+On the Internet - www.optus.com.au (Contact Us)National Relay Service133 677Translating and Interpreting Service131 450
+SYD5_251535_2 (W97)
+
+Optus Digital Mobile Service - Service Description (SFOA)				23 February 2009
+
+SYD5_251535_2 (W97)
+
+
+
+17
+
+

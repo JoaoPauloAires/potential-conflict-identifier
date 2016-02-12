@@ -1,0 +1,272 @@
+Settlement Residue Auction Participation Agreement
+DETAILS
+
+Date:Parties:1 Australian Energy Market Operator Limited 
+ABN 94 072 010 327 
+of Level 12, 15 William Street, MELBOURNE  VIC 3000 ("AEMO")
+and
+2 [name]
+ABN 
+of [address]     ("Auction Participant").
+and1
+3 [name] 
+ABN 
+of [address]    ("Agent").Austraclear Account:Address for Service of Notices:To AEMO:
+Level 22, 6 - 10 O'Connell Street
+Sydney  NSW  2000
+Attention:  Senior Manager, Electricity Market Operations & Performance
+Fax No:  (02) 9233 1965
+cc:
+Level 12, 15 William Street, MELBOURNE  VIC  3000
+Facsimile:  03 9648 8653
+Attention:  Senior Manager, Legal
+
+To the Auction Participant:
+[address]
+Facsimile:   
+Attention:  2 
+
+To the Agent:
+[address]
+Facsimile:  
+Attention:  
+
+
+OPERATIVE PROVISIONS:
+1. Definitions and Interpretation
+1.1 Definitions
+The following definitions apply unless the context requires otherwise:
+AEMO Clearing Account means Austraclear account NEMM30 or such other Austraclear account as is notified to the Auction Participant by AEMO.
+Bid has the meaning given to it in the auction rules.
+Bid File has the meaning given to it in the auction rules.
+Confirmation means a confirmation sent to the Auction Participant by AEMO in accordance with clause 10.1 of the auction rules.
+Disclosed Information means:
+(a)	the information contained or referred to in the Settlements Residue Auction Information Memorandum (any version);  and
+(b)	any other information provided to the Auction Participant by or on behalf of AEMO in  connection with an auction.
+Distribution Instalment means, in respect of an SRDA, an instalment of SRDA Units to be distributed in accordance with clause 6.2.
+GST has the meaning given to it in section 195-1 of the A New Tax System (Goods and Services) Tax Act 1999 (Cth).
+Input Tax Credit has the meaning given to it in section 195-1 of the A New Tax System (Goods and Services) Tax Act 1999 (Cth).
+NEMNET has the meaning given to it in the auction rules.
+Purchase Price means, in respect of an SRDA, the aggregate purchase price for the Relevant Quarter, as specified in the Relevant Confirmation.
+Reconciliation Statement is defined in clause 7.
+Relevant Confirmation means, in respect of an SRDA, the Confirmation pursuant to which the SRDA is formed in accordance with clause 4.2.
+Relevant Quarter has the meaning given to it in the auction rules.
+SRDA means a settlements residue distribution agreement. 
+SRDA Units means, in respect of an SRDA, the Units specified in the Relevant Confirmation for that Relevant Quarter and, for the avoidance of doubt, may include Units in more than one Unit Category.
+Taxable Supply has the meaning given to it in section 195-1 of the A New Tax System (Goods and Services) Tax Act 1999 (Cth).
+Unit has the meaning given to it in the auction rules.
+Unit Category has the meaning given to it in the auction rules.
+Any word or phrase in this style has the same meaning given to that word or phrase in the National Electricity Rules.
+1.2 Interpretation
+Headings are for convenience only and do not affect interpretation.  The following rules of interpretation apply unless the context requires otherwise.
+(a) The singular includes the plural and conversely.
+(b) A gender includes all genders.
+(c) If a word or phrase is defined, its other grammatical forms have a corresponding meaning.
+(d) A reference to a person, corporation, trust, partnership, unincorporated body or other entity includes any of them.
+(e) A reference to a clause or Schedule is a reference to a clause of or a schedule to this Agreement.
+(f) A reference to an agreement or document (including a reference to this Agreement) is to the agreement or document as amended, varied, supplemented, novated or replaced, except to the extent prohibited by this Agreement or that other agreement or document.
+(g) A reference to a person includes the person's successors, permitted substitutes and permitted assigns (and, where applicable, the person's legal personal representatives).
+(h) A reference to legislation or to a provision of legislation includes a modification or re-enactment of it, a legislative provision substituted for it and a regulation or statutory instrument issued under it.
+(i) A reference to $ or dollars is to Australian currency.
+(j) A reference to a time is to Eastern Standard Time.
+(k) The word "includes" or "including" or "such as" are not words of limitation, and when introducing an example, do not limit the meaning of the words to which the example relates to examples of a similar kind.
+2. Term
+This Agreement commences on the date specified in the Details and continues until it is terminated in accordance with clause 13.
+3. Auctions
+3.1 General
+The Auction Participant:
+(a) acknowledges that AEMO will conduct the auctions in accordance with the auction rules;  and
+(b) agrees that it will participate in the auctions in accordance with the auction rules, and on the terms and conditions set out in this Agreement.
+4. Settlements Residue Distribution Agreements
+4.1 Eligibility
+AEMO will only enter into an SRDA with eligible persons who meet and continue to satisfy the criteria detailed in the Rules, or clause 3.2 of the auction rules.
+4.2 Formation
+The parties agree that if:
+(a) the Auction Participant submits a Bid File to AEMO;  and
+(b) AEMO allocates Units to the Auction Participant in accordance with the auction rules and sends a Confirmation to the Auction Participant,
+the parties will have entered into an SRDA in respect of each Relevant Quarter for which the Auction Participant has been allocated Units, pursuant to which AEMO unconditionally agrees to grant to the Auction Participant, and the Auction Participant agrees to acquire, the SRDA Units for the Purchase Price on the terms and conditions set out in this Agreement.
+4.3 Term of SRDA
+Each SRDA commences on the date of the Relevant Confirmation and, subject to clause 13, continues until 16 business days after receipt by the Auction Participant of the Reconciliation Statement to be provided by AEMO under clause 7.
+4.4 Separate Agreements
+Each SRDA is a separate agreement and shall be subject to the terms and conditions set out in this Agreement.
+5. Purchase Price
+5.1 Payment
+For each SRDA, the Auction Participant must pay the Purchase Price by 10.00am on the payment date specified in the Relevant Confirmation, by authorising the transfer of funds in dollars to the AEMO Clearing Account.
+5.2 Default Interest
+The Auction Participant must pay interest at the bank bill rate calculated as simple interest on a daily basis from the date on which payment of the Purchase Price was due in accordance with clause 5.1 up to and including the date of payment.
+6. Distribution of Units
+6.1 Distribution Rights
+For each SRDA, the Auction Participant is entitled to receive the greater of:
+(a) $10 per SRDA Unit;  and
+(b) the amount that is represented by the SRDA Units.
+For the avoidance of doubt, the payment by AEMO to the Auction Participant of any amount pursuant to clause 3.12.11 of the Rules, or in accordance with an assessment made by an independent expert under clause 3.12.11A of the Rules following a referral to that independent expert under clause 3.12.11(f) or 3.12.11(g) of the Rules, is not to be taken as a payment towards the amount referred to in paragraph (a).
+6.2 Distribution Instalments
+AEMO must distribute the settlements residue represented by SRDA Units in instalments as follows:
+(a) a Distribution Instalment must be made in respect of each billing period or part of a billing period falling within the Relevant Quarter to which the SRDA Unit relates;
+(b) the Distribution Instalment must be included on the statements provided by AEMO in respect of the relevant billing period under clauses 3.15.14 and 3.15.15 of the Rules;  and
+(c) each Distribution Instalment must be made on the date on which payments in respect of the relevant billing period are to be made by AEMO under clause 3.15.17 of the Rules,
+provided that AEMO is not obliged to make any Distribution Instalments under an SRDA unless the Auction Participant has paid the Purchase Price for that SRDA.
+6.3 Calculation of Instalments
+For each SRDA Unit, the amount of each Distribution Instalment must be determined as follows:
+(a) the amount of settlements residue for each Distribution Instalment is based on the net settlements residue for the relevant Unit Category in respect of the relevant billing period or part of a billing period;  and
+(b) auction expense fees are deducted from the first Distribution Instalment provided that, if a Distribution Instalment would be a negative amount, no distribution will be made and the remaining part of the auction expense fees will be deducted from the next Distribution Instalment or, if necessary, the next succeeding Distribution Instalments until the adjustment has been fully made or all of the Distribution Instalments have been made.
+6.4 Adjustment to Settlements Residue
+If any adjustment is made to the amount of the settlements residue for a Unit Category in respect of a billing period covered by an SRDA, AEMO must, subject to clause 6.1, pass on that adjustment to the Auction Participant as follows:
+(a) AEMO must issue to the Auction Participant such revised statements and other statements as may be required under clause 3.15.19 of the Rules specifying the adjustment and interest calculated in accordance with clause 3.15.19 of the Rules;  and
+(b) AEMO or the Auction Participant, as the case may be, must pay the adjustment and interest payable in respect of the adjustment in accordance with clause 3.15.20 of the Rules.
+6.5 Reconciliation Adjustment
+Any adjustment set out in a Reconciliation Statement must be paid on a date specified by AEMO, between 10 and 15 business days from the issue of the Reconciliation Statement that coincides with a payment time stated in a final statement issued under clause 3.15.15 of the Rules.
+6.6 Payment Procedure
+All Distribution Instalment payments and adjustments must be effected through the Austraclear system as follows:
+(a) payments by AEMO must be made by authorising the transfer of funds in dollars to the Austraclear Account specified in the Details or such other Austraclear account notified to AEMO by the Auction Participant;  and
+(b) payments by the Auction Participant must be made by authorising the transfer of funds in dollars to the AEMO Clearing Account.
+6.7 Default Interest
+(a) Subject to paragraph (b), if any amount specified in clause 6 is not paid on the due date, AEMO or the Auction Participant, as the case may be, must pay interest at the bank bill rate calculated as simple interest on a daily basis from the date the amount was due up to and including the date of payment.
+(b) The parties agree that interest is not payable on an amount under this clause 6.7 if interest is payable on that amount under clause 3.15.25 of the Rules.
+7. Reconciliation Statement
+For each SRDA, AEMO must, within 10 business days after the last Distribution Instalment has been made, provide the Auction Participant with a Reconciliation Statement via NEMNET, setting out:
+(a) the total amount that has been distributed to the Auction Participant under the SRDA;
+(b) the amount to which the Auction Participant is entitled under the SRDA under clause 6.1;  and
+(c) any adjustments required to be made to ensure the requirements of clause 6.1 have been satisfied.
+8. Goods and Services Tax
+8.1 GST to be added to amounts payable
+(a) The parties acknowledge that:
+(i) all amounts payable under this Agreement including the Purchase Price and auction expense fees, are expressed to be exclusive of GST;  and
+(ii) any Bid is made on a GST exclusive basis.
+(b) If GST is payable on a Taxable Supply made by AEMO to an Auction Participant, the amount payable for that Taxable Supply will be the amount expressed in this Agreement plus GST.
+8.2 Impact of GST on the Calculation of Amounts Payable
+Without limiting clause 8.1:
+(a) If an amount payable under this Agreement is calculated by reference to or relates to a cost, expense, liability or similar amount (Liability) incurred by a party, the Liability shall be reduced by the amount of any Input Tax Credit to which that party is entitled in respect of that Liability.
+(b) If an amount payable under this Agreement is calculated by reference to or relates to price, value, sales, revenue or a similar amount (Revenue), the Revenue shall be exclusive of GST.
+(c) If AEMO becomes liable to pay GST on a Taxable Supply to the Auction Participant prior to the time that it is entitled to receive in full the consideration for that Taxable Supply, the Auction Participant will, at the request of AEMO, pay to AEMO an amount equal to the GST payable on the Taxable Supply at least 7 days before the time that AEMO is liable to pay the GST.
+9. Dispute Resolution
+The dispute resolution procedures set out in clause 8.2 of the Rules will apply to any dispute arising in relation to this Agreement, a SRDA or otherwise in relation to any auction.
+10. Auction Participant Acknowledgments
+10.1 General
+The Auction Participant acknowledges, in respect of this Agreement and each SRDA, that neither AEMO, nor any person acting on behalf of or associated with AEMO, makes any representation, gives any advice, or gives any warranty or undertaking of any kind in respect of this Agreement, an SRDA, the Units, or the auctions or otherwise in relation to or in connection with this Agreement, or any transaction or arrangement contemplated under this Agreement.
+10.2 Acknowledgements
+Without limiting the generality of clause 10.1, the Auction Participant acknowledges, in respect of this Agreement and each SRDA, the following:
+(a) each SRDA is speculative and a high risk investment, and it is not possible to predict the amount of settlements residue the subject of a SRDA accurately;
+(b) the Disclosed Information does not constitute an invitation, offer or recommendation by or on behalf of AEMO;
+(c) the purpose of the Disclosed Information is to provide the Auction Participant with information to assist it in making decisions regarding bidding for Units in the auctions;
+(d) the Disclosed Information does not purport to contain all of the information that the Auction Participant requires for the purpose of making decisions regarding bidding for Units in the auctions, and does not purport to have been prepared having regard to the Auction Participant's business objectives, financial situation or particular needs;
+(e) neither AEMO, nor any person acting on behalf of or associated with AEMO, makes any representation or warranty either express or implied as to the accuracy, reliability or completeness of the Disclosed Information;
+(f) the Auction Participant will not rely in any way on the Disclosed Information or on the skill or judgement of AEMO or any person acting on behalf of or associated with AEMO and will rely absolutely on its own opinion and professional advice based on its own independent analysis, assessment, investigation and appraisal in making decisions regarding bidding for Units in the auctions;  and
+(g) the Auction Participant will carry out all investigations it considers relevant and will examine and acquaint itself concerning:
+(i) the contents, correctness and sufficiency of the Disclosed Information;  and
+(ii) any other information which it considers relevant to the risks, contingencies and other circumstances which could affect the settlements residue and the Auction Participant's decisions regarding bidding for Units in the auctions.
+10.3 Waiver
+To the maximum extent permitted by law, the Auction Participant waives any right that it has (whether at the date of this Agreement or a SRDA or otherwise) to bring any action or to make any claim against AEMO or any person acting on behalf of or associated with AEMO arising (directly or indirectly) out of any alleged negligent act or omission, misrepresentation, or conduct which is likely to mislead, deceive or confuse on the part of AEMO or any person acting on behalf of or associated with AEMO in providing the Disclosed Information or otherwise in relation to the auctions.
+11. Liability
+11.1 Implied Warranties
+To the maximum extent permitted by law and except as otherwise provided in this Agreement, all terms, conditions, warranties or statements (whether express, implied, written, oral, collateral, statutory or otherwise) which would be implied or incorporated into this Agreement or a SRDA as having been given by AEMO in favour of the Auction Participant are excluded and AEMO disclaims all liability in relation to them.
+11.2 Limitation of Liability
+Despite any other provision of this Agreement and except as otherwise provided by law:
+(a) AEMO is not liable to make any payment (whether by way of damages or otherwise) for any breach of any representation, warranty, condition or obligation unless a claim is made in writing by the Auction Participant (setting out in reasonable detail the nature of the claim and the damages sought) on or before the date that is 6 months after the end of the Relevant Quarter covered by the SRDA to which the claim relates; and
+(b) AEMO will not be liable for an amount for breach of representation, warranty, condition or obligation which would exceed, in the aggregate, the amount of the Purchase Price that has been paid by the Auction Participant in respect of the SRDA to which the claim relates.
+11.3 Notification
+If the Auction Participant becomes aware of a claim or potential claim against AEMO with respect to any breach of any representation, warranty, condition or obligation, the Auction Participant must notify AEMO in writing within 5 Business Days after becoming so aware.
+11.4 Statutory Immunity
+For the avoidance of doubt and despite any other provision of this Agreement, nothing in this Agreement, SRDA, or the auction rules varies or excludes the operation of sections 119, 120 or 120A of the National Electricity Law.
+11.5 Agent's Liability3
+Where an Agent is a party to this Agreement, the Agent will be jointly and severally liable with the Auction Participant in relation to the Auction Participant's obligations under this Agreement and any SRDA entered into by the Auction Participant.
+12. Auction Costs
+The Auction Participant will be responsible for all costs and expenses incurred by it in connection with the auctions.  AEMO will not be liable on any grounds whatsoever for costs or expenses incurred by the Auction Participant in the conduct of due diligence in relation to the Units, making decisions regarding bidding for Units in the auctions or in any other way in connection with the auctions.
+13. Termination
+13.1 National Electricity Market
+This Agreement and each SRDA will terminate immediately if the National Electricity Market permanently ceases to operate.  For the avoidance of doubt, this clause 13.1 does not come into effect by reason of AEMO declaring the spot market to be suspended for any of the reasons set out in clause 3.14.3 of the Rules.
+13.2 Continuing Eligibility
+AEMO may terminate this Agreement and any or all of the SRDAs between AEMO and the Auction Participant by notice to the Auction Participant if:
+(a) the Auction Participant ceases to satisfy the criteria specified in clause 3.2 of the auction rules;
+(b) the Auction Participant does not demonstrate to AEMO's reasonable satisfaction that it continues to satisfy the criteria specified in clause 3.2 of the auction rules; 
+(c) the Auction Participant fails to provide AEMO with the evidence sought by AEMO under clause 3.3 of the auction rules by the date and time requested by AEMO;  
+(d) the Auction Participant breaches any condition or restriction in respect of the Auction Participant's participation in the auctions that is imposed on the Auction Participant pursuant to the Rules.
+13.3 Breach
+(a) If a party commits a material breach of this Agreement that relates to a particular SRDA, and fails to remedy that breach within 3 business days after being required in writing to do so, the other party may terminate the SRDA to which the breach relates by further notice to the other party.
+(b) If the Auction Participant commits a material breach of this Agreement that does not relate to a particular SRDA, and fails to remedy that breach within 3 business days after being required in writing to do so, AEMO may terminate this Agreement and any or all of the SRDAs between AEMO and the Auction Participant by further notice to the Auction Participant.
+(c) If:
+(i) AEMO terminates a SRDA under clause 13.3(a);  and
+(ii) AEMO and the Auction Participant are parties to SRDAs in respect of which, at the date the SRDA is terminated under clause 13.3(a), the Purchase Price has not been paid,
+AEMO may, by notice to the Auction Participant, require the Auction Participant to pay the Purchase Price under each such SRDA within 35 business days after receiving the notice.  If the Auction Participant does not comply with the notice AEMO may terminate this Agreement and each such SRDA by further notice to the Auction Participant.
+(d) If:
+(i) AEMO has served two notices on the Auction Participant under clause 13.3(a) or clause 13.3(b), or has served one notice on the Auction Participant under each of clause 13.3(a) and clause 13.3(b);  and
+(ii) the Auction Participant commits a further material breach of this Agreement,
+AEMO may, even if the previous material breaches were remedied within 3 business days after the Auction Participant was required in writing to do so, terminate this Agreement and any or all of the SRDAs between AEMO and the Auction Participant by notice to the Auction Participant.
+(e) For the purposes of clause 13, a failure by the Auction Participant to pay the purchase price for a SRDA on the due date is a material breach of this Agreement that relates to that SRDA.
+13.4 Insolvency
+Any party may terminate this Agreement and any or all of the SRDAs between the parties by notice to each other party if:
+(a) the other party stops or suspends or threatens to stop or suspend payment of its debts;
+(b) the other party is insolvent within the meaning of section 95A of the Corporations Act 2001 (Cth);
+(c) the other party is required to be presumed insolvent by reason of section 459C(2) of the Corporations Act 2001 (Cth);
+(d) the other party fails to comply with a statutory demand (within the meaning of section 459F(1) of the Corporations Act 2001 (Cth));
+(e) an administrator is appointed over all or any of the assets or undertaking of the other party or any step preliminary to the appointment of such an administrator is taken;
+(f) a controller within the meaning of section 9 of the Corporations Act 2001 (Cth), or similar officer is appointed to all or any of the assets or undertaking of the other party; or
+(g) an application or order is made, proceedings are commenced, a resolution is passed or proposed in a notice of meeting or an application to a court or other steps are taken for the winding up or dissolution of the other party or for the other party to enter an arrangement, compromise or composition with or assignment for the benefit of its creditors, a class of them or any of them.
+13.5 Settlements Residue Calculation
+The Auction Participant may, by notice to AEMO, terminate an SRDA if there is a change in the way in which the settlements residue is calculated during the term of the SRDA that affects the calculation of settlements residue the subject of the SRDA Units.
+13.6 Purchase Price Adjustment
+If an SRDA is terminated under clause 13.1 or by the Auction Participant under clause 13.3(a) or clause 13.5, the Auction Participant is entitled to a refund of a proportion of the Purchase Price equal to the proportion of the number of billing periods for which Distribution Instalments have not been made to the total number of billing periods for the Relevant Quarter.
+13.7 Adjustments to Settlements Residue
+AEMO is not required to pass on an adjustment under clause 6.4 in respect of an SRDA that has been terminated under clause 13.2, 13.3 or 13.4.
+13.8 Continuing Rights
+The termination or expiration of this Agreement or an SRDA does not affect:
+(a) the rights of a party to recover an amount, or the obligation of a party to pay an amount, that became payable prior to the date of termination or expiration;
+(b) any rights of a party that otherwise relate to, or may arise in the future from, any breach or non-observance of obligations under this Agreement or the SRDA;  or
+(c) the operation of clauses 6.4, 6.5, 6.6, 6.7, 7, 8, 9, 10, 11, 12 or 13.
+14. General
+14.1 Notices
+Any notice, demand, consent or other communication (Notice) required by this Agreement:
+(a) must be in writing and signed by a person duly authorised by the sender;
+(b) must be delivered to the intended recipient by prepaid post (if posted to an address in another country, by registered airmail) or by hand or fax to the address or fax number specified in the Details:
+(c) will be taken to be duly given or made:
+(i) in the case of delivery in person, when delivered;
+(ii) in the case of delivery by post, two business days after the date of posting (if posted to an address in the same country) or seven business days after the date of posting (if posted to an address in another country);  and
+(iii) in the case of fax, on receipt by the sender of a transmission control report from the despatching machine showing the relevant number of pages and the correct destination fax machine number or name of recipient and indicating that the transmission has been made without error,
+but if the result is that a Notice would be taken to be given or made on a day that is not a business day in the place to which the Notice is sent or is later than 4.00pm (local time) it will be taken to have been duly given or made at the commencement of business on the next business day in that place.
+14.2 Entire Agreement
+This Agreement and each SRDA entered into in accordance with this Agreement contains the entire agreement between the parties with respect to its subject matter and supersedes all prior agreements and understandings between the parties in connection with it.
+14.3 Amendment
+An amendment to this Agreement or an SRDA will be effective only if made in writing and executed by all parties.
+14.4 Assignment
+(a) AEMO may assign its rights and obligations under this Agreement and any SRDA to any person without the other parties' consent.
+(b) Neither the Auction Participant, nor the Agent, is permitted to assign or otherwise transfer their respective rights and obligations under this Agreement and any SRDA without AEMO's consent.
+14.5 No Waiver
+No failure, or delay, in exercising any right, power or remedy by a party operates as a waiver.  A single or partial exercise of any right, power or remedy does not preclude any other or further exercise of that or any other right, power or remedy.  A waiver is not valid or binding on the party granting that waiver unless made in writing.
+14.6 Further Assurances
+Each party agrees to do all things and execute all deeds, instruments, transfers or other documents as may be necessary or desirable to give full effect to this Agreement and the transactions contemplated by it.
+14.7 No Merger
+The rights and obligations of the parties will not merge on the completion of any transaction contemplated by this Agreement.  They will survive the execution and delivery of any assignment or other document entered into for the purpose of implementing a transaction.
+14.8 Costs and Stamp Duty
+Each party must bear its own costs arising out of the negotiation, preparation and execution of this Agreement.  All stamp duty (including fines, penalties and interest) that may be payable on or in connection with this Agreement and any instrument executed under this Agreement must be borne by the Auction Participant.
+14.9 Governing Law and Jurisdiction
+This Agreement and each SRDA is governed by the laws of Victoria.  Each party submits to the non-exclusive jurisdiction of courts exercising jurisdiction there in connection with matters concerning this Agreement and each SRDA.
+14.10 Counterparts
+This Agreement may consist of a number of copies, each signed by one or more parties to this Agreement.  If so, the signed copies make up one document and the date of this Agreement will be the date on which the last counterpart was signed.
+
+
+EXECUTED AS AN AGREEMENT
+
+SIGNED for and on behalf of AEMO in the presence of:	Signature (Witness)SignaturePrint Name (Witness)Print NameDateDate
+SIGNED for and on behalf of the AUCTION PARTICIPANT in the presence of:Signature (Witness)SignaturePrint Name (Witness)Print NameDateDateSIGNED for and on behalf of the AGENT in the presence of:4Signature (Witness)SignaturePrint Name (Witness)Print NameDateDate
+1 Delete the text starting with the 'and' if there is no Agent.
+2 Delete the remainder of the text in this box from this point if there is no Agent.
+3 This clause can be deleted if there is no Agent.
+4 Delete this whole section if there is no Agent.
+??
+
+??
+
+??
+
+??
+
+
+
+26
+
+
+
+1 July 2009 version  				1 of 12
+
+
+

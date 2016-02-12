@@ -1,0 +1,451 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+________________________________
+
+CONSULTANT'S AGREEMENT
+
+TERMS AND CONDITIONS
+________________________________
+
+
+
+
+
+
+
+
+     
+     Consultant's Agreement
+
+
+
+
+
+
+RECITAL:
+
+A. The Consultant has expertise in the provision of the Services.
+
+B. The Company wishes to engage the Consultant to provide the Services and the Consultant has agreed to enter into this Agreement in respect of the consulting Services to be provided by the Consultant.
+
+C. Australian Standard 4122-2000 (as amended from time to time) shall be incorporated in and be deemed to be part of this Agreement except to the extent that they are varied or inconsistent with the terms of this Agreement.
+
+
+NOW THIS CONTRACT WITNESSES THAT:
+
+1. Definitions and Interpretation
+
+1.1. In this Agreement unless the context otherwise requires the following terms shall have the following meanings:
+
+"The Company" means the Company as specified in the purchase order;
+
+"Business Day" means any day which is not a Saturday, Sunday or a public holiday;
+
+"Commencement Date" means the commencement date specified in the purchase order;
+
+"Consultant's Employees" means the employees, servants, agents or sub-consultants of the Consultant;
+
+"Electronic Copy" means a copy of any document (including but not limited to all records) produced by the Consultant in the course of providing the Services that is recorded on computer tape or disc in a language compatible with the computer equipment used by the Company so that it may be readily accessed by the Company using computer equipment in the possession of the Company;
+
+"Expiry Date" means the expiry date specified in the purchase order;
+
+
+"Program" means the program referred to in clause 7.1;
+
+"Services" means those services as identified in the purchase order;
+
+"Term" means the period specified in the purchase order commencing on the Commencement Date and expiring on the Expiry Date and includes any extension or renewal of the term as may be agreed between the parties.;
+
+1.2. In this Agreement unless the context otherwise requires:
+
+1.2.1. a reference to any legislation or legislative provision includes any statutory modification or re-enactment of, or legislative provision substituted for, and any subordinate legislation issued under, that legislation or legislative provision;
+
+1.2.2. the singular includes the plural and vice versa;
+
+1.2.3. a reference to an individual or person includes a corporation, partnership, joint venture, association, authority, trust, state or government and vice versa;
+
+1.2.4. a reference to any gender includes all genders;
+
+1.2.5. a reference to a recital, clause, schedule, annexure or exhibit is to a recital, clause, schedule, annexure or exhibit of or to this Agreement;
+
+1.2.6. a recital, schedule, annexure or description of the parties forms part of this Agreement;
+
+1.2.7. a reference to any agreement or document is to that agreement or document (and, where applicable, any of its provisions), as amended, novated, supplemented or replaced from time to time;
+
+1.2.8. where an expression is defined, another part of speech or grammatical form of that expression has a corresponding meaning;
+
+1.2.9. where an expression is defined anywhere in this Agreement it has the same meaning throughout; and
+
+1.2.10. reference to 'dollars' or '$' is to an amount in Australian currency.
+
+
+NOW THIS AGREEMENT WITNESSES:
+
+2. Engagement and Term
+
+2.1. The Company hereby engages the Consultant to carry out the Services for the Term upon and subject to the terms and conditions contained in this Agreement.
+
+3. Services
+
+3.1 The Consultant shall carry out the Services in accordance with the provisions contained herein.
+
+
+4. Records
+
+4.1 The Consultant shall keep proper and accurate records of the Services provided by the Consultant under this Agreement in a form approved by the Company (Microsoft Office product, PDF, JPEG, AutoCAD for drawings) and without limiting the generality of the foregoing the Consultant shall ensure that the Consultant keeps a paper and Electronic Copy of all records produced by it in the course of performance of the Services.
+
+4.2 The records kept in accordance with this Clause shall set out in respect of each week of the Term:
+
+4.2.1 the Services provided by the Consultant under this Agreement; and 
+
+4.2.2 any other matter which the Company may specify by notice in writing given to the Consultant.
+
+4.3 Within seven (7) days after the end of each month of the Term the Consultant shall deliver to the Company a paper and Electronic Copy of all records kept in accordance with this Clause for that particular month.
+
+4.4 The parties mutually covenant and agree that all records, books, drawings, plans and other documentation and things pertaining to the Services shall be the property of the Company and the Consultant's shall forthwith upon demand provide a copy of them to the Company and the Company may in its absolute discretion provide a copy of any of those documents to any of its other consultants.
+
+5. Payment
+
+5.1 In consideration of the Consultant performing the Services under this Agreement, the Company shall pay to the Consultant the fees for those Services at the rates set out in Item 4 of the Schedule of this Agreement by monthly payments in arrears payable in accordance with the provisions of this Agreement.
+
+5.2 At the end of each month during the Term, the Consultant shall provide the Company with:
+
+5.2.1  a monthly invoice for those Services it has provided to the Company during that month calculated at the rates set out in Item 3 of the Schedule of this Agreement; and 
+
+5.2.2 a copy of the record kept in accordance with clause 4 in respect of the Services provided for that particular month.
+
+5.3 The Company shall pay to the Consultant the monthly instalment referred to in clause 5.2 within thirty (30) days after the receipt of the monthly invoice and the record referred to in Clause 5.2 by the Company.
+
+5.4 The Company may within thirty (30) days after the date of delivery of any record or invoice:
+
+
+5.4.1 dispute the correctness of any invoice or record from time to time delivered by the Consultant by giving written notice to the Consultant;
+
+5.4.2 require the production of any evidence necessary to verify the statement delivered by the Consultant; and
+
+5.4.3 require the Consultant to amend any record or invoice which the Company reasonably concludes is incorrect.
+
+5.5 If the dispute referred to in clause 5.4 is with respect to a failure to carry out or properly carry out any of the Services, the Company may include in the notice an amount which it claims by way of deduction or compensation with respect to that failure.
+
+5.6 If the parties are unable to resolve by agreement a dispute concerning a record or invoice delivered by the Consultant including any deduction or compensation referred to in the notice issued in accordance with clause 5.5, then the dispute shall be referred to arbitration under and in accordance with the provisions of Clause 20.
+
+5.7 A payment made by the Company to the Consultant pursuant to a record and/or invoice delivered by the Consultant does not constitute proof of or admission that all or any of the Services for which the payment was made have been duly rendered or that any other services not included in the record have not been rendered.
+
+5.8 The parties mutually covenant and agree that:
+
+5.8.1 In the event that at any time during the term of this Agreement any amount in the nature of value added tax goods and services tax or other such tax ("GST") shall become payable by the Consultant in respect of any goods or services whatsoever supplied to the Company pursuant to this Agreement (including but not limited to any such tax calculated as payable by reference any costs or expenses payable by either the Consultant or the Company as the value of a taxable supply) ("GST Amount") the Company shall be liable, to pay to the Consultant the GST Amount.
+
+5.8.2 The Consultant must take reasonable steps to ensure that a valid tax invoice any adjustment note and any other documentation required by the A New Tax System (Goods and Services Tax) Act 1999 as amended from time to time ("GST law") to enable input tax credits to be claimed is provided to the Company as soon as reasonably practicable after the occurrence of an event that causes the GST Amount to be attributed to a particular tax period.
+
+5.8.3 If the GST Amount recovered by the Consultant from the Company in respect of any taxable supply made under this Agreement exceeds the amount of GST ultimately held to be payable on the taxable supply, including by reason of:
+
+5.8.3.1 an amendment to the GST law;
+
+5.8.3.2 the issue of or an alteration in a ruling or advice of the Commissioner of Tax; or a decision of any tribunal or court,
+
+
+		Then the Consultant will refund to the Company the difference between the two said amounts within fourteen (14) days of a written request being given by the Company to the Consultant.  Where an adjustment event (as defined in the GST law) in relation to any supply to the Company has occurred the Consultant must provide an adjustment note to the Company as soon as reasonably practicable.
+
+6. Acknowledgments & Warranties
+
+6.1 The Consultant acknowledges that the Company is relying on the professional skill and performance of the Consultant in the performance of the Services.
+
+6.2 The Consultant shall perform the Services to that standard of care and skill to be expected of a Consultant who regularly acts in the capacity in which the Consultant is engaged and who possesses the degree of knowledge, skill and experience of a Consultant well qualified to act in that capacity in provision of the Services.
+
+6.3 The Consultant warrants that the Consultant's Employees who may perform or be involved in performing the Services are and will be competent and have the necessary skill, training and experience to ensure that the Contractor carries out the Services in accordance with this Agreement.
+
+7. Responsibilities & Obligations of the Consultant
+
+The Consultant shall:
+
+7.1 as soon as practicable following the execution of this Agreement and in any event prior to the Commencement Date (if it has not already done so) submit to the Company a Program for carrying out the Services;
+
+7.2 with due expedition and without delay and in accordance with the Program if any, provide all professional skill and advice required for carrying out the Services;
+
+7.3 comply with all directions of the Company given in connection with the Services;
+
+7.4 remain fully responsible for the Services carried out by the Consultant notwithstanding any review or acceptance of those Services by the Company;
+
+7.5 not engage or permit any person without appropriate qualifications and experience to carry out or be involved in carrying out the Services on behalf of the Consultant 
+
+7.6 ensure that the key personnel (if any) stated in Item 5 (or alternates reasonably approved by the Company) are used by the Consultant to carry out the Services;
+
+7.7 promptly give written notice to the Company if and to the extent the Consultant becomes aware that any document or other information provided by the Company is ambiguous or inaccurate or is otherwise insufficient to enable the Consultant to carry out the Services;
+
+7.8 make all reasonable enquiries to ascertain and clarify the requirements of the Company regarding the Services;
+
+
+7.9 regularly consult the Company regarding the carrying out of the Services and in any event at a frequency determined by the Company;
+
+7.10 as soon as practicable after becoming aware of any matter or circumstance which may adversely affect or has adversely affected the scope, timing or carrying out of the Services, give written notice to the Company detailing the matter or circumstance and its anticipated effect to the Services and the Program;
+
+7.11 at least three (3) Business Days after the receipt of written notice by the Company to the Consultant, permit the Company to inspect and discuss the work, relevant records and documents produced by the Consultant in carrying out the Services;
+
+7.12 except as required by law, treat as confidential all information provided by the Company to the Consultant pursuant to this Agreement;
+
+7.13 notify the Company immediately the existence or likelihood of a conflict of interest becomes apparent to the Consultant and cooperate with the Client to resolve such conflict of interest;
+
+7.14 take due care of the Company's documents and all other material provided to the Consultant in connection with carrying out the Services;
+
+7.15 do all things necessary and necessarily incidental for the proper performance of the Consultant's obligations under this Agreement;
+
+7.16 punctually, competently and efficiently perform and provide the Services in accordance with this Agreement and shall cooperate fully with the Company in providing the Services;
+
+7.17 ensure that all the Services are carried out in compliance with all present and future Acts (State or Federal) ordinances orders regulations by-laws and all orders requirements, notices from or by any local or public authority and any codes of conduct, industry standards, or Australian standards applicable to the Services provided by the Consultant;
+
+7.18 execute the Services to the complete satisfaction of the Company and in conformity with all reasonable directions and requirements of the Company;
+
+7.19 ensure that the Consultant's Employees are properly supervised and directed by the Consultant; and
+
+7.20 provide all equipment, and materials necessary for the execution of the Services.
+
+8. Responsibilities and Obligations of the Company
+
+The Company shall:
+
+8.1 pay the Consultant in accordance with this Agreement;
+
+8.2 when and as required under this Agreement, provide the Consultant with relevant documents, samples, patterns, moulds and other information in the possession or control of the Company sufficient to enable the Consultant to carry out the Services;
+
+
+8.3 give or cause to be given to the Consultant in writing timely directions, instructions, decisions and information sufficient to define the Services required and facilitate the provision of the Services by the Consultant;
+
+8.4 provide the Consultant with such access to premises or sites of the Company as is reasonably necessary for the Consultant to carry out the Services; and
+
+8.5 except as required by law and subject to this Contract, treat as confidential information so designated in writing by the Consultant.
+
+9. Directions and Variations
+
+9.1 Except where this Agreement otherwise provides, a direction may be given orally by the Company to the Consultant and the Company shall as soon as practicable confirm it in writing, including by way of electronic copy, to the Consultant.
+
+9.2 The Consultant shall forthwith upon receipt of an oral direction comply with every direction given by the Company pursuant to this Agreement in accordance with the terms of that direction.
+
+10. Safety
+
+The Consultant shall:
+
+10.1 in performing the Services, take all reasonable precautions to prevent injury to any person or damage to any property including but not limited to any equipment; and
+
+10.2 ensure that all equipment used in performing the Services shall comply with all relevant statutory or other requirements and that all equipment is in a safe condition so as not to constitute any hazard to any person or property and that the equipment shall not at any time be used for any unauthorised use.
+
+11. Equipment and Material
+
+11.1 The Consultant shall provide at its own cost and expense all labour, plant, equipment, and other materials necessary for the execution and performance of the Services.
+
+11.2 The Consultant shall ensure that all equipment used by the Consultants' Employees in performing the Services shall be fitted with a residual currency device and shall be kept in good and substantial repair, maintenance order and condition.
+
+12. Liaison
+
+12.1 The Consultant shall appoint a representative of the Consultant approved by the Company (which approval shall not be unreasonably withheld) and the Consultant shall ensure that its representative contacts a nominated representative of the Company at least once per week to ascertain whether the Company has any concerns in respect of the Services provided under this Agreement.
+
+
+12.2 The Consultant shall appoint at least one senior representative of the Consultant who shall meet with representatives of the Company at least once in each fortnightly period or as required by the Company to discuss any issues and follow up any action that is agreed to be taken in relation to the provision of the Services.
+
+12.3 If the Consultant receives any complaints from the Company in respect of or related to the Services or any Additional Services the Consultant shall use its best endeavours to resolve those complaints as soon as practicable thereafter to the satisfaction of the Company in its absolute discretion and without cost to the Company.
+
+13. Indemnities
+
+13.1 The Consultant shall indemnify and keep indemnified the Company from and against all costs claims actions proceedings demands expenses judgments damages and losses suffered or incurred by the Company in connection with or resulting from the loss of life of or personal injury to any person or loss of or damage to any property wherever occurring arising from or out of any act, omission, event or occurrence in connection with or arising out of the performance of the Services save and except to the extent that that loss of life, personal injury and damage to property was caused or contributed to by the Company or any of the Company's officers or employees.
+
+14. Insurance
+
+14.1 The Consultant shall at the Consultant's expense effect and at all times during the Term maintain with a public insurance office approved by the Company on behalf of the Company and the Consultant for their respective rights and interests:-
+
+14.1.1 a public liability policy with a cover of not less than TWENTY MILLION DOLLARS ($20,000,000) or any greater amount that may be required by law.  The policy of insurance shall cover all claims, demands, proceedings, judgments, damages, costs, and losses of any nature whatsoever in connection with the loss of life of and or personal injury to any person and or loss of or damage to any property (wheresoever occurring) arising from or out of any act, omission, event or occurrence in connection with or arising out of the performance of the Services or otherwise occasioned wholly or in part by any act, neglect, default or omission by the Consultant or by the Consultant's Employees;
+
+14.1.2 Worker's Compensation Insurance coverage required by any Act (State or Federal) ordinances orders regulations by-laws and all orders requirements, notices from or by any local or public authority; and
+
+14.1.3 a professional indemnity insurance policy for the Services covered in this Agreement with a total aggregate cover of not less than TWO MILLION DOLLARS ($2,000,000) or any greater amount that may be required by law.
+
+14.2 All moneys recovered in respect of any insurance under clause 14.1.1 above shall be forthwith expended by the Consultant in the satisfaction reinstatement or replacement of those items for which the moneys are received to the extent that those moneys are sufficient for the purpose and the Consultant shall make up any deficiency from the Consultant's own moneys.
+
+
+14.3 The Consultant shall pay not later than fourteen (14) days prior to the date for payment specified in the first premium notice or demand received in respect thereof all premiums in respect of the insurances to be effected and maintained by the Consultant as herein provided and shall within seven (7) days produce all evidence of the policies and of the renewal thereof which the Company may from time to time require.
+
+14.4 The Consultant shall not at any time during the Term do, permit or suffer to be done any act matter or thing whereby any insurances may be vitiated or rendered void or voidable or whereby the rate of premium on any insurance shall be liable to be increased.  If the Consultant shall do or permit to be done any act matter or thing which has the effect of invalidating or avoiding any policy of insurance taken out by the Consultant then the Consultant shall be responsible for any damage or loss which the Company may suffer or incur as a result thereof and shall pay to the Company any increased amount of premium over the existing premium paid by the Company which may be charged on any insurance required to be taken out by the Consultant under this Agreement.
+
+15. Default
+
+If:
+
+15.1 The Consultant defaults in the due and punctual performance of any term or condition of this Agreement on the part of the Consultant to be observed or performed and the Consultant fails to remedy such default (if it is capable of remedy) within seven (7) days of the Company giving notice in writing to the Consultant specifying the default and requiring the default to be remedied;
+
+15.2 (subject to the provisions of the Bankruptcy Act 1966) the Consultant becomes bankrupt or suffers his interest in this Agreement to be taken in execution or being a company calls a meeting of its creditors, has a receiver or receiver and manager appointed, goes into liquidation or administration or has any order made against it for the winding up of the Consultant;
+
+15.3 the Consultant calls a meeting of the Consultant's creditors or makes any composition or arrangement with, or assignment for the benefit of, its creditors or suffers any execution under any legal process to issue or be levied upon or against any of its goods or chattels; or
+
+15.4 the Consultant shall be prevented from performing or observing any term or condition of this Agreement for a period exceeding seven (7) days by reason of any strike, lock-out or industrial dispute, whether attributable to the fault of the Consultant or not,
+
+THEN the Company may, by notice in writing given to the Consultant, (without prejudice to any other powers, rights, authorities or remedies against the Consultant under the Agreement or otherwise) terminate this Agreement but without releasing the Consultant from liability for any moneys due and payable by the Consultant to the Company or for any antecedent breach or failure to observe or perform any term or condition of this Agreement.
+
+16. Termination
+
+16.1 The parties mutually covenant and agree that:
+
+
+16.1.1 this Agreement may be terminated without cause by either party by giving the other party thirty (30) days notice in writing;
+
+16.1.2 upon the expiration of thirty (30) days from the giving of the notice referred to in clause 16.1.1 this Agreement shall be terminated but without releasing the Consultant from liability for any money due to the Company or any antecedent breach or failure to observe or perform any term or condition of this Agreement.
+
+17. Power to Carry out Works
+
+17.1 If the Consultant defaults in the observance or performance of any term or condition of this Agreement on the part of the Consultant to be observed or performed, the Company may without derogating from any other power, right, authority or remedy, pay such money, do such things and carry out such works as may be requisite in accordance with any such term or condition and any costs so incurred by the Company together with interest thereon from and including the date any such costs were so incurred until payment shall be repaid by the Contract to the Company on demand in writing.
+
+17.2 For the purposes of clause 17.1 the rate of interest on each day shall be two per centum (2%) per annum greater than the standard rate that would be charged on that day by the Company's bankers on any overdraft of an amount of ONE HUNDRED THOUSAND DOLLARS ($100,000.00).
+
+18. Deduction of Moneys
+
+18.1 the Company may deduct any moneys due and payable by or recoverable from the Consultant to the Company from the amount payable by the Company to the Consultant under Clause 5 and from any other moneys payable by the Company to the Consultant under this Agreement.
+
+18.2 If any moneys due and payable by or recoverable from the Consultant to the Company under this Agreement exceed any amounts or moneys payable by the Company to the Consultant then the shortfall shall be a debt due and payable by the Consultant to the Company and recoverable from the Consultant.
+
+19. Caveatable Interest
+
+19.1 This Agreement does not grant nor permit the Consultant any caveatable right or interest over any property owned by the Company or any related body corporate (as defined in the Corporations Act).
+
+20. Disputes
+
+20.1 Any dispute or disagreement between the parties to this Agreement in respect of the interpretation of this Agreement or concerning anything contained in or arising out of this Agreement as to the rights, liabilities, or duties of the parties hereunder shall be determined in accordance with the Commercial Arbitration Act 1985 by a single arbitrator agreed upon by the parties in writing, or if he is unable or unwilling to act, or failing agreement by a single arbitrator nominated at the request of either party by the President for the time being of the Law Society of Western Australia Incorporated.
+
+
+20.2 For the purposes of the Commercial Arbitration Act 1985 the parties agree that each party may appear before the arbitrator personally or where the party is a body, whether corporate or unincorporated, by an officer, employee or agent of the body and each party may, if that party so chooses, be represented by a duly qualified legal practitioner or other representative.
+
+20.3 The parties agree that arbitration in accordance with this Clause is a condition precedent to legal proceedings between the parties relating to the provisions of or any matter or thing arising under or out of this Agreement.
+
+21. Costs and Stamp Duty
+
+21.1 The Company shall bear and be responsible for the costs in connection with the drafting, preparation and execution and carrying into effect of this Agreement.
+
+21.2 The Company is responsible for all stamp duty payable on or in respect of this Agreement.
+
+22. Notices
+
+22.1 A notice, consent, approval or other communication (each a 'notice') under this Agreement must be signed by or on behalf of the person giving it, addressed to the person to whom it is to be given and:
+
+22.1.1 delivered to that person's address;
+
+22.1.2 sent by pre-paid mail to that person's address; or
+
+22.1.3 transmitted by facsimile to that person's address.
+
+22.2 A notice given to a party in accordance with the clause is treated as having been given and received:
+
+22.2.1 if delivered to a person's address, on the day of delivery if a Business day, otherwise on the next following day;
+
+22.2.2 if sent by pre-paid mail, on the third Business day after posting; and
+
+22.2.3 if transmitted by facsimile to a person's address and a correct and complete transmission report is received, on the day of transmission if a business day, otherwise on the next following business day.
+
+22.3 Address of Parties
+
+22.3.1 For the purposes of this clause, the address of any party to this Agreement is the address set out in this Agreement or any other address of which that party may from time to time give notice to the other in writing.
+
+
+23. Amendment
+
+This Agreement may only be amended or supplemented in writing, signed by the parties.
+
+24. Waiver
+
+The non-exercise of or delay in exercising any power or right of a party does not operate as a waiver of that power or right, nor does any single exercise of any power or right preclude any other or further exercise of it or the exercise of any other power or right. A power or right may only be waived in writing, signed by the party to be bound by the waiver.
+
+25. Entire Agreement
+
+This Agreement is the entire Agreement of the parties on the subject matter. The only enforceable obligations and liabilities of the parties in relation to the subject matter are those that arise out of the provisions contained in this Agreement. All representations, communications and prior Agreements in relation to the subject matter are merged in and superseded by this Agreement.
+
+26. Severability
+
+Any provision in this Agreement which is invalid or unenforceable in any jurisdiction is to be read down for the purposes of that jurisdiction, if possible, so as to be valid and enforceable, and is otherwise capable of being severed to the extent of the invalidity or unenforceability, without affecting the validity or enforceability of that provision in any other jurisdiction.
+
+27. Assignment and Sub Letting
+
+The Consultant shall not assign or sub-let or create any trust of this Agreement or any part thereof nor any of the Consultant's benefits, rights, duties or liabilities hereunder, nor shall the Consultant make any sub-contract with any person or persons for the execution of any portion of the Services without the prior consent in writing of the Company in its absolute discretion.
+
+28. Control of the Consultant's Employees
+
+The Consultant shall:
+
+28.1 engage only competent and trustworthy employees at not less than the prescribed award rates of pay and conditions of employment, and shall personally supervise their separate and several duties;
+
+28.2 As far as practicable use the same Consultants' Employees for all Services;
+
+28.3 make personnel employed by the Consultant to provide the Services aware of the provisions of this Agreement and shall be responsible for ensuring the suitability of all the Consultants' Employees and that the work performed by the Consultants' Employees meets the requirements of this Agreement;
+
+
+28.4 employ only persons of good repute and the Company may, in writing, and without stating any reason or without creating any liability for action at law, object to the employment by the Consultant of any specific person in carrying out the Services and the Consultant shall forthwith refrain from employing that person in the performance of the Services; and
+
+28.5 not in any circumstances be relieved of any of its liabilities or obligations under this Agreement and the Consultant shall be liable to the Company for all acts, defaults, omissions and neglects of any and all of the Consultants' Employees.
+
+29. Confidentiality and Privacy
+
+29.1 The Consultant shall instruct each employee of the Consultant prior to his engagement that if in the lawful performance of his respective duties that employee is accidentally or inadvertently made aware of any information in any records, files, documents or correspondence, any knowledge, systems, know how, techniques, client information, marketing information, trade secrets ("Confidential Information") of the Company that Confidential Information shall be treated as being strictly confidential and shall not be disclosed, published or released to any person or persons whatsoever on the penalty of that, employee being instantly dismissed from the employment of the Consultant.
+
+29.2 The Consultant shall arrange for all the Consultants' Employees engaged in the performance of this Agreement to complete and comply with the Company's standard Contractor/Consultant Privacy and Confidentiality Agreement, a copy of which has been provided to the Consultant contemporaneously upon the execution of this Agreement (as amended from time to time), within seven (7) days of the date of execution of this Agreement by the Consultant reasonably proposed by the Company.  The Consultant acknowledges and agrees that any Consultants' Employees that do not sign that agreement shall not have authorised access to the Premises and shall be required to be replaced by the Consultant, at no extra cost to the Company.
+
+29.3 For the purposes of this Agreement the terms "Personal Information", "Sensitive Information" and "Approved Privacy Code" have the same meaning as in the Privacy Amendment (Private Sector) Act 2000 ("the Act").
+
+29.4 The Consultant shall:
+
+29.4.1 comply with:
+
+29.4.1.1 the Act and any guidelines issued by the Privacy Commissioner;
+
+29.4.1.2 any privacy policy or Approved Privacy Code adopted by the Company (as amended from time to time);
+
+29.4.1.3 any direction of the Company regarding compliance with the Privacy Act, guidelines, privacy policy or Approved Privacy Code,
+
+in respect of any Personal Information or Sensitive Information which the Consultant receives or has access to under this Agreement ; and
+
+
+29.4.2 co-operate with the Company in the resolution of any complaint alleging a breach under the Privacy Act, a privacy policy or an Approved Privacy Code.
+
+29.4.3 indemnify the Company and keep the Company indemnified from any claims, costs actions proceedings or demands judgments damages and losses suffered by the Company arising from or out of or attributable to any breach of this clause.
+
+30. Further assurance
+
+Each party must do, sign, execute and deliver and the Consultant must ensure that each of the Consultants' Employees does, signs, executes and delivers, all deeds, documents, instruments and acts reasonably required of it or them by notice from another party effectively to carry out and give full effect to this Agreement and the rights and obligations of the parties under it.
+
+31. Counterparts
+
+This Agreement may be executed in any number of counterparts and all of those counterparts taken together constitute one and the same instrument.
+
+32. Governing Law
+
+This Agreement is governed by the law in force from time to time in Western Australia.
+
+33. Submission to jurisdiction
+
+The parties submit to the non-exclusive jurisdiction of the courts of Western Australia and any courts which may hear appeals from those courts in respect of any proceedings in connection with this Agreement.
+
+34. Australian Standards
+
+Australian Standard 4122-2000 (as amended from time to time) shall be incorporated in and be deemed to be part of the Agreement except to the extent that it is varied or inconsistent with the terms of this Agreement.
+
+35. Invoicing
+
+The Consultant is to provide the Company with an invoice for the Service on a monthly basis, or during the month if the Service has been completed, for which payment will be made on a nett 30 day basis unless otherwise agreed in writing i.e. payment of the invoice will be made by the end of the month following receipt of the invoice. The invoice is to provide a breakdown and individually itemise, as a minimum, a detailed description of the Service undertaken, date of Service, hours expended and rate for labour/materials/equipment incurred in undertaking the Service where the Service is provided on an hourly basis. The final invoice provided by the Consultant to the Company shall be accompanied by all records in accordance with clause 4 with a covering letter from the Consultant addressed to the Company confirming that all records have been provided to the Company and that no records have been retained by the Consultant whatsoever. The Company reserves the right to withhold payment of the final invoice until receipt of all records and covering letter from the Consultant or any monthly invoice until clause 4 has been satisfied.
+
+
+END
+1
+
+
+
+
+
+1
+
+

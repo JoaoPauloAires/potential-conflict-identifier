@@ -1,0 +1,73 @@
+The Client wishes to engage the University to provide the services and the University has agreed to perform the services.
+This Agreement sets out the rights and obligations of each Party in relation to the services
+
+This Agreement will begin on the Start Date and will continue for the Term set out in Item 2 of Schedule 1. 
+
+The University will perform the Services and provide the Deliverables by the date specified in Item 4 of Schedule 1.  
+The Services must be performed in accordance with the terms of this Agreement, including by the Specified Personnel, if any are specified.
+Subject to clause 3.2, the University may sub-contract the performance of any part of the Services with the prior written consent of the Client, not be unreasonably withheld.
+
+The Client shall make payments to the University for the Services as set out in Item 5 of Schedule 1.
+Payments must be made within thirty (30) days of receipt by the Client of a valid invoice from the University for the amount owing, as specified in Item 5 of Schedule 1.
+When receiving Confidential Information, the Receiving Party must:
+keep all Confidential Information of the Disclosing Party confidential, unless strictly required otherwise by law;
+limit access to those of its personnel reasonably requiring the Confidential Information on a strictly need to know basis;
+not use any Confidential Information in any way other than for the Services or as otherwise contemplated by this Agreement without the prior written permission of the Disclosing Party; and
+ensure that all personnel to whom Confidential Information is disclosed are legally bound under the terms and conditions of their employment agreements or otherwise, to keep the Confidential Information confidential and not to use the Confidential Information except in relation to the subject matter of this Agreement. 
+Confidential Information excludes, or as the case requires, ceases to include information, which is, or becomes:
+available to the public at or after the date of its disclosure to the Receiving Party otherwise than through the default of the Receiving Party;
+properly in the possession of the Receiving Party otherwise than by prior confidential disclosure from the Disclosing Party; 
+demonstrated by the Receiving Party to be independently developed by an employee or agent of the Receiving Party having no knowledge of such information which is the subject of the disclosure.
+At the termination or expiration of this Agreement and upon the written request of the Disclosing Party, the Receiving Party must return to the Disclosing Party any documents originating from the Disclosing Party which embody Confidential Information and must not keep any copies in any form. 
+
+Each Party
+agrees that it will not have any claim, ownership or interest in the other Party's Background Intellectual Property or Improvements in such Background Intellectual Property;
+grants the other Party a non-exclusive, royalty-free licence for the use of any Background Intellectual Property made available by the granting Party for the purpose of carrying out the Services; and
+agrees that if Background Intellectual Property which has been made available pursuant to sub-clause (b) is required for the Commercialisation of the Services it must be made available on commercial terms to be negotiated in good faith by the Parties.  If the Parties cannot reach agreement on commercial terms, the matter must be dealt with in accordance with clause 11 [Dispute Resolution].
+Subject to clause 6.3, the rights to all Deliverables, including the Intellectual Property created, discovered or coming into existence as a result of or arising out of the Deliverables shall be the property of and vested in the Client. 
+Ownership or other rights in the Deliverables will not pass to the Client if payment is not made in accordance with clause 4 of this Agreement.  
+The Client agrees that, subject to clause 5 of this Agreement, the University may use the Deliverables and all Intellectual Property created pursuant to this Agreement for its internal research and scholastic endeavours, but not for commercialisation. 
+
+The University agrees that it will obtain the Client's prior approval before submitting any manuscript or article relating to this Agreement for publication.
+The University warrants that it will carry out the Services according to proper professional standards.  
+Except for the warranty in clause 8.1, the University does not make any warranties regarding the Services or the Deliverables.  All other warranties, including without limitation those of merchantability, fitness for a particular purpose, or that the use of the Deliverables or any other materials created pursuant to this Agreement will not infringe any intellectual property rights of a third party, are excluded.  The Client uses the Deliverables at its own risk.
+To the extent permitted by law, the University has no liability under this Agreement other than as set out in this clause 8.  Where liability cannot be excluded it is limited, at the University's option, to re-performing the Services or paying the Client the cost of having the services re-performed.  The cost to the University under this clause 8 shall not exceed the payment received by the University under this Agreement.
+
+This Agreement may be terminated at any time with the consent of both Parties.
+Either the Client or the University may terminate this Agreement:
+if the other Party is in default of the terms and conditions of this Agreement and fails to remedy the default within twenty (20) Business Days after receiving Notice requiring the remedy of the default; or 
+on giving ninety (90) days notice without cause.
+Termination of this Agreement for whatever cause shall be without prejudice to any rights or obligations that have accrued or are owing prior to such termination, including but not limited to payments of money.
+
+For the purposes of this clause 10, the value of taxable supply made by each Party under this Agreement is as follows:
+unless expressly stated to the contrary, the consideration to be provided for any taxable supply made by one party to the other under this Agreement has been calculated without regard to, and is exclusive of, GST;
+the consideration referred to in paragraph (a) shall be increased by the amount of any GST;
+the Party receiving any payment for a taxable supply under this Agreement shall provide to the Party making a payment for a taxable supply a tax invoice in respect of that payment; and
+the Party receiving any payment under this Agreement for a taxable supply shall do all things necessary (including, without limitation, registering with any required Government authority) to enable the party making a payment for a taxable supply to claim any credits or other benefits under the relevant law relating to GST.
+
+A Party claiming that a dispute has arisen under this Agreement (Dispute) must notify the other Party giving written details of the Dispute.  The Parties agree to negotiate in good faith on a commercially realistic basis to resolve the Dispute and will refer resolution of the Dispute to officers within each Party who are authorised to hear the Dispute before commencing any legal proceedings in relation to the Dispute.
+Any Dispute which cannot be settled under clause 11.1 within a reasonable time must be referred for determination by a person appointed for that purpose by the Parties and failing Agreement, appointed by the President of the Institute of Arbitrators and Mediators Australia (Victorian Division).
+Any determination made under the above clause is binding on the Parties and the Commercial Arbitration Act 1984 (Vic) applies to the determination except to the extent otherwise agreed by the Parties.  
+Nothing in this clause 11 will prevent a Party from seeking interlocutory relief.
+
+The Parties are independent contracting parties, and nothing in this Agreement shall make any Party the agent, partner or legal representative of the other Party for any purpose whatsoever, nor does it grant either Party any authority to assume or to create any obligation on behalf of or in the name of the other Party on any account whatsoever.
+
+The laws that are applicable in Victoria, Australia govern this Agreement and each Party submits to the jurisdiction of the courts of that state and the courts of appeal therefrom.
+
+Entire agreement. This Agreement constitutes the entire agreement of the Parties with respect to its subject matter and supersedes all prior oral or written representations and agreements.
+Amendment. This Agreement may only be amended in writing signed by the parties. 
+Assignment. A Party may not assign its rights or obligations arising under this Agreement without the prior written consent of the other Party.
+Waiver. A waiver by either Party of a breach of any provision of this Agreement does not constitute a waiver of any succeeding breach of the same or any other provision.
+Severance. If any provision or part provision of this Agreement is invalid or unenforceable, such provision shall be deemed deleted but only to the extent necessary and the remaining provisions of this Agreement shall remain in full force and effect.
+Force Majeure. The University will not be liable for the consequences of any delays or failure to carry out the Services or provide the Deliverables where such delay or failure is due to any event beyond the University's reasonable control, including without limitation, acts of God, fire, flood, accident, terrorism, strike and riot.
+ 
+
+The last party to sign this Agreement must complete the date field on the first page
+
+This Agreement will remain in effect for one of the two options below:
+until the Services have been performed and the Deliverables have been provided to the Client by the date specified in Item 6 below; or 
+for a period of INSERT THE NUMBER OF CALENDAR MONTHS calendar months commencing on and from the Start Date.
+     
+Date of delivery of DeliverablesThe Deliverables will be provided by the University to the Client by the date(s) specified below:
+Payment ScheduleInstalment No.Date on which instalment is to be paidAmount to be paid ($ AUD)  
+Total ($ AUD)

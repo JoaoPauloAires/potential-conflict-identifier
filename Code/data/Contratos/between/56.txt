@@ -1,0 +1,402 @@
+TEMPLATE INTERFACE AGREEMENT
+
+
+
+RAIL OR ROAD CROSSINGS
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT 
+OF SAFETY RISKS 
+
+
+Between
+
+
+RAIL INFRASTRUCTURE MANAGER(S):
+
+..............................................................................
+[ insert name of Rail Infrastructure Manager]
+
+
+..............................................................................
+[ insert name of Rail Infrastructure Manager]
+
+
+..............................................................................
+[ insert name of Rail Infrastructure Manager]
+
+
+and
+
+
+ROADS AUTHORITY(IES):
+
+
+..............................................................................
+[ insert name of roads authority]
+
+
+..............................................................................
+[ insert name of roads authority]
+
+
+..............................................................................
+[ insert name of roads authority]
+
+
+
+
+
+
+[ insert date ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TABLE OF CONTENTS
+
+TO BE INSERTED
+INTERFACE AGREEMENT
+
+DATE:
+BETWEEN:
+
+of
+
+[ Note:  insert name, ABN and address of Rail Infrastructure Manager]
+AND:
+
+of
+
+[ Note:  insert name, ABN and address of Rail Infrastructure Manager]
+AND:
+
+of
+
+[ Note:  insert name, ABN and address of Rail Infrastructure Manager]
+AND:
+
+of
+
+[  Note: insert name, ABN and address of roads authority]
+AND:
+of
+
+[  Note: insert name, ABN and address of roads authority]
+
+AND:
+of
+
+
+[  Note: insert name, ABN and address of roads authority]
+each a party and together the parties.
+BACKGROUND
+
+A. Part 2, Division 3 of the Rail Safety Act obliges rail transport operators and roads authorities to identify and assess and manage, so far as is reasonably practicable, risks to safety that may arise from railway operations carried out on rail infrastructure wholly or partly because of the existence of any rail or road crossing that is part of a road.
+
+B. The parties are obliged under section 31 of the Rail Safety Act to maintain a register of Interface Agreements to which they are a party, and any arrangements determined by an appointed person under section 30 of the Rail Safety Act.
+
+C. The parties enter into this agreement in order to comply with their obligations under the Rail Safety Act in relation to rail or road crossings covered by this agreement.
+
+IT IS AGREED THAT:
+1 Interpretation
+1.1 Definitions
+
+Crown road means a public road that is declared to be a Crown road for the purposes of the Roads Act 1993
+IAMA Institute of Arbitrators and Mediators Australia Interface Agreement means an agreement in writing about managing risks to safety  in relation to a rail or road crossing identified and assessed in accordance with Part 2, Division 3 of the Rail Safety Act
+Private road means any road that is not a public road or a Crown road
+Public road means:
+
+(a) any road that is opened or dedicated as a public road, whether under the Roads Act 1993 or any other law; and
+(b) any road that is declared to be a public road for the purposes of the Roads Act 1993;
+
+but does not include a Crown road.
+Rail Infrastructure Manager has the meaning given in section 4 of the Rail Safety Act
+Rail or road crossing means:
+
+(a) a railway crossing;
+(b) a bridge carrying a road over a railway; or
+(c) a bridge carrying a railway over a road
+
+Rail Safety Act means the Rail Safety Act 200[   ]
+Rail transport operator has the meaning given in section 4 of the Rail Safety Act
+Railway crossing means:
+
+(a) a level crossing; or
+(b) any area where a footpath or shared path crosses a railway or tram tracks at substantially the same level
+Road means a private road or a public road that has as one of its main uses, the driving or riding of motor vehicles, and includes any relevant road related area within the meaning of the Australian Road Rules
+Roads authority in relation to a public road has the meaning given in section 7 of the Roads Act 1993 and in relation to a private road means the owner of the road 
+1.2 In this agreement unless the context requires otherwise:
+
+(a) The singular includes the plural and vice versa;
+
+(b) Words importing any gender include the other genders;
+
+(c) All headings, bold typing and italics have been inserted for convenience or reference only and do not define, limit or affect the meaning or interpretation of this agreement;
+
+(d) Reference to a natural person includes any company, partnership, joint venture, association or corporation of other body corporate or any governmental authority and in each and every case includes a reference to a person's executors, administrators, successors, substitutes and assigns; and
+
+(e) Reference to a statute, ordinance, code or other law includes regulations and other statutory instruments under it and consolidations, amendments, re-enactments or replacements of any of them.
+2 Term of this agreement
+2.1 This agreement commences on [ insert date ] and continues until terminated by a party.
+2.2 A party may terminate this agreement by giving the other party no less than three months' written notice.
+2.3 Subject to clause 2.4, if this agreement is terminated in accordance with clause 2.2, the parties agree to negotiate in good faith to enter into a replacement Interface Agreement prior to the expiry date of this agreement.
+2.4 A replacement Interface Agreement is not required to be entered into if:
+(a) a rail or road crossing is permanently closed;
+
+(b) a Crown road is permanently closed; or
+
+(c) a railway line is permanently closed.
+3 Scope of this agreement
+3.1 This agreement applies to the rail or road crossings described in schedule 1.   Responsibility for the infrastructure assets described in schedule 1 is set out in schedule 1.
+3.2 The parties may amend schedule 1 at any time by written agreement.
+3.3 The parties will apply a risk management process consistent with AS 4360 Risk Management to identify, assess and manage, so far as is reasonably practicable, risks to safety in relation to the rail or road crossings the subject of this agreement.
+3.4 This agreement does not supersede any previous agreement between the parties in relation to rail or road crossing safety risk management, unless the parties record in schedule 2 the details of any previous arrangement that is superseded by this agreement.
+3.5 Each party will record this agreement in the party's register of Interface Agreements. 
+3.6 This agreement does not affect or derogate from the parties' rights and obligations under the Civil Liability Act 2002 or their functions and powers under any other Act.
+4 Identification, assessment and management of risk 
+4.1 The parties will identify and assess risks to safety, so far as is reasonably practicable, that may arise in relation to the rail or road crossings the subject of this agreement:
+
+(a) 	during the life cycle of rail or road crossing infrastructure; and
+
+(b)	arising from change in the use or application of rail or road crossing infrastructure.
+4.2 The parties will record in schedule 3:
+(a) the identified risks to safety; 
+(b) risk assessments;
+(c) measures to manage safety risks; 
+(d) the party responsible for implementation and maintenance of the safety risk management measures; and 
+(e) the timetable for implementation of safety risk management measures.
+4.3 The parties may amend schedule 3 at any time by written agreement.
+4.4 Subject to clause 4.5, the party responsible for implementation and maintenance of the safety risk management measures will be responsible for their cost of implementation and maintenance.
+4.5 A party may agree to contribute to the funding of the cost of implementation and/or maintenance by another party of safety risk management measures.  
+4.6 The parties may undertake identification and assessment of safety risks individually or jointly, or may adopt a risk assessment carried out by the other party.
+5 Monitoring and review of risk
+5.1 Each party will continuously monitor and review the safety risks and measures to manage the safety risks for which it is responsible, including progress against the timetable for implementation of safety risk management measures.
+5.2 The parties will consult with each other in relation to the outcome of their monitor and review.
+5.3 If, following a party's monitor and review under this clause 5, a safety risk is considered to be unacceptable, the parties will work collaboratively and cooperatively to agree measures to manage the safety risk so far as is reasonably practicable and will record any changes in schedule 3.  
+6 Compliance
+6.1 Each party will report annually to the other party, or at such other times that the parties may agree, on its progress in implementing agreed safety risk management measures for which it is responsible under this agreement.
+6.2 A party may, at its cost, undertake an independent audit of another party's records of compliance with this agreement, upon giving reasonable written notice to the other party.  The parties agree to cooperate with each other in the conduct of such audits.
+7 Communications and meetings
+7.1 The parties will notify each other promptly of any occurrence or incident in connection with safety of the rail or road crossings the subject of this agreement.
+7.2 Schedule 4 contains details of the parties' representatives for the purposes of this agreement, together with emergency contact details in the event of any occurrence or incident   The parties will promptly notify the other parties of any changes to schedule 4.
+7.3 The parties will meet annually, or at such other times the parties may agree, to review the provisions of this agreement and the adequacy of safety risk identification, assessment and management concerning the rail or road crossings the subject of this agreement.   Agendas and minutes of such meetings will be kept by the party hosting the meeting.  Minutes will be circulated to other parties within ten business days of the meeting.
+7.4 The costs of holding meetings under this clause 7 will be shared equally between the parties.
+8 Dispute Resolution
+8.1 Should a dispute arise between the parties in connection with this agreement, a party may issue a written notice of dispute to the other party.
+8.2 Within 5 business days of receipt of a notice of dispute senior officers of each party will meet to discuss the dispute.
+8.3 If the senior officers are unable to resolve the dispute, chief executive officers of the parties will meet within 5 business days to attempt to resolve the dispute.
+8.4 If the chief executive officers of the parties are unable to resolve the dispute, the dispute will be referred for conciliation to the IAMA in accordance with the Conciliation Rules of the IAMA.
+8.5 If the conciliation process is unsuccessful, the dispute will be referred to [ insert ], for determination.  The parties agree any such determination will be binding on them.
+8.6 Meetings under this clause 8 may be held by telephone.
+
+
+
+
+
+EXECUTED AS AN AGREEMENT
+
+RAIL INFRASTRUCTURE MANAGER(S):
+EXECUTED for and on behalf of
+
+
+
+
+
+by:
+
+
+
+
+
+................................................in the presence of:Authorised signatory
+
+
+...................................................Authorised signatory
+
+EXECUTED for and on behalf of
+
+
+
+
+
+by:
+
+
+
+
+
+................................................in the presence of:Authorised signatory
+
+
+...................................................Authorised signatory
+
+EXECUTED for and on behalf of
+
+
+
+
+
+by:
+
+
+
+
+
+................................................in the presence of:Authorised signatory
+
+
+...................................................Authorised signatory
+
+
+
+ROADS AUTHORITY(IES):
+EXECUTED for and on behalf of
+
+
+
+
+
+by:
+
+
+
+
+
+................................................in the presence of:Authorised signatory
+
+
+...................................................Authorised signatory
+
+
+EXECUTED for and on behalf of
+
+
+
+
+
+by:
+
+
+
+
+
+................................................in the presence of:Authorised signatory
+
+
+...................................................Authorised signatory
+
+EXECUTED for and on behalf of
+
+
+
+
+
+by:
+
+
+
+
+
+................................................in the presence of:Authorised signatory
+
+
+...................................................Authorised signatory
+SCHEDULE 1
+
+LIST OF RAIL OR ROAD CROSSINGS
+
+(clause 3)
+
+Name of rail or road crossingStreet location of rail or road crossingRail network location of rail or road crossingDescriptionRail Infrastructure Manager responsibleRoads authority responsible
+
+
+
+
+
+
+SCHEDULE 2
+
+LIST OF INTERFACE AGREEMENTS SUPERSEDED BY THIS AGREEMENT
+
+(clause 3.4)
+
+Date of agreementDescription/Title of agreementParties to agreement
+
+
+
+
+SCHEDULE 3
+IDENTIFICATION, ASSESSMENT AND MANAGEMENT OF RISK 
+(Clause 4)
+
+Name of rail or road crossing ActivitiesIdentified riskRisk assessmentMeasures to manage riskParty responsible for managing riskAgreed timetable for implementing measures to manage risk
+
+
+
+
+
+
+
+
+
+SCHEDULE 4
+
+
+COMMUNICATIONS - CONTACT LIST
+(Clause 7)
+
+PARTYADDRESS FOR NOTICESCONTACT DETAILS FOR MEETINGS AND REPORTS CONTACT DETAILS FOR EMERGENCIES OCCURRENCES AND INCIDENTSRail Infrastructure Manager(s):
+
+[ insert name of Rail Infrastructure Manager ]
+
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+[ insert name of Rail Infrastructure Manager ]
+
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+[ insert name of Rail Infrastructure Manager ]
+
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+
+PARTYADDRESS FOR NOTICESCONTACT DETAILS FOR MEETINGS AND REPORTS CONTACT DETAILS FOR EMERGENCIES OCCURRENCES AND INCIDENTSRoads authority(ies):
+
+[ insert name of roads authority]
+
+
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+[ insert name of roads authority]
+
+
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+[ insert name of roads authority]
+
+
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+Insert name or position of contact, name of organisation, address, telephone and facsimile numbers
+
+
+
+1
+Revision: 1.0 
+Date: 10 June 2008
+

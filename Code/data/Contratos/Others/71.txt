@@ -1,0 +1,107 @@
+A05n18
+Sample Agreement for publishers and print disability organisations 
+AGREEMENT
+Parties
+This agreement is between:
+_________________________ ["the Publisher"] 
+and 
+_________________________ ["the Organisation"].
+The Publisher agrees to grant the Organisation the Licence set out in Part One of this Agreement. Where the Publisher agrees to provide digital files of its books to the Organisation, it does so on the terms and conditions set out in Part Two of this Agreement.
+Definitions
+"Individual Copies" means copies of the Master Copy made by the Organisation for use by individuals with a print disability.
+"Interim Copies" means any copies of an Original File that the Organisation makes in the process of creating a Master Copy.
+"Master Copy" means a copy of the Original File in one or more of the formats set out in Part 2 (whether or not that copy has been edited, amended or adapted or contains additional material) and held by the Organisation. 
+"Members" means individuals with a print disability who are members, clients or students of the Organisation.
+The "Online Delivery Requirements" are that, whenever the Organisation makes a Master or Individual Copy, or a copy of any of the Publisher's Books made under section 135ZP, available online:
+* access to copies of the Publisher's Books online is password-protected;
+* access to copies of the Publisher's Books online is available only to Members of the Organisation and to people acting on behalf of the Organisation;
+* as a condition for having access to the Publisher's Books online, the Organisation requires its Members to agree not to reveal their password to any other person and not to make copies of the Publisher's Books (or the online material generally) available to any other person; and
+* if the Organisation becomes aware that a Member has made copies of any substantial part of these books available to any other person, the Organisation takes action within 14 days to suspend that person's online access to material for at least 30 days; and
+* people working for the Organisation are made aware of the need to limit access to the Original File and all reproductions of it. 
+
+"Original File" means a digital file of a Book supplied by the Publisher under Part Two of this Agreement. 
+"the Publisher's Books" means books for which the Publisher controls the rights to copy and communicate within Australia.
+Part 1: Obligations under section 135ZP of the Copyright Act 
+1.1  Checking for commercial availability
+a. Where Accessible Copy is to be made in Braille
+If the Organisation wishes to make a copy of one of the Publisher's Books under section 135ZP of the Copyright Act, it is not required to check for commercial availability if the Accessible Copy is to be made in Braille.
+b. Where commercially available formats are not accessible to individuals with a print disability
+If any of the Publisher's Books is commercially available in one of the formats set out in section 135ZP of the Copyright Act, but is not accessible to a particular Member (for example because it is available as an e-book in a format that cannot be accessed by the user's adaptive software), the Organisation may make and supply an accessible copy to that Member.
+c. Checking for commercial availability where accessible copies are provided online
+If the Organisation makes any of the Publisher's Books available online to its Members under section 135ZP of the Copyright Act, it will meet the requirement to check for commercial availability by making the check once every twelve months while the work remains available online, provided it meets the Online Delivery Requirements. 
+Part 2: Digital files
+2.1 Supply and use of Original Files
+The Publisher may provide Original Files to the Organisation on request. The Organisation may use the Original Files in the ways set out in clause 2.2 to make copies in:
+* any format for use by people with a print disability OR
+* the following formats: ________________________________.
+(Strike out whichever is not applicable).
+2.2 Ways in which the Organisation may use digital files provided by the Publisher
+a. Making copies in accessible formats
+When the Publisher supplies an Original File, the Organisation may:
+* make Interim Copies and communicate them within the organisation as required for the purposes of making a Master Copy;
+* make any alterations, deletions and additions necessary to make a Master Copy of the Original File (except any alterations that would infringe the moral rights of any person); and
+* make Individual Copies as needed by its Members.
+b. Supplying Individual copies to individuals with a print disability
+The Organisation may lend, communicate or give Individual Copies to its Members, provided that:
+* the Organisation requires its Members to agree not to make Individual Copies available to any other person or organisation (including by lending the Individual Copy); and
+* to the extent that is practicable, copy-protection measures are used (if required by the Publisher and as agreed between the Publisher and the Organisation).
+c. Making Individual Copies available online to Members
+The Organisation may make Individual Copies available online to its Members, provided that, in addition to the requirements set out in clause 2.2b, it meets the Online Delivery Requirements.
+2.3 Terms and conditions for supply of digital files
+a. Publisher may set conditions on supply of Original File
+The publisher may, by giving notice in writing on receipt of a request for an Original File:
+• require payment for providing the Original File; and/or
+• require the Organisation to destroy all copies of the Original File and any Interim Copies [and/or return the CD-ROM, if supplied], after making the Master Copy.
+b. No warranty concerning third party material
+The Publisher does not warrant that it controls the rights in all material in the Book. The Organisation acknowledges that it may need permission to use third party material in the Book (such as artwork that was not created by the author or Publisher). 
+The Publisher will provide information to assist the Organisation to contact the owner(s) of copyright in any third party material, if requested.
+c. Moral rights
+The Organisation will take all reasonable steps to ensure that it does not infringe the moral rights of any creator of material included in the Book.
+d. Restrictions on use of the Original File and reproductions of it
+The Organisation will not, without the written permission of the Publisher:
+* use the Original File, any Interim Copy, Master Copy or Individual Copy in any way apart from those set out in clause 2.2;
+* sell the Original File, any Interim Copies, or any Master Copy; or
+* sell any Individual Copy for more than the cost of making and supplying that copy.
+e. Publisher may terminate right to provide Individual Copies online
+The Publisher may, by notice in writing, require the Organisation to cease to make Individual Copies relating to a particular Original File available online.
+2.4 Termination of a licence to use a digital file
+a. Automatic termination for breaches of clause 2.3d
+If the Organisation breaches subclause 2.3d, the Licence will terminate automatically in respect of that Original File.
+b. Optional termination for other breaches
+If the Organisation breaches any other obligations under this Licence in relation to any Original File supplied by the Publisher, the Publisher may give written notice specifying the breach. If the breach is not remedied within 14 days, the Licence will terminate in respect of that Original File. 
+c. Consequences of termination
+If the Licence is terminated in relation to any of the Original Files supplied by the Publisher, the Organisation must cease making Individual Copies of that File and, if it has made any such copy available online, must cease doing so. 
+d. Publisher may require deletion or return of files after termination
+Following termination of the Licence in relation to any of the Original Files supplied by the Publisher, the Publisher may require the Organisation by notice in writing to delete or deliver to the Publisher all copies of the specified Original File, and any Interim Copies and Master Copies of that File under its control.
+Part 3: Duration of this Agreement
+3.1 Agreement may be terminated by notice in writing
+This Agreement takes effect from the date of signature by both parties and continues until either party notifies the other in writing that it intends to terminate the Agreement. In the event of such notification, the Agreement will terminate 90 days from the date of notification.
+3.2 Effect of termination of the Agreement
+The effect of termination of the Agreement will be:
+* From the date of termination, the Organisation will no longer be able to rely on Part One in meeting its obligations to check for commercial availability under the Copyright Act; and
+* any Licences in respect of Original Files granted by the Publisher under Part Two are automatically terminated on the date of termination of the Agreement, with the consequences set out in subclause 2.4c.
+3.3 Publisher may require deletion or return of files after termination
+Following termination of the Agreement, the Publisher may require the Organisation by notice in writing to delete or deliver to the Publisher:
+* all copies of any or all Original Files the Publisher has provided under this Agreement, and 
+* any Interim Copies and Master Copies of Original Files supplied by the publisher under the Organisation's control.
+
+Date of agreement: ________________________
+Signed by 
+
+________________________________________
+(on behalf of the Publisher)
+
+________________________________________
+(on behalf of the Organisation)
+
+
+A05n18 Sample Agreement: publishers and print disability orgs Nov 2005	6
+
+(c) Australian Copyright Council 2005. 
+For updated information, go to http://www.copyright.org.au/disability.
+
+A05n18 Sample Agreement: publishers and print disability orgs Nov 2005	1
+
+(c) Australian Copyright Council 2005. 
+For updated information, go to http://www.copyright.org.au/disability
+

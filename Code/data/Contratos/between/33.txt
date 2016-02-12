@@ -1,0 +1,73 @@
+Non-Disclosure Agreement
+
+Parties to the agreement:
+
+
+Rapid Prototyping Services	 (1)
+
+AND
+
+ ..............................................................................(2)
+
+THIS AGREEMENT is made on Sunday, 10 April 2011
+ 
+BETWEEN:
+1.	Rapid Prototyping Services, a company registered in Australia whose registered office is at 
+2/36 Albert Street, St Peters, NSW, 2044, Australia (hereinafter "Company A"); and
+
+2.	.......................................... ...........................a company registered in Australia whose registered office is at:
+
+.............................................................................................................................. 
+
+ABN....................................
+(hereinafter "Company B")
+
+IT IS AGREED
+
+1. 	DEFINITION
+1.1 	For the purposes of this Confidentiality Agreement:
+"Confidential Information" means all information designated as such by either party in writing together with all other information of a confidential nature disclosed by either party (whether in writing, verbally or by any other means and whether directly or indirectly) which relates to the products, operations, process, developments, trade secrets, know-how, personnel, customers or clients, suppliers, plans or intentions, market opportunities or business affairs of either party or information which may reasonably be regarded as the confidential information of the disclosing party;
+"Proposed Project" means an enterprise planned to achieve a particular aim or activity which will be undertaken by "Company A" and shall include but shall not be limited to the development and or provision of products and/or processes which may reasonably be regarded as a proposed project;
+2. 	CONFIDENTIALITY UNDERTAKINGS
+2.1	In consideration of the mutual disclosures contemplated by this agreement, both parties 	hereby undertake that:
+a. they will keep all Confidential Information of the other absolutely secret and confidential.
+b. any person employed or engaged by the parties in connection with the discussions and  negotiations relating to the Proposed Project between the parties (the "Proposed Project") in the course of such involvement, shall only use Confidential Information for the purposes of such discussions and negotiations;
+c. any person employed or engaged by either "Company A" or "Company B" (in connection with the Proposed Project in the course of such employment or engagement) shall not disclose any Confidential Information to any third party without the prior written consent of a duly authorised representative of either party; and
+d. both parties shall take all the necessary precautions to ensure that all Confidential Information is treated as confidential and not disclosed (save as aforesaid) or used other than for the purposes of the Proposed Project by their employees, servants, agents or sub-contractors.
+2.2 	The provisions of Clause 2.1 shall not apply to any information which:
+a) is or becomes available in the public domain other than by a breach of Clause 2.2. 
+      	Without prejudice to the generality of the foregoing for the purposes of this sub-		clause:
+i) Confidential Information shall not be deemed to be in the public domain by reason only that it is known to only a few persons to whom it may be of commercial interest;
+ii) A combination of two or more portions of Confidential Information shall not be deemed to be in the public domain by reason only of each 	separate portion being so available;
+b) the receiving party can show by its written or other records that such information was in its possession prior to receipt from the disclosing party and which had not previously been obtained from the disclosing party or any other party on behalf of the disclosing party under an obligation of confidence;
+c) is received from a third party who lawfully acquired it and who is under no obligation restricting its disclosure;
+d) has been disclosed by the disclosing party to a third party without any obligation of confidence; or
+e) is independently developed without access to the Confidential Information.
+2.3 	Neither party accepts any responsibility for or makes any representations or warranties, 	express or implied, with respect to the accuracy or completeness of any of the Confidential Information and neither party shall be liable to the other party or any third party for any loss resulting from use of the Confidential Information.
+2.4 	The obligations on both parties pursuant to Clause 2.2 shall continue for the period of the 	Proposed Project from the date of this agreement, subject to the provisions of Clause 2.2 	above, whatever the outcome of discussions and negotiations relating to the Proposed 	Project, and shall continue for a period of three years from the date of this agreement.
+2.5 	All intellectual property rights arising out of the Proposed Project shall on coming into existence vest with The Product Workshop's client (The proposed Projects owner).  
+2.6 	This agreement shall not be construed as granting any licences or other similar rights arising out of the disclosure of the Confidential Information. 
+3. 	RETURN OF CONFIDENTIAL INFORMATION
+3.1 	Each party undertakes within seven (7) days of receipt of a written request of the other party and at the option of the other party:
+a) to return to the other party all documents and other material in its possession, custody or control that bear or incorporate any part of the other party's Confidential Information; or
+b) to destroy by shredding, incineration, deletion from computer systems all documents and other material in its possession, custody or control which bear or incorporate any part of the other party's Confidential Information and to certify to the other party that this has been done.
+	c)   to maintain its obligations under the Data Protection Act.
+4. 	GENERAL
+4.1 	This agreement supersedes any previous agreement between the parties in relation to the subject matter and represents the entire agreement between the parties in relation to the subject matter and may not be varied except by a written instrument signed by or for and on behalf of all the parties.
+4.2 	Nothing in this agreement shall be deemed to constitute a partnership or agency between the parties.
+4.3 	Any notice which either party is required to give under this agreement shall be in writing 	and shall be served by recorded delivery post to the address of the relevant party as 	notified from time-to-time by such party. 
+4.4 	In the course of the above "Company A" shall not be liable for any damages for any inadvertent disclosure where the customary degree of care as previously defined had been exercised provided that upon discovery of such inadvertent disclosure, it shall have endeavoured to prevent any further inadvertent disclosure.
+ 5. 	LAW AND JURISDICTION
+Australian law shall govern the validity, construction and performance of this Confidentiality 	Agreement. All disputes between the parties relating to the validity, construction or 	performance of any provision of this Confidentiality Agreement shall be subject to the non-exclusive jurisdiction of the Australian Courts.
+
+This Agreement has been executed on;
+Date:Accepted by;
+Date:Signed:
+Signed:Name:  Name: 
+Position: 
+Position: For and on behalf of:    Rapid Prototyping ServicesFor and on behalf of: 
+
+
+
+
+

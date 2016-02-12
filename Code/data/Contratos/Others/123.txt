@@ -1,0 +1,254 @@
+
+IP Australia Product Provision 
+Terms & Conditions of Use
+          
+          Parties
+This Agreement is made between and binds the following parties:
+1. Commonwealth of Australia represented by IP Australia  ABN 38 113 072 755 Ground Floor, Discovery House, 47 Bowes Street Phillip ACT, 2606
+(IP Australia)
+2. The person described in the Order Form as the 'Licensee' (Licensee)
+
+          Operative provisions
+In consideration of the mutual promises contained in this document, the parties to this Agreement agree as follows:
+
+1. Interpretation
+1.1. Definitions
+1.1.1. Unless the contrary intention appears a term in bold type has the meaning shown opposite it: 
+Agentmeans an officer, employee or other person acting for or on behalf of the Licensee in relation to the Licensed Material;Business Daymeans a weekday other than a public holiday in the Australian Capital Territory;Commencement Datemeans the date referred to in clause 2.1.1;Derivativemeans any of the following, developed from the Licensed Material:
+a. Enhancements; or
+b. Supplementary Work..Enhancementsmeans substantive modifications to the Licensed Material, but only to the extent that the Enhancements are an integral part and cannot meaningfully inform or entertain independently of the original Material;Feemeans the fee if any specified in the Order Form as payable by the Licensee in respect of the Licensed Material;Formatmeans the format in which the Licensed Material is to be provided, as set out in the Order Form;GSThas the meaning that it has in the A New Tax System (Goods and Services Tax) Act 1999 (Cth);Intellectual Propertyincludes:
+a. all copyright (including rights in relation to phonograms and broadcasts);
+b. all rights in relation to inventions, plant varieties, trademarks (including service marks), designs and circuit layouts; and
+c. all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields,
+but does not include:
+d. the moral rights of authors and performers; or
+e. the non-proprietary rights of performers.IP Australiaincludes any department, agency or authority of the Commonwealth which is from time to time responsible for administering this Agreement;Licencemeans the licence granted by IP Australia to the Licensee in clause 2.3;Licensed Materialmeans the product described in the Order Form, and includes any Updates;Licenseein relation to the exercise of any of the rights which are granted by IP Australia to the Licensee - includes an Agent; Materialmeans any subject matter in relation to which Intellectual Property may subsist; Official Journalmeans the Official Journal that is applicable to the subject matter of the Licensed Material, being either:
+a. the Official Journal issued by the Commissioner of Patents for the purposes of the Patents Act 1990 (Cth);
+b. the Official Journal issued by the Registrar of Trade Marks for the purposes of the Trade Marks Act 1995 (Cth);
+c. the Official Journal issued by the Registrar of Designs for the purposes of the Designs Regulations 2004 (Cth); or
+d. the Plant Varieties Journal issued by the Registrar of Plan Breeder's Rights for the purposes of the Plant Breeder's Rights Act 1994 (Cth);Order Formmeans the order form signed by the Licensee setting out the product to be licensed under this Agreement;Personnelmeans:
+a. in relation to the Licensee - any natural person who is an officer, employee, agent or professional advisor of the Licensee or of its subcontractors; and
+b. in relation to IP Australia - any natural person, other than a person referred to in paragraph a, who is an officer, employee, agent or professional advisor of IP Australia;Recordmeans an item within the Licensed Material which corresponds to a single application to IP Australia in respect of an Intellectual Property right, including:
+a. a patent application;
+b. a trademark application;
+c. a designs application; and
+d. a plant breeder's rights application;Sub-licence
+(noun)means permission granted by the Licensee for a Third Party to exercise rights of the Licensee in relation to the Licensed Material, and 'Sub-license' (as a verb) will be construed accordingly; Supplementary Workmeans substantial additional Material which appends, incorporates, is appended to, or is incorporated into, the Licensed Material, but which has some capacity to inform or entertain independently of the original Material;Supplymeans:
+a. to communicate the Licensed Material by making it available online where it can be accessed by Third Parties, or by emailing it to Third Parties; 
+b. to distribute copies of the Licensed Material to Third Parties; or
+c. to cause the Licensed Material to be broadcast or performed in public;Support Periodmeans the period commencing on the Commencement Date and continuing for the period specified in the Order Form;Third Partymeans a person other than:
+a. IP Australia; or
+b. the Licensee (including an Agent).Updatemeans any revised version of the Licensed Material which is made generally available by IP Australia; andUse
+(as a verb)means to copy, read, view, play, perform, operate or execute the Licensed Material (depending on its nature and format), within the functionality that is offered to an ordinary user, and 'Use' (as a noun) will be construed accordingly.2. Licence arrangements
+2.1. Commencement
+2.1.1. This Agreement commences when the completed and signed Order Form is provided by the Licensee to IP Australia. 
+2.2. Provision of Licensed Material
+2.2.1. IP Australia will provide one copy of the Licensed Material to the Licensee in the chosen Format, following the Commencement Date and payment of any Fee applicable to the Licensed Material. 
+2.2.2. IP Australia will supply to the Licensee any Updates of the Licensed Material during the Support Period in accordance with the arrangements specified in the Order Form, or as otherwise agreed by the parties.
+2.3. Grant of Licence
+2.3.1. IP Australia grants to the Licensee a world wide, non-exclusive licence:
+a. to Use; and 
+b. to develop Derivatives of,
+the Licensed Material.
+2.3.2. The Licence in clause 2.3.1 does not include a right to Supply or Sub-license the Licensed Material to Third Parties.
+2.3.3. Where the Licensee develops a Derivative of the Licensed Material, it may Supply and/or Sub-license the Derivative version only after complying with the requirements of clause 3.
+2.4. Duration of Licence
+2.4.1. The Licence is effective from the Commencement Date and continues indefinitely or until this Agreement is terminated in accordance with clause 7. 
+2.5. Support
+2.5.1. The Licensee may contact IP Australia between the hours of 9.00am and 5.00pm on Business Days for assistance in relation to the Licensed Material during the Support Period.
+2.5.2. The Licensee acknowledges that IP Australia will only be responsible under clause 2.5.1 for providing assistance in relation to technical issues associated with the Licensed Material as provided and any mechanism used to provide Updates.
+2.5.3. The Licensee acknowledges that IP Australia will not provide assistance on matters relating to the Licensee's systems or use of the Licensed Material.
+2.6. Official Journal
+2.6.1. The parties agree that the Licensed Material is not to be construed as constituting part of the relevant Official Journal.
+2.7. Reserved Rights
+2.7.1. The Licensee agree that Intellectual Property in the Licensed Material remains vested in IP Australia. The Licensee will not challenge or call into question IP Australia's ownership of such Intellectual Property.
+2.8. Intellectual Property in Derivatives
+2.8.1. The parties agree that Intellectual Property in any Derivatives developed by the Licensee shall be vested as follows:
+a. in relation to Enhancements internal to Records - Intellectual Property vests in IP Australia.  Accordingly in the event that the Licensee wishes to Supply or Sub-license the Enhanced Records to Third Parties, it must first obtain the prior written consent of IP Australia under clause 3; 
+b. in relation to Enhancements of the Licensed Material as a whole - Intellectual Property vests in the Licensee (but not so as to allow the Licensee to Supply or Sub-license the Enhanced version of the Licensed Material without the prior written consent of IP Australia as required by clause 3); and
+c. in relation to Supplementary Work - Intellectual Property vests in the Licensee (but not so as to allow the Licensee to Supply or Sub-license the Licensed Material along with the Supplementary Work without the prior written consent of IP Australia as required by clause 3).
+2.9. Publicity
+2.9.1. The Licensee must not make public comment in reference to the Licensed Material without the express and specific prior written consent of IP Australia.
+2.10. Fees
+2.10.1. The Licensee agrees to pay the Fee, if any, to IP Australia.
+2.10.2. The timing, method and form of payment will be agreed between the parties.
+3. On-Supply and Sub-licensing
+3.1.1. If the Licensee proposes to Supply or Sub-license any Derivative to Third Parties the Licensee will consult with IP Australia and provide IP Australia with such information and access to the Derivative that IP Australia reasonably requests, without limitation including:
+a. information in relation to:
+i. the Third Parties that the Licensee proposes to Supply or Sub-license the Derivative to;
+ii. the purposes for which the Licensee proposes to Supply or Sub-license the Derivative; and
+iii. what the Derivative contains and how the Licensed Material has been used in the Derivative; and
+b. provision of one reproducible copy of the Derivative,
+for the purposes of allowing IP Australia to determine whether it will consent to the Supply or Sub-license of the Derivative to those Third Parties.
+3.1.2. IP Australia may grant or withhold its consent in its absolute and unfettered discretion.
+3.1.3. If IP Australia grants its consent, it may impose conditions on that consent, without limitation including in relation to:
+a. the purpose for which the Derivative may be Supplied and Sub-licensed;
+b. the period during which the Derivative may be Supplied and Sub-licensed;
+c. the Third Parties that the Derivative may be Supplied and Sub-licensed to;
+d. any copyright disclaimer to be placed on the Derivative;
+e. reporting required to be provided to IP Australia in relation to the Supply and Sub-licence of the Derivative;
+f. any fees or royalty to be paid to IP Australia;
+g. any requirement for IP Australia to vet the Derivative prior to it being Supplied and Sub-licensed to Third Parties; and
+h. a licence back of the Derivative to IP Australia in instances where ownership of the Derivative does not vest in IP Australia.
+3.1.4. If IP Australia grants consent subject to conditions, the Licensee must comply with those conditions.
+3.1.5. Any Sub-licence granted to a Third Party may include a right to Use the Derivative only, and may not include a right to:
+a. on-Supply the Derivative; 
+b. Sub-license the Derivative; or
+c. develop a further Derivative.
+4. Taxes, duties and government charges
+4.1.1. Except as provided by this clause 4, the Licensee agrees to pay all taxes, duties and government charges imposed or levied in Australia or overseas in connection with this Agreement.
+4.1.2. Unless otherwise indicated, the Fee and all other consideration for any supply made under this Agreement is exclusive of any GST imposed on the supply.
+4.1.3. If one party (the supplier) makes a taxable supply to the other party (the recipient) under this Agreement, on receipt of a tax invoice from the supplier, the recipient will pay without setoff an additional amount to the supplier equal to the GST imposed on the supply in question.
+4.1.4. No party may claim or retain from the other party any amount in relation to a supply made under this Agreement for which the first party can obtain an input tax credit or decreasing adjustment.
+5. Allocation of risk
+5.1. Indemnity
+5.1.1. The Licensee indemnifies, and must at all times defend and hold harmless IP Australia and its Personnel from any and all liability arising from, or in connection with, any claim relating to any of the following:
+a. any breach of any obligation of the Licensee under this Agreement;
+b. the Licensee's or any of the Licensee's Personnel's use of the Licensed Material; or
+c. any Third Party's use of a Derivative which the Licensee has Supplied and/or Sub-licensed to them.
+5.1.2. The Licensee's liability to indemnify IP Australia under clause 5.1.1 will be reduced proportionately to the extent that any act or omission involving fault on the part of IP Australia or its Personnel contributed to the relevant liability.
+5.1.3. The right of IP Australia to be indemnified under clause 5.1.1 is in addition to, and not exclusive of, any other right, power or remedy provided by law, but IP Australia is not entitled to be compensated in excess of the amount of the relevant liability.
+5.2. Third Party Intellectual Property
+5.2.1. The Licensee acknowledges that the Licensed Material may contain Material in which Intellectual Property vests in Third Parties. The Licensee acknowledges and agrees that it will seek appropriate approvals before undertaking any infringing acts in relation to such Material.
+5.3. No warranty
+5.3.1. The Licensee acknowledges that no warranty is given or implied:
+a. in respect of the frequency and availability of the provision of Updates;
+b. in respect of the suitability of the Licensed Material for use by the Licensee for any particular purpose;
+c. in respect of the comprehensiveness or completeness of the Licensed Material;
+d. that the Licensed Material is up to date or current; and
+e. that the Licensed Material is free from error or inaccuracies.
+5.3.2. To the extent permitted by law, any condition or warranty which would otherwise be implied into this Agreement is hereby excluded.
+5.3.3. The Licensee acknowledges that it has not relied on any representation made by IP Australia that has not been stated expressly in this Agreement.
+6. Dispute resolution
+6.1. Procedure for dispute resolution
+6.1.1. The parties agree that a dispute arising under this Agreement will be dealt with as follows:
+a. the party claiming that there is a dispute will give the other party a notice setting out the nature of the dispute;
+b. within 5 Business Days each party will nominate a representative not having any prior involvement in the dispute;
+c. the representatives will try to settle the dispute by direct negotiation between them;
+d. failing settlement within a further 10 Business Days, the parties may agree to refer the dispute to an independent third person with power:
+i. to intervene and direct some form of resolution, in which case the parties will be bound by that resolution; or
+ii. to mediate and recommend some form of non-binding resolution;
+e. the parties will co-operate fully with any process instigated under clause 6.1.1.d in order to achieve a speedy resolution; and
+f. if a resolution is not reached within a further 20 Business Days, either party may commence legal proceedings.
+6.2. Costs
+6.2.1. Each party will bear its own costs of complying with this clause 6, and the parties will bear equally the cost of any third person engaged under clause 6.1.1.d.
+6.3. Exemption
+6.3.1. This clause 10 does not apply to:
+a. action by IP Australia under or purportedly under clause 7; or
+b. legal proceedings by either party seeking urgent interlocutory relief.
+7. Termination of Licence for fault of the Licensee
+7.1. Termination for fault
+7.1.1. If the Licensee fails to satisfy any of its obligations under this Agreement, then IP Australia - if it considers that the failure is:
+a. not capable of remedy - may, by notice, terminate this Agreement immediately; or
+b. capable of remedy - may, by notice require that the failure be remedied within the time specified in the notice and, if not remedied within that time, may terminate this Agreement immediately by giving a second notice.
+8. Effect of termination
+8.1. Production or destruction of documents on termination
+8.1.1. Upon termination of this Agreement pursuant to clause 7.1.1, IP Australia may in writing direct the Licensee to destroy or deliver up all Materials in its possession or control that contain the Licensed Material, or otherwise deal with that Material as directed.
+8.1.2. The Licensee will immediately comply with a direction under clause 8.1.1, and furnish evidence of such compliance satisfactory to IP Australia.
+9. Notices
+9.1. Format, addressing and delivery
+9.1.1. A notice under this Agreement is only effective if it is in writing, and dealt with as follows:
+a. if given by the Licensee to IP Australia - addressed (and marked for attention) to the address for notices for IP Australia specified in the Order Form, or as otherwise notified by IP Australia; or
+b. if given by IP Australia to the Licensee - addressed (and marked for attention) to the address for notices for the Licensee specified in the Order Form, or as otherwise notified by the Licensee.
+9.1.2. A notice is to be:
+a. signed by the person giving the notice and delivered by hand; or
+b. signed by the person giving the notice and sent by pre-paid post; or
+c. transmitted electronically by the person giving the notice by electronic mail or facsimile transmission.
+9.2. When effective
+9.2.1. A notice is deemed to be effected:
+a. if delivered by hand - upon delivery to the relevant address;
+b. if sent by post - upon delivery to the relevant address;
+c. if transmitted electronically - upon actual receipt by the addressee.
+9.2.2. A notice received after 5.00 pm, or on a day that is not a Business Day in the place of receipt, is deemed to be effected on the next Business Day in that place.
+10. General
+10.1. Waiver
+10.1.1. A failure or delay by a party to exercise any right or remedy it holds under this Agreement or at law does not operate as a waiver of that right.
+10.1.2. A single or partial exercise by a party of any right or remedy it holds under this Agreement or at law does not prevent the party from exercising the right again or to the extent it has not fully exercised the right.
+10.2. Variation
+10.2.1. IP Australia may vary this Agreement by giving the Licensee not less than 20 Business Days prior written notice.
+10.3. Assignment
+10.3.1. The Licensee cannot assign its obligations, and agrees not to assign its rights, under this Agreement without the IP Australia's prior written approval.
+10.4. Interpretation
+10.4.1. In this Agreement, unless the contrary intention appears:
+a. words importing a gender include any other gender;
+b. words in the singular include the plural and words in the plural include the singular;
+c. clause headings are for convenient reference only and have no effect in limiting or extending the language of provisions to which they refer;
+d. words importing a person include a partnership and a body whether corporate or otherwise;
+e. a reference to dollars is a reference to Australian dollars;
+f. a reference to any legislation or legislative provision includes any statutory modification, substitution or re-enactment of that legislation or legislative provision;
+g. if any word or phrase is given a defined meaning, any other part of speech or other grammatical form of that word or phrase has a corresponding meaning;
+h. any attachments form part of this Agreement;
+i. if any conflict arises between the terms and conditions contained in the clauses of this Agreement and any attachments, the terms and conditions of the clauses prevail;
+j. a reference to an attachment, is a reference to an attachment to this Agreement, including as amended or replaced from time to time by agreement in writing between the parties; and
+k. a reference to writing is a reference to any representation of words, figures or symbols, whether or not in a visible form.
+10.5. Guidance on construction of Agreement
+10.5.1. This Agreement records the entire agreement between the parties in relation to its subject matter.
+10.5.2. As far as possible all provisions of this Agreement will be construed so as not to be void or otherwise unenforceable.
+10.5.3. If anything in this Agreement is void or otherwise unenforceable then it will be severed and the rest of the Agreement remains in force.
+10.5.4. A provision of this Agreement will not be construed to the disadvantage of a party solely on the basis that it proposed that provision.
+10.6. Survival
+10.6.1. Unless the contrary intention appears, the termination of this Agreement will not affect the continued operation of any provision relating to:
+a. licensing of Intellectual Property;
+b. an indemnity;
+or any other provision which expressly or by implication from its nature is intended to continue.
+10.7. Applicable law
+10.7.1. This Agreement is to be construed in accordance with, and any matter related to it is to be governed by, the law of the State of the Australian Capital Territory.
+10.7.2. The parties submit to the jurisdiction of the courts of that Territory.
+10.8. Agreement or mere arrangement
+10.8.1. Where the Licensee is a Department or agency of the Commonwealth of Australia which does not have a separate legal personality this Agreement shall be read down as a mere arrangement.
+
+
+IP Australia Product Provision Order Form
+Date of Order/Agreement^Insert date^Licensee:Name: ^Insert full business name^
+Australian Company Number (A.C.N.) (if applicable)
+^Insert customer A.C.N. if applicable^
+Australian Business Number (A.B.N.) (if applicable)
+^Insert customer A.B.N. if applicable^Licensee's
+Address for Notices:Attention: ^Insert details^
+Position: ________________________
+Physical address: ______________________________
+Postal address: ________________________________
+Email: ______________________
+Facsimile: ___________________ IP Australia's
+Address for Notices:Attention: Examination Support and Sales 
+Physical address: 47 Bowes Street Phillip ACT 2606
+Postal address: PO Box 200 Woden ACT 2606
+Email: assist@ipaustralia.gov.au
+Facsimile: +61 2 6283 7999Support Period^3 years from date of agreement specified above^Product^Select from one of the following:^AusIP Discoverer - 
+Trade Marks Data
+Patent Data
+?
+?Fee^$12,500.00 (including GST) for each AusIP Discoverer Product selected above^Method of payment^Select from one of the following payment options^Electronic Funds Transfer (preferred)
+Credit card
+Cheque
+Monday Order 
+See IP Australia website for payment forms ?
+?
+?
+?
+
+SIGNED for and on behalf of the Licensee by:
+
+^Name of signatory^
+
+Signature In the presence of:
+
+^Name of witness^
+Signature of witness
+
+
+
+
+
+
+
+Disclaimer 
+The information provided in this system is general information and is not in the nature of advice. Most of the information contained in this system is derived from third parties and may contain errors. Accordingly, IP Australia does not make any representation or warranty that the information the system provides is reliable, adequate, current, accurate or complete or that access to the information will be uninterrupted, timely or secure. IP Australia nevertheless reserves the right to update the information at any time. You should make your own enquiries and seek independent advice from relevant industry professionals before acting or relying on any information or material which is made available to you through the system.
+This disclaimer does not attempt or purport to exclude liability arising under statute or common law if, and to the extent, such liability cannot be lawfully excluded. To the extent permitted by law, any condition or warranty which would otherwise be implied into this disclaimer is hereby excluded.
+IP Australia does not accept responsibility for any loss or damage, however caused (including through negligence) whether by IP Australia, a third party or you, which you may directly or indirectly suffer in connection with or arising from your use of this system, your use of or reliance on information contained on or accessed through this system or because of the unavailability of the system.
+It remains your responsibility to evaluate the accuracy, completeness and usefulness of any such information. You must take your own precautions to ensure that the process which you employ for accessing this system does not expose you to the risk of viruses, malicious computer code or other forms of interference which may damage your own computer system. For the avoidance of doubt, IP Australia does not accept responsibility for any interference or damage to your own computer system which arises in connection with your use of this system.
+	
+
+IP Australia - Data Provision Agreement	Page 1
+
+

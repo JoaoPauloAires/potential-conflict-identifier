@@ -1,0 +1,16 @@
+A pasta contém dois arquivos python:
+    - extractSentences.py
+    - normClassifier.py
+    
+Para executar o classificador é necessário:
+
+    - Instalar o NLTK: http://www.nltk.org/install.html
+    - Instalar o package punkt, com os comandos no terminal: 
+        - python
+        - import nltk
+        - nltk.download()
+        - Selecione punkt
+        - Após a instalação, execute o comando no terminal: python normClassifier.py
+
+Ele irá usar os arquivos: normsList e noNormList, gerados pelo extractSentences.
+    

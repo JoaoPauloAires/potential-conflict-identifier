@@ -1,0 +1,241 @@
+NORTHERN TERRITORY OF AUSTRALIA
+
+LICENCE FOR USE OF DIGITAL DATA AND INFORMATION
+
+THIS AGREEMENT is made the xxx day of xxx, 2008
+
+BETWEEN:
+
+the NORTHERN TERRITORY OF AUSTRALIA care of the Department of Natural Resources, Environment and the Arts, GPO Box 30, Palmerston, in the Northern Territory of Australia, ABN 84 085 734 992 (the "Licensor")
+
+AND:   
+
+xxxxx the party described in Item 1 of Schedule A, of the address specified in Item 2 of Schedule A (the "Licensee").
+
+WHEREAS
+
+A.	The Licensor is the owner of the digital data described in Item 3 of Schedule A (the "data"); and
+B.	The Licensee wishes to use the data for the purposes set out in Item 4 of Schedule A;
+C.	The Licensor agrees that the Licensee can use the data, subject to the terms and conditions set out in this Agreement
+
+
+THE PARTIES AGREE as follows:
+
+1.	LICENCE
+The Licensor grants a non-exclusive, non-transferable licence to the Licensee, to use the data for the purposes set out in the Agreement. 
+
+2. TERM OF LICENCE
+The licence granted pursuant to this Agreement shall commence upon the date specified in Item 5 of Schedule A and expire on the date specified in Item 6 of Schedule A, unless terminated sooner by the parties. 
+
+3. FEES AND PAYMENT
+The Licensee shall pay the fee or fees specified in Item 7 of Schedule A in accordance with the payment structure outlined in Item 8 of Schedule A. 
+
+4. GOODS AND SERVICES TAX
+4.1	For the purposes of this Clause unless the context otherwise requires:-
+(a)	"GST" means any tax imposed on Supply by or through the New Tax System (Goods and Services Tax) Act 1999 ("the Act") and any related Tax Imposition Act and "New Tax System Changes" has the meaning it bears in the New Tax System (Trade Practices Amendment) Act 1999 ("the TPA").  Where any other term is used in this clause which is defined in the Act or the TPA it shall have the meaning which it bears in the Act, or (if the term is not defined in the Act) then the meaning which it bears in the TPA;
+(b)	"GST Rate" means the percentage amount of GST payable determined under section 9-70 of the Act as amended from time to time; and
+(c)	"Input Tax Credit", "Recipient", "Supplier" and "Supply" have the meaning they bear in the Act.
+4.2	The parties acknowledge that the consideration under this Contract is inclusive of GST, where GST is calculated using the GST Rate at the time of forming this Contract.
+4.3	The Supplier shall provide the Recipient with a tax invoice and/or adjustment notes in relation to the Supply prior to an amount being paid by the Recipient under this Contract and shall do all things reasonably necessary to assist the Recipient to enable it to claim and obtain any Input Tax Credit available to it in respect of a Supply.
+
+5. LIMITATIONS ON USE
+5.1 The Licensor permits the Licensee to use the data solely for the purposes and in the manner described in Item 4 of Schedule A.  
+5.2 The Licensee shall not and shall ensure that its employees, agents and any sub-licensee or third party to this Agreement, shall not use the data in any way other than for the purpose and in the manner set out in Item 4 of Schedule A, without the prior written consent from the Licensor. 
+5.3 Unless otherwise agreed by the parties, the Licensee shall not distribute the product to any person without the prior written consent of the Licensor. 
+5.4 Unless otherwise agreed by the parties, the Licensee shall not use the data to produce materials for sale to a third party, or for general sale, without the prior written consent of the Licensor. 
+
+6.	INTELLECTUAL PROPERTY
+6.1 This Agreement does not confer on the Licensee, any rights of ownership in the data.
+6.2 All intellectual property rights in the data, including but not limited to copyright, shall remain vested in the Licensor and are unaffected by this Agreement. 
+
+7. CONFIDENTIALITY
+7.1	The Licensee shall treat the data as private and confidential and shall take all reasonable steps to keep the data private and confidential.  To this end the Licensee shall:
+(a)	maintain a system for the safe custody of the data and copies of the data;
+(b)	copy the data for its own purposes only;
+(c)	disclose the data only to those of its employees whose duties require a knowledge of, or access to, the data and take all reasonable steps to minimise the risk of disclosure of the data by those employees;
+(d)	on becoming aware that a breach of this Agreement has occurred immediately advise the Licensor of the nature of the breach and what action has been taken or will be taken to protect the interests of the Licensor.
+7.2 Except as provided in this Agreement or as required by law, the Licensee shall not, without the prior written consent of the Licensor, disclose the data to a third party and, if that consent is given, the Licensee shall make known to the third party to whom the data is disclosed that the Licensor is the owner of the data and the copyright therein and shall require the third party to give to the Licensee a written undertaking, in a form satisfactory to the Licensor, that it shall observe and perform with respect to the data terms and conditions similar to those contained in this Agreement.
+7.3 The Licensee acknowledges the confidential nature of the terms and conditions of this Agreement and agrees to treat the terms and conditions of this Agreement as confidential.  
+
+8. PRIVACY
+8.1	In this clause:
+Act means the Information Act (NT)
+Privacy Laws means:
+(a)	The Act; and
+(b)	The Information Privacy Principles set out in the Act or any 'code of practice' approved under the Act that applies to any of the parties to this agreement.
+Personal Information means all information about a person that is "personal information" as defined in the Act which is collected and/or handled by any of the parties in connection with this agreement.
+8.2	The Licensee agrees to deal with all Personal Information in a manner which is consistent with the Privacy Laws and any other relevant privacy legislation, as if the Licensee were a public sector organisation.
+8.3	The Licensee is to use Personal Information only for the purposes of fulfilling its obligations under this agreement.
+8.4	The Licensee is not to disclose Personal Information without the written authority of the Licensor. 
+8.5	The Licensee is to immediately notify the Licensor where it becomes aware that a disclosure of personal information may be required by law.
+8.6	The Licensee is to ensure that any employees, agents or other person who may have access to Personal Information held by the Licensee, are aware of and undertake to not access, use, disclose or retain Personal Information except in performing their duties of employment.
+8.7	The Licensee is to take all reasonable measures to ensure that Personal Information is protected from misuse and loss and from unauthorised access, modification, disclosure or other misuse and that only personnel necessary to fulfil the obligations under this agreement have access to the Personal Information.
+8.8	The Licensee acknowledges that individuals have the right to request access to, or correction of, the Personal Information held about them.
+8.9	The Licensee must not transfer Personal Information outside the Northern Territory without the prior approval of the Licensor.
+8.10	The Licensee, in respect to Personal Information, is to immediately notify the Licensor where the Licensee becomes aware of a breach of this clause or the Privacy Laws.
+
+9.	WARRANTY
+9.1 The Licensor gives no warranty as to the condition, quality or fitness of the data for the Licensee's requirements.  The Licensee is responsible for ensuring that the data supplied meets its individual needs.
+9.2 The Licensor shall not be liable for any loss, damage or injury suffered by the Licensee or any third party that may arise from the use of the data. 
+
+10. INDEMNITY
+The Licensee shall indemnify and keep indemnified the Licensor against any loss, costs, expenses, damages and liability of any kind, which the Licensor may sustain or incur arising directly or indirectly from any claim relating to the data made or permitted to be made by the Licensee, or relating to any derivative data produced by or on behalf of the Licensee which incorporates the Data.
+
+11.	TERMINATION
+11.1	Either party may terminate this Agreement at any time by the giving of 30 days notice in writing to the other party. 
+11.2 If the Licensee is found to be in breach of the Agreement, the Licensor may terminate the Agreement immediately by notice in writing to the Licensee.
+11.3 Upon termination or expiration of this Agreement the following will happen:
+(a)	All rights granted by the Licensor to the Licensee will cease;
+(b)	The Licensee shall return to the Licensor all copies of the data in its possession and shall delete or destroy all copies of the data held by the Licensee in electronic or magnetic form, unless otherwise agreed by the parties. 
+
+12.	CLAUSES TO SURVIVE TERMINATION
+All of the following clauses will survive termination or expiration of this Agreement:
+(a)	Clause 5 (Limitations on Use);
+(b)	Clause 6 (Intellectual Property);
+(c)	Clause 7 (Confidentiality);
+(d)	Clause 8 (Privacy); 
+(e)	Clause 9 (Warranty); and
+(f)	Clause 10 (Indemnity).
+
+13. NOTICES
+13.1 Notices under this Agreement may be delivered by prepaid postage or certified mail, by hand or by facsimile transmission.
+13.2 Notices are deemed given:
+(a)	five (5) days after deposit in the mail with postage prepaid or certified;
+(b)	when delivered by hand;
+(c)	if sent by facsimile transmission, upon completion as evidenced by a fax transmission record.  
+13.3 For the purposes of this clause the address for service of each party is that set out in Item 9 of Schedule A. 
+
+14. SPECIAL CONDITIONS
+The provisions of this Agreement shall be subject to the Special Conditions, if any set out in Item 10 of Schedule A.
+
+15. VARIATION
+Any amendment or variation to this Agreement must be made in writing and signed by both parties.
+
+16. APPLICABLE LAW
+The parties hereby agree that this Agreement will be governed by and construed in accordance with the laws of the Northern Territory of Australia.
+
+17. ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties relating to the subject matter hereof, and supersedes any previous agreements or understandings.
+
+
+
+EXECUTED by the parties as an Agreement.
+
+SIGNED by
+	)
+.......................................... Date	)	
+Senior Manager Spatial Data Mapping)		
+      
+      for and on behalf of the	)
+NORTHERN TERRITORY OF AUSTRALIA	)
+pursuant to a delegation under the	)
+Contracts Act in the presence of:	)
+	)
+.......................................... Date	)			
+Witness	)
+
+
+(Where the Licensee is an Individual)
+
+SIGNED by
+	)		Delete Licensee Details as per not-required
+.......................................... Date	)			(Individual  Business  Company)
+	)		
+in the presence of:	)
+	)
+.......................................... Date	)
+Witness	)
+
+
+
+OR:
+(Where the licensee is a Business)
+
+SIGNED by
+	)
+.......................................... Date	)
+	)
+trading as	)
+	)
+in the presence of:	)
+	)
+.......................................... Date	)
+Witness	)
+
+
+
+OR:
+(Where the licensee is a Company)
+
+The COMMON SEAL of	)
+..........................................	)
+	)
+(A.C.N. --- --- --- )	)
+	)
+was hereunto affixed in accordance with	)
+its Constitution in the presence of:	)
+	)
+.......................................... Date	)
+Director	)
+	)
+.......................................... Date	)
+Director/Secretary	)
+
+
+SCHEDULE A
+
+ITEM 1	LICENSEE 	xxx
+	Trading as 	xxx
+	ABN 	xxx
+	On behalf of	xxx
+	
+
+
+ITEM 2	  ADDRESS OF LICENSEE 	xxx
+	xxx
+xxx
+
+
+ITEM 3	LICENSOR'S DIGITAL DATA		   
+
+
+
+ITEM 4	LICENSEE'S USE OF DATA 
+
+ITEM 5	COMMENCEMENT DATE 	Not Applicable
+
+ITEM 6	EXPIRY DATE 	Not Applicable
+
+ITEM 7	FEES 	$            Not Applicable
+$           
+$            (Including GST)
+
+ITEM 8	PAYMENT STRUCTURE 	$            Not Applicable
+
+
+ITEM 9	ADDRESS FOR SERVICE OF NOTICE
+Licensor:	Licensee:
+
+Senior Manager	Attention		name 
+Spatial Data Mapping Branch			title
+Department of Natural Resources, 				company
+Environment and the Arts				address
+PO Box 30	Ph			(08) xxx
+Palmerston NT  0831	Mob			xxx
+FAX:  (08) 8999 4445	ABN 		xxx
+ABN 84 085 734 992	Email		xxx
+
+
+ITEM 10	SPECIAL CONDITIONS	delete if not required
+ 
+1. Point datasets resulting from original supply are not to be displayed on any resulting products;
+2. Original supplied point dataset are to be destroyed once data use stated in ITEM 4 is complete;
+3. Datasets incorporated into a model as stated in ITEM 4 maybe retained within the model subject to Special Condition 1.
+4. The data source, bibliographic reference and information statement/acknowledgements should be cited with the use of and/or on any product derived from this dataset;
+5. The dataset as supplied is a date specific copy and is not subject to any updates/alterations/corrections or additions which may be applied to the original data source.
+
+
+Privacy Statement
+Personal or company information provided is essential to establish this Agreement and will be recorded in a Register of Licence Agreements.  This information will not be provided to third parties.  Any personal or company information may subsequently be accessed by you by contacting the Director of the Weed Management Branch on (08) 8999 4567
+DWM2008/0009-xxx                                                                                             Page 1 / 4
+

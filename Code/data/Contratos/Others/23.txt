@@ -1,0 +1,659 @@
+
+
+
+Gardiner Foundation 
+
+Innovation Program Major Projects
+
+
+Project Agreement
+Project Title: 
+Project Number: 
+
+Parties:
+
+Geoffrey Gardiner Dairy Foundation Limited
+(GGDF)
+-and-
+
+
+
+
+
+
+
+Michael J. Tippett
+Corporate Solicitor
+Geoffrey Gardiner Dairy Foundation Limited
+Level 5, 84 William Street
+Melbourne 3000
+Tel: (+613) 9606 1900  Fax: (+613) 9606 1999
+Contents                                                                                                   Page
+Recitals	4
+Operative clauses	5
+Section [A]: Introduction	5
+1.	Project structure	5
+2.	Definitions	5
+Section [B]: Conduct and Management of the Project Activities	13
+3.	Conduct of Project Activities	13
+4.	Variation of Project	14
+5.	Subcontracting of Project Activities	14
+6.	Management Committee	15
+Section [C]: Funding the Project Activities	17
+7.	Project Funding	17
+8.	Application of Project Funding	18
+9.	Financial Provisions	18
+10.	Reporting	19
+11.	Deferral of Funding Instalments and Termination	21
+12.	Insurances	23
+13.	Indemnity	23
+14.	Access to a Researcher's Premises	24
+15.	Compliance matters	25
+Section [D]: Intellectual Property	25
+16.	Ownership of Intellectual Property Rights	25
+17.	Serendipitous Discovery	27
+18.	Ownership of Project Technology	27
+Section [E]: Commercialisation	29
+19.	Commercialisation	29
+20.	Management of Rights in Project Technology	29
+21.	Commercialisation of Project Technology	30
+Section [F]: General Provisions	30
+22.	Confidentiality	30
+23.	Warranties	31
+24.	Publications and Markings	33
+25.	Business Day	34
+26.	Costs and expenses	34
+27.	Notices	35
+28.	GST	39
+29.	Dispute Resolution	39
+30.	Force Majeure Event	41
+31.	Interpretation	41
+Schedule 1	45
+Schedule 2	46
+Schedule 3	48
+Schedule 4	49
+Schedule 5 ...........................................................................................50
+
+
+
+
+
+
+
+
+
+
+THIS AGREEMENT is made on the date below
+BETWEEN:
+GEOFFREY GARDINER DAIRY FOUNDATION LTD ABN 18 094 733 418 of Level 5, 84 William Street, Melbourne 3000 Victoria ('GGDF')
+-AND-								('Applicant')
+
+Date: ___________________________________________200
+
+Recitals
+A. GGDF funds research and development for the benefit of the Victorian dairy industry and dairying communities, and for the benefit of the wider community, with the aim of achieving maximum outcomes from its investment which build the strength of the Victorian dairy industry and ensure its sustainability into the future.
+B. The Applicant has made application to GGDF for funding for the Project, as set out in the Application attached to Schedule 5.
+C. The Parties believe that the research to be undertaken pursuant to this Agreement will benefit the Victorian dairy industry and dairying communities, and the wider community.
+D. The Parties have agreed to collaborate on the Project on the terms and conditions in this Agreement.
+
+
+
+Operative clauses
+Section [A]: Introduction
+1. Project structure
+1.1 The Parties will contribute funding to the Project in accordance with clause 7.
+1.2 The Parties will form a Management Committee in accordance with clause 6.
+1.3 The Parties will appoint a Project Manager to carry out the Project Activities in accordance with clause 3.
+1.4 The Project Activities may involve Researchers and Collaborators in accordance with that as described in part 2.1.4 of the Application attached to Schedule 5.
+1.5 The Parties intend to disclose the outcomes of the Project, or to commercialise the Project Technology (in which case they will appoint a Commercialisation Manager).
+2. Definitions
+2.1 Definitions  
+In this Agreement:
+Agreement means this agreement including the Schedules and Annexures
+Asset means an item of real or personal property purchased from funds provided by either Party or contributed by either Party or by a Collaborator and any capital contribution as per the Budget, but Intellectual Property Rights are not an Asset
+Applicant means the person or entity as detailed under part 2.1.1 in Schedule 5
+Background Technology means the Technology or materials 
+(a) more particularly described in Schedule 1 
+(b) owned, controlled or provided by a Party or a Collaborator;
+(c) contractually made available for the purpose of the Project by its owner or controller;
+(d) having any requirement for its use in the commercialisation of the Project Technology and fully disclosed in Schedule 4; and
+(e) entitling its owner, controller or provider to share in revenues ultimately derived from commercial exploitation of the Project Technology. 
+Budget means the budget for the Project as set out in part 2.2.2.3(e) of the Application attached to Schedule 5
+Business Day means a day on which trading banks are open for business in Melbourne, excluding a Saturday, Sunday and any public holiday
+Business Plan means the Applicant's full funding application a copy of which is annexed hereto as Schedule 5
+Collaborator means a person who:
+(a) provides Background Technology for the purposes of Project Activities;
+(b) provides services to a Party or to the Project Manager or Commercialisation Manager in respect of Project Activities;
+(c) provides funding or in kind contributions for the Project Activities;
+(d) has a participatory interest in any Background Technology
+(e) is otherwise entitled to a participatory interest in the Project Technology; or
+(f) is otherwise entitled to a share of any income earned as a result of Commercialisation,
+(g) or who is a student undertaking Project Activities.
+Commencement Date means the date transcribed on page 4 of this Agreement  
+Commercialise means to manufacture, sell, licence, franchise, provide a service, hire or otherwise exploit a product or process whether or not incorporating Intellectual Property Rights, or to license any third Party to do any of those things; and Commercialisation shall be similarly construed
+Commercialisation Manager means a person (which may be the Project Manager or one of the Parties) which is appointed by the Management Committee on the recommendation of the Parties to manage Commercialisation on behalf of the Parties and any Collaborators
+Confidential Information means all know-how, financial information and other commercially valuable information in whatever form including unpatented inventions, trade secrets, formulae, graphs, drawings, designs, biological materials, samples, devices, models and other materials of whatever description which a Party claims is confidential to itself and over which it has full control and includes all other such information that may be in the possession of a Party's employees or management.  The following are exceptions to such information:
+(a)	information which is already in the public domain;
+(b)	information which hereafter becomes part of the public domain otherwise than as a result of an unauthorised disclosure by the recipient Party or its representatives;
+(c)	information which is or becomes available to the recipient Party from a third Party lawfully in possession of such information and who has the lawful power to disclose such information to the recipient Party on a non-confidential basis;
+(d)	information which is rightfully known by the recipient Party (as shown by its written record) prior to the date of disclosure to it hereunder; or
+(e)	information which is independently developed by an employee of the recipient Party who has no knowledge of the disclosure under this Agreement
+Contributions means the cash and in-kind contribution of the Parties and the cash and in-kind contributions of any Collaborators, as set out in part 2.2.2.3(b) and (e) of the Application attached to Schedule 5
+Data means all technology, information and material (including without limitation all documents, equipment, information and data stored by any means and all biomaterials) and all processes, formulae, reports, publications, software, blueprints, designs, know-how, research data and research results
+Dollars, A$ or $ means the lawful currency of the Commonwealth of Australia
+Duty means any stamp, transaction or registration duty or similar charge imposed by any Government Agency and includes but is not limited to, any interest, fine, penalty, charge, fee or other amount imposed in respect of the above, but always excludes Tax
+Field means (define)
+Financial Year means a period of 12 months ending on the 30 June next following the Commencement Date, each 12 month period commencing on 1 July and ending on the following 30 June , or on the last day of the Project Period
+Force Majeure Event means an event or cause beyond the reasonable control of a Party claiming force majeure including, without limitation:
+(a) any act of God, storm, flood, fire, lighting, earthquake or explosion;
+(b) any industrial dispute, lockout or labour difficulty;
+(c) war, riot, blockade, revolution, civil commotion or any other act against public order or authority;
+(d) any embargo, restraint or restriction by any person or Government Agency; and
+(e) any other event which is not within a Party's reasonable control;
+GGDF means the Geoffrey Gardiner Dairy Foundation Limited
+GGDF Contribution means the contribution of GGDF set out in part 2.2.2.3(b) of the Application attached to Schedule 5
+Government Agency means any government or governmental, semi-governmental, administrative, fiscal, or judicial body, department, commission, authority, tribunal, agency or entity including, without limitation, the Australian Taxation Office, Australian Securities & Investments Commission and Australian Stock Exchange
+
+GST has the meaning given to it in the A New Tax System (Goods and Services Tax) Act 1999 (Cth)
+Improvement means any improvement, advancement, modification, adaptation or the like
+Improvement in Background Technology means any Improvement arising out of the Project in the Background Technology of a Party or a Collaborator
+Intellectual Property means all present and future registered and unregistered copyright, trade marks, designs, patent, semi-conductor or circuit layout rights or plant variety rights resulting from intellectual activity in the electronic industrial, scientific, literary or artistic fields and all other rights with respect to Intellectual Property as defined in Article 2 of the Convention Establishing the World Intellectual Property Organisation of July 1967, or as may be defined in any amended definition of WIPO, and Intellectual Property Rights means statutory and other proprietary rights in respect of any of the forgoing
+Key Performance Indicator (KPI) means the criteria for evaluating the performance of the project which are defined in part 2.2.2.2(d) of the Application attached to Schedule 5
+Know How includes expertise, knowledge, skill, techniques, methods, procedures, ideas, concepts and experience and whether in existence before or after the date of this Agreement
+KPI means Key Performance Indicator
+Law means any statute, regulation, proclamation, ordinance, by-law, court judgment or order or any decree or directive of any Government Agency
+Liabilities means liabilities, claims, damages, losses, costs and expenses
+Management Committee means the Management Committee appointed by the parties pursuant to clause 6
+Milestones means the milestones for the project as set out in Schedule 2
+Partner Contribution means the contribution of one or more of the Parties set out in the Contribution Schedule in part 2.2.2.3(e) of the Application attached to Schedule 5
+Party means a Party to this Agreement, and a partnership, syndicate or trust can be a Party
+Project means the research and development project set out in the Application attached to Schedule 5
+Project Activities means the Project and the Commercialisation activities to be carried out by or on behalf of the Parties as specified in the Application attached to Schedule 5 and the other Schedules
+Project Application means the application to GGDF for funding for the Project attached as Schedule 5
+Project Manager means the person identified in part 2.1.1 of the Application attached to Schedule 5 who is hereby appointed as Project Manager under clause 3, or any person appointed as a replacement in accordance with clause 3.5
+Project Objectives means the objectives stated in part 2.2.1(b) of the Application attached to Schedule 5
+Project Period means the period set out in part 2.2.2.3(a) of the Application attached to Schedule 5
+Project Technology means all Technology including all research data and research results produced by the Researchers in the course of the conduct of the Project, but does not include the Background Technology or Improvements to that Background Technology
+Quarter means each period of 3 months or where applicable a part period ending on 31 March, 30 June, 30 September or 31 December
+Registration Costs means fees, costs and expenses (including patent attorney and legal fees and expenses and associated GST and like taxes overseas) incurred in the obtaining of grants of patents or other forms of registered Intellectual Property Rights protection and maintaining the same in any or all parts of the world and includes all expenses incurred in making any amendments required to complete specifications and dealing with any opposition to any application for such registrations
+Project Plan means the plan for the Project as set out in part 2.2.2.3 of the Application attached to Schedule 5
+Researchers means those of the Parties(s) charged with conducting the Project Activities under this Agreement
+Security Interest means an interest or power:
+(a) reserved in or over an interest in any part or the whole of any asset including but not limited to, any retention of title; or 
+(b) created or otherwise arising in or over any interest in any part or the whole of any asset under a bill of sale, mortgage, charge, lien, pledge, trust or power,
+by way of security for the payment of a debt or any other monetary obligation or the performance of any other obligation and includes, but is not limited to, any agreement to grant or create any of the above
+Serendipitous discovery means Intellectual Property which has general utility not confined to the Project Technology
+Specified Personnel means the personnel specified in part 2.2.2.4 of the Application attached to Schedule 5 as personnel whose involvement is essential to the Project, or such personnel as may be substituted for them in accordance with this Agreement
+Tax means any tax, levy, charge, impost, fee, deduction, compulsory loan or withholding, which is assessed, levied, imposed or collected by any Government Agency and includes, but is not limited to any interest, fine, penalty, charge, fee or any other amount imposed on, or in respect of, any of the above, but excludes Duty
+Taxable Supply has the meaning given to it in the A New Tax System (Goods and Services Tax) Act 1999 (Cth)
+Tax Invoice has the meaning given to it in the A New Tax System (Goods and Services Tax) Act 1999 (Cth) 
+Technology means Data, Intellectual Property, Know How, technology, information and material (including without limitation all documents, equipment, information and data stored by any means and all biomaterials) and Confidential Information
+Timetable means the timelines for the Milestones as specified in Schedule 2 and part 2.2.2.3(b) of the Application attached to Schedule 5.
+Warranties means:
+(a) the warranties set out in clause 23.4, which are given by each Party in favour of the other Party; and
+(b) the warranties set out in clause 23.5, which are given by the other Parties in favour of GGDF.
+Section [B]: Conduct and Management of the Project Activities
+3. Conduct of Project Activities
+3.1 A Project Manager is hereby appointed by the Parties to manage the Project Activities and the Project Manager shall, during the Project Period, use his best endeavours to carry out the Project Activities: 
+(a) in accordance with the Project Plan, the Milestones, the KPI's, the Budget and the Business Plan;
+(b) to a high standard (including excellence in research and development) in furtherance of the Project Objectives.
+3.2 The Project Manager shall commence carrying out the Project Activities on the Commencement Date.
+3.3 The Project Manager will be responsible for obtaining any necessary approvals, authorisations and accreditations to enable it to conduct the Project.
+3.4 The Project Manager will report to the Management Committee as and when required by this Agreement and at other times as reasonably requested by the Management Committee.
+3.5 The Project Manager may be replaced with another person by the mutual agreement of the Parties (or with another person on terms which bind that person to the terms of this Agreement).
+3.6 A Party shall not dispose of, deal with, or create any Security Interest in or over any Assets or Project Technology, except strictly in accordance with this Agreement, without the prior written consent of all of the Parties.
+4. Variation of Project
+4.1 The Project Manager shall, without delay, report to the Management Committee any substantial proposed changes to the Project Plan or to the Business Plan or to the Project Objectives defined in part 2.2.1(b) of the Application attached to Schedule 5, and shall not implement such changes without the prior written approval of the Management Committee and without first putting forward for adoption any changes to the Agreement or its Schedules or Annexures reasonably required for the Agreement to reflect those changes. 
+4.2 Where the changes referred to in clause 4.1 are substantial or significant in the reasonable opinion of GGDF, the Applicant may be required by GGDF to submit a new application for funding within 30 days.  GGDF will consult with the Management Committee during its consideration of the new application, and shall give its decision within 45 days.  The conduct of the Project will be suspended until GGDF approves the new application or until the Agreement is terminated in accordance with clause 11.
+5. Subcontracting of Project Activities
+5.1 The Project Manager shall not, without the prior written approval of the Management Committee, sub-contract or permit to be sub-contracted by a Researcher the performance of any substantial part of the Project other than as contemplated in the Business Plan.  Any such approval may be given subject to such conditions as are considered necessary to ensure that the Project Manager's performance with respect to the Project Objectives are not adversely affected.
+5.2 The Project Manager shall be fully responsible for the performance of the Project notwithstanding that a Researcher has sub-contracted the performance of any of the Project Activities or is providing an in-kind Contribution or Background Technology.
+5.3 The provisions of clause 5.1 and 5.2 apply equally to each of the other Researchers in respect of any sub-contracting of any of the Project Activities which are their responsibility.
+6. Management Committee  
+6.1 As soon as practical after the Commencement Date the Parties will establish the Management Committee which will:
+(a) be comprised of:
+(i) 1 (one) representative nominated by GGDF;
+(ii) 1 (one) representative nominated by the Applicant who shall chair the Committee;
+(iii) Additional expert advisors or representatives of the Parties as agreed by the members of the Committee;
+(b) ensure that minutes are taken and kept of each of its meetings, and approved by each representative and a copy furnished to each Party as soon as practicable, and the Project Manager shall be responsible for ensuring this be done;
+(c) meet at such times as are necessary for it to discharge its functions properly;
+(d) make recommendations to the Parties relating to the conduct of the Project, provided that such recommendations are consistent with this Agreement, the Business Plan and the Project Plan for the Project;
+(e) receive and discuss quarterly interim reports given by the Project Manager in accordance with clause 10 and the progress of the Project in general;
+(f) define and agree upon proposed modifications of or extensions to the Project, provided however that the Project will only be amended if an authorized representative of each Party has approved such amendment; and
+(g) monitor the progress of the Project in relation to the project KPI's as specified in part 2.2.2.2(d) of the Application attached to Schedule 5.
+6.2 Each Party will bear its own costs in respect of its participation on the Management Committee.
+6.3 A quorum for meetings of the Management Committee will be a minimum of the one representative nominated by GGDF and the one representative nominated by the Applicant. 
+6.4 All decisions of the Management Committee must be made by consensus to be binding and effective.  
+6.5 Each Party will have the right to dismiss and replace any of its representatives, subject to it providing the other Parties with reasonable written prior notice.
+6.6 Each Party will have the right to appoint an alternate person to act as its representative at such meetings of the Management Committee as it requires, subject to it providing the other Parties with reasonable prior notice.
+6.7 A Party may at any time and from time to time commission, at its own cost, an independent technical scientific and financial review of the progress of the Project.
+6.8 Notwithstanding the foregoing any member or members of the Management Committee may submit a minority report to the Management Committee which must be included in the minutes.
+Section [C]: Funding the Project Activities
+7. Project Funding
+7.1 The Parties agree that the Project Plan does not include the purchase of major items of equipment. Minor items of equipment (up to the value of $5000) will be purchased by the Parties from operating funds described in the Budget. These items will remain the property of the purchasing Party.
+7.2 GGDF shall provide the GGDF Contribution in the instalments detailed in part 2.2.2.3(b) of the Application attached to Schedule 5.
+7.3 Subject to the project reports being delivered by the Project Manager, and being reviewed by the Management Committee and found to be acceptable to GGDF, each of the Parties shall provide its share of the Party Contribution as and when required as detailed in part 2.2.2.3(e) of the Application attached to Schedule 5
+7.4 The Project Manager shall collect the contributions of any Collaborators as set out in part 2.2.2.3(e) of the Application attached to Schedule 5.
+7.5 GGDF is not obliged to fund any procurement, resourcing, scope, or work which was performed on or for the benefit of the Project prior to the later of:
+(a) the commencement of the Project; and
+(b) the signing of the Project Agreement.
+7.6 Notwithstanding clause 7.5, any work performed on or for the benefit of the Project prior to the commencement of the Project is Project Technology.
+8. Application of Project Funding
+8.1 The Project Manager shall apply Contributions only for the Project Activities.
+8.2 Notwithstanding clause 3.1, and in compliance with clause 3, the Project Manager may reallocate the budgetary resources between heads of expenditure, provided that the actual total yearly expenditure on the Project under each head of expenditure does not differ by more than 10% or $50,000 (whichever is the greater amount) from the allocation in the Budget without prior approval by the Management Committee.
+8.3 Capital items acquired or purchased in accordance with the Budget on acquisition shall vest in and remain the property of the purchasing party.
+9. Financial Provisions
+9.1 The financial liability of GGDF to support the Project Activities is limited to the amount of the GGDF Contribution and the financial liability of each Party to support the Project Activities is limited to the amount of that Party's Contributions.
+9.2 The Project Manager shall ensure that:
+(a) proper accounting standards and controls are exercised in respect of the Project, the Project Activities and expenditure of the Parties' respective contributions; and
+(b) income and expenditure in relation to the Project Activities are recorded separately from other transactions of the Project Manager.
+9.3 The Project Manager shall:
+(a) deposit all moneys forming part of the Contributions in a separate account with an Australian Bank established specifically for the Project in the name of the Project Manager ("the Project Bank Account") and identified as money for the Project;
+(b) make all monetary transactions relating to the Project and the Project Activities with the Project Bank Account;
+(c) keep financial and banking records in sufficient detail to enable compliance with the Project Manager's obligations under this Agreement to be verified ("Records");
+(d) at each quarterly Management Committee meeting, table a record of all financial transactions through the Project Bank Account relating to the Project.
+9.4 GGDF and each other Party or its auditors may, on reasonable notice:
+(a) examine the Records of the Project Manager at any time during usual business hours; and
+(b) conduct, at its expense, at any time an audit to verify the Project Manager and any Party has complied, and is complying, with its obligations under this Agreement.
+10.  Reporting
+10.1 The Project Manager will submit to the Management Committee reports, and a final report for the Project by the dates set out in part 2.2.2.3(b) of the Application attached to Schedule 5.
+10.2 The Project Manager will in each report: 
+(a) summarize the work completed on the Project up to the date of such report and the work anticipated over the next reporting period;
+(b) identify progress in the research, breakthroughs and also problems which may cause or are causing a deviation from the Business Plan or the Project Plan and the steps, if any, being taken or proposed to be taken to alleviate such problems; and
+(c) report on progress of the Project by reference to the project Key Performance Indicators as set out in part 2.2.2.2(d) in the Application attached to Schedule 5.
+10.3 Each project report delivered in respect of the quarter ending 30 June will also comprise a summary of expenditure for the Project for the most recent financial year.
+10.4 Within sixty (60) days of the completion of the Project, the Project Manager will provide the Management Committee with a final report in relation to the Project: 
+(a) describing the results of the Project, including activities undertaken, difficulties encountered and achievements made, including the Project Technology, a list of all publications authored or co-authored by the Project Manager or any Collaborator, relating to the Project, and a list of all personnel who participated in the Project; and
+(b) report on outcomes of the Project by reference to the Key Performance Indicators as set out in part 2.2.2.2(d) in the Application attached to Schedule 5.
+11. Deferral of Funding Instalments and Termination
+11.1 During the Project Period, a Party may give to any other Party (the defaulting Party) notice that one or more of the following circumstances has arisen, and requiring the defaulting Party to remedy the same:
+(a) the Project has been suspended in accordance with the provisions contained in clause 4.2 and GGDF has not received or given approval to a new application within the time referred to in clause 4.2.
+(b) the defaulting Party is in breach of any other term or condition of this Agreement;
+(c) the Party has become or threatens to become or is in danger of becoming subject to any form of insolvency administration, and
+(d) a default by any Party may be considered by GGDF as a default by the Party(ies) jointly and severally.
+11.2 If within thirty (30) days of a notice referred to in clause 11.1 the circumstances referred to in the notice remain and/or have not been remedied by the defaulting Party, then the other Party may, at its option:
+(a) defer or cancel payment of a Contribution, in whole or in part; or
+(b) terminate this Agreement forthwith.
+11.3 A Party may, after an appropriate level of consultation between the Parties, terminate this Agreement upon 30 days' notice if: 
+(a) it reasonably considers that the Project Objectives are unlikely to be achieved;
+(b) the Project is not being carried out in accordance with this Agreement;
+(c) another Party, having that responsibility, has failed to provide or procure the Contributions in accordance with part 2.2.2.3(e) in the Application attached to Schedule 5, the Budget and the salary expenditure analysis; and
+(d) changes to the Specified Personnel have been implemented without the Management Committee's approval, and such changes are likely to affect adversely the Project Manager's performance with respect to the Project Objectives.
+11.4 Upon termination of this Agreement pursuant to clause 11.2 or clause 11.3, the Project Manager:
+(a) may draw, from the moneys held for the Project, the amounts necessary to meet obligations incurred in carrying out the Project Activities prior to the termination of this Agreement. 
+(b) shall not incur any new commitments of expenditure unless they will be satisfied entirely from the proportion of the funds that will remain after the Project Manager has complied with paragraph (c);
+(c) within 30 days of termination of this Agreement pay from the funds remaining after all obligations have been met, to GGDF and to the  Applicants, the proportion of such funds that the moneys paid by each of GGDF and the Applicants during the Project Period bears to the total of the cash Contributions during the Project Period
+11.5 A Party may terminate this Agreement if:
+(a) The Project has been assessed against the KPI's outlined in part 2.2.2.2(d) in the Application attached to Schedule 5 by either Party or the Management Committee and 
+(b) The Project does not in the opinion of the GGDF meet all of the KPI's outlined in part 2.2.2.2(d) of the Application attached to Schedule 5 as at the date of the assessment.
+12. Insurances
+12.1 The Project Manager shall effect and maintain adequate insurance to cover his participation and the Applicant's participation in the Project and, if requested, provide GGDF with relevant certificates of currency regarding its insurance arrangements.
+12.2 The Project Manager shall ensure that any Collaborator effects and maintains adequate insurance to cover its participation in the Project.
+12.3 The Project Manager shall and, if requested, provide GGDF with relevant certificates of currency regarding its insurance arrangements and those of any Collaborator.
+12.4 The insurances referred to above shall cover all usual insurable risks of the Project and the Project Activities.
+13. Indemnity
+13.1 The Applicant and the Project Manager, jointly and severally, indemnify and shall keep indemnified GGDF, its officers, employees and agents (including members of the Management Committee) from and against all actions, claims, demands, costs and expenses (including the costs of defending or settling any action, claim or demand) made, sustained, brought or prosecuted for any injury to any person (including death) or loss of or damage to property which may arise from or be a consequence of any unlawful or negligent act or omission of the Applicant and/or the Project Manager, and/or any of their officers, employees or agents in carrying out the Project Activities.
+13.2 The Applicant and the Project Manager shall not be liable under the indemnity in clause 13.1 for any loss of profits, loss of use, loss of revenue or loss of anticipated savings or any similar loss (whether direct or indirect) or any pure economic loss whatsoever.
+14. Access to a Researcher's Premises
+14.1 Personnel of any Party (hereinafter in this clause 14 referred to as "Visitors") will have access at all reasonable times to such part of any other Party's premises at which the Project Activities are being conducted for the purpose of inspecting the progress of the Project subject to the following conditions:
+(a) Visitors will first give reasonable written notice to the Party, such notice to provide adequate identification of the Visitors and their status within the relevant organisation;
+(b) The Visitors will comply with the directions of the Party whilst on its premises, and must not cause any obstruction or nuisance to the activities or occupants of the premises relating to the progress of the Project or any other work being conducted therein; and
+(c) The Visitors will only gain access to those parts of the Party's premises where the Project is being conducted, and if requested the Visitors will sign a confidentiality agreement in favour of the Party covering its confidential information which does not relate to the Project.
+14.2 Each Party will ensure, whilst Visitors are visiting or accessing premises owned or controlled by it, that such premises comply with any occupational health and safety standards required by legislation.  
+15. Compliance matters
+15.1 The Project Manager shall ensure that in the conduct of the Project Activities all relevant ethics codes and guidelines adopted by the National Health and Medical Research Council (including without limitation the National Statement on Ethical Conduct in Research involving humans and the Australian Code of Practice for the care and use of animals for scientific purposes, or such replacements thereof as are current from time to time), and by the Office of the Gene Technology Regulator, are observed at all times. 
+15.2 The Project Manager shall cause to be constituted an ethics committee or committees in accordance with the codes and guidelines referred to in clause 15.1, where reasonably necessary or appropriate to oversee all ethical clearances which may be required under those codes and guidelines.  
+15.3 When required by law due to the nature of any procedures to be performed in the conduct of the Project, the Project Manager shall ensure that persons performing those procedures are appropriately trained and hold a relevant current licence.
+15.4 Whenever required by the Management Committee, the Project Manager shall furnish to the Management Committee written evidence of compliance with the requirements of this clause 15.
+Section [D]: Intellectual Property
+16. Ownership of Intellectual Property Rights
+16.1 Each Party acknowledges and agrees that, other than as provided for herein, it will not have any claim, ownership or interest in another Party's Background Technology.
+16.2 Each Party acknowledges and agrees that, other than as provided for herein, it will not have any claim, ownership or interest in another Party's Improvements in Background Technology.
+16.3 Each Party grants to each other Party a non-exclusive, royalty-free licence to use its Background Technology and any Improvements in Background Technology for the purpose of carrying out the Project Activities.
+16.4 Each Party grants to each other Party a non-exclusive royalty free licence to use its Background Technology and any Improvements in Background Technology to the extent required for the purpose of Commercialisation of Project Technology.
+16.5 Each Party acknowledges that its proportional share of the Project Technology and of the proceeds of commercialization of that Technology is sufficient consideration for the use of its Background Technology and any Improvements in Background Technology.
+16.6 Where knowledge (including the Technology therein) of a Party's Background Technology or any Improvements in Background Technology is reasonably required for Commercialisation, the owning Party shall make disclosure to the extent reasonable necessary for that purpose, or if the circumstances require, make delivery of materials or substances, or provide machinery or equipment, where such constitute its Background Technology. In each case where a physical supply is required, the supplying Party must, in good faith, supply in a manner that is mutually satisfactory to supplier and customer, at a fair price and on fair delivery terms.
+16.7 All rights to Intellectual Property shall vest in the Parties as tenants in common in the shares and in the manner set out in clause 18 and Schedule 4.
+16.8 The Parties each grant to each other a non-exclusive, royalty free, worldwide, perpetual, irrevocable licence in respect of the Project Technology from the date of its creation, for educational and research purposes but always subject to any written exclusions.
+16.9 The Parties agree that any accretion to a Party's Know How arising during the course of carrying out its obligations under this Agreement will be available for use as part of the Project Technology but also continue to constitute a part of that Party's Know How. 
+16.10 The Parties acknowledge and agree that students working on the Project shall own copyright in their thesis. 
+17. Serendipitous Discovery
+In respect to any Serendipitous Discovery arising from the Project but having application outside the Field, GGDF shall have right of first refusal, from notification by the Project Manager of such Technology, to take an exclusive licence to the Technology on terms to be negotiated in good faith between the parties.  GGDF shall in any event have a royalty-free non-exclusive licence to use any such Technology to the extent that such use is essential to the development of one or more products or services for the benefit of the Victorian Dairy Community.
+
+An unexpected finding relating only to the Project Technology or arising out of the Project Technology, including (but not by way of limitation) any unexpectedly obtained or derived substances or products, and any unexpected utility shall not be deemed to be a Serendipitous discovery
+18.  Ownership of Project Technology
+18.1 The Parties will own as tenants in common :
+(a) all Project Technology (including new patent claims or sub-sets of patent claims); 
+(b)	all Technology which arises from any Serendipitous Discoveries which arise from the carrying out of the Project Activities;
+in the proportions according to their respective contributions as set out in part 2.2.2.3(e) of the Application attached to Schedule 5.
+18.2 The costs of applying for, prosecuting and maintaining patent protection ("IP Protection") shall be borne by the Applicant. Any such payment shall be added to its contribution as set out in part 2.2.2.3(e) of the Application attached to Schedule 5.
+18.3 All Parties must authorise and approve:
+(a) any changes to patent claims and any other filings with IP Australia or any other Intellectual Property or Patent Office involving jointly developed Intellectual Property, joint or collaborative effort or Project Technology; and
+(b) any licenses to use Project Technology granted to third parties, other than; 
+(i) third parties that are members of the Victorian Dairy Industry or Victorian Dairy Community, where the Project Technology was created for the purpose of benefiting such third parties
+(ii)  one or more Commercialisation parties where they have the right to commercialise the Project Technology; or
+(iii) a person with the right to publish the Project Technology or a commentary or analysis of it. 
+Section [E]: Commercialisation
+19. Commercialisation
+19.1 The Parties shall appoint one or more Commercialisation Managers of the Project Technology on the basis of that person's proven capability to Commercialise Intellectual Property of the nature of the Project Technology, with an emphasis on Commercialisation within the Victorian Dairy Industry or Victorian Dairy Community.
+19.2 The Commercialisation Manager will be responsible for Commercialisation of all Project Technology and collecting, accounting for and distributing (in accordance with the terms of this Agreement) all revenues derived from that Commercialisation.
+19.3 The Commercialisation Manager, or another person nominated for that purpose, will be responsible for managing all IP registrations and custodianship of IP.
+19.4 Wherever any person other than the Parties, and not being an owner of any Project Technology, is entitled to a share of revenues derived from Commercialisation of the Project Technology, the Commercialisation Manager shall ensure that a certificate of entitlement is issued to that person, and that that person's rateable share of revenue is paid to that person together with proper accounting reports. 
+20. Management of Rights in Project Technology
+20.1 The Management Committee shall monitor the plan set out in Schedule 4 for the management of the Project Technology (including all Intellectual Property Rights).
+21. Commercialisation of Project Technology
+21.1 The Project Technology shall be Commercialised in accordance with the plan set out in Schedule 3.
+21.2 The Commercialisation of some or all of the Project Technology shall be the subject of a separate agreement between the owners of the relevant Project Technology and any Commercialisation partners.
+21.3 Each of the Parties and where applicable any Collaborators shall together at the end of the Project Period create a Commercialisation Committee. On this Committee each Party shall have one vote and the members of the Committee shall be nominated on the basis of their Commercialisation experience ("the Commercialisation Committee").
+21.4 The Commercialisation Committee shall monitor and review the Commercialisation of the Project Technology and give directions concerning the Commercialisation or further research and development or other uses of the Project Technology in order to ensure optimisation of the Commercialisation process or further research and development.
+Section [F]: General Provisions
+22. Confidentiality
+22.1 Each Party will treat the terms of this Agreement, information relating to the Project and the Project Technology, and all Confidential Information owned by any other Party as confidential and will not, without the prior written consent of that other Party, disclose or permit the same to be disclosed to any third person.
+22.2 The Parties acknowledge that care needs to be taken in the wording of any description of the Project that is to be placed in the public arena, so as to ensure that confidential or sensitive information is not imparted.  Therefore, each of the parties must agree upon any such wording before it is placed in the public arena.
+22.3 It will be the responsibility of each Party to ensure that its employees, officers and agents comply with the obligations of confidentiality imposed upon it by this clause as if personally bound by such obligations.
+22.4 A Party may disclose anything in respect of this Agreement as required by applicable law, Government Agency or ministerial directive.
+22.5 A Party may disclose anything in respect of this Agreement to the officers and professional advisers of that Party but it must use its best endeavours to ensure all matters disclosed are kept confidential by those parties.
+22.6 Each Party's obligations under this clause 22 will survive termination of this Agreement and shall continue until the Confidential Information disclosed to it lawfully becomes part of the public domain.
+23. Warranties
+23.1 Giving of Warranties
+Each Party gives its Warranties as at the date of this Agreement.
+23.2 Reliance
+Each Party acknowledges that the other Parties have entered into this Agreement in reliance on the Warranties.
+23.3 Survival
+	Each Warranty survives completion of the Project Period.
+23.4 General Warranties
+	Each Party warrants in favour of each other Party as follows:
+(a) it has taken all necessary action to authorise the execution, delivery and performance of this Agreement in accordance with its terms;
+(b) it has, at the time of entering into this Agreement, full power to enter into and perform its obligations under this Agreement; and
+(c) the execution, delivery and performance by it of this Agreement complies with:
+(i) each law binding upon, or relating to, it; and
+(ii) its constitution.
+23.5 Specific warranties
+	Each of the Parties warrants to GGDF as follows:
+(a) that, to the best of its knowledge, the Background Technology provided by it will not infringe the Intellectual Property Rights or other rights of any third Party; 
+(b) its Background Technology is to the best of its knowledge, capable of development in accordance with the Business Plan, the Project Objectives and Project Plan;
+(c) all information provided by it to the other Parties in connection with this Agreement and the Project is true and accurate at the time of entering into this Agreement;
+(d) that it is skilled in research and development as contemplated under the Business Plan, the description of the Project and the Project Plan;
+(e)	in the case of the Parties, they have each or that it has or will have available to it suitably qualified, skilled and experienced personnel to ensure that it is able to fully perform its obligations under this Agreement;
+(f)	that it has or will have available to it facilities which are necessary or desirable for the conduct of the Project in accordance with this Agreement.
+24. Publications and Markings
+24.1 A Party will not use the name or logo of the other Party without having obtained the other Party's prior written consent and the use of the name or logo will be subject to any conditions attaching to such consent.
+24.2 A Party will not knowingly make or permit to be made any inaccurate or misleading statement concerning any other Party, the Project or Project Technology.
+24.3 Each Party shall ensure that where any person at any time publishes a book, article or newsletter or disseminates in any other form information relating to the Project Activities, approval for such publication is first obtained from the Management Committee and an appropriate acknowledgment is given of the funding of the Project by GGDF and the other Parties.
+24.4 A Party ("Notifying Party") may at any time submit to the other Party a paper or papers written by one or more of its students, staff or employees relating to or containing information about the Project with a request in writing signed on behalf of the Notifying Party that the other Party approve the publication of the paper or papers.  The other Party must reply in writing within one (1) month stating whether that Party approves or does not approve the publication of the paper or papers, and must not withhold such approval unless it reasonably believes that such publication would harm, prejudice or in any other way injure the interest which the other Party has in the validity of intellectual property rights under this Agreement, PROVIDED ALWAYS that publication may not be delayed for more than twelve (12) months after submission of a paper. 
+24.5 GGDF acknowledges that under the applicable legislation of a university, if the university is a Party or a Collaborator, it may be obliged to deposit in the library a copy of a student's completed thesis or work submitted for a higher degree.  Nothing in this Agreement shall affect the operation of that legislation or create any obligations contrary to that legislation.
+24.6 Notwithstanding the provisions of clause 24.5, GGDF may request that any student's thesis so deposited be withheld from access to library users for a period of not more than twelve (12) months after it is lodged with the library. This decision is subject to the provisions of the applicable legislation.
+25. Business Day
+25.1 Where the day on or by which any thing is to be done is not a Business Day, that thing must be done on or by the next succeeding Business Day.
+26. Costs and expenses
+26.1 Costs and expenses of Agreement
+(a) Each Party must pay its own costs and expenses in respect of the negotiation, preparation, execution, delivery and registration of this Agreement and any document entered into or signed under this Agreement.
+26.2 Costs of performance 
+Any action to be taken by a Party in performing its obligations under this Agreement must be taken at its own cost and expense unless otherwise provided in this Agreement.
+27. Notices
+27.1 Any notice, demand or other communication required to be given or made in writing under this Agreement will be deemed duly given or made if delivered or sent by prepaid airmail post, email message or facsimile transmission to the Party, if a natural person, or if not a natural person, to the company secretary of a Party or a Collaborator at their address above.
+27.2 Any Party or Collaborator may change its nominated contact person, address or facsimile transmission number for the purposes of this Agreement by giving notice of such change to the other Parties within fourteen (14) days of the change.
+27.3 Any notice or other communication will be deemed to have been received by the Party to which it was sent:
+(a) in the case of hand delivery, upon the date of such delivery;
+(b) in the case of prepaid airmail post, on the seventh day next following the date of dispatch; or
+(c) in the case of facsimile transmission, at the time of transmission, provided that, following the transmission, the sender receives a transmission confirmation report unless in any such case it would be deemed to have been received on a day which is not a business day, or after 5 p.m. on such a Business Day, in which event it will be deemed to have been received on the next such business day
+27.4 Entire Agreement
+	This Agreement and the full funding application lodged by the Applicant with GGDF 	together embody the entire agreement between the Parties with respect to the subject matters dealt with herein and supersede any prior negotiation, arrangement, understanding or agreement with respect to those subject matters.  
+27.5 Inconsistency
+If there is any inconsistency between this Agreement and the full funding application lodged by the Applicant with GGDF, the provisions of this Agreement shall prevail and the inconsistent provisions of the full funding application lodged by the Applicant with GGDF shall be read down accordingly. 
+27.6 Nature of this document
+This document is intended by the Parties to take effect as an agreement, not a deed. 
+27.7 Consents and waivers
+	Unless specifically referred to otherwise in this Agreement, a reference to the consent or waiver of a Party shall mean the prior written consent or waiver of such Party, which may be given or withheld in the absolute and unfettered discretion of such Party and without giving any reason therefore.
+27.8 Relationship of the Parties
+	In entering into and completing this agreement, no Party is a partner, agent, employee, representative, attorney or proxy of any other Party.
+27.9 Governing law and jurisdiction
+(a) This Agreement is governed by the laws of Victoria.
+(b) Each Party irrevocably submits to the non-exclusive jurisdiction of the courts of Victoria.
+(c) Each Party irrevocably waives any objection to the venue of any legal process on the basis that the process has been brought in an inconvenient forum.
+27.10 Prohibition and enforceability
+(a) Any provision of, or the application of any provision of, this Agreement which is prohibited in any jurisdiction is, in that jurisdiction, ineffective only to the extent of that prohibition.
+(b) Any provision of, or the application of any provision of this Agreement, which is void, illegal or unenforceable in any jurisdiction does not affect the validity, legality or enforceability of that provision in any other jurisdiction or of the remaining provisions of this Agreement in that or any other jurisdiction.
+(c) Where a clause of this Agreement is void, illegal or unenforceable, it may be severed without affecting the enforceability of the other provisions of this Agreement.
+27.11 Waivers
+(a) A Party may only waive a breach of this Agreement in writing signed by that Party or its authorized representative.
+(b) A waiver is limited to the instance referred to in the writing (or if no instance is referred to in the writing, to past breaches).
+27.12 Variation
+	A variation of any term of this Agreement must be in writing and signed by the 	Parties.
+27.13 Non-merger and survival
+No provision of this Agreement merges on signing.  If this Agreement or performance of this Agreement is rescinded or terminated, neither Party is liable to the other Party except in respect of any breach of this Agreement occurring before rescission or termination.
+27.14 Cumulative rights
+The rights, powers, authorities, discretions and remedies arising out of or under this Agreement are cumulative, and do not exclude any other right, power, authority discretion or remedy of a Party.
+27.15 Further assurances
+	Each Party must do all things and execute all further documents necessary to give full effect to this Agreement.
+27.16 Specific performance
+	Each Party acknowledges that monetary damages alone may not be adequate compensation to the other Party for the first Party's breach of its obligations under this Agreement and that accordingly specific performance of those obligations may be an appropriate remedy.
+27.17 Assignment and novation
+	No Party may assign or novate any of its obligations or rights under this 	Agreement without the prior written consent of the other Party(ies).
+27.18 Attorneys
+	An attorney (if any) executing this Agreement states that the attorney has no notice of the revocation of that attorney's power of attorney.
+27.19 Counterparts
+(a) This Agreement may be executed in any number of counterparts.
+(b) All counterparts, taken together, constitute one instrument.
+(c) A Party may execute and be bound by this Agreement by signing any counterpart and delivering it to the other Party.
+28. GST 
+28.1 GST to be added to amounts payable
+	Unless otherwise expressly stated, all amounts payable under this Agreement are 	expressed to be exclusive of GST.  If GST is payable on a Taxable Supply, the 	amount payable for that Taxable Supply will be the amount expressed in this 	Agreement plus GST.
+28.2 Documentation
+	If GST is payable on a Taxable Supply made by one Party to another Party, then that other Party will not be required to pay any amount to the first Party in respect of that Taxable Supply unless it has first received a Tax Invoice from the first Party.
+29. Dispute Resolution
+29.1 No proceedings
+A Party must not start arbitration or court proceedings about a dispute arising out of  this Agreement unless it first complies with this clause, except:
+(a) where a Party seeks urgent injunctive relief; or
+(b) where the dispute relates to compliance with this clause .
+29.2 Notice
+	A Party claiming that a dispute has arisen must notify the other Party giving details of the dispute.
+29.3 Best efforts to resolve
+	The Parties must negotiate in good faith to resolve the dispute within 10 Business 	Days of receiving notice of the dispute or a longer period agreed by the Parties.
+29.4 Negotiate in good faith
+	If the Parties do not resolve the dispute under clause 29.3, the chief executive or other senior employee of each Party must negotiate in good faith to resolve the dispute for a period of 30 Business Days after the end of the period referred to in clause 28.3 (or longer if agreed in writing between the Parties).
+29.5 Mediation
+	If the dispute is not resolved under clause 29.4, the Parties must, unless agreed otherwise in writing, refer the dispute for mediation by the Australian Commercial Dispute Centre Limited ("ACDC") for resolution in accordance with the Mediation Rules of the ACDC.  Each Party will bear its own costs of the mediation, regardless of who referred the matter to ACDC.
+29.6 Use of experts
+	The Parties may (but are not obliged to) agree to appoint an independent expert to provide advice and guidance on technical or commercial issues.  The costs of the expert shall be borne by the Parties in the same proportion as their proportionate ownership in relation to the Project Technology as set out in Schedule 4.  Any advice or determination by the expert will be advisory only and shall not bind any Party, unless the Parties unanimously agree otherwise.
+29.7 Proceedings
+	If the dispute is not resolved by negotiation under clause 29.5 within 60 Business Days after referral (or longer period agreed between the Parties) any Party may initiate proceedings in a competent court within the jurisdiction.
+30. Force Majeure Event
+30.1 Happening of a Force Majeure Event
+	If a Force Majeure Event prevents or delays a Party from carrying out any of its 	obligations under this Agreement (other than an obligation to pay money):
+(a) it must promptly notify the other Party(ies) in writing accordingly; and
+(b) the obligation that cannot be performed because of the Force Majeure Event will be suspended.
+30.2 Remedy
+	The Party that cannot carry out its obligations under this Agreement because of a Force Majeure Event must use all reasonable endeavours to remedy that Force Majeure Event and resume performance of its obligations as soon as reasonably possible.  Nothing in this clause requires a Party to settle any labour dispute against its will.
+30.3 Continuation of a Force Majeure Event
+	If a Force Majeure Event continues for a period of 6 months or more, any of the Parties may terminate this Agreement immediately by notice in writing to the other Party.
+31. Interpretation
+31.1 In this Agreement headings and boldings are for convenience only and do not affect the interpretation of this Agreement and, unless the context otherwise requires:
+(a) words importing the singular include the plural and vice versa;
+(b) words importing a gender include any gender;
+(c) where a word or phrase is defined in this Agreement, other parts of speech and grammatical forms of that word or phrase have a corresponding meaning;
+(d) an expression importing a natural person includes any company, partnership, joint venture, association, corporation, company or other body corporate and any Government Agency;
+(e) a reference to any thing including, but not limited to, any right includes a part of that thing;
+(f) a reference to a part, clause, Party, annexure, exhibit or Schedule is a reference to a part and clause of, and a Party, annexure, exhibit and Schedule to, this Agreement and a reference to this Agreement includes any annexure, exhibit and Schedule;
+(g) a reference to a statute, regulation proclamation, ordinance or by-law includes all statutes, regulations, proclamations, ordinances or by-laws amending consolidating or replacing it, and a reference to a statute includes all regulations, proclamations, ordinances and by-laws issued under that statute;
+(h) a reference to a document includes all amendments or supplements to, or replacements or novations of, that document;
+(i) a reference to a Party to a document includes that Party's successors and permitted assigns;
+(j) no provision of this Agreement will be construed adversely to a Party solely on the ground that the Party was responsible for the preparation of this Agreement or that provision;
+(k) a reference to an agreement other than this Agreement includes an undertaking, deed, agreement or legally enforceable arrangement or understanding whether or not in writing;
+(l) a reference to an asset includes all property of any nature, including, but not limited to, a business, and all rights, revenues and benefits;
+(m) a reference to a document includes any agreement in writing, or any certificate, notice, deed, instrument or other document of any kind; and
+(n) a reference to a month, is a reference to a calendar month.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Executed as an Agreement on the date above written
+
+
+Executed by the Geoffrey Gardiner Dairy Foundation Limited by being signed by those persons who are authorised to sign on behalf of the company
+
+
+
+.................................................................
+Name
+
+Position Held....................................................................
+Name
+
+Position Held
+
+
+
+Executed by                                                                                     by being signed by those persons who are authorised to sign on behalf of the Applicant 
+
+
+
+.................................................................
+Name
+
+Position Held....................................................................
+Name
+
+Position Held
+
+
+
+
+
+Schedule 1
+
+Background Technology includes the following:
+
+
+
+
+Schedule 2
+
+
+Milestone Reporting and Payment Schedule
+
+From Table 2.2.2.3(a), what milestones will be achieved throughout the project?
+When will they be achieved?
+What Amount of Funding will be assigned to each milestone? 
+(Please note, Each payment made by the Gardiner Foundation must be assigned to a milestone and each payment cannot exceed $100,000. The final payment is held back until the final report is submitted and approved and will be   at least equal to 10% of total Foundation investment into the project.)
+
+Project Duration: month / year - month / year
+Note: please allow adequate time between project submission and start date to allow time for Foundation assessment and setting up of project agreements (etc). In previous rounds this process has normally taken four to five months.
+Milestone Number and NameScheduled date of achievement
+Forecast expenditure
+Amount proposed to be payable by GGDF
+Amount payable by applicant &/or collaborators (cash & in-kind)
+1$$$2$$$3$$$4$$$5$$$TOTAL$$$(
+IMPORTANT NOTES:
+PAYMENTS
+* All payments will be made within 30 days from receipt and acceptance of the relevant Project Milestone Report, Financial Report, or Final Report, and a tax invoice.	(cont. over)
+
+REPORTING
+* All reports should be submitted to the Gardiner Foundation in one hard copy, with an electronic copy sent to 
+  Megan.Dyer@gardinerfoundation.com.au and info@gardinerfoundation.com.au
+COMMUNICATIONS AND ACKNOWLEDGEMENT OF FUNDING
+
+* The Project Leader/Project Organization are principally responsible for publicly disseminating progress and outcomes of the project to interested stakeholders.  However the Gardiner Foundation is pleased to provide support to Project Organizations in this respect and contact should be made with the relevant Project Manager within the Gardiner Foundation, or with the Communications Manager, Cynthia Mrigate on 03 9606 1911, Cynthia.Mrigate@gardinerfoundation.com.au to arrange joint media communications, or support for events to promote the project and its outcomes.
+* The Gardiner Foundation funding will be acknowledged by referring to the Foundation as a funder (or co-funder) in all press releases and through inclusion of the Foundation's logo in all reports, papers and presentations resulting from the project.
+* The Foundation's role as a funder (or co-funder) will be referred to in promotion of the project, and acknowledged at program activities.
+* Project Leaders will be supplied with the Foundation's logo in electronic form, together with guidelines for its use.
+* Copies of all such publications shall be provided to the Gardiner Foundation as they become available
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule 3
+
+Project Activities - Commercialisation Plan and Intellectual Property (IP) Strategy
+(Please provide details of that plan pursuant to clause 19 of this Agreement)
+
+
+
+Schedule 4
+
+Project Technology and Intellectual Property Arrangements
+(Please provide details of the arrangements as required pursuant to clause 16.7 and clause 20 of this Agreement)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schedule 5
+
+ 
+Application
+
+(Funding Application is attached hereto)
+
+Project Agreement - Innovation Projects - 2009
+
+
+
+
+
+2
+
+		 
+
+
+
+
+
+
+
+
+(IMP-06-017 Project Agreement - Draft #1)
+
+
+		36
+WD/2007/7567/IMP-06-017 Project Agreement
+

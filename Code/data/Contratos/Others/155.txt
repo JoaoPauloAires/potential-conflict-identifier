@@ -1,0 +1,86 @@
+CONTRACT FOR SPOT PURCHASE/SALE OF ENVIRONMENTAL PRODUCTS
+CONTRACT DETAILS
+1 Seller:[**Insert details**]2 Buyer:[**Insert details**]3 Commodity:(  ESCs                          (  GACs                           (  GECs
+(  RECs   ..................   (  VEECs..................      (  VRECs
+(  Green Power Rights4 Quantity:[**Insert number **]5 Unit Price:[**Insert price**]  per unit of the  Commodity, exclusive of GST. 6 Creation Period( ESCs, GACs or RECs: On or before 31 December [**insert year**] [**or** in the calendar year preceding the Transfer Date**].
+( GECs: The period commencing [**1 January 2008**] and ending on the Transfer Date.
+( VEECs or VRECs: On or before 31 January prior to the Transfer Date.
+( Green Power Rights: The calendar year preceding the Transfer Date.7 Payment Date:[**Insert number **Business Days **before/after** the Transfer Date. [**or** On the Transfer Date**]8 Transfer Date:[**Insert date on which the Sold Commodity must be transferred to the Buyer **] and if this date is not a Business Day the next Business Day after that date.9 Registry Account[**Insert details of the Buyer's account at the relevant registry**]10 Seller's Account:[**Insert details**]11 Excluded Source:[**Insert any excluded source **] 12 Default Interest Rate:4% above the RBA Cash Rate13 Trade Date:[** insert today's date**]
+This Contract comprises the Contract Details above and the Environmental Products Spot Physical Terms and Conditions (September 2009 edition) published by the Australian Financial Markets Association Inc, which are deemed to be incorporated in this Contract.
+
+SIGNED for and on behalf of SELLER
+by its authorised representative:
+SIGNED for and on behalf of BUYER
+by its authorised representative:
+
+Name  (print)Name  (print)
+Environmental Products Spot Physical Terms and Conditions
+(September 2009 edition)
+published by the Australian Financial Markets Association Inc.
+1 
+1 Definitions
+Defined terms shall have the meaning set out in the Contract Details and as set out below and in the case of any inconsistency the meaning in the Contract Details prevails. Reference to legislation includes reference to that legislation as amended or replaced from time to time, and any applicable regulations made thereunder.
+"Business Day" means a day on which commercial banks and foreign exchange markets settle payments and are open for general business in the cities in which the Australian offices of the Seller and Buyer as noted in the Contract Details are located.
+"ESC" means a certificate created under Division 7 and registered under Division 9 of Part 9 of the Electricity Supply Act 1995 (NSW) in units of one certificate per unit and transferable under that Act.
+"GAC" means a certificate created and registered under Division 5 Part 8A of the Electricity Supply Act 1995 (NSW) in units of one certificate per unit and transferable under that Act.
+"GEC" means a certificate created and registered under Division 1 of Part 4 of Chapter 5A of the Electricity Act 1994 (QLD) in units of one certificate per unit and transferable under Division 4 of Part 4 of Chapter 5A of that Act.
+"Green Power" has the meaning apparent from the Program.
+"Green Power Rights" means a right to claim eligible Green Power generation from a "new" Green Power generator in accordance with the Program and one Green Power Right is treated as being created for each megawatt hour of electricity to which the Green Power Right relates. 
+"Program" means the National Green Power Accreditation Program in force from time to time established by various government agencies collectively known as the "National Green Power Accreditation Steering Group.
+"Reconciliation Period" means the period of 8 weeks following each calendar year. 
+"RBA Cash Rate" means on any day, the rate most recently published by the Reserve Bank of Australia as its "Cash Rate Target".
+"REC" means a certificate created and registered under Division 4 Part 2 of the REC Act in units of one certificate per unit.
+"REC Act" means the Renewable Energy (Electricity) Act 2000 (Cth).
+"Settlement Disruption Event" means an event beyond the control of the parties as a result of which the Sold Commodity cannot be transferred, or transfer of the Sold Commodity cannot be registered in accordance with the Scheme Rules, or otherwise in accordance with the relevant legislation or scheme rules.
+Scheme Rules" means, in the case of GACs and ESCs, the Electricity Supply Act 1995 (NSW), and the Electricity Supply (General) Regulation 2001 (NSW); in the case of GECs the Electricity Act 1994 (QLD); in the case of RECs, the REC Act, in the case of VEECs the VEET Act, in the case of VRECs the VREC Act and in the case of Green Power Rights the Program and any other relevant legislation or scheme rules.
+"Sold Commodity" means the Quantity of the Commodity, created within the Creation Period, and not generated or created from an Excluded Source.
+"VEEC" means a certificate created under Division 3, Part 3 of the VEET Act and registered and transferable under Division 3, Part 3 of the VEET Act.
+"VEET Act means the Victorian Energy Efficiency Target Act 2007.
+"VREC" means a certificate created under Division 4, Part 2 of the VREC Act registered under Division 5, Part 2 of the VREC Act and transferable under Division 6, Part 2 of the VREC Act.
+"VREC Act" means the Victorian Renewable Energy Act 2006.
+2 Sale and Purchase
+The Seller sells the Sold Commodity to the Buyer.  The Seller shall take all actions required by the Scheme Rules to transfer the Sold Commodity to the Buyer by 2.00pm (Sydney time) on the Transfer Date, for which time is of the essence.  If the Seller is unable to transfer the Sold Commodity on the Transfer Date because of a Settlement Disruption Event, the Transfer Date will be the next Business Day on which the Settlement Disruption Event is no longer subsisting, and the Payment Date will be extended by a corresponding number of days. Prior to the Transfer Date, the Seller must issue to the Buyer a tax invoice setting out the Sold Commodity to be transferred from the Seller to the Buyer on the Transfer Date, the Unit Price and the total amount payable.
+
+3 Transfer Fees
+The Buyer shall pay any transfer fees imposed by the Scheme Rules or applicable registrar in respect of the transfer of the Sold Commodity, including stamp duty, and if the Seller is required by the Scheme Rules to pay any transfer fee or other similar expense associated with the transfer of the Sold Commodity, the Buyer shall reimburse such expense on demand.
+4 Payment 
+If the Contract Details provide for payment before the Transfer Date, the Buyer shall pay the Unit Price multiplied by the Sold Commodity, by transferring that sum to the Seller's Account on the Payment Date. If the Contract Details provide for payment on or after the Transfer Date, the Buyer shall pay the Unit Price multiplied by the quantity of Sold Commodity actually delivered for transfer on the Transfer Date, by transferring that sum to the Seller's Account on the Payment Date. For the avoidance of doubt, if the tax invoice issued under clause 2 does not correctly reflect the quantity of the Sold Commodity actually delivered for transfer on the Transfer Date, the amount required to be paid under this clause shall be adjusted so that the Buyer pays the Seller the Unit Price multiplied by the quantity of the Sold Commodity actually delivered for transfer, and the Seller shall adjust the tax invoice accordingly.
+5 Interest
+The Buyer shall pay the Seller interest, compounded daily, at the Default Interest Rate on any late payment, from the Payment Date to the date that payment is made.
+6 Title
+Title to the Sold Commodity transferred in accordance with this Contract will transfer to the Buyer on the Transfer Date (as extended under clause 2, if relevant) or the date determined in accordance with the requirements of the Scheme Rules.
+7 Warranties
+The Seller warrants that, at the time of transfer to the Buyer, the Sold Commodity transferred to the Buyer under this Contract:
+(a) has been created by or within the Creation Period;
+(b) has been created in accordance with the requirements of the Scheme Rules;
+(c) has not been generated or created from an Excluded Source;
+(d) is owned by the Seller with full legal and beneficial title; and
+(e) is free and clear of any security interest, claim, lien or encumbrance of any kind.
+At the time of transfer of the Sold Commodity the Buyer and Seller each warrant to the other that they will comply with the Program or Scheme Rules as relevant as regards the Sold Commodity transferred to the Buyer under this Contract.
+8 GST
+If a party (" the supplier") is liable to pay goods and services tax ("GST") on a supply made by it under this Contract and issues a valid tax invoice to the other party ("the recipient") then the recipient agrees to pay to the supplier an additional amount equal to the consideration provided for the supply multiplied by the prevailing GST rate:
+(a)if the tax invoice is issued prior to the Payment Date, on the Payment Date; and 
+(b) if the tax invoice is issued on or after the Payment Date, within 10 days of the issue of the tax invoice. 
+ Where any amount is payable as a reimbursement, indemnification or similar payment calculated by reference to a loss, cost, expense or other amount incurred, then that amount must be reduced by any input tax credit available to that party and, if a taxable supply, must be increased by the GST payable in relation to the supply and a tax invoice will be provided by the party being reimbursed or indemnified.
+Terms defined in A New Tax System (Goods and Services Tax) Act 1999 of Australia have the same meaning when used in this contract.
+
+
+
+2
+
+S/1769716/1
+
+AFMA Spot Contract September2009
+
+1
+
+S/1769716/1
+
+AFMA Spot Contract September 2009
+
+2
+
+AFMA Spot Contract September 2009
+
+AFMA Spot Contract September 2009
+

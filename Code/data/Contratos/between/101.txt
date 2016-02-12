@@ -1,0 +1,372 @@
+
+SERVICES AGREEMENT
+
+BETWEEN	ENERGYAUSTRALIA (ABN 67 505 337 385) of 570 George Street, Sydney, New South Wales, 2000 (EnergyAustralia)
+
+AND	[Please insert full name of contracting company for supplier] (ABN [insert ABN] ) of [insert address]    (Supplier)
+
+1. BACKGROUND
+This Agreement:
+* defines the services the Supplier will supply to EnergyAustralia, and
+* is the terms on which the Supplier will supply those services.
+
+2. WHAT DOCUMENTS FORM THIS AGREEMENT?
+2.1	This Agreement consists of:
+* this cover document;
+* the attached Services Specification; and
+* the attached Standard Terms.
+
+2.2	If there is an inconsistency between one or more terms in one document listed in clause 2.1 and a term or terms in one or more other documents listed in clause 2.1, the term or terms in the document listed first will govern to the extent of the inconsistency.
+
+
+Executed as an agreement on                     2007
+
+Signed for [Please insert full name of contracting company] (ABN [insert ABN]) by its authorised representative in the presence of:
+
+
+______________________________________
+Signature of Witness
+
+______________________________________
+(Print) Name
+
+
+Signed for EnergyAustralia (ABN 67 505 337 385) by its authorised representative in the presence of:
+
+
+______________________________________
+Signature of Witness
+
+______________________________________
+(Print) Name 
+
+
+
+
+_____________________________________
+Signature of Authorised Representative
+
+_____________________________________
+(Print) Name
+
+
+
+
+
+
+_____________________________________
+Signature of Authorised Representative
+
+_________________________
+(Print) Name
+
+SERVICES SPECIFICATION
+
+
+Description of Services
+
+The Services are the following services:
+
+[Insert details of services and deliverables required - eg. as set out in the Proposal attached as Annexure B ]
+
+Start date for Services
+
+[insert]
+
+Due date for completion of Services
+
+ [insert]
+
+
+What and when EnergyAustralia must pay
+
+ServiceRate or amount payablePayable when?[insert]
+[insert]
+
+On completion of the Services
+
+
+
+STANDARD TERMS
+
+
+1. DEFINITIONS
+Agreement has the meaning given in the cover document to which these Standard Terms are attached.
+Confidential Information of a party means all information (including without limitation, trade secrets and confidential know-how) which is identified as confidential (orally or in writing) or which may reasonably be considered to be confidential, relating to that party from time to time of which the other party becomes aware, both before and after the day this Agreement is executed. Confidential Information of EnergyAustralia includes:
+* all confidential information relating to EnergyAustralia's past, existing or future business, operations, administration, marketing or strategic plans;
+* information about EnergyAustralia's suppliers, contractors and customers; 
+* information in EnergyAustralia's databases; and
+* the Services Specification and the Service Materials.
+Deliverables means the deliverables specified in the Services Specification.  
+Dispute means a dispute arising out of or relating to this Agreement, including without limitation, a dispute about the breach, termination, validity, or subject matter of this Agreement, or a claim in equity or in tort relating to the performance or non-performance of this Agreement.
+Effective Date means the date on which this Agreement is executed by both parties, or if this Agreement is executed in counterparts, the date on which the last counterpart is executed by a party. 
+Entity means an individual, corporation, partnership, joint venture, association, authority, statutory trustee, state, government or government body.
+GST means any goods and services tax imposed by the GST Law.
+GST Exclusive Value has the same meaning as in the GST Law.
+GST Law means the A New Tax System (Goods and Services) Tax Act 1999 as amended from time to time, and any associated legislation and regulations in so far as they relate to GST.
+Intellectual Property Rights means all intellectual property rights, including without limitation:
+* patents, copyright, rights in circuit layouts, registered designs, trade marks and the right to have confidential information kept confidential; and
+* any application or right to apply for registration of any of those rights.
+Moral Rights means an author's right of attribution and integrity under the Copyright Act 1968.
+Personal Information means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or who can be reasonably ascertained, from the information or opinion.
+Price means the total amount EnergyAustralia is required to pay under this Agreement.
+Service Materials means all things, materials and information specifically developed, created or generated by the Supplier (whether alone or with EnergyAustralia, its employees or other contractors) as a part of, or to supply, the Services, including without limitation, the Deliverables, all inventions, software, databases, models, drawings, plans, artwork, designs, logos, reports, advices, proposals and records.  The Service Materials include the deliverables referred to in the Services Specification.
+Services means all services the Supplier is required to supply under this Agreement, including as specified in the Services Specification.
+Services Specification means the document forming part of this Agreement, to which these Standard Terms are attached, describing the services and the Deliverables the Supplier will supply to EnergyAustralia, and other relevant details about those services.
+Supplier has the meaning given in the cover document to which these Standard Terms are attached.  
+Tax Invoice means a tax invoice as defined by the GST Law, which also specifies the GST component of the Taxable Supply.
+Taxable Supply has the same meaning as in the GST Law.
+
+2	SUPPLY OF SERVICES
+2.1	The Supplier must supply to EnergyAustralia the Services:
+(a)	in accordance with the Services Specification, including without limitation, in accordance with any due dates for Services; 
+(b)	to the best of the Supplier's abilities and knowledge; 
+(c)	in a professional, efficient and safe manner, without negligence; 
+(d)	in compliance with all applicable standards, awards, laws and regulations (including without limitation, awards and laws applicable to the Supplier's employees); and 
+(e)	during any period in which the Supplier is at a location owned, operated or controlled to any extent by EnergyAustralia, in accordance with all applicable EnergyAustralia policies and procedures in force from time to time, as notified to the Supplier by EnergyAustralia.
+
+3.	RELATIONSHIP BETWEEN THE PARTIES
+3.1	The Supplier:
+(a)	acknowledges that:
+(i)	the Supplier will supply the Services as an independent contractor;
+(ii)	this Agreement does not create a relationship of employer and employee, principal and agent, or partnership between EnergyAustralia and:
+(A)	the Supplier; 
+(B)	any Supplier's subcontractor; or
+(C)	any of the Supplier's or the Supplier's subcontractor's employees; and
+(iii)	this Agreement does not give the Supplier, its subcontractors or their employees, authority to bind EnergyAustralia; and 
+(b)	acknowledges and agrees that:
+(i)	it is responsible for the payment of all taxes (including corporate tax, payroll tax, Pay-As-You-Go tax, training guarantee levy, fringe benefits tax, excise duties and similar imposts) and taxation obligations, except those arising under a GST, in respect of the Services;
+(ii)	it is responsible for maintaining a workers' compensation insurance policy in respect of any person employed or engaged by the Supplier used to provide services to EnergyAustralia;
+(iii)	it is responsible for the payment of superannuation for any person employed or engaged by the Supplier; and 
+(iv)	neither the Supplier nor any of its employees, contractors or agents is entitled to any superannuation contributions from EnergyAustralia.   
+
+3.2	If under any statute EnergyAustralia is considered an employer or principal employer and is obliged to make payments in respect of the amounts paid or benefits provided to or in relation to any employee or subcontractor of the Supplier, the Supplier:
+(a)	must make all such payments on behalf of EnergyAustralia; and 
+(b)	indemnifies EnergyAustralia against all such payments made by EnergyAustralia, including:
+(i)	any additional tax, levy, or other payment whatsoever, including any interest, penalty or late fee that may be payable in respect of the late or non-payment of such tax, levy or other payment; and
+(ii) remuneration, annual leave, sick leave, long service leave or other leave, or any other payment or entitlement to be paid or provided to such persons.
+
+4.	PRICE AND PAYMENT
+4.1	The Services Specification states either or both of the Price payable under this Agreement and how the Price is to be calculated.
+
+4.2	The parties agree that all amounts payable under this Agreement by EnergyAustralia are referred to on a GST Exclusive basis.
+
+4.3	If any supply under this Agreement is a Taxable Supply, the party making the supply may, in addition to the payment for the Taxable Supply, recover the amount of the GST applicable to the Taxable Supply.  Any amount of GST payable is payable at the same time as the payment for Services (or other supply) to which it relates.
+4.4	The party making a Taxable Supply under this Agreement must issue a Tax Invoice for that Taxable Supply to the recipient.  
+
+4.5	The Supplier must invoice EnergyAustralia for the Price at the times specified in the Services Specification, specifying how those amounts are calculated.
+
+4.6 Words or expressions used in this clause which are defined in the A New Tax System (Goods and Services) Act 1999 have the same meaning.
+
+4.7 On the Effective Date and otherwise on request from EnergyAustralia, the Supplier must: 
+
+(a)	provide a completed declaration in the form of Annexure A in accordance with the Pay-roll Tax Act 2007 (NSW), the Workers Compensation Act 1987 (NSW) and the Industrial Relations Act 1996 (Cth) stating:
+(i)	that all necessary workers compensation insurance premiums have been paid;
+(ii)	that all pay-roll tax in respect of the Supplier's relevant employees' (as defined under the Pay-roll Tax Act 2007 (NSW)) wages paid or payable for supplying the Services has been paid;
+(iii)	whether or not the Supplier is also a 'principal contractor' for the Services under the Pay-roll Tax Act 2007 (NSW), the Workers Compensation Act 1987 (NSW), or the Industrial Relations Act 1996 (NSW), and if the Supplier is a 'principal contractor' whether it has received a written statement in accordance with this clause 4.7  from its 'subcontractors' (as defined under the Pay-roll Tax Act 2007 (NSW), the Workers Compensation Act 1987 (NSW), or the Industrial Relations Act 1996 (NSW) );  
+(iv)	that the Supplier is a registered employer under the Pay-roll Tax Act 2007 (NSW), or is not required to be registered; and
+(v)	that the Supplier has paid all relevant employees (as defined under the Industrial Relations Act 1996 (NSW)), all remuneration payable to them for the work and services to be provided under this Contract as at the date on which the statement was made; and
+(b)	certify in writing in a form acceptable to EnergyAustralia (acting reasonably) that:
+ 
+(i)	all contributions to an approved superannuation fund, in respect of the contractor, have been made by the Supplier under the terms of the Superannuation Guarantee (Administration) Act 1992 (Cth); and
+(ii)	the Supplier has deducted or withheld all amounts of taxes under the PAYG or PPS income tax systems and that all amounts withheld or deducted have been submitted to the Australian Taxation Office as required.
+
+5. INTELLECTUAL PROPERTY RIGHTS IN SERVICE MATERIALS
+5.1	EnergyAustralia does not claim ownership of anything of the Supplier that is not developed, created or generated specifically for EnergyAustralia but does claim ownership of Service Materials.  Accordingly, the Supplier:
+(a)	presently assigns to EnergyAustralia all present and future Intellectual Property Rights in all Service Materials; and
+(b)	must at its own cost do all things reasonably requested by EnergyAustralia to enable EnergyAustralia to assure further the title and rights assigned under clause 5.1(a).
+
+5.2	On request by EnergyAustralia from time to time, the Supplier must supply to EnergyAustralia one copy of the Service Materials in their then current state.
+
+6.	WARRANTIES, INDEMNITIES AND INSURANCES
+6.1	The Supplier warrants that:
+(a)	in supplying the Services and Service Materials, it will not infringe the Intellectual Property Rights or Moral Rights of any person;
+(b)	it has all rights necessary to make the assignments under clause 5.1(a);
+(c)	use of the Services or the Service Materials by EnergyAustralia or its contractors in accordance with this Agreement will not infringe the Intellectual Property Rights or Moral Rights of any person;
+(c)	all Services will be supplied:
+(i)	in accordance with the applicable service levels (if any) specified in the Services Specification; and
+(ii)	with due care and skill.
+
+6.2	The Supplier indemnifies EnergyAustralia on a full indemnity basis for all claims against, and losses and damages suffered by EnergyAustralia as a result of:
+(a)    any breach of the warranties in clauses 6.1(a), (b) and (c); and
+(b)    third party claims arising from the Services.
+
+6.3	The Supplier must effect and maintain in a form appropriate to the Supplier's activities and with and insurer acceptable to EnergyAustralia, comprehensive insurance in respect of the Services, including:
+(a)	workers compensation insurance in accordance with applicable law and awards and insurance against common law liability to the Supplier's workers engaged in connection with the Services;
+(b)	liability insurance, including public liability and product liability insurance, appropriate to the Supplier's activities, each for an amount not less than $20 million for any one occurrence, and in the aggregate, including loss of or damage to personal and real property of EnergyAustralia (including documents and records); and
+(c)	professional indemnity insurance for an amount of $10 million for any one claim and in the aggregate for breach of professional duty whether incurred in contract, tort or otherwise by reason of any act or omission of the Supplier,
+(together, the insurance policies).
+
+6.4	The Supplier must:
+(a)	effect the insurance policies referred to in clause 6.3 (c) before starting to supply the Services and maintain them for not less than 3 years following termination or expiration of this Agreement; 
+(b)	effect the insurance policies referred to in clauses 6.3(a) and (b) before starting to supply the Services and maintain them until termination or expiration of this Agreement, or as otherwise required by EnergyAustralia;
+(c)	ensure its subcontractors have sufficient appropriate insurance to satisfy their liabilities arising out of or in relation to this Agreement; and 
+(d)	provide, on EnergyAustralia's request, evidence satisfactory to EnergyAustralia of the insurance specified in this clause.
+
+7.	CONFIDENTIAL INFORMATION AND PRIVACY
+7.1	Each party:
+(a)	may use Confidential Information of the other party solely for the purposes of this Agreement;
+(b)	except as permitted under clause 7.1(c), must keep confidential all Confidential Information of the other party; and
+(c)	may disclose Confidential Information of the other party only:
+(i)	to persons who:
+(A)	are aware and agree that the Confidential Information of the other party must be kept confidential; and
+(B)	either have a need to know (and only to the extent that each has a need to know), or have been specifically approved by the other party; or
+(ii)	as required by law or stock exchange regulation.
+
+7.2	Even though information is the Confidential Information of a party, the other party does not have to comply with clause 7.1 in relation to that Confidential Information if:
+(a)	the Confidential Information becomes public knowledge during this Agreement; or
+(b)	the other party became aware of that Confidential Information from a third person,
+in circumstances where there was no breach of any obligation of confidence.
+
+7.3	Each party must comply with:
+(a) the reasonable directions of the other party in relation to the handling of any Personal Information; and
+(b) the Privacy Act 1988 (Cth).
+
+7.4	EnergyAustralia may disclose Confidential Information of the Supplier to any Minister, department or officer of the State or New South Wales for a legitimate government purpose.
+
+8.	TERMINATION
+8.1	This Agreement terminates if:
+(a)	the Supplier completes supplying the Services in accordance with this Agreement (EnergyAustralia will notify the Supplier in writing when this happens);
+(b)	EnergyAustralia gives at least 14 days notice to the other party of a date that it wants this Agreement to terminate; or
+(c)	a party terminates this Agreement in accordance with clause 8.2.
+
+8.2	A party may terminate this Agreement with immediate effect by giving notice to the other party if:
+(a)	that other party breaches any material term of this Agreement not capable of remedy; or
+(b)	that other party breaches any material term of this Agreement capable of remedy and fails to remedy the breach within 30 days after receiving notice requiring it to do so.
+
+8.3	EnergyAustralia may terminate this Agreement with immediate effect by giving notice to the Supplier if:
+(a)	after the date this Agreement is executed, there is a change in control of the Supplier; or
+(b)	the Services are to be completed by a specified date or in accordance with a specified timetable, and the Services are not completed by that date or in accordance with that timetable, or if EnergyAustralia reasonably decides the Services will not be so completed.
+
+9.	AFTER TERMINATION
+9.1	As soon as possible after termination of this Agreement, each party (first party) must return to the other party all Confidential Information of that other party in material form (including without limitation, those parts of all notes or records of the first party containing Confidential Information of the other party) in the first party's possession or control.
+
+9.2	Clauses 3.2,4,5,6,7 and 9 continue after termination.
+
+10.	SUBCONTRACTING AND ASSIGNMENT
+10.1	The Supplier must not assign this Agreement or any right under this Agreement without EnergyAustralia's written consent.
+
+10.2	The Supplier must not subcontract to any person the performance of any of its obligations under this Agreement without EnergyAustralia's written consent.
+
+10.3	The Supplier agrees that EnergyAustralia may assign or transfer the whole of this Agreement and its related rights and obligations under this Agreement to any Entity that is not a competitor of the Supplier, including any Entity:
+(a)	to which the assets the subject of this Agreement are transferred;
+(b)	that assumes the management of the Services for a business or businesses that own the assets the subject of this Agreement; or
+(c)	to comply with or accommodate any law.
+
+10.4	The parties agree that it is their intention that all rights, obligations and liabilities under or in connection with this Agreement are to apply, even where the relevant circumstances involve a failure to take reasonable care and the existence of concurrent wrongdoers (as that term is defined in section 34(2) of the Civil Liability Act 2002 (NSW)), unlimited and otherwise unaffected by anything that, but for this clause 10.4, may by virtue of the provisions of the Civil Liability Act 2002 (NSW) have limited or otherwise affected those rights, obligations and liabilities. 
+
+11.	NOTICES
+11.1	A party notifying or giving notice under this Agreement must notify:
+(a)	in writing;
+(b)	addressed to the address of the recipient specified on the first page of this Agreement or as varied by notice given in accordance with this clause; and
+(c)	left at or sent by post or facsimile to that address.
+
+11.2	A notice given in accordance with clause 11.1 will be taken to have been received:
+(a)	if delivered by hand, to the recipient's address, on the date of delivery, as long as delivery is acknowledged in writing by the recipient;
+(b)	if sent by post, 3 working days after the posting; and
+(c)	if sent by facsimile on a working day at the recipient's, on the date of transmission, or if sent on a non-working day at the recipient's, on the next working day (in both cases as long as the sender's facsimile machine records a successful transmission).
+
+12.	HOW TO RESOLVE DISPUTES
+12.1	Neither party may start court proceedings (except proceedings seeking interlocutory relief) in respect of a Dispute unless it has first complied with this clause.
+
+12.2	A party claiming that a Dispute has arisen must notify the other party in writing of the event occurring that has given rise to the Dispute.
+
+12.3	If a Dispute is not resolved within a 20 day working period (or if the parties agree a longer period, that longer period), of a Dispute being notified under clause 12.2, the Dispute must be referred:
+(a)	for mediation, in accordance with the Australian Commercial Disputes Centre (ACDC) Mediation Guidelines; and
+(b)	to a mediator agreed by the parties, or if the parties do not agree on a mediator, a mediator nominated by the then current chief executive officer of ACDC or the CEO's nominee (or if no such person is available or willing to nominate a mediator, by the then President of the Law Society of New South Wales).
+
+13.	WAIVER
+Except where a party (First Party) waives its right in writing, a First Party's:
+(a) consideration or negotiation of a request by the other party (Other Party) to vary this Agreement in a way that would vary any obligation of the Other Party under this Agreement; or
+(b) failure to insist that the Other Party perform any obligation under this Agreement,
+is not a waiver of the First Party's right to:
+(c) insist the Other Party perform any obligation; or
+(d) claim damages for breach of any obligation.
+
+14.	VARYING THIS AGREEMENT?
+If the parties want to vary this Agreement they must do so by a document signed by an authorised representative of each party.
+
+15.	ENTIRE AGREEMENT
+This Agreement constitutes the entire agreement between the parties in connection with its subject matter and supersedes all previous agreements or understandings between the parties in connection with its subject matter.
+
+16.	COUNTERPARTS
+This Agreement may be executed in counterparts.  All executed counterparts constitute one document.  
+
+17.	GOVERNING LAW AND JURISDICTION
+This Agreement is governed by the law applicable in New South Wales and each party irrevocably and unconditionally submits to the non-exclusive jurisdiction of the courts of that state.
+
+
+
+
+ANNEXURE A
+
+     SUBCONTRACTOR'S STATEMENT
+REGARDING WORKERS COMPENSATION, PAYROLL TAX AND
+REMUNERATION (Note1 - see back of form)
+For the purposes of this Statement a "subcontractor" is a person (or other legal entity) that has entered into a contract with a "principal contractor" to carry out work.
+This Statement must be signed by a "subcontractor" (or by a person who is authorised, or held out as being authorised, to sign the statement by the subcontractor) referred to in any of s175B Workers Compensation Act 1987, Schedule 2 Part 5 Payroll Tax Act 2007, and s127 Industrial Relations Act 1996 where the "subcontractor" has employed or engaged workers or subcontractors during the period of the contract to which the form applies under the relevant Act(s).  The signed Statement is to be submitted to the relevant principal contractor.
+SUBCONTRACTOR'S STATEMENT  (Refer to the back of this form for Notes, period of Statement retention, and Offences under various Acts.
+
+Subcontractor: 	 ABN: 	
+					(Business name)
+of 	
+	(Address of subcontractor)
+has entered into a contract with 	 ABN: 	
+	(Business name of principal contractor) 	      (Note 2)
+Contract number/identifier 	
+	 	      (Note 3)
+This Statement applies for work between: ..../...../.... and ..../...../.... inclusive,	      (Note 4)
+subject of the payment claim dated: ..../...../..... 	      (Note 5)
+
+I, 	 a Director or a person authorised by the Subcontractor on whose behalf this declaration is made, hereby declare that I am in a position to know the truth of the matters which are contained in this Subcontractor's Statement and declare the following to the best of my knowledge and belief:
+
+(a)	The abovementioned Subcontractor has either employed or engaged workers or subcontractors during the above period of this contract.  Tick [    ] if true and comply with (b) to (g) below, as applicable.  If it is not the case that workers or subcontractors are involved or you are an exempt employer for workers compensation purposes tick [    ] and only complete (f) and (g) below.  You must tick one box.  	      (Note 6)
+(b)	All workers compensation insurance premiums payable by the Subcontractor in respect of the work done under the contract have been paid.  The Certificate of Currency for that insurance is attached and is dated ..../...../..... 	      
+                                                                                                (Note 7)
+(c)	All remuneration payable to relevant employees for work under the contract for the above period has been paid.
+  	(Note 8)
+(d)	Where the Subcontractor is required to be registered as an employer under the Payroll Tax Act 2007, the Subcontractor has paid all payroll tax due in respect of employees who performed work under the contract, as required at the date of this Subcontractor's Statement.	      (Note 9)
+(e)	Where the Subcontractor is also a principal contractor in connection with the work, the Subcontractor has in its capacity of principal contractor been given a written Subcontractor's Statement by its subcontractor(s) in connection with that work for the period stated above.	    				         (Note 10)
+(f)	Signature 	 Full name 	
+
+(g)	Position/Title 	Date ..../...../....
+
+NOTE: Where required above, this Statement must be accompanied by the relevant Certificate of Currency to comply with section 175B of the Workers Compensation Act 1987.
+
+
+Version 2
+          
+Notes
+1.	This form is prepared for the purpose of section 175B of the Workers Compensation Act 1987, Schedule 2 Part 5 Payroll Tax Act 2007 and section 127 of the Industrial Relation Act 1996.  If this form is completed in accordance with these provisions, a principal contractor is relieved of liability for workers compensation premiums, payroll tax and remuneration payable by the subcontractor.
+A principal contractor can be generally defined to include any person who has entered into a contract for the carrying out of work by another person (or other legal entity called the subcontractor) and where employees of the subcontractor are engaged in carrying out the work which is in connection with the principal contractor's business.
+2.	For the purpose of this Subcontractor's Statement, a principal contractor is a person (or other legal entity), who has entered into a contract with another person (or other legal entity) referred to as the subcontractor, and employees/workers of that subcontractor will perform the work under contract.  The work must be connected to the business undertaking of the principal contractor.
+3.	Provide the unique contract number, title, or other information that identifies the contract.
+4.	In order to meet the requirements of s127 Industrial Relations Act 1996, a statement in relation to remuneration must state the period to which the statement relates.  For sequential Statements ensure that the dates provide continuous coverage.
+Section 127(6) of the Industrial Relations Act 1996 defines remuneration 'as remuneration or other amounts payable to relevant employees by legislation, or under an industrial instrument, in connection with work done by the employees.'
+Section 127(11) of the Industrial Relations Act 1996 states 'to avoid doubt, this section extends to a principal contractor who is the owner or occupier of a building for the carrying out of work in connection with the building so long as the building is owned or occupied by the principal contractor in connection with a business undertaking of the principal contractor.'
+5.	Provide the date of the most recent payment claim.
+6.	For Workers Compensation purposes an exempt employer is an employer who pays less than $7500 annually, who does not employ an apprentice or trainee and is not a member of a group.
+7.	In completing the Subcontractor's Statement, a subcontractor declares that workers compensation insurance premiums payable up to and including the date(s) on the Statement have been paid, and all premiums owing during the term of the contract will be paid.
+8.	In completing the Subcontractor's Statement, a subcontractor declares that all remuneration payable to relevant employees for work under the contract has been paid.
+9.	In completing the Subcontractor's Statement, a subcontractor declares that all payroll tax payable relating to the work undertaken has been paid.
+10.	It is important to note that a business could be both a subcontractor and a principal contractor, if a business 'in turn' engages subcontractors to carry out the work.  If your business engages a subcontractor you are to also obtain Subcontractor's Statements from your subcontractors.
+Statement Retention
+The principal contractor receiving a Subcontractor's Statement must keep a copy of the Statement for the periods stated in the respective legislation.  This is currently up to seven years.
+
+Offences in respect of a false Statement
+In terms of s127(8) of the Industrial Relations Act 1996, a person who gives the principal contractor a written statement knowing it to be false is guilty of an offence if:
+(a)	the person is the subcontractor;
+(b)	the person is authorised by the subcontractor to give the statement on behalf of the subcontractor; or
+(c)	the person holds out or represents that the person is authorised by the subcontractor to give the statement on behalf of the subcontractor.
+In terms of s175B of the Workers Compensation Act and clause 18 of Schedule 2 of the Payroll Tax Act 2007 a person who gives the principal contractor a written statement knowing it to be false is guilty of an offence.Further Information
+For more information, visit the WorkCover website www.workcover.nsw.gov.au, Office of State Revenue website www.osr.nsw.gov.au , or Office of Industrial Relations, Department of Commerce website www.commerce.nsw.gov.au .  Copies of the Workers Compensation Act 1987, the Payroll Tax Act 2007 and the Industrial Relations Act 1996 can be found at www.legislation.nsw.gov.au
+
+Services Agreement - Supply of Services to EnergyAustralia	1	
+
+Document Title
+
+
+Page 2
+
+
+

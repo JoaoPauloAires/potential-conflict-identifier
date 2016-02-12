@@ -1,0 +1,400 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PARTIES
+
+THE SALISBURY GROUP PTY LTD
+
+[REPRESENTATIVE]
+
+[PRINCIPAL]
+
+
+
+
+
+
+
+
+
+
+
+
+
+AUTHORISED REPRESENTATIVE AGREEMENT
+
+
+
+
+INDEX
+
+1.	DEFINITIONS AND INTERPRETATION	1
+2.	APPOINTMENT AND ACCEPTANCE OF THE REPRESENTATIVE	4
+3.	RELATIONSHIP	4
+4.	THE REPRESENTATIVE'S DUTIES	5
+5.	REPRESENTATIVE'S WARRANTIES	8
+6.	LICENCEE'S OBLIGATIONS	8
+7.	FEES AND REMUNERATION	9
+8.	CLIENT MONIES	9
+9.	TRANSFER OF BUSINESS	9
+10.	INSURANCE AND INDEMNITY	10
+11.	TERMINATION	10
+12.	CONSEQUENCES OF TERMINATION	11
+13.	RESTRAINT	12
+14.	OWNERSHIP OF INFORMATION	13
+15.	ASSIGNMENT	13
+16.	NOTICE	13
+17.	DISPUTES	13
+18.	GOVERNING LAW AND JURISDICTION	13
+19.	CODE OF ETHICS	14
+20.	INTERIM SUSPENSION	14
+21.	NON-WAIVER	14
+22.	SEVERABILITY	14
+23.	COUNTERPARTS	14
+24.	AMENDMENT	14
+25.	PRECEDENCE	14
+
+AGREEMENT dated:  	                                                                          2008 (the "Commencement Date")
+
+PARTIES:	THE SALISBURY GROUP PTY LTD (ABN 51 089 332 918) whose Registered Office is located at Suite 204, Level 2, Quay West, 111 Harrington Street, Sydney in the State of New South Wales ("TSG")
+
+	[REPRESENTATIVE] of address in the State of [State] ("State of Domicile") ("Representative")
+
+	[PRINCIPAL] of address in the state of   ("Principal"), who is the holder of Principal Representative Agreement with TSG
+
+RECITALS:
+
+A.	TSG holds an Australian Financial Services Licence and is licensed to carry on the business of dealing in Financial Products and providing Financial Product Advice to wholesale and retail clients.
+B.	The Representative is contracted or employed by a financial planning business to perform duties including providing Financial Product Advice and arranging the sale of various Authorised Investments approved by TSG from time to time.
+C.	The Representative represents to TSG that it:
+	(i)	is skilled (or will quickly become skilled) in the business of  dealing in Financial Products and providing Financial Product Advice in respect of the Authorised Investments and in marketing these services; and
+	(ii)	has the qualifications and experience required to perform the obligations required of it pursuant to this Agreement and to deal in Financial Products and provide Financial Product Advice in respect of the Authorised  Investments; and
+	(iii)	will be able to achieve the level of ethical and technical standards required by TSG in the conduct of its business pursuant to this Agreement.
+D.	Pursuant to the Regulatory Laws TSG is directly responsible for the actions of its representatives and to protect the reputation and goodwill of TSG and of its other representatives and to ensure compliance with the Regulatory Laws TSG requires the Representative to enter this Agreement.
+E.	TSG and the Principal have agreed that, provided the Representative conforms with the requirements of the Regulatory Laws, with the employment agreement with the Principal and this Agreement, the Representative shall be entitled to become, and to remain, a representative of TSG subject to and in accordance with the terms and conditions set out in this Agreement.
+THE PARTIES AGREE:
+
+1. DEFINITIONS AND INTERPRETATION
+1.1 In this Agreement (including the recitals) unless the context otherwise requires:
+"TSG Business" means the activities carried on by TSG or any of its representatives or Associates as part of, or in conjunction with, the business of providing Financial Planning Services and any ancillary activities.
+"Agreement" means this Agreement and any document that varies or supplements it;
+"Authorised Product" means any Financial Product set out in the then current Authorised Product List of TSG;
+"Authorised Product List" means the list of products researched and nominated by TSG, and notified to the Representative from time to time, as suitable and which the Representative may recommend to Clients in accordance with the terms and conditions contained in this Agreement;
+"authorised representative" has the same meaning as in the Corporations Act;
+"Authorised Representative Authority" means the authority granted by TSG at the request of a Principal to the Representative under this Agreement authorising the Representative to deal in Financial Products and provide Financial Product Advice in respect of the Authorised Investments as an authorised  representative of TSG pursuant to the terms and conditions contained in this Agreement;
+"Claim" means any action, cause of action, proceedings, demand, claim, cross claim, counter claim, expense, cost (including without limitation legal costs and disbursements on a full indemnity basis), damage, loss and other liability of any nature whatever, however caused or arising out of, flowing from, in connection with, in respect of or incidental to any breach of the obligations of the Representative under this Agreement, the Authorised Representative Authority or the Regulatory Laws;
+"Client" means any person seeking or utilising or considering utilising or who has utilised or engaged the services of TSG or any of its representatives or Associates in connection with TSG' Business;
+"Compliance Manual" means the Compliance Manual or any manual produced in substitution , produced by TSG (which includes its operational policies and procedures as amended from time to time) and made available to the Representative in any manner determined by TSG, which details the relevant legislation and designated procedures that the Representative must adhere to, together with any updates, amendments or additions thereto as produced by TSG subsequent to the Representative's appointment as an authorised representative pursuant to the Authorised Representative Authority and this Agreement;
+"Confidential Information" means any information concerning the affairs of Clients and without limiting the generality of the foregoing includes lists, files, data or other information or details pertaining thereto;
+"Contract for Services" includes an agreement or contract between the representative and the Principal and includes Contracts of employment, workplace agreements, or other contract or agreement regarding the relationship between the Principal and the Representative.
+"Excluded Client" means an identified client subject to an agreement with the Principal that the Representative is permitted to retain or transfer the business for in the event of the termination of this contract.      
+"Financial Planning Services" means the services of dealing in Financial Products and/or providing Financial Product Advice;
+"Financial Product" has the same meaning as in the Corporations Act;
+"Financial Product Advice" has the same meaning as in the Corporations Act;
+	
+"Product Disclosure Statement" has the same meaning as in the Corporations Act;
+"Product Issuer" has the same meaning as in the Corporations Act;
+"Regulatory Laws" means the Corporations Act, the Income Tax Assessment Act, the Cash Transaction Reporting Act,  the Superannuation (Industry) Supervision Act, the Australian Securities & Investments Commission Act 2001 and all other existing and new laws, regulations and rules (including Australian Stock Exchange Rules) which may impact upon TSG or the Representative in the manner of conduct of TSG' Business and without limiting the generality of the foregoing includes any applicable ruling, determination or circular of any statutory or other body vested with authority to administer such Regulatory Laws;
+"representative" has the same meaning as in the Corporations Act;
+ "the Corporations Act" means the Corporations Act 2001 and the Corporations Regulations 2001 as amended from time to time and where the context admits the corresponding legislation of any State or Territory of Australia and includes any statute in substitution for the same;
+1.2 References to recitals, clauses, subclauses, paragraphs, annexures or schedules are references to recitals, clauses, subclauses, paragraphs, annexures and schedules of or to this Agreement.
+1.3 Headings in this Agreement are for convenience only and do not affect its interpretation or construction.
+1.4 In this Agreement unless the context otherwise requires:
+(a) the singular includes the plural and vice versa;
+(b) each gender includes the other two genders;
+(c) the word "person" means a natural person and any association, body or entity whether incorporated or not;
+(d) the word "month" means calendar month and the word "year" means 12 calendar months;
+(e) a reference to writing includes any communication sent by post or facsimile transmission;
+(f) where any word or phrase is defined, any other part of speech or other grammatical form of that word or phrase has a cognate meaning;
+(g) a reference to any statute, proclamation, rule, code, regulation or ordinance includes any amendment, consolidation, modification, re-enactment or reprint of it or any statute, proclamation, rule, code, regulation or ordinance replacing it;
+(h) all monetary amounts are in Australian currency;
+(i) a reference to time refers to time in Melbourne, Australia;
+(j) "Associate" has the same meaning given by Section 318 of the Income Tax Assessment Act 1936 (Cth) or any section amending or replacing such provision;
+(k) "Business Day" means a day other than a Saturday, Sunday or public holiday in the state in which the Principal is domiciled;
+(l) no rule of construction applies to the disadvantage of a party because this Agreement is prepared by (or on behalf of) that party;
+(m) a reference to any thing is a reference to the whole and each part of it;
+(n) a reference to a group of persons is a reference to all of them collectively and to each of them individually;
+(o) "company", "corporation" and "body corporate" have the meanings respectively provided by Chapter 1 of the Corporations Act;
+(p) when one corporation is referred to as a "related body corporate", "subsidiary", "holding company" or "ultimate holding company" of or in relation to another corporation, those expressions have the meanings respectively provided by Part 1.2 of the Corporations Act;
+(q) a reference to a document includes all amendments or supplements to, or replacements or novations of, that document.
+2. APPOINTMENT AND ACCEPTANCE OF THE REPRESENTATIVE
+2.1 It is a condition of this Agreement that the Representative sign a Contract for Services with the Principal and comply with all reasonable directions of the Principal.
+2.2 The Representative accepts the appointment made in clause 2.1 and acknowledges that it is conditional and dependent upon the continuing appointment by TSG and the Representative's compliance with the terms of this Agreement.
+3. RELATIONSHIP
+3.1 The relationship between TSG and the Representative is that of independent business contractors
+3.2 Nothing in this Agreement shall create or be deemed to create a relationship of employer and employee or partnership or joint venture between TSG and the Representative
+3.3 The parties agree to act fairly, reasonably and ethically towards each other and all other representatives of TSG.
+3.4 Except as provided in the Contract for Services between the Principal and the Representative, the Representative is prohibited from working in another business. Where the Representative is permitted to work in another business the Representative agrees to be bound by the conditions of Appendix 1.
+3.5 Nothing in this Agreement is to be construed as prohibiting or limiting the right of the Principal to carry out and conduct such other business as it may see fit provided:
+(a) the same does not compete with the business conducted by TSG or the subject of this Agreement;
+(b) such other business does not interfere with the Representative's ability to perform its obligations pursuant to the Authorised Representative Authority and this Agreement; 
+(c) such other business is not conducted using TSG' name or intellectual property;
+(d) such other business will not bring into disrepute, harm or affect the reputation or goodwill of TSG or any of its representatives or Associates;
+(e) the Representative when conducting such other business on behalf of the Principal will not hold itself out to be acting in any manner that is connected to its Authorised Representative Authority or TSG;
+(f) the Principal has made full written disclosure to TSG of the existence and nature of such other business and TSG acknowledges the existence of the business in writing 
+(g) the Principal effects and keeps current at all times a lawful and valid professional indemnity insurance policy with a reputable insurer and in an appropriate amount to provide professional indemnity insurance to cover the Representative in respect of such other business that it conducts against any costs, expenses, charges, losses, damages (including consequential loss), action, suits, causes of action and proceedings.
+3.6 The Principal is solely responsible for all costs, charges and expenses incurred in connection with the operation of its business pursuant to this Agreement, including but not limited to referral fees, paraplanning fees and staffing costs including workers compensation, payroll tax and superannuation guarantee contributions as well as all professional liability including negligence, contract and fraudulent actions involved in the conduct of its business and in acting for TSG other than such as may be agreed in writing.
+4. THE REPRESENTATIVE'S DUTIES
+4.1 The Representative must:
+(a) as a condition of this Agreement remaining in force, comply with the terms of the Contract for Services.
+(b) comply with all the provisions and requirements of the relevant Regulatory Laws and all other laws of any State or Territory or the Commonwealth of Australia and, without limiting the foregoing:
+(i) hold an Authorised Representative Authority from TSG and comply with any conditions of that Authorised Representative Authority, this Agreement, and the Compliance Manual and the Representative acknowledges that the Compliance Manual and any additions or amendments thereto are made available to the Representative electronically and it is the responsibility of the Representative to ensure it maintains constant familiarity with the provisions of that Compliance Manual;
+(ii) not hold itself out as being capable of giving or authorised to give advice beyond the scope of the Authorised Representative Authority;
+(iii)  maintain a register of securities, a register of alternative remuneration, a register of conflicts of interest, a complaints register and any other register which TSG may require from time to time in such form as TSG may define;
+(iv) disclose to Clients all information required by the Regulatory Laws to be disclosed;
+(v) not distribute to Clients out of date or withdrawn Product Disclosure Statements or other disclosure documents;
+(vi) with respect to the provision of any Financial Product Advice comply with Division 3 of Part 7.7 of the Corporations Act, and in particular:
+(A) at all times take reasonable steps to ascertain the particular objectives, financial situation and needs of the Client;
+(B) give such consideration to and conduct such investigation of the subject matter of the relevant Financial Product as is reasonable in the circumstances;
+(C) always have a reasonable basis for providing any Financial Product Advice to a Client or dealing in any Financial Product for or on behalf of a Client;
+(c) not act as a representative of any other Australian Financial Services Licensee;
+(d) provide to TSG all information reasonably requested by TSG concerning the Representative in order to enable TSG to evaluate the performance of or the ability of the Representative to continue to carry out the obligations pursuant to this Agreement and to act as a representative of TSG and to enable TSG to comply with the Regulatory Laws;
+(e) immediately notify the Principal and TSG of the happening of any event of which the Representative is aware which may be detrimental to TSG, its representatives or Associates; and
+(f) attend such educational or training courses as are necessary to satisfy the requirements of the Regulatory Laws;
+(g) ensure that all letters, financial plans, correspondence, bulletins, marketing material and other written communication of any kind issued or distributed by the Representative is approved by TSG and contains such disclaimers in the form provided in writing from time to time by TSG;
+(h) not issue any advertising, promotional or marketing material or public statements of any kind with respect to TSG or TSG' Business unless such material has first been approved in writing by TSG;
+(i) not use TSG' name or any logo, business name or style of TSG other than for the purpose of promoting TSG' Business or carrying on its business pursuant to this Agreement;
+(j) not make any reference alluding to or referring to TSG other than as is consistent with the Authorised Representative Authority, in any printed matter or broadcast without the prior written consent of TSG;
+(k) not use or register the name of TSG, any of its trade or service mark or any parts or derivatives thereof in the Representative's business or company name or any other business or company with which the Representative may be associated without the prior written consent of TSG;
+(l) disclose that the Representative is a representative of TSG in all communications whether written or oral relating in any way to TSG' Business or TSG or the Representative's duties under this Agreement;
+(m) adhere strictly to any rules and procedures for acting as a representative of TSG, and in particular, such rules and procedures specified in the Compliance Manual or any other reasonable direction or instructions to the Representative issued by TSG from time to time;
+(n) act efficiently, honestly and fairly at all times in their business as a representative of TSG;
+(o) faithfully and diligently perform the Representative's obligations under this Agreement;
+(p) not act in any manner so as to bring the character of TSG or any of its officers, employees, representatives or Associates into disrepute;
+(q) not make any representations or warranties on behalf of TSG except as are expressly authorised by TSG;
+(r) not admit liability whether directly or indirectly for any Financial Product Advice given;
+(s) not pledge the credit of TSG nor expose TSG to any liability or debt;
+(t) not contract for or on behalf of TSG in any way whatsoever except as is normally required of a representative of TSG in accordance with this Agreement;
+(u) not make any representation or provide any Financial Product Advice to a Client which is inconsistent with the contents of any Product Disclosure Statement relating to that Financial Product or the contents of any research carried out by or on behalf of TSG and provided to or available to the Representative;
+(v) not recommend to a Client any Financial Product not listed on the Authorised Product List and in the event that a Client requests that the Representative effect an investment not listed on the Authorised Product List, refer to the matter  to Compliance;
+(w) provide all Financial Product Advice in writing in accordance with the requirements of the Regulatory Laws and the Compliance Manual;
+(x) only use application forms for investments which are approved by TSG and comply with the requirements of the Regulatory Laws and which must nominate TSG as the entity entitled to commission payable with respect to the effecting of any investment;
+(y) not accept any benefit from any Product Issuer or other party otherwise than with the prior written consent of TSG, in accordance with this Agreement and the Compliance Manual; 
+(z) not alter or allow to be altered any documentation furnished or supplied by TSG or any institution which markets or issues Financial Products; 
+(aa) carry out the obligations of the Representative according to and in compliance with the Compliance Manual and under the supervision, and in accordance with the lawful directions, of TSG;
+(bb) promptly lodge all applications for investments and application moneys received by the Representative with the product provider;
+(cc) not take care, custody or control of Client funds  unless the Client is or was a member of the Representative's immediate family and the Principal has agreed to the course of action;
+(dd)  not act under a Power of Attorney except for a member of the member's immediate family;
+(ee) if appointed as Executor of a Client's estate, immediately advise the Principal and TSG of the situation, and operate on the clients account only within such parameters as the Principal  and TSG then defines;
+(ff) comply with TSG' reasonable requirements with respect to professional indemnity insurance;
+(gg) allow TSG prompt access to any premises occupied or utilised by the Representative or Principal in connection with the Representative's activities conducted pursuant to this Agreement for the purpose of inspecting any documentation, records or information relevant to the conduct of the Representative pursuant to this Agreement and make available to TSG such documentation, records and information as TSG may reasonably request;
+5. REPRESENTATIVE'S WARRANTIES
+5.1 The Representative warrants that
+(a) all information given by the Representative to TSG, prior to this Agreement being executed, for the purpose of assessing the Representative's suitability to act for and on behalf of TSG, is true and correct and not misleading or deceptive in any particular way;
+(b) the Representative:
+(i) has never held a dealer's licence, investment adviser's license or an authorisation which was subsequently cancelled  or suspended;
+(ii) has never been convicted of an indictable offence or found guilty of fraud; 
+(iii) has never been declared bankrupt or entered into any formal scheme of arrangement or compromise with the Representative's creditors; 
+(iv) has never been the subject of  an enforcement investigation by a Government authority responsible for a Regulatory Law;
+(v) is entitled to enter this Agreement and able to perform fully the Representative's obligations under this Agreement; and
+(vi) acknowledges that TSG is not liable to the Representative for any entitlement to sick or holiday pay and,;
+(c) in the event the Representative has breached the warranties in clause 5.1, the Representative warrants that it has disclosed in writing to TSG all material facts relating to such previous breach.
+5.2 The Representative must immediately advise TSG in writing if any of the warranties in clause 5.1 cease to be true during the term of this Agreement.
+6. LICENCEE'S OBLIGATIONS
+6.1 TSG must:
+(a) provide to the Representative:
+(i) research and recommendations on Financial Products and opportunities, provided that the style, content and frequency of such research and recommendations is a matter for the absolute discretion of TSG;
+(ii) the Authorised Product List as amended from time to time as TSG considers appropriate;
+(iii) the most recent version of the Compliance Manual and in this regard, TSG may recreate, amend or add to the Compliance Manual at any time which recreation, amendment or addition:
+(A) is to take effect immediately if it is in respect of compliance with a Regulatory Law and otherwise;
+(B) is to take effect thirty (30) days after any recreation, amendment or addition;
+(b) issue an Authorised Representative Authority to the Representative pursuant to the provisions of the Regulatory Laws and ensure the maintenance of such authorisation until the lawful termination of this Agreement.
+7. FEES AND REMUNERATION
+7.1 All remuneration payable to the Representative arises from the Contract for Services with the Principal, and is to be paid by the Principal. TSG will not be responsible for any payments of remuneration or otherwise to the Representative.
+8. CLIENT MONIES
+8.1 The Representative must ensure that all monies payable to any Product Issuer and collected by the Representative from Clients must be collected by way of cheque, direct debit, transfer or money order payable to the Product Issuer to whom the monies are payable or in such other manner as TSG approves in writing from time to time.
+8.2 The Representative must ensure that all monies payable to TSG in respect of fees and collected by the Representative from Clients must be collected by way of cheque, direct debit, transfer or money order payable to TSG or in such other manner as TSG approves in writing from time to time.
+8.3 The Representative is not permitted to accept cheques or money orders made payable to the Representative  or to the Principal or to the Principal's business.
+8.4 All monies collected in accordance with clause 9.1 or 9.2 must be remitted to TSG or the Product Issuer to whom they are payable immediately following receipt by the Representative.
+8.5 In the event that the Representative collects any monies due or payable to a Client whether in respect of a claim, return of premiums, return of investment monies, refund of fees, rebate of commission or otherwise, the Representative must;
+(a) keep true and proper accounts of all such monies collected;
+(b) pay or remit all such monies to the Client immediately without deduction; and
+(c) not retain any portion thereof by way of set-off or otherwise.
+9. TRANSFER OF BUSINESS
+9.1 The Representative may transfer Excluded Clients on such terms and conditions agreed between the Representative and the Principal provided:
+(a) the Representative  provides reasonable notice to TSG of its intention to transfer its Excluded Clients and provides TSG with such details in respect of the Purchaser as TSG reasonably requires in order to evaluate the suitability of the Purchaser to be granted an Authorised Representative Authority by TSG; and
+(b) TSG agrees, such agreement to be in its absolute discretion, to issue to the Purchaser an Authorised Representative Authority or the Purchaser holds a valid Authorised Representative Authority issued by TSG; and
+(c) the Purchaser enters an agreement in substantially similar terms to this Agreement. Or
+(d) the Representative is granted an Authorised Representatives Authority issued by or becomes another Australian Financial Services Licensee.  
+9.2 Each of TSG, the Principal and the Representative will do all things necessary to effect the transfer of the Representative's excluded clients in accordance with this clause provided that all reasonable costs associated with such transfer will be borne by the Representative. 
+10. INSURANCE AND INDEMNITY
+10.1 The Principal indemnifies and agrees to keep indemnified TSG against any Claim however caused or arising out of, flowing from, in connection with, in respect of or incidental to any breach of the obligations of the Representative under this Agreement, the Authorised Representative Authority or the Statutory Requirements. 
+10.2 The parties acknowledge that TSG will effect and maintain in force a professional indemnity insurance policy which provides professional indemnity insurance cover in respect of each of TSG and the Representative.
+11. TERMINATION
+11.1 Termination without Notice
+TSG may terminate this Agreement forthwith and without liability to the Representative for any costs, damages, expenses, losses or compensation whatsoever upon the happening of any one or more of the following events:
+
+(a) the Representative fails to observe or perform any representation, covenant, warranty, undertaking, prohibition or obligation required to be observed or performed under this Agreement or the Regulatory Laws;
+(b) the Representative commits a breach of any term or provision of this Agreement which could reasonably jeopardise the reputation or goodwill of TSG or any of its representatives or Associates or cause TSG to be in breach of any of its obligations or responsibilities pursuant to the Regulatory Laws;
+(c) the Representative becomes bankrupt or insolvent;
+(d) the Representative is involved in any unauthorised or illegal act, negligence, wilful default, fraud or dishonesty;
+(e) the Representative breaches any term of the Authorised Representative Authority issued to the Representative by TSG.
+(f) the Representative is subject to any banning order or disqualification pursuant to the Regulatory Laws.
+(g) The Representative is terminated by the Principal.
+11.2 Termination With Notice
+Without prejudice to the right of termination in clause 11.1, this Agreement may be terminated without liability to TSG for any costs, damages, expenses, losses or compensation other than as detailed in this Agreement upon either party giving to the other the number of days notice specified in the Contract for Services with the Principal.
+Termination of this Agreement shall not of itself affect, limit, reduce or bring to an end any liability of either party to pay any amount to the other party which liability arose prior to such termination.
+12. CONSEQUENCES OF TERMINATION
+12.1 Immediately upon termination of this Agreement and thereafter the Representative must:
+(a) immediately return to the Principal all stationery, brochures and other printed materials and office equipment in any way relating to TSG or the business conducted by TSG.
+(b) not make any representation that the Representative is in any way connected with, acts for or by arrangement with TSG, or the business conducted by TSG.
+(c) forthwith return any written Authorised Representative Authority to the Principal who shall return it to TSG. 
+12.2 Immediately following termination of this Agreement, TSG and the Principal must issue or cause to be issued, a letter to all Excluded Clients containing all relevant information, including but not limited to:
+(a) an explanation that the arrangement between it and the Representative has been terminated and that the Representative no longer acts as a representative of TSG; and
+(b) requiring each Excluded Client to elect to either:
+(i) remain a client of the Principal and, if such election is made, all records, files, data, information and details pertaining to those clients are to be retained by the Principal; or
+(ii) become a client of the Representative and, if such election is made, Principal must cause to be made available to the Representative or at its direction, all records, files, data, information and details pertaining to those clients, provided that TSG and the Principal may retain any such information as is required to enable them to satisfy their obligations pursuant to the Regulatory Laws.
+12.3 Any Excluded Client who fails to make an election in accordance with this clause 12 will be deemed to have elected to remain a client of the Principal and the provisions of clause 12.2(b)(ii) apply.
+12.4 The content of the letter issued pursuant to clause 12.2 is at the absolute discretion of TSG and the parties acknowledge that if the termination of this Agreement is as a consequence of the Representative's failure to observe or perform any representation, covenant, warranty, undertaking, prohibition or obligation required to be observed or performed under this Agreement or the Regulatory Laws, the Representative committing a breach of any term or provision of this Agreement, the Representative breaching any term of the Authorised Representative Authority or the representative becoming subject to any banning order or disqualification pursuant to the Regulatory Laws, TSG may provide, to all clients including Excluded Clients, the detail of that failing, breach, banning order or disqualification. 
+12.5 The parties acknowledge that the information required to be made available pursuant to clause 12.2 will only be made available if:
+(a) no money is owing to TSG, or the Principal, by the Representative;
+(b) the person to whom the information is to be made available is permitted under the Regulatory Laws to accept the information; 
+(c) any expenses incurred by the Principal in making that information available, including without limitation legal and transactional costs, stamp duty and other government charges, are paid by the Representative;
+(d) any new Financial Services Licensee of whom the Representative will be a representative, or, if the Representative is obtaining an Australian Financial Services Licence, the Representative accepting all liability in relation to those clients from the date the information is made available in accordance with clause 12.2 of this Agreement.
+12.6 Any trail income or future commission accruing in respect of Clients making an election in accordance with clause 12.2(b)(ii) or who are deemed to have made an election pursuant to clause 12.3 accrues to the new Australian Financial Services Licensee of whom the Representative will be a representative, or, if the Representative is obtaining an Australian Financial Services Licence, the Representative on and from the later of;
+(a) the date that the requirements of clause 12.5 are fulfilled;
+(b) the date that the Product Issuer has accepted the arrangements in respect of the client and TSG with respect to any new Financial Services Licensee; or
+(c) such other date as the parties agree.
+13. RESTRAINT
+13.1 In the event of termination of this Agreement, the Representative will not, at any time during a period of two years from the date of termination of the agreement:
+(a) either solely or jointly with any other person (whether as principal, agent, employee, director, shareholder, partner, consultant, adviser or otherwise) directly or indirectly consult with or advise any person, firm, company or trust who, or which, was a Client (other than an Excluded Client);
+(b) either solely or jointly with any other person (whether as principal, agent, employee, director, shareholder, partner, consultant, adviser or otherwise) directly or indirectly engage in any business of rendering any services to any person with whom the Representative had any contact or dealt with in the course of this Agreement and who at any time during the term of this Agreement was Client (other than an Excluded Client") or a referral source, nor will the Representative attempt to do any of those things or induce (or attempt to induce) any other person to do any of those things;
+14. OWNERSHIP OF INFORMATION
+14.1 The parties acknowledge that, subject to the provisions of this Agreement and the ownership requirements necessary for TSG to meet its ongoing obligations pursuant to the Regulatory Laws, and to the extent permitted by the Regulatory Laws, all property (including intellectual property) in any information, documentation, files or data relating to any Client belongs to the Principal.
+15. ASSIGNMENT
+15.1 The Representative must not assign or purport to assign any of its rights under this Agreement; 
+      without the prior written consent of both the Principal and TSG.
+16. NOTICE
+16.1 A notice or other communication required or permitted to be given by a party to another must be in writing and
+(a) delivered personally;
+(b) sent by registered post, 
+	to that party's address for service that is set out in this Agreement or notified in writing to each party from time to time.
+16.2 A notice or other communication will be taken, for the purposes of this Agreement, to have been given 
+(a) if personally delivered, upon delivery;
+(b) if sent by registered post, on the expiration of 2 Business Days after the day of posting.
+17. DISPUTES
+17.1 Any dispute, difference of opinion or question that arises between the Principal and the Representative with regard to compliance will be referred to the TSG Compliance Manager whose decision will be binding on both parties.
+17.2 Any other dispute, difference of opinion, or question that arises between the parties with respect to or arising out of this Agreement or the construction or effect thereof, such dispute, difference or question if unable to be resolved must be referred in the first instance to the Chairman of the TSG Board. If any party does not accept the decision of the Chairman, the matter will be referred to an independent arbitrator acceptable to the parties who shall decide the most appropriate and effective method of resolving the dispute, difference or question and to then give effect to such method.  The parties must co-operate fully with the person or persons appointed and must participate fully and actively in the determined method of attempting to resolve the dispute, difference or question. The expenses of such arbitration will be shared by the parties involved unless the arbitrator makes an award to the contrary. The decision of the Arbitrator will, to the extent permitted by law, be binding on the parties.
+18. GOVERNING LAW AND JURISDICTION
+18.1 The validity, interpretation and performance of this Agreement will be governed by and construed in accordance with the law of the State of Domicile and of the Commonwealth of Australia which the parties acknowledge is the proper law of this Agreement.
+18.2 Each of the parties irrevocably agrees that the courts of the State of Domicile and of the Commonwealth of Australia will have jurisdiction to hear and determine any suit, action or proceeding, and to settle any disputes, which may arise out of or in connection with this Agreement and for this purpose irrevocably submits to the jurisdiction of such courts.
+18.3 The submission to this jurisdiction is not (and may not be construed so as to) limit the rights of any party to take proceedings against any other party  in any other court of competent jurisdiction, nor will the taking of proceedings in any jurisdiction preclude the taking of proceedings in another jurisdiction, whether concurrently or not.
+19. CODE OF ETHICS
+19.1 TSG and the Representative must comply with the Code of Ethics and the Rules of Professional Conduct of the Financial Planning Association of Australia Limited.
+20. INTERIM SUSPENSION
+20.1 TSG retains the right to suspend the Representative's Authorised Representative Authority for a period of 72 hours upon receipt or notification of any complaint against the Representative.  
+21. NON-WAIVER
+21.1 The failure or delay on the part of any party in exercising any right under this Agreement will not operate as a waiver of such rights. 
+22. SEVERABILITY
+22.1 If any provision of this Agreement is invalid, void or unenforceable, all other provisions which are capable of separate enforcement without regard to an invalid, void or unenforceable provision are and will continue to be of full force and effect in accordance with their terms.
+23. COUNTERPARTS
+23.1 This Agreement and any amendment or addition thereto may be executed by each party signing or sealing a counterpart.
+24. AMENDMENT
+24.1 This Agreement (including any Schedule hereto) may only be amended or added to in writing signed by both parties hereto.
+25. PRECEDENCE
+25.1 This Agreement overrides and supersedes all other Agreements or arrangements between TSG and the Representative in relation to the authority of the Representative to act as a representative of TSG or to hold itself out as being entitled to act as a representative of TSG
+
+EXECUTED as an Agreement.
+
+EXECUTED by THE SALISBURY GROUP PTY LTD in accordance with section 127 of the Corporations Act:
+)
+)
+)
+)
+	
+
+
+
+	
+Print Name of Witness
+
+	
+
+
+
+	
+Print name of Signatory
+
+
+
+
+
+
+SIGNED by [REPRESENTATIVE] in the presence of:
+)
+)
+)
+)
+	
+
+	
+Print Name of Witness
+
+	
+
+	
+Print name of Signatory
+
+
+SIGNED by [Principal] in the presence of:
+)
+)
+)
+)
+	
+
+	
+Print Name of Witness
+
+	
+
+	
+Print name of Signatory
+CONDITIONS WHICH APPLY WHERE PRINCIPAL HAS AGREED THAT REPRESENTATIVE CAN ENGAGE IN WORK OUTSIDE OF HIS EMPLOYMENT WITH THE PRINCIPAL
+      
+      APPENDIX 1
+      In the event that the Contract for Services agreed between the Representative and the Principal permit the Representative to carry out and conduct other business, employment or undertaking, the Representative is permitted to carry out such business, employment or undertaking provided:
+(a) the same does not compete with the business conducted by the Principal and TSG or the subject of this Agreement;
+(b) such other business does not interfere with the Representative's ability to perform its obligations pursuant to the Authorised Representative Authority and this Agreement; 
+(c) such other business is not conducted using TSG' name or intellectual property;
+(d) such other business will not bring into disrepute, harm or affect the reputation or goodwill of TSG or any of its representatives or Associates;
+(e) the Representative when conducting such other business will not hold itself out to be acting in any manner that is connected to its Authorised Representative Authority or TSG;
+(f) the Representative makes full written disclosure to the Principal and TSG of the existence and nature of such other business;
+(g) the Representative effects and keeps current at all times a lawful and valid professional indemnity insurance policy with a reputable insurer and in an appropriate amount to provide professional indemnity insurance to cover the Representative in respect of such other business that it conducts against any costs, expenses, charges, losses, damages (including consequential loss), action, suits, causes of action and proceedings
+(h) the Representative shall provide annually to TSG certified copies of the policy or policies of insurance in respect of any other business conducted by the Representative referred to in sub-clause 2.1 and produce a copy of the receipt(s) for the payment of such premiums to TSG seven (7) days after their due date for payment. 
+(i) the Representative must ensure that no advice provided in the course of conducting that business is provided on any stationery or in any manner that would lead a member of the public to assume that the advice is given in connection with the business conducted by TSG or the Principal.
+
+
+Signed by			Signed by	
+Representative............................................	Principal  ..........................................	
+Date			Date 		
+
+
+	16
+
+
+
+P:\_Compliance\Templates & Agreements\TSG_Representative Agreement FINAL 2008.DOC
+10/04/2011 16:10
+
+
+

@@ -1,0 +1,67 @@
+The Licensor grants a non-exclusive, non-transferable licence to the Licensee, to use the data for the purposes set out in the Agreement. 
+
+The licence granted pursuant to this Agreement shall commence upon the date specified in Item 5 of Schedule A and expire on the date specified in Item 6 of Schedule A, unless terminated sooner by the parties. 
+
+The Licensee shall pay the fee or fees specified in Item 7 of Schedule A in accordance with the payment structure outlined in Item 8 of Schedule A. 
+
+The parties acknowledge that the consideration under this Contract is inclusive of GST, where GST is calculated using the GST Rate at the time of forming this Contract.
+
+The Supplier shall provide the Recipient with a tax invoice and/or adjustment notes in relation to the Supply prior to an amount being paid by the Recipient under this Contract and shall do all things reasonably necessary to assist the Recipient to enable it to claim and obtain any Input Tax Credit available to it in respect of a Supply.
+
+The Licensor permits the Licensee to use the data solely for the purposes and in the manner described in Item 4 of Schedule A.  
+
+The Licensee shall not and shall ensure that its employees, agents and any sub-licensee or third party to this Agreement, shall not use the data in any way other than for the purpose and in the manner set out in Item 4 of Schedule A, without the prior written consent from the Licensor. 
+
+Unless otherwise agreed by the parties, the Licensee shall not distribute the product to any person without the prior written consent of the Licensor. 
+
+Unless otherwise agreed by the parties, the Licensee shall not use the data to produce materials for sale to a third party, or for general sale, without the prior written consent of the Licensor. 
+
+This Agreement does not confer on the Licensee, any rights of ownership in the data.
+All intellectual property rights in the data, including but not limited to copyright, shall remain vested in the Licensor and are unaffected by this Agreement. 
+
+The Licensee shall treat the data as private and confidential and shall take all reasonable steps to keep the data private and confidential.  To this end the Licensee shall:
+maintain a system for the safe custody of the data and copies of the data;
+copy the data for its own purposes only;
+disclose the data only to those of its employees whose duties require a knowledge of, or access to, the data and take all reasonable steps to minimise the risk of disclosure of the data by those employees;
+on becoming aware that a breach of this Agreement has occurred immediately advise the Licensor of the nature of the breach and what action has been taken or will be taken to protect the interests of the Licensor.
+
+Except as provided in this Agreement or as required by law, the Licensee shall not, without the prior written consent of the Licensor, disclose the data to a third party and, if that consent is given, the Licensee shall make known to the third party to whom the data is disclosed that the Licensor is the owner of the data and the copyright therein and shall require the third party to give to the Licensee a written undertaking, in a form satisfactory to the Licensor, that it shall observe and perform with respect to the data terms and conditions similar to those contained in this Agreement.
+
+The Licensee acknowledges the confidential nature of the terms and conditions of this Agreement and agrees to treat the terms and conditions of this Agreement as confidential.  
+
+The Licensor gives no warranty as to the condition, quality or fitness of the data for the Licensee's requirements.  The Licensee is responsible for ensuring that the data supplied meets its individual needs.
+
+The Licensor shall not be liable for any loss, damage or injury suffered by the Licensee or any third party that may arise from the use of the data. 
+
+The Licensee shall indemnify and keep indemnified the Licensor against any loss, costs, expenses, damages and liability of any kind, which the Licensor may sustain or incur arising directly or indirectly from any claim relating to the data made or permitted to be made by the Licensee, or relating to any derivative data produced by or on behalf of the Licensee which incorporates the Data.
+
+Either party may terminate this Agreement at any time by the giving of 30 days notice in writing to the other party. 
+
+If the Licensee is found to be in breach of the Agreement, the Licensor may terminate the Agreement immediately by notice in writing to the Licensee.
+Upon termination or expiration of this Agreement the following will happen:
+All rights granted by the Licensor to the Licensee will cease;
+The Licensee shall return to the Licensor all copies of the data in its possession and shall delete or destroy all copies of the data held by the Licensee in electronic or magnetic form, unless otherwise agreed by the parties. 
+
+Notices under this Agreement may be delivered by prepaid postage or certified mail, by hand or by facsimile transmission.
+Notices are deemed given:
+five (5) days after deposit in the mail with postage prepaid or certified;
+when delivered by hand;
+if sent by facsimile transmission, upon completion as evidenced by a fax transmission record.  
+
+For the purposes of this clause the address for service of each party is that set out in Item 9 of Schedule A. 
+
+The provisions of this Agreement shall be subject to the Special Conditions, if any set out in Item 10 of Schedule A.
+
+Any amendment or variation to this Agreement must be made in writing and signed by both parties.
+
+The parties hereby agree that this Agreement will be governed by and construed in accordance with the laws of the Northern Territory of Australia.
+
+Point datasets resulting from original supply are not to be displayed on any resulting products;
+Original supplied point dataset are to be destroyed once data use stated in ITEM 4 is complete;
+Datasets incorporated into a model as stated in ITEM 4 maybe retained within the model subject to Special Condition 1.
+The data source, bibliographic reference and information statement/acknowledgements should be cited with the use of and/or on any product derived from this dataset;
+The dataset as supplied is a date specific copy and is not subject to any updates/alterations/corrections or additions which may be applied to the original data source.
+
+
+
+Personal or company information provided is essential to establish this Agreement and will be recorded in a Register of Licence Agreements.  This information will not be provided to third parties.  Any personal or company information may subsequently be accessed by you by contacting the Director of the Weed Management Branch on (08) 8999 4567 

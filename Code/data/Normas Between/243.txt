@@ -1,0 +1,31 @@
+(RECIPIENT) 	and binds the RECIPIENT and any third or other party or entity whether they be physical or corporate to whom the RECIPIENT may intentionally or by accident pass on information which is considered CONFIDENTIAL INFORMATION and the property of the DISCLOSER, and the RECIPIENT agrees that they will not pass information to any other party without first obtaining from that party Agreement to adhere to the terms of this Non-Disclosure Agreement.
+
+The (DISCLOSER), desires to disclose to the (RECIPIENT), certain confidential information that RECIPIENT acknowledges to be of a confidential character, such information relating to "the Intellectual Property of the DISCLOSER and any and all materials developed by the DISCLOSER such as and including all copyright and copyright to <<insert intellectual property>> including designs, layouts, databases, charts, documents, templates, advertising and marketing materials, logos, tradenames, websites and URL's, patents pending, marks and registered trademarks, products, brochures and any other information devolved as trade secrets developed by the DISCLOSER ("Confidential Information").
+
+RECIPIENT accepts this Confidential Information for the sole purpose of evaluating the same for its own contemplated use and hereby agrees not to make use of the disclosed Confidential Information, except for such purpose as evaluation, or to disclose the same to any third party or parties without the written prior consent of DISCLOSER and the acceptance by the Third Party, and or its Directors if a corporate entity to be bound by this undertaking. All such disclosures shall be in writing. Any disclosure whether oral or in writing to RECIPIENT, after the date of this Agreement, are also covered by this Agreement. RECIPIENT shall protect said Confidential Information with the same degree of care as it applies to protect its own.
+
+Within any extension period granted by DISCLOSER from the date of this Agreement, RECIPIENT will advise DISCLOSER in writing as to its interest in negotiating an agreement to allow RECIPIENT's use of the disclosed Confidential Information beyond evaluation. Should DISCLOSER independently agree to so negotiate with RECIPIENT, the parties will commence good faith negotiations upon DISCLOSER written notification to RECIPIENT.
+
+If the period for evaluation has expired, or the RECIPIENT has notified DISCLOSER in writing that it is no longer interested in continuing with the evaluation, or if negotiations between the parties have commenced but DISCLOSER has notified RECIPIENT in writing that in DISCLOSER sole discretion a satisfactory agreement cannot be reached, then RECIPIENT will promptly return to DISCLOSER within thirty (30) days all Confidential Information and copies thereof, including written documentation, drawings, photographs, models, and specimens, less those specimens necessarily consumed in evaluation, and will keep only one copy thereof for the sole purpose of documenting this Confidential Information to RECIPIENT, and which will be maintained in confidence by RECIPIENT for the life of the Agreement as specified in Paragraph 9 below.
+
+It is recognized that RECIPIENT may be required to disclose such Confidential Information to employees, for purposes of evaluation. RECIPIENT will exercise reasonable care in the selection of such employees, and will fully advise all such persons of the confidentiality of this Confidential Information and shall secure the agreement of all such persons to comply with the terms and conditions of this Agreement. The number of such employees will be limited to those who need to know for said evaluation purposes and their names shall be made available to the DISCLOSER.
+
+Notwithstanding the above, RECIPIENT shall have no obligation hereunder to refrain from disclosing specific information if and when a patent is issued covering such Confidential Information. Further, RECIPIENT shall have no obligation hereunder to refrain from disclosing or using the following information:
+
+Information that is generally available to the public at the time of this disclosure;
+Information that becomes part of the public domain or publicly known or available by publication or otherwise, not due to any unauthorized act or omission on the part of RECIPIENT;
+Information which thereafter is disclosed to the undersigned by third parties as a matter of right; and
+Information that has been independently developed by RECIPIENT.
+
+In any event, it is understood that DISCLOSER does not release RECIPIENT from any liabilities based upon any copyright or patent or other rights it now possesses or may acquire concerning such Confidential Information. No license or other right under any Australian or foreign patent, copyright, or know-how is granted or implied by this Agreement.
+
+The interpretation and validity of this Agreement and the rights of the parties shall be governed by the laws of New South Wales.
+
+The period of this Agreement is one (1) year from either the termination of evaluation or negotiations by RECIPIENT or DISCLOSER whichever occurs last, as specified in Paragraph 3 above. All obligations of the RECIPIENT with respect to the use and disclosure of Confidential Information hereunder shall terminate at the end of such one (1) year period.
+
+This Agreement is in force from the date of signing or as otherwise agreed in writing and any disclosure to any third party or any employee or person acting for or with the RECIPIENT shall be entitled only to receive or use such information for the period mentioned in this clause unless otherwise extended by the DISCLOSER.
+
+This Agreement and the information that the parties are conducting business together is to be kept private and confidential and not to be disclosed to any third party, nor is it to be disclosed to any person or persons outside the Agreement without written permission of the DISCLOSER.
+
+Breaches of this Agreement by the DISCLOSER could lead to damages for that breach being sought at law against the DISCLOSER individually and against any company, group or organisation that the DISCLOSER represents, is agent for, is employed by or is associated with and to whom the DISCLOSER has disclosed either properly in accordance with the terms of the Agreement or improperly or otherwise outside the terms of this Agreement.
+

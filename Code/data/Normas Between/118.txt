@@ -1,0 +1,93 @@
+The Participating Centre agrees to perform the Study at the premises of the Participating Centre through the Principal Investigator in accordance with the Protocol, Good Clinical Practice Guidelines, Regulatory Guidelines, applicable State and Commonwealth legislation and HREC guidelines.
+
+The Participating Centre must ensure that the Principal Investigator:
+
+reads and understands the Protocol;
+
+supervises and takes responsibility for the overall conduct of the Study at the Participating Centre in accordance with the Protocol and reasonable direction from the Coordinating Centre;
+
+is cognisant of and complies with the Good Clinical Practice Guidelines, Regulatory Guidelines, applicable State and Commonwealth legislation and HREC guidelines;
+
+attains HREC and regulatory approval to conduct the Study and provides progress, amendment and adverse event reports to the Coordinating Centre as required;
+
+supervises and manages the Research Coordinator and ensures that other personnel as required are familiar with the Study;
+
+is available with the Research Coordinator for training and Study-related meetings;
+
+is available, with the Research Coordinator, for monitoring visits conducted by the Study Project Manager and assists with auditing of patient records and source documentation and further auditing as reasonably requested;
+
+takes responsibility for the enrolment of eligible patients into the Study and timely, accurate and complete data collection for the Study follow-up period and responds to all data queries within the requested time frame;
+
+takes responsibility for overseeing the acquisition of informed consent from patients or their next of kin or legal surrogate in line with approved mechanisms provided by the HREC;
+
+notifies the Participating Centre of any concurrently running clinical trials or other studies being conducted at the same time as the Study that may conflict with the Study; and
+
+provides miscellaneous reports and other information or services as reasonably requested by the Participating Centre or the Coordinating Centre.
+
+Subject to clause 3.2, the parties agree to each be responsible for all liabilities, costs, losses and expenses (including but not limited to legal fees) arising out of their own (and their respective employees', students', medical and professional staff, agents' and representatives') acts or omissions (including negligence) in the performance of their duties.
+The Participating Centre must indemnify the Coordinating Centre and keep the Coordinating Centre indemnified against all liabilities, costs, losses and expenses which the Coordinating Centre incurs as a result of a breach of this Agreement or the Protocol by the Participating Centre, its employees, students, medical and professional staff, agents and representatives.
+
+In consideration for performing the Study, the Coordinating Centre will make payments to the Participating Centre in accordance with the Study budget as set out in Schedule 2.  These payments are to assist with the cost of employing research staff for the duration of the Study. 
+
+There will be no "in advance" payments for the Study, however any fees required by individual participating centres for submission of ethics applications shall be covered by the Study budget.
+Notwithstanding which party owns the Intellectual Property in the results of the Study, the parties agree to adhere to the principles set out in this clause 5 for use of the data from the Study.
+The parties agree that the Principal Investigator and the Participating Centre shall have the right to present at symposia, national or regional professional meetings, and to publish in journals or other publications any data or information derived from the Study provided that:
+the Participating Centre must not (and must ensure that the Principal Investigator does not) present or publish data derived from the Study until the complete multi-centre Study has been published in full;
+the Participating Centre provides the Executive Committee with copies of the submission for the proposed presentation or publication materials in advance for approval;
+following approval from the Executive Committee, the Participating Centre provides the Steering Committee with copies of the submission for the proposed presentation or publication materials in advance of the presentation or publication date for review and comments;
+the multi-centre publication, led by the Coordinating Centre, is published before all other individual or partial group presentations, unless such publication does not take place within 18 months of the end of the Study.  In all publications, appropriate credit must be given to all contributors.
+Prior to or during the course of the Study, the parties may provide or may have provided one another with Confidential Information.
+Subject to clauses 5.2, 5.3 and 5.5, a party receiving Confidential Information shall use reasonable efforts to not disclose the Confidential Information to anyone other than as provided for in this Agreement or in the Protocol without the prior written approval of the disclosing party.  This obligation shall survive the expiry or early termination of this Agreement and shall remain in effect for a period of five years following the expiry or early termination of the Study.  Furthermore, any party receiving Confidential Information shall not use, either directly or indirectly, any Confidential Information for any purpose other than as set out in this Agreement without the prior written consent of the disclosing party.
+The obligations of clause 5.4 shall not apply to Confidential Information which:
+must be disclosed to potential patients during the recruitment process, and patients who are or were enrolled in the Study or any of their legal guardians, in order to obtain and maintain informed consent or as the information relates to their health, safety or diagnosis;
+
+must be disclosed to the HREC of the Participating Centre or, if the Study is multi-centre, must be disclosed to HRECs of Participating Centres reviewing the Protocol in order to coordinate the review; or
+
+is required by statute or judicial process to be disclosed.  In the event that a party ("receiving party") is required by judicial or administrative process to disclose any Confidential Information disclosed to it by the other party ("disclosing party"), the receiving party shall promptly notify the disclosing party and allow the disclosing party reasonable time to oppose such process before disclosing any Confidential Information.
+The Participating Centre must protect the privacy of all patients enrolled in the Study at the Participating Centre in accordance with the Protocol and all privacy laws in force in the Participating Centre's country.
+
+The parties agree that:
+
+the Principal Publications will be in the names of the Chief Investigator and the Executive Committee;
+
+there will be a full listing of collaborating Principal Investigators and Participating Centres at the end of the Principal Publications; and
+
+funding bodies that have supported the Study will also receive acknowledgment at the end of all publications.
+
+All Intellectual Property owned by a party at the commencement of this Agreement remains the property of that party.
+
+All Intellectual Property (including, without limitation, inventions, discoveries, new uses, processes, or compounds) developed solely by a party under this agreement remains and is hereby assigned as the sole property of that party.
+
+All Intellectual Property (including, without limitation, inventions, discoveries, new uses, processes, or compounds) developed jointly by the parties and any other Participating Centres (together, "Inventors") shall be owned by and is hereby assigned as the joint property of the Inventors as tenants in common.  The ownership share of each Inventor will be in proportion to each Inventor's contribution to the development of the Intellectual Property.
+
+If the parties cannot agree on their respective ownership rights under clause 7.3, this shall be resolved in accordance with the dispute resolution process set out in clause 10.  The parties agree that where there is a dispute between any of the Inventors arising from this and other agreements relating to the Study, the dispute resolution process in clause 10 may be applied to resolve the dispute between all the Inventors simultaneously as if all the Inventors in dispute were parties to this Agreement.
+
+Notwithstanding ownership of Intellectual Property as set out in this clause, each party's right to publish data or other results from the Study shall be governed by the provisions of clause 5.
+
+Subject to any confidentiality obligation or any applicable laws, the Participating Centre agrees to make all Study data available to the Coordinating Centre or to any relevant government regulatory authority for audit purposes, in accordance with the Protocol.
+The Participating Centre must retain all information relating to patients and other data relating to the Study for 15 years following completion or discontinuation of the Study, or as otherwise required by law.
+
+A party may terminate this Agreement by giving 30 days' written notice to the other party.
+A party may terminate this Agreement immediately, by giving notice in writing to the other party, if any of the following occurs:
+the other party commits a breach of this Agreement which is not rectifiable;
+a party fails to rectify a breach of this Agreement which is rectifiable within 30 days after receiving a written notice from the other party specifying the breach and requiring the first party to rectify it;
+the party reasonably believes that continuing the Study would compromise patient safety.
+approval to conduct the Study is withdrawn by the relevant regulatory or health authorities or by the HREC; or
+the parties agree in writing that it is inappropriate, impractical or inadvisable to continue the Study.
+
+If a dispute arises under this Agreement, a party must immediately give written notice to the other party, giving details of the dispute and requesting that a meeting take place to discuss it.  A nominated representative of each party must meet within 7 days after the notice is received.  They must try, in good faith, to resolve the dispute.
+If the meeting does not take place or the dispute remains unresolved 7 days after the meeting, either party to the dispute may refer the matter to mediation by giving written notice to the other party.
+If the parties do not agree on a mediator within 5 days thereafter, he or she is to be nominated by the President of the Law Institute of Victoria or his or her nominee.  The mediation must be held within 14 days after the mediation notice is given.  Each party must contribute equally to the fees and expenses of the mediator. If the mediation does not result in resolution of the dispute within 14 days after the mediation notice is given, either party may take legal proceedings.
+Clauses 10.1 and 10.2 do not restrict or limit the right of a party to obtain interlocutory relief, or to immediately terminate this Agreement where this Agreement provides such a right.
+
+No waiver of any provision of this Agreement will be of any force or effect unless confirmed in writing, signed by the parties.  Then such waiver will be effective only to the extent for which it is made.
+The invalidity or unenforceability of any provisions of this Agreement will not affect the validity or enforceability of all other provisions that are self-sustaining and capable of separate enforcement.
+This Agreement constitutes the entire agreement and understanding between the parties with respect to its subject matter.  It replaces all previous agreements between, or undertakings by, either of the parties with respect to its subject matter.
+This Agreement can only be changed by the written agreement of the parties.
+The laws of the State of Victoria, Australia will govern this Agreement.  Each party submits to the non-exclusive jurisdiction of the courts of that state and courts entitled to hear appeals from those courts.
+Clauses 3, 5 and 7 will continue to apply after this Agreement ends.
+Neither party will be liable for any failure or delay in the performance of its obligations under this Agreement to the extent that such failure or delay arises from any circumstances beyond its control.
+The parties will, during the term of this Agreement (and, where expressly applicable, thereafter), execute and deliver all documents or instruments as may be required in order to give effect to the purpose and intent of this Agreement.
+This Agreement will bind and enure for the benefit of the parties and their respective successors in title.  No party may assign any other respective rights and obligations without the prior written consent of the other parties.
+The relationship between the parties is that of independent contractors and will not be deemed to be that of principal/agent, joint venture, partnership or otherwise.  No party is authorised to act on behalf of the other.
+

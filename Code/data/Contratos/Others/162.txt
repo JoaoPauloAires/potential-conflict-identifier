@@ -1,0 +1,94 @@
+General Terms & Conditions - Sitewise Internet Solutions
+1. Introduction
+These General Terms and Conditions shall form an agreement between Sitewise and the person or entity named as Client ('Client') for the provision of the services specified in the Estimate or Renewal in relation to the Client's Web Site ('The Site').
+
+These terms and conditions apply to all relevant services offered in this proposal and will become effective as of the Clients account creation date (the "Effective Date") between the Client and Sitewise.
+In addition to any services specifically included, or unless expressly modified or excluded, Sitewise will in relation to The Site:
+
+* Design and develop or maintain as appropriate the elements required to implement the work described in the Estimate. 
+* The Client should note that some features may not be supported by all versions of major browsers and that in these circumstances Sitewise will endeavour to ensure that users with browsers that do not support such features are still able to access the major functionality of The Site. If the Client requests the incorporation in The Site of features known or discovered during implementation by Sitewise to not be supported by the aforementioned versions of the browser (eg. Internet Explorer), Sitewise will bring this to the attention of the Client.
+* Client agrees that Sitewise may at its discretion place a Sitewise byline on the main page of The Site identifying Sitewise as the designer of The Site or portions thereof, hyperlinked to either an email or Web address of Sitewise. A Sitewise logo and/or text byline may appear only at or near the bottom of a page.
+
+In relation to third-party Web Search and Indexing organisations, the Client should note that Sitewise has no control over: 
+
+* Whether such third-party organisations actually utilise the information included or submitted to them;
+* Whether such third-party organisations accept references to or information about The Site for inclusion in their databases;
+* When the third-party organisation might evaluate The Site for inclusion, or;
+* When The Site might be included in the third-party organisation's database(s), if approved for listing.
+
+Accordingly, failure or delays in the appearance of references to or information about The Site in the database(s) of any of the third-party Web Search and Indexing organisations shall not be cause to delay Site Handover and final payment.
+2. Authorisation
+The Client is engaging Sitewise as an independent contractor for the specific project of developing a web site to be installed on the clients web space on an Internet Hosting server. The client hereby authorises Sitewise to access this account as well as web page directories, cgi-bin directory, and any other directories or programs which need to be accessed for this project.
+3. Exclusions
+* Sitewise shall not be responsible for supplying Internet access to the Client.
+* Unless otherwise noted in the Estimate, Sitewise does not offer to provide software to the Client.
+* Sitewise may contract with third parties in relation to various facilities to be included in The Site. Sitewise shall not be responsible for the failure of third parties to supply such facilities or the restriction thereof, but will endeavour to rectify such failures or restrictions or make alternate arrangements on behalf of the Client, during the duration of this agreement.
+* Third Party providers are used for hosting and domain name registration. Current terms and conditions of this provider can be found at - http://www.ilisys.com.au/explore/ilisys/terms-and-conditions/
+* The Client acknowledges that the network, software and server infrastructure that comprises the Internet is outside the control of Sitewise and Sitewise shall not be held responsible for network, server or other outages, failures or restrictions on supply of services that have negative impacts on The Site.
+4. Responsibilities of Parties
+4.1 Sitewise
+Sitewise agrees that in relation to the work specified in the Estimate(s) and General Terms and Conditions, it:
+* Will carry out the work specified in the Estimate(s) and General terms and Conditions in a workmanlike and professional manner and in accordance with the recognised industry standards;
+* Shall commence the work as soon as practicable after this agreement is accepted by both parties and if required shall give the Client regular progress reports.
+4.2 Client
+The Client warrants that:
+* Client has legal rights to use and display any Trade Marks, Registered Trade Marks or copyrighted information in all the geographical areas from which The Site may be viewed;
+* Client has the capacity to provide and the objective of providing any goods and/or services which The Site may identify as being available from the Client, and;
+* Any advertising or descriptive information about the goods and/or services which the Client provides for inclusion on The Site is accurate and sufficient to allow consumers to make informed judgements.
+
+The Client shall:
+* Provide in a timely manner all images, photographs, graphs, charts or other artwork required in finished-quality, hardcopy or electronic format, unless specifically identified in the Estimate;
+* Provide in a timely manner all heading, body and caption text required, in either hardcopy or (preferably) electronic format and;
+* If this agreement includes a Maintenance Agreement and/or Hosting Agreement, keep the Client's account with Sitewise in a current condition to ensure continuity of service.
+
+
+
+5. Payment Terms
+* All hosting charges or requests to register sub-domains or domain names are paid upon Sitewise's request. These charges will become payable upon implementation of these services.
+* Payment in stages may also be required when the site development involves a series of implementation stages from graphics to database construction. These stages will be outlined in the estimate.
+* The balance of the price quoted will be due when the site is posted live to the clients server.
+6. Site Handover
+After The Site has been deemed Accepted:
+
+* Sitewise will if necessary publish The Site to its final destination and verify correct working.
+* The Client shall note the general comments above regarding limitations to Sitewise's responsibilities in relation to Search Engine listings.
+* Sitewise shall make a full backup of the computer files comprising the display elements of The Site.
+* The Client and Sitewise will arrange a mutually acceptable time for Site Handover.
+
+At Site Handover:
+
+* On request Sitewise will furnish a copy of the backup of display elements on appropriate removable media to the Client.
+* Sitewise shall furnish to the Client details of computer accounts and passwords necessary to maintain or control The Site or associated elements, if the Client's Web Hosting package provides such access.
+7. Site Maintenance
+If this agreement incorporates a Site Maintenance Agreement, Sitewise agrees to:
+
+* Check The Site at agreed intervals for broken links;
+* Liaise with hosting providers if required to endeavour to resolve any server- or network-related problems with The Site;
+* Carry out updates to The Site at the direction of the Client in a timely manner;
+* If required, periodically review statistics (if applicable) and/or The Site generally and advise the Client and;
+* Maintain incremental and/or full backups of the computer files comprising the display elements of The Site following changes.
+
+These services will be carried out at an agreed hourly rate, which shall be reviewed annually.
+8. Web Site Hosting
+Sitewise may act as a value-added reseller of virtual hosting services. This means the actual hosting provider bills Sitewise in bulk and Sitewise bills its clients with Hosting Agreements individually. Clients obtain the benefit of economies of scale and a "one-stop-shop" - Sitewise does all the organisation and setting up for you. 
+
+If this agreement incorporates a Hosting Agreement, Sitewise agrees to:
+
+* Discuss the Client's requirements to ensure that a cost-effective, reliable hosting solution is achieved;
+* Liaise if necessary with the actual hosting provider to endeavour to resolve any server- or network-related problems with The Site and;
+* Keep the virtual host account in good standing with the actual provider whilst the Client keeps his account with Sitewise in good standing.
+
+Because Sitewise may utilise the services of offshore hosting providers in order to maximise cost effectiveness, Hosting Agreements may contain a currency conversion clause. If applicable this is identified in the Estimate. This clause allows Sitewise to amend the monthly hosting charge to if exchange rates vary outside the limits identified in the Estimate.
+
+In event of cancellation of the hosting, the setup fee will be retained by Sitewise as well as 20%  or $55 (whichever is lesser) of  the remaining 
+12 monthly or 6 monthly hosting term.
+9. Limitation of Liability
+Each party specifically agrees that, in no event, shall either party's liability as a result of this agreement and the provision of service hereunder, exceed Client's monthly fee for any single month during which any claim of liability arose or the amount paid for any term agreement. Neither party shall have liability whatsoever for any indirect, special, incidental, consequential or punitive damages of any kind, including but not limited to, lost revenue and lost profit.
+10. Compliance and Indemnification
+Client agrees to use the services provided by Sitewise in compliance with all applicable laws, and to host files or content, if at all, only with the consent of the copyright, trademark, domain name or patent owner. The Client shall be charged for all costs incurred by Sitewise, including reasonable attorney fees, for any claim, loss, or damage arising out of Client's use or misuse of the Internet or the Services.
+The Client specifically agrees to defend, indemnify, and hold harmless Sitewise, its officers, and employees from any claim, loss, or damage, including costs and reasonable attorney fees, arising out of any act or omission of Client under this Agreement or its use of the Site. 
+11. Notices & Amendments
+Notice of Acceptance or Termination of this agreement shall be forwarded in writing in person or by regular mail. Variations and other notices in relation to his agreement shall be in writing and may be forwarded between the parties by electronic mail.
+12. Entire Agreement. 
+These terms and conditions constitute the entire Agreement with regard to the subject matter hereof and expressly supersede and replace any prior or contemporaneous agreements, written or oral, relating to this Agreement. This Agreement may be amended by Sitewise at any time without notice, so please check the Sitewise website frequently to review changes. Any changes or amendments to this Agreement shall be set forth at www.sitewise.com/legal/. This Agreement may not be amended by the Client unless the amendment is approved by both parties in writing. Any questions about this Agreement should be directed to legal@sitewise.com.au.
+

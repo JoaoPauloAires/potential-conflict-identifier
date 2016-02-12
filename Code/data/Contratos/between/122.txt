@@ -1,0 +1,444 @@
+
+Date          /          /2008
+
+
+Escape Today Subscription Agreement
+
+
+
+
+
+Escape Today Pty Ltd
+ABN 42 271 885 337
+and
+
+
+
+The Subscriber named in item 1 of the Schedule 
+
+
+
+
+
+
+
+
+Table of Contents
+
+1.	DEFINITIONS	2
+2.	TERMS OF SUPPLY	2
+2.1	Supply of Services	2
+2.2	Term of Agreement	2
+2.3	Escape Today's Specific Responsibilities	2
+2.4	Subscriber's Specific Responsibilities	2
+3.	PAYMENT	2
+3.1	Price of Subscription	2
+3.2	Payment for Services	2
+3.3	Method of Payment	2
+3.4	Fee Reviews	2
+4.	GST	2
+4.1	GST Act	2
+4.2	Exclusive of GST	2
+4.3	Recipient must pay	2
+4.4	Tax Invoice	2
+5.	INSURANCE	2
+5.1	Responsibility of Subscriber	2
+6.	INDEMNITY AND WARRANTY	2
+6.1	Indemnity	2
+6.2	Warranty	2
+7.	LIMITATIONS OF ESCAPE TODAY'S LIABILITY	2
+7.1	Effect of Legislation	2
+7.2	Exclusion of Implied Warranties	2
+7.3	General Exclusion of Liability	2
+7.4	General Limitation of Liability	2
+7.5	Limitation of Liability	2
+7.6	Consequential Losses	2
+8.	TERMINATION	2
+8.1	Immediate Termination	2
+8.2	Notice of Default	2
+8.3	Failure to Rectify Default	2
+8.4	Termination Without Reason	2
+9.	CONFIDENTIALITY	2
+9.1	Use of Information	2
+9.2	Continuing Obligations	2
+10.	INTELLECTUAL PROPERTY RIGHTS	2
+10.1	Ownership	2
+10.2	Licence of Intellectual Property Rights	2
+10.3	Acknowledgment of Ownership	2
+11.	NOTICES	2
+11.1	Service of Notice	2
+11.2	Particulars for Service	2
+11.3	Time of Service	2
+12.	GENERAL	2
+12.1	Amendment	2
+12.2	Entire Understanding	2
+12.3	Further Assurance	2
+12.4	Legal Costs and Expenses	2
+12.5	Waiver and Exercise of Rights	2
+13.	INTERPRETATION	2
+13.1	Governing Law and Jurisdiction	2
+13.2	Joint and Several	2
+13.3	Legislation	2
+13.4	This Document, Clauses and Headings	2
+13.5	Severance	2
+13.6	Counterparts	2
+13.7	Currency	2
+13.8	Business Day	2
+13.9	Number and Gender	2
+13.10	Property	2
+13.11	Personal Knowledge	2
+SCHEDULE 1	2
+SCHEDULE 2	2
+
+
+Escape Today Subscription Agreement
+DATE           /          /2008
+BETWEEN
+ESCAPE TODAY PTY LTD ABN 42 271 885 337 
+of PO Box 402, St Kilda VIC 3182
+(Escape Today)
+AND
+	THE SUBSCRIBER NAMED IN ITEM 1 OF THE SCHEDULE
+ (Subscriber)
+RECITALS
+A. Escape Today is a virtual service delivered through the internet and via a weekly online newsletter to businesses or organisations and their employees.
+B. Escape Today's Service is designed to address specific workplace issues resulting in improved productivity, greater employee satisfaction, reduced staff turnover and lower absenteeism.
+C. The Subscriber wishes to Subscribe to Escape Today so that it may access the Employer Online Portal and provide its Employees with access to t he Customer Online Portal. 
+D. Upon payment of the agreed fees, Escape Today agrees to provide the Escape Today Online Portal and Service Categories to the Subscriber on the terms and conditions set out in this Agreement. 
+THE PARTIES AGREE
+
+1. DEFINITIONS
+In this document unless expressed or implied to the contrary:
+Additional Services means the services which may be provided by Escape Today to the Subscriber in addition to the Escape Today Services: 
+a)	Workplace Diagnostics: to identify the specific objectives sought for the Subscriber's team or organisation in regards to Escape Today, including an understanding of the issues and challenges;
+b)	Program Development: to establish a supporting program of events and initiatives that leverages the knowledge and resources of Escape Today or integrates Escape Today into the Subscriber's existing programme of initiatives;
+c)	Implementation Plan: to develop a rollout approach to launch Escape Today in the workplace;
+d)	Post Implementation Review: to evaluate the success of the program over time, and identify opportunities for improvement.
+Agreement means this document as executed by the parties on the commencement date specified in item 1 of the Schedule.
+Business Day means Monday to Friday excluding public holidays in Victoria.
+Customer means an officer, employee, or subcontractor of a Subscriber, or any individual enquiring about the Services offered by the Provider via the Subscriber's subscription.
+Escape Today's Service means the Service provided by Escape Today to the Subscriber consisting of a range of features to include:
+a)	Online portal
+b)	Employers' online discussion forum
+c)	Monthly Employers newsletter
+d)	Reference Resources
+e)	Annual Online employee needs assessment
+f)	Personalised portal for each employee incorporating employees' brand or logo
+g)	Access to quality service providers
+h)	Integrated reporting capabilities 
+Escape Today means Escape Today Pty Ltd ABN 42 271 885 337.
+Force Majeure means any act, omission or circumstance relied on by a party over which that party could not reasonably have exercised control.
+Intellectual Property means all Intellectual Property Rights (whether or not registered including all applications and the right to apply for registration) which is owned by or licensed to Escape Today including, without limitation:
+(a)	any trade marks, service marks, trade names, domain names, brands and company names, trade secrets and copyright works, URL's, drawings, discoveries, inventions, improvements, technical data, formulae, computer programs, software, know-how, logos, symbols and similar industrial or intellectual property rights;
+(b)	all patents, patent applications, registered designs and unregistered design rights;
+(c)	all client lists and other client related information; and
+(d)	all Confidential Information of Escape Today and its stakeholders .
+Intellectual Property Rights means all and any patents, patent applications, trade marks, service marks, trade names, domain names, registered designs, unregistered design rights, copyrights, know how, trade secrets and rights in confidential information, URLs and all and any other intellectual property rights, whether registered or unregistered, and including all applications and rights to apply for any of the same.
+Liabilities include all liabilities (whether actual, contingent or prospective), losses, damages, costs and expenses of whatever description.
+Online Portal means the interactive method by which Escape Today provides the Escape Today Services by advertising the Providers, and Customers and Employers are able to browse Escape Today's Service Categories. 
+Provider means a provider of activities and other services which may be arranged via the Escape Today Services.
+Provider's Service means the corporate and individual activity service which may be accessed via the Escape Today Services. 
+Service Categories means the packages offered by Escape Today, namely:
+a)	Customer Portal: a range of services offered including last minute promotions (1-2 days in advance), focusing on taking time out of the day to relax; and
+b)	Employer Portal: Delivers services to address specific workplace issues resulting in improved productivity, greater employee satisfaction, reduced staff turnover and lower absenteeism .
+Subscriber means a Subscriber to Escape Today's Services, including employers of the Customers, being an independent entity from Escape Today 
+Subscription means the relationship entered into with Escape Today after payment of the Fees to Escape Today.
+
+2. TERMS OF SUPPLY
+2.1 Supply of Services
+By signing this agreement the Parties agree:
+2.1.1 the Subscriber will pay the Fees in respect of its subscription to Escape Today's Services, in accordance with this Agreement; 
+2.1.2	Escape Today will supply the Escape Today Services via its Online Portal;
+2.1.3	the Subscriber will provide its Employees with access to the Escape Today Online Portal, in accordance with clause 2.4 of this Agreement. 
+2.1.2 the Customer will be able to access the web pages advertising the Provider's Services.
+2.2 Term of Agreement
+2.2.1 This Agreement commences on the date specified in item 1 of Schedule 1.
+2.2.2 The Term of this Agreement is the period specified in item 6 of Schedule 1 and unless renewed by the Parties in writing, this Agreement will end at the end of the Term;
+2.2.3 This Agreement may be renewed for a further term upon such terms and conditions as agreed between the parties.
+2.3 Escape Today's Specific Responsibilities
+By signing this Agreement, Escape Today, as part of the Subscriber's Subscription, agrees to provide:
+2.3.1 the Online Portal consisting of personalised:
+2.3.1.1 employer portal; and
+2.3.1.2 customer portal;
+2.3.2 upon request by the Subscriber, arrangements for booking a Provider's Service to be provided to a Customer which will be provided subject to the Provider's usual terms and conditions and the special conditions set out in Schedule 2;
+2.3.3 Additional Services, available upon request by the Subscriber and agreement by Escape Today;
+2.3.4 a weekly newsletter; and
+2.3.5 an online reporting service.
+2.4 Subscriber's Specific Responsibilities
+By signing this Agreement, the Subscriber agrees:
+2.4.1 that it will pay the Subscription fees as stated in item 7 of Schedule 1; 
+2.4.2 that it will notify Escape Today of any special conditions or requirements that they require their Escape Today Service to include;
+2.4.3 will comply with clause 6.2.
+3. PAYMENT 
+3.1 Price of Subscription
+The Provider will pay to Escape Today the fees as agreed in item 7 of Schedule 1.
+3.2 Payment for Services
+The Parties agree that the Subscriber will pay Escape Today the monthly Subscription Fee as listed in item 7 of Schedule 1 within the agreed time, upon receipt of a Tax Invoice issued in accordance with clause 4.4.
+3.3 Method of Payment
+All fees and payments will be paid by the method agreed in item 7 of Schedule 1.
+3.4 Fee Reviews
+Escape Today reserves the right to review the fees in line with the growth of the business, and will notify the Provider of any changes as necessary (item 8 of Schedule 1).
+
+4. GST
+4.1 GST Act
+In this clause words that are defined in A New Tax System (Goods and Services Tax) Act 1999 (GST Act) have the same meaning as their definition in that Act.
+4.2 Exclusive of GST
+Except as otherwise provided by this clause, all consideration payable under this Agreement in relation to any supply is exclusive of GST.
+4.3 Recipient must pay
+If GST is payable in respect of any supply made by a supplier under this Agreement, subject to clause 4.4 the recipient will pay to the supplier an amount equal to the GST payable on the supply at the same time and in the same manner as the consideration for the supply is to be provided under this Agreement.
+4.4 Tax Invoice
+It is agreed that:
+4.4.1 Escape Today will issue the Supplier with an electronic Tax Invoice at the end of each month;
+4.4.2 the Tax Invoice will state the fees payable by the Supplier, and will outline the type of fee and total amount due; 
+4.4.3 The Tax Invoice amount will be paid within 30 days of the end of the following month; and
+4.4.4 The Tax Invoice will be a valid tax invoice for the purposes of the GST Act.
+5. INSURANCE
+5.1 Responsibility of Subscriber
+5.1.1 Escape Today is not the provider of a Provider's Service and cannot and does not accept any responsibility in relation to this.
+5.1.2 The Subscriber is responsible for obtaining and maintaining all insurances to adequately cover the Subscriber and any Customers including in regards to their participation in any activity, service or otherwise in which they engage provided by a Provider.  Escape Today cannot and the Subscriber further understands that Escape Today will not take responsibility for attaining such insurance policies.
+6. INDEMNITY AND WARRANTY
+6.1 Indemnity
+The Subscriber indemnifies and holds harmless Escape Today from any and all actions, suits and claims of any nature which may be made by any person (including any officer, employee or agent of the Subscriber) against Escape Today in respect of the provision of a Provider's Service by a Provider or any matter arising out of the provision of the Provider's Services.
+6.2 Warranty
+The Subscriber warrants:
+6.2.1 that it will not use the Escape Today Online Portal in any un-authorised way, or re-produce, distribute of give access to any third party not provided for in this agreement;
+6.2.2 that it will not simultaneously subscribe to a parallel system of Service Providers which replicate the service offered by Escape Today with any other third party;
+6.2.3 that it will not engage in any conduct which amounts to a contravention of the Trade Practices Act 1974 or any State Fair Trading Act;
+6.2.4 that the content of any material provided by the Subscriber, or any of its Employees, to Escape Today in respect of the Escape Today's Services including but not limited to the online discussion forum, is not likely to mislead or deceive, is not defamatory, offensive, obscene or otherwise illegal.
+
+7. LIMITATIONS OF ESCAPE TODAY'S LIABILITY
+7.1 Effect of Legislation
+Nothing in this document is to be read as excluding, restricting or modifying the application of any legislation which by law cannot be excluded, restricted or modified.
+7.2 Exclusion of Implied Warranties
+Any representation, warranty, condition or undertaking which (but for this clause) would be implied in this document by law, is excluded to the fullest extent permitted by law.
+7.3 General Exclusion of Liability
+Escape Today is not liable to the Supplier for any claim arising under this document in contract, tort, statute or otherwise, as a result of a Force Majeure.
+7.4 General Limitation of Liability
+Without limitation to any other provision of this clause, the liability of Escape Today is limited to the amount paid by the Subscriber, to Escape Today in fees during the 6 months prior to the date the liability arises
+7.5 Limitation of Liability
+The liability of Escape Today for breach of a condition or warranty implied by the Trade Practices Act 1974 (other than under Section 69), namely section 68A Trade Practices Act 1974, in relation to the supply of goods or services not of a kind ordinarily acquired for personal domestic or household use or consumption, is, at the option of Escape Today, limited to:
+7.5.1 in the case of goods - the replacement of the goods, the supply of equivalent goods, the payment of the cost of replacing the goods or the payment of the cost of acquiring equivalent goods;  or
+7.5.2 in the case of services - the supplying of the services again or the payment of the cost of having the services supplied again.
+7.5.3 In the event that the liability arises through the provision of a recreational services as provided for by section 68B Trade Practices Act 1974, Escape Today's liability excludes liability for death or personal injury in accordance with the section.
+7.6 Consequential Losses
+Notwithstanding any other provision of this document and to the fullest extent permitted by law, Escape Today will not be liable to the Provider for consequential, indirect or special losses or damages of any kind (including, without limitation, loss of profit, loss or corruption of data, business interruption or indirect costs) suffered by the Provider as a result of any act or omission whatsoever of Escape Today, its employees, agents or sub-contractors.
+
+8. TERMINATION
+8.1 Immediate Termination
+Escape Today may terminate this Agreement immediately without compensation if:
+8.1.1 the Subscriber is placed into administration; or
+8.1.2 there is any act of serious misconduct or any other serious or persistent breach of any of the terms of this Agreement.
+8.2 Notice of Default
+If the Subscriber defaults in the performance of any obligation under this Agreement, Escape Today may give notice to the Subscriber specifying the default and requiring the Subscriber to:
+8.2.1 rectify the default; and
+8.2.2 show cause why Escape Today should not exercise the powers contained in this clause.
+8.3 Failure to Rectify Default
+If, within seven days after the service of the notice specifying the default, the Subscriber fails to rectify the default or fails to show, to the satisfaction of Escape Today, why it should not exercise its powers, Escape Today may terminate this Agreement.  Nothing in this clause limits the power of Escape Today to terminate the Agreement immediately under clause 8.1.
+8.4 Termination Without Reason
+Either party may terminate this Agreement, without being required to give a reason, by the giving of two weeks written notice to the other party.
+
+9. CONFIDENTIALITY
+9.1 Use of Information
+The Subscriber must not, whether during or after the term of this Agreement make any improper use of:
+9.1.1 any information or trade secrets of Escape Today;
+9.1.2 the position of Escape Today on any confidential matter; or
+9.1.3 any other information which may be detrimental to the interests of Escape Today, or its Customers, or of any other person who has provided it to Escape Today on a confidential basis including but not limited to, any Customer list, unless the Subscriber is required to disclose the information by law.  The Subscriber must use its best endeavours to prevent the improper publication or disclosure of any such information by anyone else; and 
+9.1.4 the Subscriber is responsible for ensuring its employees and any other relevant person complies with this clause. 
+9.2 Continuing Obligations
+The termination or expiry of this Agreement for whatever reason does not affect or derogate from the obligations of the Provider under this clause, which obligations the Contractor enters on behalf of itself and its associates, whether they are its employees or not.
+
+10. INTELLECTUAL PROPERTY RIGHTS
+10.1 Ownership
+The Subscriber agrees that the Intellectual Property Rights of any sort in any documents or web pages produced in the course of the Escape Today Services, are owned solely by Escape Today.
+10.2 Licence of Intellectual Property Rights
+With the effect from the commencement of this Agreement, Escape Today grants the Subscriber a non-exclusive non-transferable licence for the Term to use the Escape Today Intellectual Property Rights. 
+10.3 Acknowledgment of Ownership
+10.3.1 The Subscriber acknowledges and agrees that it gains no ownership rights or interest in any of the Escape Today Intellectual Property Rights under this Agreement.
+10.3.2 The Subscriber acknowledges and agrees that:
+10.3.2.1 all Escape Today Intellectual Property Rights or any improvements to Escape Today Intellectual Property Rights made by the Subscriber or its employees in the course of this Agreement vest in Escape Today immediately upon creation; and 
+10.3.2.2 the Subscriber will do all things necessary, including executing and procuring that its employees execute all documents requested by Escape Today, to vest the legal title in such Intellectual Property Rights in Escape Today.
+11. NOTICES
+11.1 Service of Notice
+A notice or other communication required or permitted, under this document, to be served on a person must be in writing and may be served:
+11.1.1 personally on the person;
+11.1.2 by leaving it at the person's current address for service;
+11.1.3 by posting it by prepaid post addressed to that person at the person's current address for service; 
+11.1.4 by facsimile to the person's current number for service; or
+11.1.5 by email to the person's current email address for service.
+11.2 Particulars for Service
+11.2.1 The particulars for service of Escape Today are:
+address:	PO Box 402, St Kilda VIC 3182 
+email address:	kareene@escapetoday.com.au
+11.2.2 The particulars for service of the Subscriber are provided for in item 11 of Schedule 1.
+11.2.3 Any party may change the address or facsimile number for service by giving notice to the other parties.
+11.2.4 If the person to be served is a company, the notice or other communication may be served on it at the company's registered office.
+11.3 Time of Service
+A notice or other communication is deemed served:
+11.3.1 if served personally or left at the person's address, upon service;
+11.3.2 if posted within Australia to an Australian address, two Business Days after posting and in any other case, seven Business Days after posting;
+11.3.3 if served by facsimile, at the time indicated on the transmission report produced by the sender's facsimile machine indicating that the facsimile was sent in its entirety to the addressee's facsimile;
+11.3.4 if served by email, subject to clause 11.3.5, at the time the email containing the notice left the sender's email system, unless the sender receives notification that the email containing the notice was not received by the recipient;
+11.3.5 if received after 6.00pm in the place of receipt or on a day which is not a Business Day, at 9.00am on the next Business Day.
+12. GENERAL
+12.1 Amendment
+This document may only be varied or replaced by a document duly executed by the parties.
+12.2 Entire Understanding
+This document contains the entire understanding between the parties as to the subject matter contained in it.  All previous agreements, representations, warranties, explanations and commitments, expressed or implied, affecting this subject matter are superseded by this document and have no effect.
+12.3 Further Assurance
+Each party must promptly execute and deliver all documents and take all other action necessary or desirable to effect, perfect or complete the transactions contemplated by this document.
+12.4 Legal Costs and Expenses
+Each party must pay its own legal costs and expenses in relation to the negotiation, preparation and execution of this document and other documents referred to in it, unless expressly stated otherwise.
+12.5 Waiver and Exercise of Rights
+12.5.1 A single or partial exercise or waiver of a right relating to this document does not prevent any other exercise of that right or the exercise of any other right.
+12.5.2 No party will be liable for any loss or expenses incurred by another party caused or contributed to by the waiver, exercise, attempted exercise, failure to exercise or delay in the exercise of a right.
+
+13. INTERPRETATION
+13.1 Governing Law and Jurisdiction
+This document is governed by and is to be construed in accordance with the laws of Victoria.  Each party irrevocably and unconditionally submits to the non-exclusive jurisdiction of the courts of Victoria and waives any right to object to proceedings being brought in those courts.
+13.2 Joint and Several
+If a party consists of more than one person, this document binds them jointly and each of them severally.
+13.3 Legislation
+In this document, a reference to a statute includes regulations under it and consolidations, amendments, re-enactments or replacements of any of them.
+13.4 This Document, Clauses and Headings
+In this document:
+13.4.1 a reference to this or other document includes the document as varied or replaced regardless of any change in the identity of the parties;
+13.4.2 a reference to a clause, schedule, appendix or annexure is a reference to a clause, schedule, appendix or annexure in or to this document all of which are deemed part of this document;
+13.4.3 a reference to writing includes all modes of representing or reproducing words in a legible, permanent and visible form;
+13.4.4 headings and sub-headings are inserted for ease of reference only and do not affect the interpretation of this document;
+13.4.5 where an expression is defined, another part of speech or grammatical form of that expression has a corresponding meaning; and
+13.4.6 where the expression including or includes is used it means 'including but not limited to' or 'including without limitation'.
+13.5 Severance
+13.5.1 If a provision in this document is held to be illegal, invalid, void, voidable or unenforceable, that provision must be read down to the extent necessary to ensure that it is not illegal, invalid, void, voidable or unenforceable.
+13.5.2 If it is not possible to read down a provision as required in this clause, that provision is severable without affecting the validity or enforceability of the remaining part of that provision or the other provisions in this document.
+13.6 Counterparts
+This document may be executed in any number of counterparts all of which taken together constitute one instrument.
+13.7 Currency
+In this document, a reference to '$' or 'dollars' is a reference to Australian dollars.
+13.8 Business Day
+If a payment or other act is required by this document to be made or done on a day which is not a Business Day, the payment or act must be made or done on the next following Business Day.
+13.9 Number and Gender
+In this document, a reference to:
+13.9.1 the singular includes the plural and vice versa; and
+13.9.2 a gender includes the other genders.
+13.10 Property
+In this document, a reference to any property or assets of a person includes the legal and beneficial interest of that person in those assets or property, whether as owner, lessee or lessor, licensee or licensor, trustee or beneficiary or otherwise.
+13.11 Personal Knowledge
+A reference to a matter being to the knowledge of a person means the matter is to the best of the knowledge and belief of the person after making proper enquiry including enquiry which a reasonable person would be prompted to make by reason of knowledge of a fact.
+
+EXECUTED by the parties as an Agreement  
+
+SIGNED on behalf of ESCAPE TODAY ABN 42 271 885 337 by 
+In the presence of 
+)
+) .......................................
+)
+
+
+	
+Witness
+
+
+
+SIGNED on behalf of the SUBSCRIBER SPECIFIED IN THE SCHEDULE ACN AS SPECIFIED IN THE SCHEDULE by 
+In the presence of 
+)
+)
+) .......................................
+)
+
+
+	
+Witness
+
+
+
+
+
+
+
+Schedule 1 
+
+Escape Today Escape Agreement
+Special Conditions
+
+WARNING UNDER THE FAIR TRADING ACT 1999 
+Under the provisions of the Fair Trading Act 1999 several conditions are implied into contracts for the supply of certain goods and services. These conditions mean that the supplier named on this form is required to ensure that the recreational services it supplies to you are- 
+rendered with due care and skill; and 
+as fit for the purpose for which they are commonly bought as it is reasonable to expect in the circumstances; and 
+reasonably fit for any particular purpose or might reasonably be expected to achieve any result you have made known to the supplier. 
+Under section 32N of the Fair Trading Act 1999, the supplier is entitled to ask you to agree that these conditions do not apply to you. If you sign this form, you will be agreeing that your rights to sue the supplier under the Fair Trading Act 1999 if you are killed or injured because the services were not rendered with due care and skill or they were not reasonably fit for their purpose, are excluded, restricted or modified in the way set out in this form. 
+NOTE: The change to your rights, as set out in this form, does not apply if your death or injury is due to gross negligence on the supplier's part. "Gross negligence" is defined in the Fair Trading (Recreational Services) Regulations 2004. 
+
+In this Agreement:
+Escape Today means Escape Today Pty Ltd ABN 42 271 885 337.
+Provider means the provider of the Activity or Services.
+Subscriber means the subscriber to Escape Today's Services.
+Customer means the individual (including an officer, Employee, contractor or agent of the Subscriber) who takes part or otherwise receives the benefit of the Provider's Activity or Service.
+1. Supply of Escape Today Activities
+It is agreed that the Provider supplies the Provider's Service to the Subscriber or Customer or both on the Provider's usual terms and conditions agreed for the supply.  In the event and to the extent of any inconsistency between the Provider's usual terms and conditions and the following special conditions, these special conditions are to prevail. 
+2. Roles of the Parties
+The Parties expressly acknowledge and agree that:
+2.1 Escape Today is not the provider of any of the Services provided or to be provided by the Provider, and will not at any time be construed as the employer of the Provider or of any sub-provider engaged by the Provider;
+2.2 this Agreement is deemed to be read in conjunction with all other related Agreements between the Employer and Escape Today and the Provider and Escape Today; and 
+2.3 Escape Today is expressly excluded from any liability considered by this Agreement.
+3. Arrangements for Payment 
+3.1 In the event that the Subscriber pays directly for the Provider's Services:
+3.1.1 the Provider will issue an invoice to the Subscriber in accordance with clause 4.4;
+3.1.2 the Subscriber will pay the Activity Fee to the Provider in accordance with clause 4.4; and 
+3.1.3 The Provider will account to Escape Today for all fees due under the Agreement as between the parties
+3.2 In the event that the Subscriber purchases a Reward from Escape Today;
+3.2.1 the Customer will redeem the price of the Reward against their chosen Provider activity from the Provider;
+3.2.2 The Provider will invoice Escape Today in accordance with clause 4.4;
+3.2.3 Escape Today will deduct the commission charge owing for their facilitation of the transaction, and pay the Provider the outstanding amount. 
+3.3 In the event that the Customer pays, the Customer may either:
+3.3.1 pay the Provider directly for the activity, and receive personally an invoice in accordance with clause 4.4; or 
+3.3.2 Purchase a reward from Escape Today and redeem it against their chosen activity of the Service Provider in return for payment, the Provider will provide the Provider's Service to the Customer, 
+and the Provider will pay the relevant fees to Escape Today.
+4. Indemnity  and Limitations of Liability
+Nothing in this document is to be read as excluding, restricting or modifying the application of any legislation which by law cannot be excluded, restricted or modified.
+4.1 Exclusion of Implied Warranties
+Any representation, warranty, condition or undertaking which (but for this clause) would be implied in this document by law, is excluded to the fullest extent permitted by law.
+4.2 General Exclusion of Liability
+Parties are not liable between themselves and each other for any claim arising under this document in contract, tort, statute or otherwise, as a result of a Force Majeure.
+4.3 Limitation of Liability
+Without limitation to any other clause of this Agreement, the liability of Escape Today to each other Party is limited to the amount paid by the Party (or, in the case of the Customer, the amount paid to the Subscriber), to Escape Today in fees during the 6 months prior to the date the liability arises.
+4.4 Provider to Assume All Liability for Supply of Service
+4.4.1 Escape Today will not be in any way responsible to the Subscriber or Customer for the Provider's Service which may arise under any Agreement between the Provider, Employee and/or Employer respectively.
+4.4.2 The Subscriber jointly and severally indemnify and hold harmless Escape Today for all claims (arising under contract, tort, statute or otherwise), which may be made against Escape Today or arise as a consequence of or in connection with the supply of the Provider's Services by a Customer or any person claiming as a result of personal injury to or death of the Customer.
+4.5 Limitation of Liability
+4.5.1 The liability of the Provider for breach of a condition or warranty implied by the Trade Practices Act 1974 (other than under Section 69), namely section 68A Trade Practices Act 1974, in relation to the supply of goods or services not of a kind ordinarily acquired for personal domestic or household use or consumption, is, at the option of the Provider, limited to:
+4.5.1.1 in the case of goods - the replacement of the goods, the supply of equivalent goods, the payment of the cost of replacing the goods or the payment of the cost of acquiring equivalent goods;  or
+4.5.1.2 in the case of services - the supplying of the services again or the payment of the cost of having the services supplied again.
+4.5.2 In the event that the liability arises under section 74 of the Trade Practices Act 1974 (TPA) through the provision of a recreational service as provided for by section 68B TPA, the Provider's liability excludes liability for death or personal injury.
+4.5.3 In the event that the liability arises under Part 2A of the Fair Trading Act 1999 (Vic) (FTA) through the provision of recreational services under section 32N of the FTA, Escape Today's liability excludes liability for death or personal injury.
+4.6 Consequential Losses
+Notwithstanding any other provision of this document and to the fullest extent permitted by law, none of the Parties under this Agreement will be liable to another Party under this Agreement for consequential, indirect or special losses or damages of any kind (including, without limitation, loss of profit, loss or corruption of data, business interruption or indirect costs) suffered by a party to this Agreement as a result of any act or omission whatsoever of a Party, its employees, agents or sub-contractors.
+
+
+
+
+
+17
+
+[5387077: 5397414v1] 
+
+
+
+[5387077: 5397414v1] 
+
+
+
+ii
+
+
+
+[5387077: 5397414v1] 
+
+
+
+18
+
+[5387077: 5397414v1] 
+
+
+

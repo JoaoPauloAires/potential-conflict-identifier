@@ -1,0 +1,80 @@
+EdCube Digital Portfolio - School Licence - Terms and Conditions of Use 
+1. Definitions.
+In this agreement, the following definitions apply unless the context requires otherwise:
+Activation Key means the computer code provided by Us that will allow You to install the Program on Your Network.
+Base Pack means an EdCube licence for your school network
+Licence Fee means the fee You pay to Us for Your use of the Program as specified on your order form.
+Network means the technical infrastructure provided by EdCube which supports the Program.
+Premium Pack means an EdCube licence for your school network and Web access to provide access to parents and guardians of your enrolled students only.
+Program means the EdCube program specified on the Order Form provided by Us to You under this agreement.
+Renewal means the license fee You pay to Us for Your use of the Program after the initial Term
+Software means the software We use to allow the Program to be made available for access by You. 
+We, Us or similar words mean EdCube Pty Ltd.
+You means the entity named in the Order Form. 
+2. Term.
+This agreement commences on the later of:
+(a) You paying the Licence Fee in the method advised by Us; and 
+(b) Your first use of a the activation key provided to You pursuant to clause 4,
+and continues for a period of 12 months for the Web Program and a Perpetual Licence for current version of the program for a Network Licence (Standard Pack) or as designated on the order form (the Term), unless terminated earlier by either party in accordance with the terms of this agreement.
+3. Renewal. 
+Unless We reject Your application, You may purchase licenses for annual Web Program (Premium Pack) renewals upon Your paying the Licence Fee payable at the time of the purchase.  Your payment amounts to acceptance of the then current Product licence terms and conditions.  We can reject Your application in our absolute discretion.
+4. Licence.
+In consideration of payment by You to Us of the Licence Fee, We agree to provide You with controlled access to the Program, in accordance with the terms of this agreement.
+A Licence fee is payable on the EdCube Network Licence (Base pack). An additional Licence is payable for the EdCube Web Licence (Premium Pack).
+We reserve the right to make changes to information in, and obtained through the use of, the Program, at any time and without notice.  
+We may monitor Your use of the Program to ensure You are using the Program in accordance with this agreement.
+We grant the entity a non-exclusive right to use the Network and Software in accordance with the terms contained in this License Agreement. All use of the Network and the Software is also governed by the EdCube Terms Of Use. 
+EdCube retains the copyright, title and ownership of the Network and the Software. The entity may not reverse engineer, decompile or disassemble the Software nor take any steps to defeat any software protection, except to the extent expressly permitted by the relevant law.
+The entity may not rent, lease or lend any copy of the Software.
+The entity may not modify or create derivative works based on the Software. 
+5. Access.
+To gain access to the Program, We will provide You with a Activation Key to install the Program onto a computer on your network.  The number of concurrent licenses to access the program on your education network is specified in the Order Form.  
+Use of the Program is limited to use by Your subscribed employees, Your subscribed students and Your subscribed guardians (Web licence only) for only Your educational purposes (Users).  The Users can only access the specified Edition (School or Home) referred to in the Order Form.
+6. Payment.
+You will not have access to the Program until the Licence Fee has been paid.  The Licence Fee is non-refundable for any reason, including if either of us terminate this agreement.  We reserve the right to increase the amount of the Licence Fee for any period.
+7. Helpdesk.
+If You experience difficulties accessing or using the Program Our email helpdesk info@edcube.net  We will use reasonable efforts to assist you within a reasonable time, but You should note the provisions of clause 4.
+8. Intellectual Property Rights.
+(a) We own all right and interest in and to copyright in all text, graphic images and other information in the Program (including the Software).  You acknowledge that all intellectual property rights in the Program and in the information generated through use of the Program are owned by Us. 
+(b) You may not distribute the information (in any form) obtained from the Program or Your use of the Program to third parties, "mirror" or include the information on Your own server, or modify or re-use the information without Our prior written permission.
+(c) We grant You a non-exclusive, non-transferable licence for the Term to use the intellectual property rights subsisting in the Program from time to time for the purposes of Your use of the Program as permitted by this agreement.  
+(d) You and the Users must not print or download copies of information contained in or obtained from the Program.  
+(e) We reserve all rights to the Software, the Program, the data contained in the Program, the documentation referred to in clause 9 and all rights subsisting in them.
+9. Confidentiality.
+(a) You agree to keep all information contained or embodied in the Program, or the Software, and any documents or other information provided to You by or on behalf of Us (the Confidential Information) strictly confidential, and not disclose that information to any person without Our prior written consent, and to ensure all users of the Program comply with this clause.  This restriction will not apply to disclosure required to Your employees who require access in order for You to properly perform Your obligations under this agreement, to any disclosure required by law, or any disclosure of information which is in the public domain otherwise than as a result of a breach of this agreement or a breach of any other obligation of confidence owed to the owner of the Confidential Information.
+(b) Without limitation, You must not, and must ensure that Your users do not, copy or reproduce by any means (including electronically) any Confidential Information.
+10. Exclusion of Warranties and liability.
+To the maximum extent permitted by law:
+(a) The information in, and obtained from, the Program may include errors and We make no warranty that the information in or obtained through use of the Program is error free.  We disclaim all liability (including for negligence) for Your acting or relying on any inaccurate information supplied by Us in connection with Our provision of the Program to You.
+(b) You acknowledge that the Program is provided "as is", and that We have not made, and that no person acting on Our behalf has made, any representation as to the suitability of the Program or any information provided or obtained by access to the Program for any particular purpose.
+(c) You acknowledge that We give no warranty in connection with the availability or reliability of the Program or your access to the Program.  You agree to satisfy Yourself about such things at all times.
+(d) You acknowledge that We give no warranty in connection with the availability or response times, of the email Helpdesk referred to in clause 7. 
+(e) We disclaim all warranties as to the freedom of the Software, the Program or the data in the Program from any "back door", "time bomb", "Trojan Horse", "worm", "drop dead device", "virus" or other similar computer software routine or malicious code.
+(f) We exclude all implied warranties or conditions concerning any goods or services We supply or agree to supply.  Our liability (including for negligence) for any breach by Us of any term or warranty required by law to be implied into this agreement is limited, at Our option, to:
+(i) for services, the supplying of the services again, or the payment of the cost of having the services supplied again; or
+(ii) for goods, the replacement or supply of equivalent goods, the repair of such goods, the payment of the cost of replacing the goods or acquiring equivalent goods, or the payment of the cost of having the goods repaired.
+(g) We disclaim all liability (including for negligence), howsoever arising, in connection with this agreement or the provision of access to the Program (including the Software) by Us.  You agree to release and discharge Us and each of Our employees, officers, contractors and agents from all actions, claims, charges, costs, expenses, losses, damages and other liabilities arising (including consequential loss, loss of profit and other economic loss) out of or otherwise in connection with this agreement.
+(h) You acknowledge that We have not made, and that no person acting on Our behalf has made, any representation that use of the Program (or the Software) will not infringe any third party's intellectual property rights.
+11. Termination.
+(a) Without limiting any other right of termination under this agreement, either party may terminate this agreement at any time on 3 months' written notice to the other party.
+(b) Without limiting any other right of termination under this agreement, We may terminate this agreement immediately on notice to You if:
+(i) You fail to pay the Licence Fee;
+(ii) You are in breach of this agreement;
+(iii) You stop or suspend or threaten to stop or suspend payment of all or a class of Your debts; 
+or
+(iv) You are insolvent, have an administrator appointed, are wound up or an application is made to wind You up.
+(c) Upon termination Your access to the Program ceases immediately and You must return or destroy all documentation provided to You by Us.
+12. Amendment.
+We reserve the right to amend the terms and conditions of this agreement upon the provision of 1 month notice to You.  Your continued use of the Program signifies Your acceptance of the new terms and conditions.
+13. General.
+(a) This agreement contains the entire agreement between You and Us with respect to its subject matter and supersedes all prior agreements and understandings between the parties in connection with it.  
+(b) Your use of the Program signifies Your acceptance of these terms and conditions.
+(c) You may not assign or transfer any of Your rights or obligations under this agreement without Our prior written consent which may be given or withheld in our absolute discretion.
+(d) Any provision of this agreement that is prohibited or unenforceable in any jurisdiction is ineffective as to that jurisdiction to the extent of the prohibition or unenforceability.  That does not invalidate the remaining provisions of this agreement nor affect the validity or enforceability of that provision in any other jurisdiction.
+(e) This agreement is governed by the laws of Queensland, Australia.  Each party submits to the non-exclusive jurisdiction of courts exercising jurisdiction there in connection with this agreement.
+(f) If any Goods and Services Tax (GST) is payable by a party on a taxable supply made under or in relation to this agreement, the party paying the consideration for the supply must also pay any GST.  If a party is entitled to be reimbursed by the other party under this agreement for an amount paid to a third party, the amount to be reimbursed will be reduced by any amount in respect of GST for which the supplier obtains an input tax credit.
+
+School EdCube licence 2007Page 2
+
+School EdCube licence 2007Page 1
+

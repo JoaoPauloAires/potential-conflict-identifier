@@ -1,0 +1,328 @@
+Software Licence Agreement
+This agreement is made the	1st day of July 2004
+Between:	LG SYSTEM INCORPORATED of 15 Mount Street, Melrose
+("the Licensor")
+And:	DISTRICT COUNCIL OF MOUNT REMARKABLE
+("the Licensee")
+for the licensing of computer software.
+Whereas:
+A. The Licensor is an association incorporated in South Australia under the provisions of the Associations Incorporation Act 1985;
+B. The Licensee is a member of the Licensor;
+C. The objects of the Licensor under its Rules of Incorporation include to own, control, develop and support software programs designed and/or adapted specifically for use in local government and other public sector environments;
+D. The Licensor has commenced the development of certain software (defined in this Agreement as the Licensed Software) for use by Members;
+E. The Licensor desires to license the Licensed Software to Members to facilitate research and development of the Licensed Software whether alone or in conjunction with other computer software.
+F. The Licensor has offered to grant the Licensee a non-transferable and non-exclusive Licence to use the Licensed Software, subject to the terms and conditions of this Agreement;
+G. The Licensee has agreed to accept the licence subject to the terms and conditions of this Agreement.
+It is hereby agreed as follows.
+1. DEFINITIONS
+1.1 In this Agreement, unless the contrary intention appears:
+"Additional Charge" means a charge in accordance with the Licensor's standard rates in effect from time to time;
+"Agreement" means this Agreement for the licensing, installation and development of the Licensed Software and other software;
+"Category 1 User" means a member who pays the Licence Fee specified at Schedule 2(A);
+"Category 2 User" means a member who pays the Licence Fee specified at Schedule 2(B);
+"Commencement Date" means the date so specified in Schedule 1;
+"Confidential Information" means the confidential information of a Party which relates to the subject matter of this Agreement and includes Source Code and information relating to:
+(a) the design, specification and content of the Licensed Software;
+(b) the personnel, policies or business strategies of the Licensor;
+(c) the terms upon which the Licensed Software is being supplied and installed pursuant to this Agreement;
+"Designated Equipment" means the computer equipment, designated in Schedule 1, upon which the Licensed Software may be used;
+"Documentation" means operating manuals and other printed materials referred to in Schedule 1 including Source Code, users' manuals, programming manuals, modification manuals, flow charts, drawings and software listings which are designed to assist or supplement the understanding or application of the Licensed Software;
+"Force Majeure" means a circumstance beyond the reasonable control of the Parties which results in a Party being unable to observe or perform on time an obligation under this Agreement.  Such circumstances shall include but shall not be limited to:
+(a) acts of God, lightning strikes, earthquakes, floods, storms, explosions, fires and any natural disaster;
+(b) acts of war, acts of public enemies, terrorism, riots, civil commotion, malicious damage, sabotage and revolution; and
+(c) strikes;
+"Initial Term" means the period so specified in Schedule 1;
+"Intellectual Property Rights" means copyright, trade mark, design, patent, semiconductor or circuit layout rights;
+"Licence" means the licence and each licence and any agreement for licence, granted by the Licensor to the Licensee pursuant to this Agreement in respect of the Licensed Software or any part thereof;
+"Licence Fee" means the fee specified in Schedule 2, payable by the Licensee to the Licensor, for the use of the Licensed Software;
+"Licensed Software" means the software designated in Schedule 1 consisting of a set of instructions or statements in machine readable medium and any enhancement, alteration, modification, update or new release of the that software or part thereof including modifications or alterations made by the Licensee in which the Licensor acquires copyright pursuant to the provisions of Clause 9; 
+"Member" means a member of L G System Incorporated;
+"Open Source Software" means the software designated in Schedule 1 consisting of a set of instructions or statements in machine readable medium and any enhancement modification, update or new release of that software or part thereof
+"Party" means either the Licensor or the Licensee as the context dictates;
+"Restraint Period" means the period, specified in Schedule 1, during which a Party must refrain from soliciting for employment any person who is employed or contracted by the other Party;
+"Schedule" means a schedule to this Agreement;
+"Site" means the location designated in Schedule 1 for delivery and installation of the Licensed Software;
+"Source Code" means the source code of the Licensed Software;
+"Source Code Control System" means the system used by the Licensor for the control of source code specified in Schedule 1 or such other system as the Licensor shall determine to use from time to time;
+"System" means the computer system comprising the Licensed Software, the Open Source Software and other software as determined by the Licensor from time to time;
+"User Group" means the user group established by the Licensor under its Rules of Incorporation;
+"Warranty Period" is the period so specified in Schedule 1.
+2. INTERPRETATION
+2.1 In this Agreement, unless the contrary intention appears:
+(a) the clause headings are for ease of reference only and shall not be relevant to interpretation;
+(b) a reference to a clause number is a reference to its subclauses;
+(c) words in the singular number include the plural and vice versa;
+(d) words importing a gender include any other gender;
+(e) a reference to a person includes bodies corporate and unincorporated associations and partnerships;
+(f) a reference to a clause is a reference to a clause or subclause of this Agreement;
+(g) a reference to a subclause is a reference to a subclause of the clause in which that reference is made;
+(h) where a word or phrase is given a particular meaning, other parts of speech and grammatical forms of that word or phrase have corresponding meanings;
+(i) a reference to a Schedule includes a reference to any part of that Schedule which is incorporated by reference;
+(j) the recitals to this Agreement do not form part of the Agreement;
+(k) monetary references are reference to Australian currency.
+2.2 No provision of this Agreement will be interpreted as attempting to exclude or limit, or having the effect of excluding or limiting, the operation of subsection 47B(3) or section 47C, 47D, 47E or 47F, of the Copyright Act 1968 (Cth).  Any provision which is inconsistent with any such subsection or section will be read down or otherwise deemed to be varied to the extent necessary to preserve the operation of such subsection, section or sections.
+3. DELIVERY AND INSTALLATION
+3.1 The Licensor shall deliver the Licensed Software and Source Code to the Licensee, and install the Licensed Software as it becomes available for release.
+3.2 The Licensee shall give the Licensor such reasonable assistance, including the provision of personnel and facilities, as the Licensor reasonably considers necessary to ensure satisfactory installation of the Licensed Software.  The Licensee shall ensure the Licensor is granted all reasonable access, including necessary security clearances, for the purposes of complying with subclause 1.
+3.3 If, in the opinion of the Licensor, the costs associated with the installation of the Licensed Software are greater than the Licensor could have reasonably contemplated on execution of this Agreement and are greater than the costs which would normally be associated with a similar installation project, the Licensor may make an Additional Charge.
+4. TERM OF LICENCE
+4.1 The Licensor shall grant to the Licensee a non-exclusive, non-transferable licence for the Initial Term to use so much of the Licensed Software at the Site as is released by the Licensor during the term of this Agreement but such use shall be solely for the purpose of conducting the Licensee's business.
+4.2 At the sole discretion of the Licensor, the Licence may be renewed for subsequent terms of similar duration to the Initial Term.  The Licensee shall provide at least thirty (30) days notice in writing prior to the expiry of the Initial Term or any subsequent term if it wishes to renew the Licence pursuant to this subclause.
+4.3 A licence renewal fee shall be payable in accordance with Schedule 2 in the event the licence is extended pursuant to this clause.
+5. DOCUMENTATION
+5.1 The Documentation is licensed to the Licensee for the duration of the Agreement.
+5.2 The Licensor shall provide the Licensee with such number of copies of the Documentation as are specified in Schedule 1.
+5.3 The Licensee acknowledges that the Documentation contains sufficient information for the adequate use of the Licensed Software, except to the extent the Licensor has notified the Licensee of any omission or deficiency or of any variation which it considers necessary for the proper use of the Licensed Software.
+5.4 The Licensee shall not copy or reproduce the Documentation except to the extent otherwise authorised by this Agreement.
+6. LICENCE CONDITIONS
+6.1 The Licensee may only use the Licensed Software in accordance with the normal operating procedures as notified by the Licensor.
+6.2 The Licensed Software may only be used pursuant to this Agreement:
+(a) by the Licensee; and
+(b) at the Site.
+6.3 Unless specified to the contrary in Schedule 1, the Licensed Software may not be used on equipment other than Designated Equipment save that of the sole risk of the Licensee it may be used on alternative equipment if.
+(a) the Designated Equipment is temporarily inoperable, due to malfunction, maintenance or change of installation site; or
+(b) the Licensor has otherwise given its consent in writing to such alternate use.
+6.4 The Licensee shall not copy, alter, modify or reproduce the Licensed Software except to the extent otherwise authorised by this Agreement.
+6.5 In addition to any other remedies available to the Licensor under this Agreement or otherwise, any unauthorised use, alteration, modification, reproduction, publication, disclosure or transfer of the Licensed Software will entitle the Licensor to any available equitable remedy against the Licensee.
+6.6 Except to the extent specified to the contrary in this Agreement, the Licensor shall not be obliged to support the Licensed Software, whether by providing advice, training, error-correction, modifications, updates, new releases or enhancements or otherwise.
+6.7 The Licensee acknowledges that there is no transfer of title or ownership to the Licensee of the Licensed Software or the Documentation or any modifications, updates or new releases of the Licensed Software.
+7. COPYING
+7.1 Subject to subclause 2, the Licensee shall not copy or reproduce the Licensed Software or Documentation by any means or in any form without the Licensor's prior written consent.
+7.2 The Licensee may make one copy of the Licensed Software for the purpose of backup and security.  The Licensee shall acknowledge such copy as the property of the Licensor.  The terms of this Agreement, with the necessary modifications, apply to the said copy.
+7.3 The Licensee shall ensure any copy of the Licensed Software made pursuant to this Agreement bears notice of the Licensor's ownership of copyright and a notice stipulating that the Licensed Software contains information confidential to the Licensor.  The Licensee shall comply with any directions of the Licensor as to the form or content of such notices.
+7.4 If requested by the Licensor, the Licensee shall issue a notice in a form approved by the Licensor to all employees and other authorised users of the Licensed Software under its direction or control, advising such persons of the Licensee's obligations under this clause and also advising of the possible civil and criminal consequences of a breach of this clause.
+8. MODIFICATIONS
+8.1 The Licensee may modify or alter the Licensed Software or merge all or any part of the Licensed Software with any other software without the Licensor's written permission.
+8.2 The Licensee hereby assigns to the Licensor all future copyright in the modifications or alterations made by the Licensee to the Licensed Software throughout all countries of the world in which the rights hereby assigned subsist to the intent that the said rights therein shall forthwith upon the creation of such modifications or alterations vest in the Licensor;
+8.3 If the Licensed Software is modified or altered by the Licensee:
+(a) the costs associated with the modifications or alterations or the costs arising out of the investigation of the effects of proposed modifications or alterations will be borne solely by the Licensee;
+(b) the Licensee shall provide to the Licensor the source code for the modified or altered Licensed Software;
+(c) the Licensee shall not request the performance of any modification or alteration of the Licensed Software and shall not permit the creation of any material in which copyright may subsist relating to such modifications or alterations by any person other than an employee of the Licensee pursuant to the terms of that person's employment by the Licensee unless the Licensee shall have first secured an agreement from any such person to assign to the Licensor all intellectual property rights (including future copyright) in any work which may be created by that person in relation to the Licensed Software and to keep Source Code secret and confidential; and
+(d) the Licensee will fully indemnify the Licensor against all liability which may be incurred by the Licensor if such modifications or alterations infringe any Intellectual Property Rights of a third person or otherwise cause the Licensor to suffer loss, damages or expense.
+8.4 The Licensed Software as modified or altered remains the property of the Licensor in all respects, whether modified by the Licensee, the Licensor or a third party and whether or not authorised pursuant to this Agreement.  Specifically, the Licensee shall if necessary assign the Licensor all Intellectual Property Rights arising out of any modifications or alterations to the Licensed Software which may not have passed to the Licensor pursuant to subclause 2.
+8.5 This Agreement shall apply to the Licensed Software as modified or altered.
+8.6 The Licensee shall execute such documents and perform such other acts as are necessary in order to give effect to subclause 3.
+8.7 The Licensee shall comply with the terms of any licence for the use of Open Source Software.
+8.8 The Licensee shall provide to the Licensor details of and the source code for any modifications or enhancements made by the Licensee to the open Source Software or any other software forming part of the System.
+8.9 All modifications and alterations made by the Licensee must include a file documenting the modification or alteration so made.
+9. REVERSE ENGINEERING
+The Licensee shall not directly or indirectly allow or cause a third party (other than a current Member) to reverse assemble or reverse compile the whole or any part of the Licensed Software.
+10. SECURITY
+10.1 The Licensee shall be solely responsible for the use, supervision, management and control of the Licensed Software and Documentation.
+10.2 The Licensee shall ensure that the Licensed Software is protected at all times from misuse, damage, destruction or any form of unauthorised use.
+10.3 The Licensee shall keep accurate records of use, copying, modification and disclosure of the Licensed Software.  The Licensee shall permit the Licensor to inspect such records at any time during the Licensee's normal business hours.  If the Licensor requests, the Licensee shall furnish to the Licensor a copy of all or any part of such records.
+11. DETERMINATION OF THE SYSTEM
+11.1 The Licensor shall determine at its discretion:
+11.1.1 	what changes are made to the System; and
+11.1.2 	what modifications or alterations are made to the Licensed Software or the Open Source Software forming part of the System.
+11.2 The Licensee shall only use the System as determined by the Licensor and only for its business purposes.
+11.3 The Licensor is under no obligation under this Agreement to provide updates or new releases for the Licensed Software or any other software or to complete and supply the Licensed Software.
+11.4 The Licensor will provide to the Licensee source code for:
+11.4.1 any updates or new releases of the Licensed Software; and
+11.4.2 any modifications or alterations to any software forming part of the System.
+11.5 The Licensee shall comply with a direction from the Licensor to redeliver the Licensed Software to the Suppler in substitution for an update or new release which provides functions equal to or better than the Licensed Software.
+11.6 Where an update or new release is provided pursuant to subclause 2 or any modification or alterations are made to the Licensed Software or the Open Source Software:
+(a) the Licensor will deliver and install the update or new release at no additional charge to the Licensee;
+(b) the charge for use of the new release will be no higher in respect of the then current term than the then current Licence Fee;
+(c) this Agreement will continue to apply in all respects to the update or new release which shall be deemed to be the Licensed Software for the purpose of this Agreement; and
+(d) the Licensee shall return to the Licensor all copies of the original Licensed Software or otherwise deal with all copies of the original Licensed Software in accordance with the Licensor's directions.
+11.7 Without limiting the Licensee's obligations under this clause, and notwithstanding any other provision of this Agreement, the Licensor shall be under no liability to the Licensee in the event of loss or damage suffered by the Licensor as a result of its failure to comply with this clause, and the Licensee shall indemnify the Licensor in respect of any loss or damage suffered by the Licensor as a result of the Licensee's failure to comply with this clause.
+12. LICENSEE'S OBLIGATIONS
+12.1 The Licensee shall ensure that the appropriate officers or employees of the Licensee attend meetings of the User Group.
+12.2 The Licensee shall report (in writing) to the User Group giving details of:
+12.2.1 any development work the Licensor is doing with any of the Licensed Software, the Open Source Software or the System; and
+12.2.2 any faults or concerns the Licensee has with the System.
+12.3 The Licensee shall comply with the Source Code Control System used by the Licensor.
+12.4 The Licensee shall ensure that appropriate officers and employees of the Licensee are made available to participate in training in the use of the System.
+13. LICENCE FEE
+13.1 The Licensee shall pay the Licence Fee at the rate and in the manner specified in Schedule 2.
+13.2 If the Licensee disputes the whole or any portion of the amount claimed in an invoice submitted by the Licensor, the Licensee shall pay the portion of the amount stated in the invoice which is not in dispute and shall notify the Licensor in writing (within seven (7) days of receipt of the invoice) of the reasons for disputing the remainder of the invoice.  If it is resolved that some or all of the amount in dispute ought to have properly been paid at the time of the first invoice, then the Licensee shall pay the amount finally resolved together with interest on that amount in accordance with the terms of payment set out in this Agreement.
+13.3 The Licensee shall pay the Licensor interest on any amount due and not paid by the Customer within the timeframe required by this Agreement and the rate of interest specified in Schedule 2.
+13.4 In the event that:
+(a) the supply or installation of the Licensed Program is delayed;
+(b) the Licensor is required to deliver and install the Licensed Software or perform services in circumstances other than those expressly or reasonably anticipated to be associated with the delivery or installation or supply of services of a similar nature; or
+(c) there is a change in the timing or complexity of the delivery or installation of the Licensed Software or the supply of services;
+for reasons other than a breach of this Agreement by the Licensor, then the Licensor shall be entitled to payment of an Additional Charge on a time and material basis in respect of additional resources reasonably utilised in order to fulfil its obligations under this Agreement.
+13.5 The Licence Fees are exclusive of taxes, duties and charges imposed or levied in Australia or overseas in connection with the supply and installation of the Licensed Software.  Without limiting the foregoing, the Licensee shall be liable for any new taxes, duties or charges imposed subsequent to the Commencement Date in respect of the goods and services which are the subject of this Agreement.
+14. WARRANTY
+14.1 For the duration of the Warranty Period, the Licensor warrants that the Licensed Software will operate in conformity with the Documentation in all material respects.
+14.2 If at any time during the Warranty Period the Licensee believes there is a defect in the Licensed Software such that the Licensed Software does not comply with or cannot be used in accordance with the Specifications, the Licensee shall notify the Licensor of such perceived defect.
+14.3 The Licensor shall investigate the perceived defect notified pursuant to subclause 2 and shall, upon the verification of the existence of the defect, rectify such defect without additional charge to the Licensee.
+14.4 If due investigation by the Licensor of a defect reported pursuant to subclause 2 reveals that no such defect in fact exists, the Licensor may make an Additional Charge in respect of such investigation.
+14.5 The Licensor shall not be liable under this clause to the extent that a defect is caused by the Licensee or a third party, including the failure of the Licensee or a third party to maintain the operating environment designated in the Documentation or to otherwise use the Licensed Software in accordance with specifications issued by the Licensor from time to time, whether in the Documentation or otherwise.
+15. CONFIDENTIALITY
+15.1 A Party shall not, without the prior written approval of the other Party, disclose the other Party's Confidential Information.
+15.2 A Party shall not be in breach of subclause 1 in circumstances where it:
+15.2.1 is legally compelled to disclose the other Party's Confidential Information; or
+15.2.2 discloses Source Code to a Member whose membership is current at the time of such disclosure.
+15.3 Each Party shall take all reasonable steps to ensure that its employees and agents, and any sub-contractors engaged for the purposes of this Agreement, do not make public or disclose the other Party's Confidential Information.
+15.4 Notwithstanding any other provision of this clause, the Licensor may disclose the terms of this Agreement (other than Confidential Information of a technical nature) to its related companies, solicitors, auditors, insurers and accountants.
+15.5 This clause shall survive the termination of this Agreement.
+16. EMPLOYEES AND CONTRACTORS
+16.1 During the Restraint Period, neither Party shall solicit for employment, either directly or indirectly, any person who is employed or contracted by the other Party.
+16.2 A Party shall promptly advise the other Party if a person who is employed or contracted by the other Party seeks to be employed or contracted by the firstmentioned Party prior to the expiration of the Restraint Period.
+17. INTELLECTUAL PROPERTY RIGHTS
+17.1 Subject to subclauses 2, 3 and 4, the Licensor shall indemnify the Licensee against liability under any final judgment in proceedings brought by a third party against the Licensee which determine that the Licensee's use of the Licensed Software constitutes an infringement in Australia of any Intellectual Property Rights in the Licensed Software.
+17.2 The Licensor shall not be required to indemnify the Licensee as provided in subclause 1 unless the Licensee:
+(a) notifies the Licensor in writing as soon as practicable of any infringement, suspected infringement or alleged infringement;
+(b) gives the Licensor the option to conduct the defence of such a claim, including negotiations for settlement or compromise prior to the institution of legal proceedings;
+(c) provides the Licensor with reasonable assistance in conducting the defence of such a claim;
+(d) permits the Licensor to modify, alter or substitute the infringing part of the Licensed Software at its own expense in order to avoid continuing infringement, or authorises the Licensor to procure for the Licensee the authority to continue the use and possession of the infringing Licensed Software.
+17.3 The Licensor shall not indemnify the Licensee to the extent that an infringement, suspected infringement or alleged infringement arises from:
+(a) use of the Licensed Software in combination by any means and in any form with other goods not specifically approved by the Licensor;
+(b) use of the Licensed Software in a manner or for a purpose not reasonably contemplated or not authorised by the Licensor;
+(c) modification or alteration of the Licensed Software without the prior written consent of the Licensor;
+(d) any transaction entered into by the Licensee relating to the Licensed Software without the Licensee's prior consent in writing; or
+(e) use of modifications or alterations made to the Licensed Software by the Licensee.
+17.4 In the event that proceedings are brought or threatened by a third party against the Licensee alleging that the Licensee's use of the Licensed Software constitutes an infringement of Intellectual Property Rights, the Licensor may at its option and at its own expense conduct the defence of such proceedings.  The Licensee shall provide all necessary co-operation, information and assistance to the Licensor in the conduct of the defence of such proceedings.
+17.5 The Licensee shall indemnify the Licensor against any loss, costs, expenses, demands or liability, whether direct or indirect, arising out of a claim by a third party alleging such infringement if:
+(a) the claim arises from an event specified in subclause 3; or
+(b) the ability of the Licensor to defend the claim has been prejudiced by the failure of the Licensee to comply with any requirements of subclauses 2 or 4.
+18. IMPLIED TERMS
+18.1 Subject to subclause 2, any condition or warranty which would otherwise be implied in this Agreement is hereby excluded.
+18.2 Where legislation implies in this Agreement any condition or warranty, and that legislation avoids or prohibits provisions in a contract excluding or modifying the application of or exercise of or liability under such condition or warranty, the condition or warranty shall be deemed to be included in this Agreement.  However, the liability of the Licensor for any breach of such condition or warranty shall be limited, at the option of the Licensor, to one or more of the following:
+(a) if the breach relates to goods:
+(i) the replacement of the goods or the supply of equivalent goods;
+(ii) the repair of such goods;
+(iii) the payment of the cost of replacing the goods or of acquiring equivalent goods; or
+(iv) the payment of the cost of having the goods repaired; and
+(b) if the breach relates to services:
+(i) the supplying of the services again; or
+(ii) the payment of the cost of having the services supplied again.
+19. LIABILITY OF LICENSOR
+19.1 Except in relation to liability for personal injury (including sickness and death), the Licensor shall be under no liability to the Licensee in respect of any loss or damage (including consequential loss or damage) which may be suffered or incurred or which may arise directly or indirectly in respect of goods or services supplied pursuant to this Agreement or in respect of a failure or omission on the part of the Licensor to comply with its obligations under this Agreement.
+19.2 Subject to subclause 3, the Licensee warrants that it has not relied on any representation made by the Licensor which has not been stated expressly in this Agreement, or upon any descriptions, illustrations or specifications contained in any document including catalogues or publicity material produced by the Licensor.
+19.3 The Licensee acknowledges that to the extent the Licensor has made any representation which is not otherwise expressly stated in this Agreement, the Licensee has been provided with an opportunity to independently verify the accuracy of that representation.
+19.4 The Licensee shall at all times indemnify and hold harmless the Licensor and its officers, employees and agents ("those indemnified") from and against any loss (including reasonable legal costs and expenses) or liability reasonably incurred or suffered by any of those indemnified arising from any proceedings against those indemnified where such loss or liability was caused by:
+19.4.1 a breach by the Licensee of its obligations under this Agreement; or
+19.4.2 any wilful, unlawful or negligent act or omission of the Licensee.
+20. TERMINATION
+20.1 Without limiting the generality of any other clause in this Agreement, the Licensor may terminate this Agreement immediately by notice in writing if:
+(a) the Licensee is in breach of any term of this Agreement and such breach is not remedied within thirty (30) days of notification by the Licensor;
+(b) the Licensee for any reason destroys or disposes of or loses custody of the Licensed Software;
+(c) the Licensee becomes, threatens or resolves to become or is in jeopardy of becoming subject to any form of insolvency administration;
+(d) the Licensee, being a partnership, dissolves, threatens or resolves to dissolve or is in jeopardy of dissolving;
+(e) the Licensee, being a natural person, dies;
+(f) the Licensee ceases or threatens to cease conducting its business in the normal manner; or
+(g) the Licensee ceases to be a Member.
+20.2 If notice is given to the Licensee pursuant to subclause 1, the Licensor may, in addition to terminating the Agreement:
+(a) repossess any copies of the Licensed Software and Documentation in the possession, custody or control of the Licensee;
+(b) retain any moneys paid;
+(c) charge a reasonable sum for work performed in respect of which work no sum has been previously charged;
+(d) be regarded as discharged from any further obligations under this Agreement; and
+(e) pursue any additional or alternative remedies provided by law.
+20.3 In the event of the termination of this Agreement by the Licensor, the Licensee shall resign as a Member.
+21. FORCE MAJEURE
+21.1 Neither Party shall be liable for any delay or failure to perform its obligations pursuant to this Agreement if such delay is due to Force Majeure.
+21.2 If a delay or failure of a Party to perform its obligations is caused or anticipated due to Force Majeure, the performance of that Party's obligations will be suspended.
+21.3 If a delay or failure by a Party to perform its obligations due to Force Majeure exceeds sixty (60) days, either Party may immediately terminate the Agreement on providing notice in writing to the other Party.
+21.4 If this Agreement is terminated pursuant to subclause 3, the Licensor shall refund moneys previously paid by the Licensee pursuant to this Agreement for goods or services not provided by the Licensor to the Licensee.
+22. SUB-CONTRACTS
+22.1 The Licensor may sub-contract for the performance of this Agreement or any part of this Agreement to the extent so specified in Schedule 1 or upon obtaining (subject to subclause 3) the Licensee's prior written consent.
+22.2 The Licensee shall not unreasonably withhold consent for the engagement of a sub-contractor in accordance with subclause 1.
+22.3 The Licensor may, without the consent of the Licensee, engage individuals on a sub-contract or consultancy basis, whether or not operating under a corporate structure, to assist in the provision of services pursuant to this Agreement.
+23. ENTIRE AGREEMENT
+23.1 This Agreement constitutes the entire agreement between the Parties and supersedes all prior representations, agreements, statements and understandings, whether verbal or in writing.
+24. PRECEDENCE
+24.1 The documents comprising this Agreement shall be read in the following order of precedence:
+(a) the clauses of this Agreement;
+(b) the Schedules.
+24.2 Where any conflict occurs between the provisions contained in two or more of the documents forming this Agreement, the document lower in the order of precedence shall where possible be read down to resolve such conflict.  If the conflict remains incapable of resolution by reading down, the conflicting provisions shall be severed from the document lower in the order of precedence without otherwise diminishing the enforceability of the remaining provisions of that document.
+25. ASSIGNMENT AND NOVATION
+25.1 The benefit of this Agreement shall not be assigned by the Licensee without the Licensor's written consent.
+25.2 The Licensor may consent to the assignment or novation of this Agreement by the Licensee subject to such conditions as it chooses to impose.
+26. WAIVER
+26.1 No right under this Agreement shall be deemed to be waived except by notice in writing signed by each Party.
+26.2 A waiver made by the Licensor pursuant by subclause 1 will not prejudice its rights in respect of any subsequent breach of the Agreement by the Licensee.
+26.3 Subject to subclause 1, any failure by the Licensor to enforce any clause of this Agreement, or any forbearance, delay or indulgence granted by the Licensor to the Licensee, will not be construed as a waiver of the Licensor's rights under this Agreement.
+27. VARIATION
+27.1 The provisions of this Agreement, shall not be varied, except by agreement in writing signed by the Parties.
+27.2 If either Party wishes to vary the Agreement, the proposing Party shall submit a copy of the proposed variations to the other Party ("the receiving Party"), specifying a reasonable period in which the receiving Party is to provide written notice of acceptance or rejections of the proposal.
+27.3 If the receiving Party accepts the variations, the Agreement shall be deemed to be so amended from the date of acceptance.
+27.4 If the receiving Party rejects the proposed variations, each Party shall perform the Agreement in accordance with the unvaried terms.
+28. DISPUTES
+28.1 Any dispute arising in connection with this Agreement which cannot be settled by negotiation between the Parties or their representatives shall be submitted to arbitration in accordance with the Rules for the Conduct of Commercial Arbitrations for the time being of the Institute of Arbitrators Australia.  During such arbitration, both Parties may be legally represented.
+28.2 Prior to referring a matter to arbitration pursuant to subclause 1, the Parties shall:
+(a) formally refer the dispute to their respective contract managers for consideration;
+(b) if the respective contract managers are unable to resolve the dispute after five (5) days (or such other period as is agreed between the Parties) from the date of referral, refer the dispute to the respective chief executive officers of each Party; and
+(c) in good faith explore the prospect of mediation.
+28.3 Nothing in this clause shall prevent a Party from seeking urgent equitable relief before an appropriate court.
+29. LICENSOR'S RIGHTS
+29.1 Any express statement of a right of the Licensor under this Agreement is without prejudice to any other right of the Licensor expressly stated in this Agreement or existing at law.
+30. SURVIVAL OF AGREEMENT
+30.1 Subject to any provision to the contrary, this Agreement shall enure to the benefit of and be binding upon the Parties and their successors, trustees, permitted assigns or receivers but shall not enure to the benefit of any other persons.
+30.2 The covenants, conditions and provisions of this Agreement which are capable of having effect after the expiration of the Agreement shall remain in full force and effect following the expiration of the Agreement:
+31. SEVERABILITY
+31.1 If any provision of this Agreement is held invalid, unenforceable or illegal for any reason, the Agreement shall remain otherwise in full force apart from such provisions which shall be deemed deleted.
+32. GOVERNING LAW
+32.1 This Agreement will be governed by and construed according to the law of the jurisdiction specified in Schedule 1.
+33. NOTICES
+33.1 Notices under this agreement may be delivered by hand, by mail or by facsimile to the addresses specified in Schedule 1.
+33.2 Notice will be deemed given:
+(a) in the case of hand delivery, upon written acknowledgment of receipt by an officer or other duly authorised employee, agent or representative of the receiving Party;
+(b) in the case of posting, three days after despatch;
+(c) in the case of facsimile, upon receipt of transmission if received on a business day or otherwise at the commencement of the first business day following transmission.
+34. EXECUTION
+34.1 This Agreement may be executed in counterparts by the respective Parties, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement, provided that this Agreement shall be of no force and effect until the counterparts are exchanged.
+THE COMMON SEAL of LG SYSTEM INCORPORATED was hereunto affixed in accordance with its Rules of Association in the presence of:
+
+Chairperson/Vice-Chairperson
+
+Committee Member
+)
+)
+)
+)
+
+THE COMMON SEAL of  DISTRICT COUNCIL OF MOUNT REMARKABLE
+ was affixed in accordance with a resolution in the presence of:
+
+
+
+
+)
+)
+)
+)
+
+SCHEDULES
+Schedule 1 - Contract Details
+Commencement Date  1st July 2004
+Documentation -	Two(2) Copies of Operational Manuals bearing the LGS Enterprise (LGE)logo as described in Licensed Software in Schedule 1
+Governing Law - Law of the State of South Australia
+Initial Term - a period of 12 months commencing on the Commencement Date
+Licensed Software -	Licensed Software means:-
+(1) in the case of Category 1 Users, the software known as LGS Enterprise (LGE) comprising the following modules:
+Rates, Property, Counter, GIS, Electoral
+System Supervision, security, access controls
+Risk Management,
+OHS, Training
+Animals
+General Ledger, Financial,
+Forecasting/Review, BAS, FCA, Costing, Banks
+Records Management / Strategic Planning
+Debtors, Creditors, eProcurement, Direct Costing
+Development Controls, EDALA, Health
+Payroll, Personnel
+Cemeteries, Signs, Trees
+Fleet Plant, Asset Management
+Pavement Management
+(2) in the case of Category 2 Users,  such of the above modules as is listed below (insert the description of the particular module from those listed above which is to be licensed):-.............................................................;
+Notices	- Licensor - 15 Mount Street, Melrose  SA  5483
+	- Licensee - Person/Entity named in Execution clause 34.
+Open Source Software Restraint Period - 12 months from the Commencement Date
+Site - the principal office of the Licensee and the Licensee's branch offices
+Source Code Control System - Microsoft.NET Framework Source Code Control System
+Warranty Period - a period of three months from the Commencement Date (or three months from the date of release of that part of the Licensed Software which fails to operate in conformity with the Documentation)
+
+Schedule 2 - Licence Fee (strike out whichever is not applicable):-
+		(A)	In the case of a Category 1 User:-
+An initial fee of $40,000.00 payable upon the execution of this Agreement plus a fee of $500.00 payable annually during the term of this Agreement or any renewal thereof, the first of such payments to be made upon the expiration of the Initial Term. 
+	(B)	In the case of a Category 2 User:-
+$500.00 payable upon the execution of this Agreement.
+
+
+E:\Agreements\normans\0607857
+
+E:\Agreements\normans\0607857
+

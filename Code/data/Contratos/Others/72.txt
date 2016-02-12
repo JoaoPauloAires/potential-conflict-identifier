@@ -1,0 +1,401 @@
+Insert your logo hereInstructions:
+1. Click on 'Insert your logo here' and delete the words 'Insert your logo here'.
+2. Insert > Picture> From File
+3. Select your logo
+4. Resize logo by dragging right hand corner
+5. Update the footer information
+6. Delete Instructions
+
+Double click on the main document to start editing of CTRA
+Clinical Trial Research Agreement
+
+Medicines Australia - Standard Form
+
+The body of this Standard Form Agreement should not be amended.  Any proposed changes to this Agreement must be incorporated into Schedule 7 by way of Special Conditions.
+
+Details of the parties
+
+Institution:               Name:               Address:               ABN:               Contact for Notices:               Fax for Notices:               Phone Number:               
+Name of Sponsor:               Address:                              ABN:               Contact for Notices:               Fax for Notices:               Phone Number:               
+Study name:               Protocol Number:               Date of Agreement:               
+This agreement is made between the sponsor and institution 
+
+Purpose of the Agreement
+According to this Agreement:
+A. The Sponsor is responsible for the initiation, management, and financing of the Study.
+B. The Institution, through the Principal Investigator, is responsible for the conduct of the Study at the Study Site(s) which is/are under the control of the Institution. 
+C. The Study will be conducted on the terms and conditions set out below.
+
+Operative Provisions
+1. Interpretation 	
+1.1 In this Agreement:
+Adverse Event has the meaning given in the TGA document "Access to Unapproved Therapeutic Goods - Clinical Trials in Australia" (October 2004) or replacement.
+Agreement means this Agreement, including all the Schedules hereto.
+Affiliate means any company which (directly or indirectly) controls, is controlled by or is under common control with the Sponsor.
+Background Intellectual Property means information, techniques, know-how, software and materials (regardless of the form or medium in which they are disclosed or stored) that are provided by one party to the other for use in the Study (whether before or after the date of this Agreement), except any Study Materials.
+Biological Samples means any physical samples obtained from Study Subjects in accordance with the Protocol.
+Case Report Form means a printed, optical or electronic document or database designed to record all of the information, required by the Protocol, to be reported to the Sponsor on each Study Subject. 
+Confidential Information means:
+(1) in respect of the Sponsor:
+(a) All information collected in the course of, resulting from, or arising directly out of the conduct of the Study, whether at the Study Site or elsewhere;
+(b) The Protocol, the Investigator's Brochure, information relating to the Protocol, Study Materials and Investigational Product;
+(c) Information, know-how, trade secrets, ideas, concepts, technical and operational information, scientific or technical processes or techniques, product composition or details owned by the Sponsor or its Affiliates;
+(d) Know-how, methodology, trade secrets, processes, sequences, structure and organisation of the Study; and
+(e) Information concerning the business affairs or clients of the Sponsor or its Affiliates;
+(2) in respect of the Institution, information in relation to the Institution's business, operations or strategies, intellectual or other property or actual or prospective suppliers or competitors;
+but Confidential Information does not include Personal Information.
+Equipment means the equipment supplied to the Institution for the purposes of the Study.
+Essential Documents means documents which individually and collectively permit evaluation of the conduct of the Study and the quality of the data produced.  
+GCP Guideline means the Committee for Proprietary Medicinal Products (CPMP)/International Conference on Harmonisation (ICH) Note for Guidance on Good Clinical Practice (CPMP/ICH/135/95) as adopted with annotation by the TGA, as amended from time to time. 
+GST means the Goods and Services Tax payable under a GST Law.
+GST Law means the same as in A New Tax System (Goods and Services Tax) Act 1999 (Cth) as amended from time to time, and any regulations made pursuant to that Act.
+Institution means the body so described on the first page of this Agreement.
+Investigational Product is the medicine or device being trialled or tested in the Study and includes where relevant any placebo.
+Investigator's Brochure is a compilation of the clinical and non-clinical data on the Investigational Product(s) which are relevant to the study of the Investigational Product in humans.
+Intellectual Property means all industrial and intellectual property rights, including without limitation:
+(1) patents, copyright, future copyright, trade business, company or domain names, rights in relation to circuit layouts, plant breeders rights, registered designs, registered and unregistered trade marks, know how, trade secrets and the right to have confidential information kept confidential, any and all other rights to intellectual property which may subsist anywhere in the world; and
+(2) any application or right to apply for registration of any of those rights.
+Multi-centre Study is a Study conducted by several investigators according to a single protocol at more than one study site.
+NHMRC means the National Health and Medical Research Council of the Commonwealth of Australia.
+Personnel means employees, agents and/or authorised representatives, and includes in the case of the Institution, the Principal Investigator.
+Personal Information has the same meaning as in the Privacy Act 1988 (Cth)
+Principal Investigator is the person responsible for the conduct of the Study at the Study Site as described in Schedule 1.
+Protocol means the document identified in Schedule 6 which document describes the objective(s), design, methodology, statistical considerations and organisation of the Study, as such document may be amended from time to time and most recently approved by the Responsible HREC.
+Publish means to publish by way of a paper, article, manuscript, report, poster, internet posting, presentation slides, abstract, outline, video, instruction material or other disclosure of Study Materials, in printed, electronic, oral or other form. Publication has a corresponding meaning.
+Regulatory Authority means any government body which has jurisdiction over the conduct of the Study at the Study Site and includes the TGA and any overseas regulatory authorities that may require to audit any part of the Study or Study Materials.
+Responsible HREC means the Human Research Ethics Committee reviewing the Study on behalf of the Institution as described in Schedule 1.
+Relevant Privacy Laws means the Privacy Act 1988 (Cth) and any other legislation, code or guideline which applies in the jurisdiction in which the Study Site is located and which relates to the protection of personal information.
+Serious Adverse Event has the meaning given in the TGA document "Access to Unapproved Therapeutic Goods - Clinical Trials in Australia" (October 2004) or replacement.
+Sponsor means the corporate entity so described on the first page of this Agreement.
+Study means the investigation to be conducted in accordance with the Protocol.
+Study Completion means the database has been locked and all Essential Documents have been provided to the Sponsor, including a copy of the letter from the Responsible HREC acknowledging receipt of the final report and/or closure letter from the Principal Investigator.
+Study Materials means all the materials and information created for the Study or required to be submitted to the Sponsor including all data, results, Biological Samples, Case Report Forms, (or their equivalent) in whatever form held, conclusions, discoveries, inventions, know-how and the like, whether patentable or not relating to the Study which are discovered or developed as a result of the Study.
+Study Subject means a person recruited to participate in the Study.
+Study Site means the location(s) under the control of the Institution where the Study is actually conducted.
+TGA means the Therapeutic Goods Administration of the Commonwealth of Australia or any successor body.
+1.2 Except where the context otherwise requires:
+(1) clause headings are for convenient reference only and are not intended to affect the interpretation of this Agreement;
+(2) where any word or phrase has a defined meaning, any other form of that word or phrase has a corresponding meaning;
+(3) any reference to a person or body includes a partnership and a body corporate or body politic;
+(4) words in the singular include the plural and vice versa;
+(5) all the provisions in any schedule to this Agreement are incorporated in, and form part of, this Agreement and bind the parties;
+(6) if a period of time is specified and dates from a given day or the day of an act or event, it is to be calculated inclusive of that day;
+(7) a reference to a monetary amount means that amount in Australian currency; and
+(8) references to the Sponsor include its Personnel.
+This Agreement may be executed in any number of counterparts. All of such counterparts taken together are deemed to constitute one and the same Agreement.
+2. Study
+2.1 The parties must comply with, and conduct the Study in accordance with the Protocol and any condition of the Responsible HREC. In addition the Parties must comply with the following, as applicable:
+(1) any requirements of relevant Commonwealth or State or Territory laws or of Regulatory Authorities;
+(2) the requirements of the TGA in Access to Unapproved Therapeutic Goods - Clinical Trials in Australia (October 2004) or replacement and any other TGA publication or guideline that relates or may  relate to clinical trials, or other such regulations or guidance governing the conduct of clinical research in the jurisdiction of the Study;
+(3) the GCP Guideline; 
+(4) the principles that have their origins in the Declaration of Helsinki adopted by the World Medical Association in October 1996; and
+(5) the NHMRC National Statement on Ethical Conduct in Research Involving Humans (1999) or replacement, and any other relevant NHMRC publication or guideline that relates or may relate to clinical trials;  
+2.2 If any issue relating to the safety of Study Subjects arises which requires a deviation from the Protocol, the Institution through the Principal Investigator may immediately make such a deviation without breaking any obligations under this Agreement.  If there is a need for such a deviation the Institution must notify the Sponsor and the responsible HREC of the facts and circumstance causing the deviation as soon as is reasonably practical, but in any event no later than 5 working days after the change is implemented.
+3. Principal Investigator
+3.1 Role of Principal Investigator
+The Institution has authorised the Principal Investigator as the person responsible on a day-to-day basis for the conduct of the Study.  The Principal Investigator does not have authority on behalf of the Institution to amend this Agreement or the Protocol.
+3.2 Liability for Principal Investigator
+For the purpose of this Agreement only, and as between the Sponsor and the Institution only, the Institution agrees to be responsible for the acts and omissions of the Principal Investigator in relation to the conduct of the Study, to the extent that such responsibility would attach to the Institution in accordance with its obligations under this Agreement or under the common law on the basis that the Principal Investigator is acting as an employee of the Institution. Nothing in this clause or Agreement affects any pre-existing contractual or other arrangement which may be in place between the Institution and the Principal Investigator.
+3.3 Obligations and responsibilities
+The Institution is responsible for ensuring that the Principal Investigator:
+(1) thoroughly familiarises himself or herself with the appropriate use of the Investigational Product(s), as described in the Protocol, Investigator's Brochure, information relating to the Investigational Product and any other information sources provided by the Sponsor;
+(2) ensures written approval has been obtained to conduct the Study from the Responsible HREC and the Institution prior to Study initiation. Written documentation of approval by the Responsible HREC and the Institution must be provided to the Sponsor;
+(3) conducts the Study according to the Protocol without changes except as provided in clause 2.2, or as agreed to in writing by the Sponsor and the Institution and approved in accordance with clause 3.3(5)
+(4) completes (and obtains completion from relevant Personnel) and returns to the Sponsor a statement of financial disclosure (an example that meets this requirement is Food and Drug Administration Form 3455 'Disclosure: Financial Interests and Arrangements of Clinical Investigators) before the commencement of the Study and as otherwise required and consents to the disclosure of the completed form to overseas regulatory agencies, if required;
+(5) ensures that any amendments to the Protocol are approved by the Responsible HREC and Sponsor prior to implementation of the amendment;
+(6) ensures that the Sponsor's prior written consent is obtained to any advertisement in respect of the Study;
+(7) provides the Sponsor with evidence of the Principal Investigator's qualifications through a current curriculum vitae and/or other relevant documentation and a list of appropriately qualified persons to whom they have delegated significant Study-related duties, if required; 
+(8) uses his or her best endeavours to recruit the target number of Study Subjects, within the recruitment period, specified in Schedule 1, provided that if the overall target number of Study Subjects for the Study is reached, the Sponsor may direct the Institution to cease recruitment; 
+(9) is available when a clinical research representative of the Sponsor visits the Study Site, as mutually agreed prior to the visit, and is contactable by telephone or electronic mail as frequently as is reasonably required;
+(10) notifies the Sponsor, the Institution and the Responsible HREC of any Adverse Events (including Serious Adverse Events) that occur during the course of the Study in accordance with the Protocol, and relevant ethical and regulatory guidelines, and in the case of the Institution and the Responsible HREC with their policies and procedures;
+(11) completes Case Report Forms within the agreed time period.  The Principal Investigator will ensure that Study Subjects' identifying information are removed from all records being transferred to the Sponsor;
+(12) provides regular written progress reports to the Sponsor in relation to the Study as required by the Protocol;
+(13) completes and returns to the Sponsor as required any Study related materials within a reasonable time period; 
+(14) is not subject to any obligations, either contractually or in any other way, which would unreasonably interfere with or prohibit the performance of work related to this Study; and
+(15) ensures that informed consent to participate in the Study is obtained from each Study Subject prior to their enrolment in the Study and documented using an information and consent document which has been reviewed and approved by the Sponsor, the Institution and the Responsible HREC.
+4. Institution
+4.1 Obligations and responsibilities
+(1) If the Principal Investigator leaves the Institution or otherwise ceases to be available then:
+(a) the Institution must consult with the Sponsor and use reasonable endeavours to nominate as soon as practicable a replacement reasonably acceptable to both Parties; and
+(b) the Sponsor may require recruitment into the Study by the Institution to cease, or move the Study to a different study site.
+(2) If the Principal Investigator fails to carry out those obligations specified in clauses 3.3(2), (3), (5), (8), (10), (11), (13) ,(15), then the Institution must itself perform those obligations and rectify and make good any breach.  The Institution will ensure that any Personnel who assist in the conduct of the Study are informed of and agree to abide by all terms of this Agreement relevant to the activities they perform.
+(3) The Institution warrants that to the best of its knowledge, it, its affiliates and any person involved in the conduct of the Study, including the Principal Investigator, are properly registered with appropriate professional registration bodies, have not been disqualified from practice or disbarred or banned from conducting clinical trials by any Regulatory Authority for debarment.  Furthermore, the Institution shall notify the Sponsor as soon as practical after it becomes aware of any such disqualification, disbarment or ban.
+(4) The Institution will not engage in any conduct on the Sponsor's behalf which is in violation of, or potentially in violation of, any applicable local or foreign laws or regulations. 
+(5) The Institution must have adequate security measures to ensure the safety and integrity of the Investigational Product, Essential Documents and Study records and reports, Equipment and any Study related materials held or located at the Study Site.
+(6) Subject to clause 9, the Institution will allow regular monitoring visits in accordance with the GCP Guideline, access for the purposes of audit and as required by Regulatory Authorities or as specified in the Protocol and permit access to the Essential Documents (including original records), Study records, reports, other Study related materials and its Personnel as soon as is reasonably possible upon request by the Sponsor, Regulatory Authority, Responsible HREC or any third party designated by the Sponsor. Any such access to take place at times mutually agreed during business hours and subject to such reasonable conditions relating to occupational health and safety, security, and confidentiality as the Institution may require. 
+(7) The Institution will make available adequate facilities, equipment and any other resource of the Institution reasonably required to safely follow the Protocol, provided that any amendments to the Protocol which take place after the execution of this Agreement and requiring any additional use of facilities, equipment, staff or resources, have been approved in writing by the Institution and the Responsible HREC.
+(8) The Institution will have an adequate number of appropriately qualified Personnel for the foreseen duration of the Study and ensure that such Personnel are adequately informed about the Protocol, Investigational Product(s), and their Study related duties and functions.  The Personnel appointed by the Institution to assess Study Subjects will attend an investigator meeting or a pre-study/initiation meeting, where appropriate.
+(9) The Institution must retain and preserve a copy of all Study Materials, including copies of signed consent forms, Case Report Forms, Protocol, information relating to the Investigational Product, correspondence and investigator files for at least 15 years from Study Completion and must ensure that no Study related materials are destroyed before the expiration of this time period without the written approval of Sponsor.  The Institution agrees to notify the Sponsor before destroying any Study Materials and agrees to retain the Study Materials for such longer period as reasonably required by the Sponsor at the Sponsor's expense.
+(10) The Institution will ensure that the Study is subject to the continuing oversight of the Responsible HREC throughout its conduct.
+(11) If the Institution is contacted by any Regulatory Authority in connection with the conduct of the Study, the Institution shall immediately notify the Sponsor, unless prevented from doing so by law.
+(12) The Institution will provide the Sponsor with all reasonable assistance and cooperation to rectify any matter raised by a Regulatory Authority or as the result of an audit of the Institution or Study Site. This includes execution of any documents reasonably requested by the Sponsor in connection with the requirements of a Regulatory Authority or the Sponsor as a result of such an audit. The cost will be borne by the Sponsor unless such rectification is due to the default of the Institution or the Principal Investigator.
+5. 
+Sponsor
+5.1 Obligations and responsibilities
+(1) Prior to the Agreement being executed, the Sponsor will provide the Principal Investigator, and through the Principal Investigator the Institution and the Responsible HREC, with all current and relevant information regarding the Investigational Product as reasonably required to justify the nature, scope and duration of the Study. 
+(2) The Sponsor will implement and maintain quality assurance and quality control systems with written standard operating procedures to ensure that the Study can be conducted and data generated, documented, recorded and reported in compliance with all of the documents referred to in clause 2.
+(3) The Sponsor will designate appropriately qualified personnel to advise on Study-related medical questions or problems.
+(4) The Sponsor will monitor the application of the Investigational Product in other places (both within and outside Australia) and advise the Institution, through the Principal Investigator and TGA of the cessation elsewhere of any relevant trial, or the withdrawal of the Investigational Product from any other market for safety reasons. 
+(5) 	The Sponsor will notify the Institution of any Adverse Events (including Serious Adverse Events) that occur during the course of the Study (either at the Study Site or other study sites, including overseas sites) which may require alteration of the conduct of the Study, or which may affect the rights, interests, safety or well-being of Study Subjects.
+(6) The Sponsor will cooperate with the Institution and/or the Responsible HREC in investigating any Adverse Event (including Serious Adverse Event) arising out of or in connection with the Study.
+(7) To assist the Institution to comply with clause 8, the Sponsor will provide the Institution with adequate information and all necessary product accountability forms. 
+(8) The Sponsor will provide indemnity to the Institution and members of the Responsible HREC against claims arising from the Study on the terms and conditions set out in the relevant Medicines Australia Form of Indemnity for Clinical Trials as set out in Schedule 3. 
+(9) The Sponsor will comply with the Medicines Australia Guidelines for Compensation for Injury Resulting from Participation in a Company-sponsored Trial as specified in Schedule 5.
+(10) The Sponsor will maintain insurance with respect to its activities and indemnity obligations under this Agreement in accordance with Schedule 4.  This insurance is to be evidenced by a certificate of currency of insurance, as requested by the Institution from time to time.
+6. Payments 
+6.1 In consideration of the Institution conducting the Study, the Sponsor will pay to the Institution as nominated in Schedule 2 in the manner and on the basis of the prices and at the times set out in Schedule 2.  The prices set out in Schedule 2 do not include GST.  At the time of payment, the Sponsor must pay to the Institution any amount of GST that the Institution  is required to pay in addition to the prices set out in Schedule 2, and in accordance with GST Law.
+6.2 The Sponsor reserves the right to refuse to pay to the Institution payments specific to Study Subjects entered into the Study who do not meet the entry criteria specified in the Protocol.
+6.3 If a Study Subject discontinues their participation in the Study or if the Study is terminated as a whole, only those costs incurred up until the date of discontinuation or termination, including costs of final visit and completion of all Case Report Forms, will be paid.
+6.4 Payments will be made by the Sponsor upon either receipt of a valid tax invoice or a "Recipient Created Tax Invoice" issued by the Sponsor. 
+6.5 The Sponsor and the Institution warrant that they are registered under GST Law.  Tax invoices must identify supplies for which GST is payable.
+6.6 The final payment will be made following Study Completion.
+6.7 No part of any consideration paid hereunder is for the recommending or arranging for the referral of business or the ordering of items or services.
+6.8 Neither this Agreement nor any consideration paid hereunder is contingent upon the Institution's use or purchase of any of the Sponsor's products.  
+7. Provision of Equipment
+7.1 The Sponsor will provide the Institution and Principal Investigator with the Equipment at the Sponsor's expense.  Unless otherwise agreed by the parties in writing, the Equipment will be used only by the Principal Investigator and Personnel involved in the conduct of the Study and only for the purposes of the Study.  
+7.2 If proper usage of the Equipment requires training, the Institution agrees that: 
+(1) the Principal Investigator and Institution's Personnel will make themselves available for training in using the Equipment, at the Sponsor's expense; and 
+(2) the Equipment will only be used as described in written directions provided by the Sponsor.
+7.3 The Equipment will be at the risk of the Sponsor, but the Institution will take reasonable care in the use and secure storage of the same. 
+7.4 The Sponsor will be responsible for arranging and paying for any required Internet connection as necessary to use the Equipment.
+7.5 At the completion of the Study or at the Sponsor's request, the Institution will, unless otherwise specified, return to Sponsor, at the Sponsor's expense, the Equipment and all related training materials and documentation. 
+7.6 The Sponsor will cooperate with the Institution in maintaining, at the Sponsor's expense, the Equipment in good working order, and ensuring that it is in a safe condition and compliant with the requirements of the relevant licensing and safety authorities at all times.
+8. 
+Investigational Product
+8.1 The Institution must:
+(1) ensure that all Investigational Product made available by the Sponsor is used strictly according to the Protocol and are not used for any other purposes, unless agreed in writing by the Sponsor;
+(2) provide a written explanation accounting for any missing Investigational Product; 
+(3) not charge a Study Subject or third party payer for Investigational Product or for any services reimbursed by the Sponsor under this Agreement; and
+(4) keep all Investigational Product under appropriate storage conditions as specified in the Protocol in a secured area accessible only to authorised Personnel, and that complete and current records are maintained for all received, dispensed and returned Investigational Product. 
+8.2 The Sponsor will supply the Principal Investigator with such quantities of the Investigational Product as will be required for the purpose of the Study.  All supplied Investigational Product will be packaged in safe and appropriately labelled containers.  The Sponsor will at all times remain the sole owner of the Investigational Product.
+8.3 In the event of termination, the Institution must promptly return (or destroy if requested by the Sponsor, and provide evidence of such destruction) to the Sponsor any unused Investigational Product.
+9. Confidentiality 
+9.1 Subject to clause 9.2, the Parties must not, and must ensure their Personnel do not, use or disclose any Confidential Information, other than where and only to the extent such use or disclosure is necessary for the performance of the Study. 
+9.2 The Institution may use or disclose Confidential Information in any of the following circumstances:
+(1) for the purposes of complying with the Institution's internal complaint procedures, accident reporting procedures, quality assurance activities, disciplinary procedures or any applicable policy in relation to patient safety, Adverse Events and/or reportable incidents;
+(2) for the purposes of disclosing any material risks identified during the Study or subsequent to it, to Study Subjects, Principal Investigators, medical practitioners administering treatment to Study Subjects, Responsible HRECs and Regulatory Authorities;
+(3) for the purposes of complying with the requirements of any Regulatory Authority; 
+(4) for the purposes of the monitoring of the Study by the Responsible HREC;
+(5) where the Sponsor consents in writing to the disclosure;
+(6) where the Confidential Information has been independently received from a third party who is free to disclose it;
+(7) where the Confidential Information has entered the public domain other than as a result of a breach of this Agreement;
+(8) as part of a publication issued under the provisions of clause 11; 
+(9) where release of the Confidential Information is required by law, with notice as soon as reasonably practical to the Sponsor;
+(10) for the purposes of legal advice; and
+(11) disclosure to the Institution's insurer. 
+9.3 Where Confidential Information is disclosed in accordance with clause 9.2(1) or 9.2(4), the Confidential Information must only be used in connection with the legitimate purposes of the Institution, and only disclosed to those who have a need to know it for such purposes and are obligated to keep the information confidential.
+9.4 The parties are responsible for ensuring that their Personnel are aware of the obligations in respect of Confidential Information in this clause 9, and are bound in similar terms to keep such information confidential, but are not responsible if those Personnel deliberately and intentionally fail to observe those restrictions. 
+10. Privacy
+10.1 The parties must ensure that any Personal Information arising from the Study regarding Study Subjects or Personnel, is collected, stored, used and disclosed in accordance with the Relevant Privacy Laws.
+11. Publications
+11.1 The Institution, Principal Investigator and other investigators ("Discloser") involved in the Study have the right to Publish the methods, results of, and conclusions from, the Study, subject to this clause and in accordance with copyright law. 
+11.2 If the Study is a Multi-centre Study, then the Institution agrees that no Publication of the Study results may be made until Publication of the results of the Multi-centre Study or 2 years after Study Completion, whichever is the sooner.  The further provisions of this clause still apply to any such Publication.
+11.3 The Institution must ensure that the Discloser gives notice of any proposed Publication drafted by them and/or other Personnel involved in the conduct of the Study to the Sponsor at least 40 days before any forwarding to a party that is not bound by the confidentiality obligations set out in clause 9. 
+11.4 The Sponsor may, within that 40-day period do any one or more of the following:
+(1) provide comments on the proposed Publication to the Institution, in which case the Institution must consider such comments but will not be bound to follow them; 
+(2) request delay of Publication for no more than 120 days to allow the Sponsor to file patent applications or take other measures to preserve its proprietary rights, in which case the Institution must abide by that request;
+(3) request that the Discloser remove specified Confidential Information (other than the results of the Study) from the Publication, in which case the Institution must remove such specified Confidential Information as is reasonably required to protect the Intellectual Property of the Sponsor. 
+11.5 If the Institution has not received any comments from the Sponsor on the proposed Publication within 40 days of giving notice to the Sponsor under clause 11.3, the Discloser may proceed to make the Publication. 
+11.6 Where the Sponsor intends to Publish the method, results or conclusions from the Study, any person named as an author on that Publication or otherwise noted as the Principal Investigator or an investigator of the Study in the Publication, will be given a reasonable opportunity to review the Publication and request the removal of his or her name from the Publication and the Sponsor shall comply with any such request.
+11.7 In all Publications the Sponsor's support of the Study shall be acknowledged.
+11.8 The Sponsor may Publish a summary of the Study Results and conclusions on the Sponsor's on-line Clinical Trial Register before or after Publication by another method.
+11.9 The Sponsor may freely use, copy and disseminate any manuscript following its Publication in a journal without further obligation to the Institution or Discloser.
+12. Study Results and Intellectual Property
+12.1 All Intellectual Property created and provided by the Sponsor remains the sole property of the Sponsor.
+12.2 In order to carry out the Study, the Institution may use Intellectual Property which is part of the Institution's Background Intellectual Property. Any such Background Intellectual Property remains the sole property of the Institution. The Institution grants to the Sponsor a non-exclusive, perpetual, royalty free licence to use (including the right to sub-licence) the Institution's Background Intellectual Property for the commercialisation of the Study Materials.
+12.3 Subject to clause 12.2, all Intellectual Property in the Study Materials will vest automatically upon its creation in the Sponsor, and the Institution presently assigns to the Sponsor all existing and future Intellectual Property rights (including all future copyright) contained in the Study Materials.  The Institution agrees to execute or procure the execution by its Personnel of any documents reasonably necessary to give effect to this assignment, at the Sponsor's expense.
+13. Term and Termination
+13.1 This Agreement commences from the date specified on the first page of this Agreement, or if such date is not included on the date this Agreement is last signed by either the Sponsor or Institution.  In the ordinary course of events this Agreement terminates when the Sponsor makes its final payment to the Institution.
+13.2 Either the Sponsor or the Institution may terminate this Agreement with 30 days prior written notice or such shorter time period as is reasonably required in the circumstances if the other party:
+(1) is in breach of any obligations under the Agreement or the Protocol (including without just cause to meet a timeframe) and fails to remedy such breach where it is capable of remedy within 30 days of a written notice from the terminating party specifying the breach and requiring its remedy;
+(2) is declared insolvent or has an administrator or receiver appointed over all or any part of its assets or ceases or threatens to cease to carry on its business; or
+(3) assigns this Agreement to a person considered unsuitable to perform the Agreement as set out in clause 19.3.
+13.3 In addition to clause 13.2, a party may terminate this Agreement immediately by written notice to the other party if it believes on reasonable grounds that:
+(1) continuing the Study poses an unacceptable risk to the rights, interests, safety or well-being of Study Subjects; and
+(2) terminating this Agreement is the most appropriate way to respond to that risk. 
+13.4 The Sponsor may terminate this Agreement with 30 days prior written notice to the Institution.  In the event of such early termination, the Sponsor will pay the reasonable costs of the Institution relating to the Study calculated in accordance with Schedule 2.
+13.5 In the event of termination, the Institution must promptly initiate all appropriate action to close the Study and, subject to any applicable retention requirements imposed by law, return to the Sponsor (or destroy if requested by the Sponsor, and provide evidence of such destruction) any completed Case Report Forms and other materials received from the Sponsor before Study Completion. 
+13.6 In the event of termination the Sponsor must take all appropriate action to close out the Study Site in a timely manner.
+13.7 In the event of early termination, the Sponsor will cooperate with the Institution to ensure that Study Subjects who may be affected by termination receive adequate medical care. This may include the provision of Investigational Product in certain circumstances at the Sponsor's expense.
+13.8 The following provisions survive termination of this Agreement, clauses 1.1, 1.2, 4.1(6), 4.1(7), 4.1(9), 5.1(8), 5.1(9), 5.1(10), 9, 10, 11, 12, 13, 14, 15, 16, 18 and 21.
+14. Disputes
+14.1 No party may commence legal proceedings against another in respect of a dispute arising in relation to this Agreement (except for urgent interlocutory relief) unless the parties have complied with this clause and that party has first notified the other party in writing of the dispute and has used all reasonable endeavours to resolve the dispute with the other party within 28 days of the giving of that notice ("Initial Period").
+14.2 If the dispute is not resolved within the Initial Period, then the dispute shall be referred within a further 28 days to the Australian Commercial Disputes Centre for mediation or any other agreed venue which conducts mediation. The parties will by agreement appoint a mediator to mediate the dispute in this forum. If the parties cannot agree to a mediator, then the mediator will be nominated by the then current President of the Law Society of the State or Territory in which the Institution is located. Any documents produced for the mediation are to be kept confidential and cannot be used except for the purpose of settling the dispute.
+14.3 Each party must bear its own costs of resolving a dispute under this clause, and unless the parties otherwise agree, the parties to the dispute must bear equally the costs of the mediator.
+14.4 In the event that the dispute is not settled at mediation within 28 days (or such other period as the parties agree in writing) after the appointment of the mediator, or if no mediator is appointed, then within 28 days of the referral of the dispute to mediation, then the parties are free to pursue any other procedures available at law for the resolution of the dispute.
+15. Applicable Law
+This Agreement will be governed by, and construed in accordance with, the law for the time being in force in the State or Territory in which the Institution is located and the parties submit to the jurisdiction of that State or Territory and courts entitled to hear appeals from those courts. 
+16. Notices
+16.1 A notice, consent, approval or other communication (each a notice) under this Agreement must be:
+(1) delivered to the party's address;
+(2) sent by pre-paid mail to the party's address; or
+(3) transmitted by facsimile to the party's address.
+16.2 A notice given by a party in accordance with this clause is treated as having been given and received:
+(1) if delivered to a person's address, on the day of delivery if a business day, otherwise on the next business day;
+(2) 	if sent by pre-paid mail, on the third business day after posting;
+(3) if transmitted by facsimile to a person's address and a correct and complete transmission report is received, on the day of transmission if a business day, otherwise on the next business day.
+16.3 The addresses of the parties for the purposes of giving any notice are set out on the front page of this Agreement.
+17. Waiver
+17.1 No right under this Agreement is waived or deemed to be waived except by notice in writing signed by the party waiving the right.  A waiver by any party in respect of any breach of a condition or provision of this Agreement will not be deemed to be a waiver in respect of any other breach.
+17.2 Failure or delay by any party to enforce any provision of this Agreement will not be deemed to be a waiver by that party of any right in respect of any other such breach.
+18. Variations
+No variations of this Agreement are legally binding on any party unless evidenced in writing signed by all parties.
+19. Assignment
+19.1 Subject to clause 19.2, a party may not assign its rights or obligations under this Agreement without the prior written consent of the other party, such consent not to be unreasonably withheld.
+19.2 A party may assign the benefit of this Agreement necessitated by the merger or sale of all or substantially all of its assets, provided it obtains from the relevant assignee a written undertaking in favour of the other party to be bound by the terms of this Agreement.
+19.3 If a party assigns this Agreement under clause 19.2, and the relevant assignee is determined by the non-assigning party, in its discretion, as unsuitable to perform its obligations under this Agreement, that party may terminate the Agreement in accordance with clause 13.2(3).
+20. Subcontracting
+20.1 The Sponsor may subcontract any of its obligations under this Agreement, save for the obligations set out in clauses 5.1(8), 5.1(9) and 5.1(10) of the Agreement.  The Sponsor remains responsible for all subcontracted obligations and is liable for all acts and omissions of any subcontractor as if they were the Sponsor's acts and omissions. In the event that the Sponsor subcontracts with another party to perform any of the Sponsor's obligations under this Agreement, the Sponsor is bound by and will observe its obligations under clause 9.1 in its dealings with the subcontractor.
+20.2 No subcontractor will have any rights under this Agreement against the Institution or be entitled to receive any payment from the Institution.
+21. Entire Agreement
+This Agreement constitutes the entire agreement between the parties and supersedes all prior representations, agreements, statements and understandings, whether verbal or in writing.
+22. Severance
+If any part of this Agreement is prohibited, void, voidable, illegal or unenforceable, then that part is severed from this Agreement but without affecting the continued operation of the Agreement.
+23. Relationship of the Parties
+Nothing in this Agreement creates a relationship of employer and employee, principal and agent, joint venture or partnership between the parties and no party will hold itself out as an agent for another.
+24. Force Majeure
+If any party is delayed or prevented from the performance of any act required under the Agreement by reason of any act of god, act of nature, including any epidemic or outbreak of pandemic disease, fire, act of government or state, war, civil commotion, insurrection, embargo, prevention from or hindrance in obtaining raw material, energy or other supplies, labour disputes of whatever nature or whatever reason beyond the control of the party, performance of such act shall be excused for the period of such event provided that if such interference lasts for any period in excess of 30 days each party may, by written notice to the others, terminate this Agreement. 
+25. Conflict
+In the event of any inconsistency between this Agreement and the Protocol, this Agreement prevails.
+
+In witness hereof, the parties have caused this Agreement to be executed as of respective dates written below.
+
+
+Signed on behalf of the Sponsor
+
+
+
+Signed:
+              
+Name:
+              
+Position:
+              
+Date:
+              /              /              
+
+
+
+Signed on behalf of the Institution
+
+
+
+Signed:
+              
+Name:
+              
+Position:
+              
+Date:
+              /              /              
+
+The Principal Investigator acknowledges this Agreement and understands the obligations it imposes
+
+Acknowledged by the Principal Investigator
+
+
+
+Signed:
+              
+Name:
+              
+Position:
+              
+Date:
+              /              /              
+Schedule 1
+Key Information
+(To be inserted by Sponsor)
+
+Study Name:               Study Site/s:                              Target number of Study Subjects:Minimum:                Maximum:                Recruitment Period:Start:          /          /           End:          /          /          Principal Investigator Name:               Address:                              			State:                                  P/code:                Responsible HREC:               Equipment Provided by Sponsor:                                                                                                                        
+
+Schedule 2
+Payments
+
+Please Paste/Enter Text In Field Below
+
+               
+
+Schedule 3 
+Form of Indemnity for Clinical Trials
+(To be inserted by Sponsor)
+
+
+The Sponsor agrees to execute and deliver to the Institution, as necessary, an indemnity in the form of the Medicines Australia Standard Form of Indemnity for Clinical Trials without amendment.
+
+Please Paste/Enter Text In Field Below
+
+               
+
+Schedule 4 
+Insurance Arrangements
+(To be inserted by Sponsor)
+
+Certificate of Insurance
+
+For a Study to be conducted in Victoria, the following details are mandatory;
+* Insurance provider
+* Insured Entity
+* Additional Insured
+* Protocol/ CTN number
+* Limits of Liability in AUD/ Per occurrence amount and Annual Aggregate
+* Excess/ deductible/ Self insured risk
+
+
+Victorian Managed Insurance Authority Guidelines can be found at the VMIA website in the 'Clinical Trials' section under 'Public Healthcare':
+http://www.vmia.vic.gov.au/   
+
+Please Paste/Enter Text In Field Below
+
+               
+
+Schedule 5
+Guidelines for Compensation for Injury Resulting from Participation in a Company-Sponsored Trial
+
+Please Paste/Enter Text In Field Below
+
+(Or include website address)
+
+               
+
+ Schedule 6
+Study Protocol Identification
+
+
+Full Title:                
+                
+                
+Version Number:                
+Date:                
+List of Key Attachments:                
+                
+                
+                
+                
+                
+
+
+
+Schedule 7
+Special Conditions
+
+Please Paste/Enter Text In Field Below
+               
+
+
+
+
+
+BOS/Standard Clinical Trials Research Agreement Commercially Sponsored Trials.doc
+
+Protocol Number:               
+Site:               
+CTRA January 2009							Page 1 of 24
+
+
+
+Protocol Number:               
+Site:               
+CTRA January 2009							Page 1 of 24
+
+

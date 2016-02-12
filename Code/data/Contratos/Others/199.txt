@@ -1,0 +1,116 @@
+
+
+CCF Software License Agreement
+ Integrated Management System (CCF-IMS)
+
+PLEASE READ THIS LICENSE CAREFULLY. 
+
+Your CCF-IMS documentation is uniquely registered to your company by the license number _________________________. By using the uniquely identified SCIMS documentation and software (referred to jointly as "CCF-IMS Software") supplied with this License you (the licensee) agree to be bound by the terms of this License. 
+
+This agreement supersedes any other agreement be it verbal or written, by any person or agent of CCF.
+
+ 1 License
+
+CCF (the "Licensor") grants to you a non-exclusive, non-transferable License to use the 
+CCF-IMS Software in accordance with the terms of this License. The Licensor reserve all rights not expressly granted to you and retains ownership of the copyright and all other intellectual property rights in the CCF-IMS Software.
+
+ 2 Use
+
+(a) The CCF-IMS Software may only be loaded on workstations in the registered company's computer network, it is preferable to use IMS on only one workstation to avoid system duplication.
+(b) You must not:
+(a) Use or rely upon the CCF-IMS Software for any purpose or in any manner for which the CCF-IMS Software is not warranted;
+(b) Copy, reproduce, translate, adapt, vary, merge or modify or create any derivative work based on the CCF-IMS Software either in whole or in part; 
+(c) Reverse engineer, de-compile, disassemble, reconfigure or otherwise attempt to discover the source code of the CCF-IMS Software;
+(d) Sell, market, network, transfer, lease, licence, rent, lend or otherwise dispose of or distribute the CCF-IMS Software, without the prior consent in writing of the Licensor;
+(e) Use the CCF-IMS Software on a timesharing basis or to operate a service bureau facility for the benefit of third-parties;
+(f) Incorporate the whole or any part of the CCF-IMS Software in any other program or system.
+
+
+ 3 Maintenance of Software 
+
+The Licensor is not required to enhance or upgrade or provide technical support for the CCF-IMS Software free of charge.
+ 
+
+ 4 Risk
+
+Risk of loss or damage to the CCF-IMS Software, the media and any manuals shall pass to you upon delivery of the Software to you.
+
+ 5 Warranty
+
+(a) Subject to clauses 7(a), the CCF-IMS Software is provided "as is" and without any representations by the Licensor or any of its authorized distributors regarding the use, performance or results of the use, of the Software.
+(b) The Licensor warrants that the media on which the CCF-IMS Software is recorded is free from defects in manufacture for a period of 30 days from the date of delivery. During this period the Licensor will replace any defective media on which the Software was supplied and any CCF-IMS Software on that media, free of charge.
+(c) While the Licensor has endeavoured to make sure that the CCF-IMS Software works, the Licensor does not guarantee that the CCF-IMS Software will work on all computer hardware platforms or configurations and makes no warranty that the CCF-IMS Software will be error free or that use will be uninterrupted.
+
+ 6 Liability
+
+(a) Where conditions, warranties or other rights for your benefit are implied in this License or otherwise conferred by the Trade Practices Act 1974 (Commonwealth of Australia) and it is not lawful to exclude them, then those conditions, warranties and other rights will (but only to the extent required by law) apply to this License. Other than as set out in this License, all implied conditions, warranties and rights are excluded from this License.
+(b) The Licensor will not be liable to you or any other person for any indirect loss, damages, costs or expenses suffered by you or any other person relating to the performance, non-performance or any breach of this License or the supply of the CCF-IMS Software.
+(c) You agree that the Licensor will not be liable, other than as expressly set out in this License, and that you will indemnify the Licensor in respect of any liability, loss, damage, costs or expenses which you may suffer or incur as a result of your use of the CCF-IMS Software (including any claims made against you by third parties).
+(d) No liability for consequential damages.   In no event shall CCF or its agents be liable for damages whatsoever, including, without limitation, damages for loss of business profits, business interruption, loss of business information or other pecuniary loss, arising from the use of or inability to use the CCF-IMS Software product, even if CCF has been advised of the possibility of such damages.
+(e) The Licensor disclaims all liability for any corruption of data, errors in data, inability to access data, breach of privacy, downtime as a result of or arising from the use of any link between the CCF-IMS Software and any other CCF-IMS Software. 
+(f) The Help and FAQ's contained in this CCF-IMS Software are not a substitute for professional advice. The Licensor, its employees, agents, contractors and the authors disclaim any and all liability and responsibility to any person, whether a user of this Software or not, in respect of anything (including, without limitation, any error in or omission from this CCF-IMS Software) and of the consequences of any actions taken or omitted to be taken in reliance, whether wholly or partially, upon all or any part of the content, recommendations or help contained in this CCF-IMS Software.
+
+ 7 Termination
+
+(a) For the purpose of this Agreement, the following are terminating events:
+(i) The breach or threatened breach by you of any of your material obligations under this agreement;
+(ii) The merger with or the takeover of you by another person;
+(iii) Any event described in this Agreement as a terminating event
+(b) The License may be terminated immediately by the Licensor on the happening of a terminating event at the option of the Licensor.
+(c) Immediately a terminating event specified in Clauses 8(a)(i) to 8(a)(iii) occurs, you shall immediately inform the Licensor of the event.
+(d) Any termination of the License shall not affect any accrued rights or liabilities of either party, nor shall it affect any provision of this Agreement which is expressly or by implication intended to continue in force after such termination.
+ 
+ 8 Term of License
+
+(a) The term of this License is perpetual, provided that this License may be terminated by the Licensor if you are in breach of this License or as otherwise set out in this License.
+(b) Clauses 3, 6 and 7 will survive the termination of this License. Termination of this License will not prejudice any right which the Licensor may have, or but for the termination may have had, against you for a breach of this License.
+(c) Upon the termination of this License, you or your representative must delete the Software from your computer, destroy the Software, user's manual and related materials and any copies of them which you possess or return or dispose of them in the manner directed by the Licensor.
+
+ 9 Enhancements
+
+(a) Software enhancements and patches to the CCF-IMS Software product, issued during the term of this license, shall be subject to all the conditions of this license
+
+ 10 General
+
+(a) This License is governed by the laws of the State of Victoria. 
+(b) This License contains the entire agreement between the Licensor and you in relation to its subject matter and supersedes any prior agreements and understandings, whether written or oral.
+(c) The CCF-IMS Software is protected by Australian and International copyright.
+
+11 License Fee
+
+The Licensee agrees to pay the nominated (by the Licensor) annual license fee to the Licensor within the terms indicated on the annual license fee invoice.  The Licensor shall forward the annual license fee invoice 30 days prior to the annual anniversary of the date of original CCF-IMS Software purchase.
+
+
+Signed on behalf of Purchaser 
+
+
+Signature:___________________________
+
+
+Print Name:__________________________
+
+Position:_____________________________
+
+Company:___________________________
+
+
+ABN:_______________________________
+
+Signed on behalf of Civil Contractors Federation
+
+Signature:___________________________
+
+
+Print Name:__________________________
+
+
+Position:_____________________________
+
+
+Date:________________________________
+
+
+Date:_______________________________
+
+CCF-IMS Software LICENSE1
+

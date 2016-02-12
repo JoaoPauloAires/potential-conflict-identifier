@@ -1,0 +1,474 @@
+SCHEDULE S8 
+
+ESCROW AGREEMENT
+
+This ESCROW AGREEMENT is made the  ..........................................  day of  ...........................................................................20...........
+Between  .......................................................................................................................................................................................................
+[insert name, and A.C.N, if applicable] (in this Escrow Agreement called the "Escrow Agent") of the first part
+
+and  ...............................................................................................................................................................................................................
+[insert name, and A.C.N, if applicable and GITC Agreement Number]
+(in this Escrow Agreement called "the Contractor") of the second part
+
+and.................................................................................................................................................................................................................
+[insert name of Government Party] (in this Escrow Agreement referred to as "the Customer") of the third part
+
+Whereas:
+
+A.	By this Escrow Agreement made on the ........................ day of  ............................................... 20.......... the Contractor has agreed to grant a License to the Customer to use the Licensed Software.
+
+B.	The Contractor and the Customer have agreed to appoint an escrow agent and the Escrow Agent has agreed to act as Escrow Agent and to hold the Source Code for the Licensed Software on the following terms and conditions.
+
+NOW THIS ESCROW AGREEMENT WITNESSES:
+
+1.	Interpretation
+
+1.1	In this Escrow Agreement the following words have the following meaning:
+
+	"Contract Specifications" means the totality of any technical or descriptive specifications of functional, operational, performance or other characteristics required of the Licensed Software provided by a Party under the Customer Contract and may include:
+(a) any specifications agreed to by the Customer and the Contractor in the performance of their obligations under and in accordance with the terms of the Customer Contract;
+(b) any specifications detailed or referred to by the Customer in the General Order and/or applicable Module Order; and/or
+(c) those specifications generally published or made publicly available by the Contractor which specifically relate to the Licensed Software under a Customer Contract,
+and to the extent that there is any inconsistency between the Contract Specifications referred to in (a), (b) and (c), the priority shall be (a), (b) and (c) in that order from highest to lowest.
+
+	"Customer Contract" means the contract between the Customer and Contractor under which the license for the Licensed Software was granted.
+
+	"Defect" means a defect, error or malfunction that causes the Licensed Software to not comply with or not perform in accordance with the Contract Specifications when operated in accordance with the Contract Specifications;
+
+	"Escrow Fee" means the fee set out in Attachment 1;
+
+	"Licensed Software" means the software specified in Attachment 2 and includes any Update or New Release of that software provided to the Customer under the Customer Contract and any material related to the Licensed Software such as, but not limited to, flow charts, logic diagrams and listings that the Contractor makes generally commercially available from time to time;
+
+	"License Period" has the same meaning as it has in the Customer Contract;
+
+	"New Release" means software (including the latest current version) which has been produced primarily to extend, alter or improve the Software, as the case may be, by providing additional functionality or performance enhancement (whether or not Defects in the Licensed Software are also corrected) while still retaining the original designated purpose of the Software.
+
+	"Source Code" means the Licensed Software expressed in human-readable language which is necessary for understanding, maintaining, modifying, correcting and enhancing the Licensed Software and that is deposited with the Escrow Agent in accordance with this Escrow Agreement;
+
+	"Supporting Material" means all of the material and data developed and used in and for the purpose of creating the Licensed Software including (but not limited to) compiled object code, tapes, operating manuals and other items listed in Attachment 3;
+
+	"System" means:
+(a) the Customer's group of operationally related hardware and software; and
+(b) the system the Contractor is to provide that complies with the Customer Contract.
+
+	"Virus" means a computer program, code, device, product or component that is designed to:
+(a) prevent, inhibit or impair the performance of Licensed Software (in accordance with its Contract Specifications) or the System; or
+(b) facilitate or permit any authorized access to, or otherwise adversely impact on the security of the System.
+
+	"Update" means software which has been produced primarily to overcome Defects in, or to improve the operation of, the Licensed Software without significantly altering the Licensed Software Specifications whether or not the Licensed Software has also been extended, altered or improved by providing additional functionality or performance enhancement;
+
+1.2	In this Escrow Agreement, unless the contrary intention appears:
+	(a)	monetary references are references to Australian currency;
+	(b)	the clause and sub-clause headings are for convenient reference only and have no effect in limiting or extending the language of the provisions to which they refer;
+	(c)	a cross reference to a clause number is a reference to all its sub-clauses;
+	(d)	words in the singular number include the plural and vice versa;
+	(e)	words importing a gender include any other gender;
+	(f)	a reference to a person includes a partnership and a body whether corporate or otherwise;
+	(g)	a reference to a clause or sub-clause is a reference to a clause or sub-clause of this Escrow Agreement;
+	(h)	a reference to an Attachment is a reference to an Attachment to this Document;
+	(i)	where a word or phrase is given a particular meaning, other parts of speech and grammatical forms of that word or phrase have corresponding meanings.
+
+1.3	Where an obligation is imposed on a party under this Escrow Agreement, that obligation shall include an obligation to ensure that no act, error or omission on the part of that party's employees, agents or sub-contractors or their employees or agents occurs which will prevent the discharge of that party's obligation.
+2.	Duration
+2.1 This Escrow Agreement is in force until the Source Code and Supporting Material is released in accordance with this Escrow Agreement or the Escrow Agreement is otherwise terminated.
+3.	Appointment of Escrow Agent
+3.1 The Escrow Agent is hereby appointed jointly by the Customer and the Contractor and, subject to the terms and conditions of this Escrow Agreement, is granted full power and authority to act on behalf of each Party to this Escrow Agreement.
+
+4.	Contractor's Obligations
+4.1	The Contractor shall deliver to, and deposit with, the Escrow Agent one copy of the Source Code and the Supporting Material within seven (7) days of the date of this Escrow Agreement.
+4.2	The Contractor shall maintain, amend, modify, up-date and enhance the Source Code and Supporting Material at all times and shall ensure that the Source Code and Supporting Material deposited with the Escrow Agent is kept fully up-to-date and accurately reflects the Licensed Software including all Modifications, Amendments, Updates and New Releases made to, or in respect of, the Licensed Software.
+4.3	The Contractor warrants to the Customer that the Source Code is, to the best of the knowledge of the Contractor, free from any Virus or program device which would prevent the Licensed Software from performing its desired function or which would prevent or impede a thorough and effective verification thereof.
+5.	Escrow Agent's Obligations
+5.1	The Escrow Agent shall accept custody of the Source Code and Supporting Material on the date of delivery in accordance with sub-clause 4.1 of this Escrow Agreement and, subject to the terms and conditions of this Escrow Agreement, shall hold the Source Code and Supporting Material on behalf of the Customer and the Contractor.
+5.2	The Escrow Agent shall take all necessary steps to ensure the preservation, care, maintenance, safe custody and security of the Source Code and Supporting Material while it is in the possession, custody or control of the Escrow Agent, including storage in a secure receptacle and in an atmosphere which does not harm the Source Code and the Supporting Material.
+5.3	If the Source Code and/or Supporting Material is lost, stolen, destroyed or damaged while it is in the possession, custody or control of the Escrow Agent, the Escrow Agent shall immediately notify the Customer and the Contractor.
+5.4	Unless the Escrow Agreement is terminated in accordance with clause 9.2(b), the Contractor shall, upon receipt of a notice from the Escrow Agent under clause 5.3, promptly deposit a replacement copy of the Source Code and/or Supporting Material with the Escrow Agent.
+5.5	Upon receipt of the replacement copy of the Source Code and/or Supporting Material, the Escrow Agent shall promptly advise the Customer and Contractor in writing of its receipt of the replacement copy of the Source Code and/or Supporting Material.
+5.6	Without limitation to any other rights the Contractor and/or the Customer may have under this Escrow Agreement or at law, where the loss, damage or destruction of the Source Code and/or Supporting Material is caused by the negligent, wilful or unlawful act or omission of the Escrow Agent, the Escrow Agent must, at its own expense, reimburse the Contractor for the reasonable cost of replacing the Source Code and/or Supporting Material.
+5.7	The Escrow Agent is not obliged to determine the nature, completeness or accuracy of the Source Code lodged with it.
+6.	Escrow Fee and Expenses
+6.1	The Customer shall pay the Escrow Fee within 30 days of receipt of a correctly rendered tax invoice from the Escrow Agent.
+6.2	All expenses and disbursements incurred by the Escrow Agent in connection with this Escrow Agreement shall be borne wholly and completely by the Escrow Agent.
+6.3	All expenses and disbursements incurred by the Contractor in connection with this Escrow Agreement shall be borne wholly and completely by the Contractor.
+7.	Testing and Verification
+7.1	The Customer may, in the presence of and under the supervision of the Contractor, analyse and conduct tests in relation to the Source Code and Supporting Material for verification purposes.
+7.2	The Customer may engage an independent assessor to undertake analysis and tests of the Source Code and Supporting Material for verification purposes, on its behalf.
+7.3	The Escrow Agent shall release the Source Code and Supporting Material to the independent party upon presentation of a Release form signed by the Customer and the Contractor specifying the material to be released and identifying the person to whom that material may be released.
+
+8.	Release of the Source Code and Supporting Material
+8.1	The Escrow Agent shall not release, or allow access to, the Source Code and Supporting Material except in accordance with the provisions of this Escrow Agreement.
+8.2	The Escrow Agent shall release the Source Code and Supporting Material to the Customer upon written notice from the Customer that:
+	(a)	the Contractor has become subject to any form of insolvency administration;
+	(b)	the Contractor has ceased for any reason to maintain or support the Licensed Software;
+	(c)	the Customer Contract has been terminated by the Customer for breach of the Escrow Agreement by the Contractor; or
+	(d)	this Escrow Agreement is terminated (other than in accordance with Clause 9.4) and a new Escrow Agreement is not entered into within thirty (30) days in accordance with clause 9.3.
+8.3	Where the Customer Contract has been terminated by the Contractor or where the Customer has agreed to the release the Escrow Agent shall, upon written request from the Contractor, release the Source Code and Supporting Material to the Contractor.
+8.4	The Escrow Agent is not obliged to verify or otherwise test the validity of any notice received, or its contents.
+9.	Termination
+9.1	The Escrow Agent may, by giving three (3) months prior written notice to the Customer and the Contractor, terminate this Escrow Agreement subject to the pro-rata refund of any advance payment of the Escrow Fee.
+9.2	The Customer and the Contractor may jointly terminate this Escrow Agreement immediately if the Escrow Agent:
+	(a)	has become subject to any form of insolvency administration; or
+	(b)	is in breach of any obligation under this Escrow Agreement so that there is a substantial failure by the Escrow Agent to perform or observe this Escrow Agreement.
+9.3	If this Escrow Agreement is terminated in accordance with this clause while the Customer Contract remains in force, the Customer and the Contractor shall enter into a new Escrow Agreement on the same terms and conditions as are set out in this Escrow Agreement, with an alternative escrow agent who is acceptable to both the Customer and the Contractor.
+9.4	The Customer and the Contractor may, upon giving 30 days prior written notice to the Escrow Agent, jointly terminate this Escrow Agreement, however no refund of advance payment of the Escrow Fee will be payable.
+10.	Confidentiality
+10.1	The Escrow Agent shall not, except as permitted by this Escrow Agreement, make public or disclose to any person any information about this Escrow Agreement or the Source Code.
+10.2	The Escrow Agent shall not reproduce, or cause to have reproduced, a copy of the Source Code or any part thereof.
+10.3	The obligations under this clause shall survive the termination of this Escrow Agreement.
+11.	Compliance with Laws
+11.1	The Escrow Agent shall in carrying out this Escrow Agreement comply with the provisions of any relevant statutes, regulations, by-laws and the requirements of any Commonwealth, State or local authority.
+12.	Resolution of Disputes
+12.1	Any party under this Escrow Agreement may notify in writing a dispute in respect of a matter arising under this Escrow Agreement. The Parties shall within 7 days of such notice consult to agree a method for resolving the dispute by way of:
+	(a)	negotiation;
+	(b)	alternative dispute resolution procedures; or
+	(c)	arbitration;
+	and shall commence procedures for dispute resolution within a reasonable time of agreeing a method.
+13.	Applicable Law
+13.1	The laws of the State of Queensland govern this Escrow Agreement and the Parties submit to the non-excusive jurisdiction of the courts of Queensland. 
+14.	Variation and Waiver
+14.1	This Escrow Agreement shall not be varied either in law or in equity except by agreement in writing signed by the Escrow Agent, the Customer and the Contractor.
+14.2	A waiver by one party of a breach of a provision of this Escrow Agreement by another Party shall not constitute a waiver in respect of any other breach or of any subsequent breach of this Escrow Agreement.  The failure of a Party to enforce a provision of this Escrow Agreement shall not be interpreted as a waiver of that provision.
+15.	Assignment
+15.1	The Contractor and the Escrow Agent, or either of these, shall not assign, in whole or in part, or novate this Escrow Agreement without first obtaining the prior written consent of the Customer.  
+16.	Severability
+16.1	If any part of this Escrow Agreement is void or voidable, then that part is severed from the Customer Contract but without affecting the continued operation of the remainder of the Customer Contract.
+17.	Notices
+17.1 A notice or other communication which may be given to or served on either party under this Escrow Agreement is deemed to have been duly given or served if it is in writing, signed by the Party giving the notice ("the first Party") and is either delivered by hand, posted, sent via facsimile or a copy transmitted via electronic mail or other electronic means to the other Party at the address set out below or such other address as is notified in writing to the first party from time to time.
+17.2 Such notice or other communication is deemed to have been duly received:
+(a)	if delivered by hand - at the time when the first Party holds a receipt for that document signed by a person apparently employed at that address for service; 
+(b)	if sent by post - at the time when, in the ordinary course of the post, it would have been delivered at the address to which it is sent;
+(c)	if sent via facsimile - at the time when the machine on which the notice is sent reports in writing that the notice has been transmitted satisfactorily; or
+(a) if sent via electronic mail or other electronic means - at the time when the other Party acknowledges receipt by any means.
+17.3	If delivery or receipt of a notice or communication occurs on a day other than a Business Day or is later than four (4.00) pm (Customer local time) it will be taken to have duly occurred at nine (9.00) am (Customer local time) on the next Business Day.
+17.4	Where the notice is given or served electronically, the sending party must confirm receipt by some other means.  The address for services of notice for a party is, in the case of the:
+
+Escrow Agent:
+       Physical address:
+Postal address:
+Phone number:
+Fax number:
+Email address:
+
+Contractor:
+       Physical address:
+Postal address:
+Phone number:
+Fax number:
+Email address:
+
+Customer:
+       Physical address:
+Postal address:
+Phone number:
+Fax number:
+Email address:
+
+The Parties to this Escrow Agreement have executed the Agreement on the dates set out below.
+
+
+
+EXECUTED AS AN ESCROW AGREEMENT
+
+EXECUTION BY ESCROW AGENT
+
+Signed, Sealed and Delivered
+For and on behalf of 
+
+..........................................................................................
+(insert Escrow Agent's name; ACN & ABN)
+
+in accordance with s.127 of the Corporations Act 2001 (Cth)
+
+this ............... day of ..................................................20........
+
+by
+
+...........................................................................................
+(insert name of Director)
+
+..........................................................................................
+(insert name of Director/Secretary)
+
+in the presence of:
+
+.........................................................................................
+[insert name of witness]
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+.....................................................................
+(signature of Director)
+
+.....................................................................
+(signature of Director/Secretary)
+
+
+
+.....................................................................
+(signature of witness)
+EXECUTION BY CONTRACTOR
+
+Signed, Sealed and Delivered
+For and on behalf of 
+
+..........................................................................................
+(insert Contractor's name; ACN & ABN)
+
+in accordance with s.127 of the Corporations Act 2001 (Cth)
+
+this ............... day of ..................................................20........
+
+by
+
+...........................................................................................
+(insert name of Director)
+
+..........................................................................................
+(insert name of Director/Secretary)
+
+in the presence of:
+
+.........................................................................................
+[insert name of witness]
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+
+
+
+
+
+
+
+
+
+
+
+.....................................................................
+(signature of Director)
+
+.....................................................................
+(signature of Director/Secretary)
+
+
+
+.....................................................................
+(signature of witness)
+
+
+EXECUTION BY CUSTOMER 
+
+Signed, Sealed and Delivered
+For and on behalf of the 
+
+...............................................................................
+(insert name of Customer)
+
+by
+
+...............................................................................
+(insert name of Customer representative)
+
+this ............ day of ..........................................20.......
+
+
+In the presence of:
+
+..............................................................................
+(insert name of witness)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+)
+
+)
+)
+)
+)
+
+
+
+
+
+
+
+
+
+.................................................................
+(signature of Customer representative)
+
+
+
+
+
+
+.................................................................
+(signature of witness)
+
+Where an attorney or other agent executes this Escrow Agreement or affixes a seal on behalf of a Contractor, the form of execution must indicate the source of this authority and such authority must be in the form of a deed and a certified copy thereof provided to the Customer.
+
+
+ATTACHMENT 1
+
+Escrow Agreement
+
+Schedule of Escrow Fees
+
+
+DETAILS OF ESCROW FEES:
+
+Application Fee (payable first year only):
+
+* Application and processing of Standard Escrow Agreement
+or
+* Application and processing of non-standard Escrow Agreement
+
+
+Annual Deposit Fee:
+* This includes controlled retention of deposits and maintenance of audit records and documentary evidentiary support of deposit movements, processing and certification of up to 4 deposits per annum.  Deposits in excess of 4 per annum shall be charged at the Additional Charges rate set out below.
+* This includes one unit of Escrow Storage (where 1 unit = 1/2 cubic foot).  Additional units of Escrow Storage shall be charged at the Additional Charge rates set out below.
+* The Annual deposit fee is based on a 3 party agreement, where one of the parties is the Escrow Agent.  Additional parties to the Escrow Agreement shall be charged at the Additional Charge rates set out below.
+
+Additional Charges:
+* Additional units of Escrow Storage
+* Add or replace material to existing Deposit Package
+* Each additional party to this Agreement
+
+Verification Release Fee:
+* Release for testing and verification pursuant to clause 7 of the Escrow Agreement
+ 
+Deposit Back Release Fee
+* Controlled release and delivery of Deposit Package to Customer, pursuant to Clause 8 of the Escrow Agreement
+
+Further Information:
+* Courier Costs to be met by the requesting party.
+* Fees may be reviewed annually as at each anniversary of the Escrow Agreement and notice of any increase / decrease in fees shall be provided in writing at least 30 days prior to the anniversary date.
+
+Attachment 2
+Escrow Agreement
+
+
+DETAILS OF LICENSED SOFTWARE TO BE HELD IN ESCROW:
+
+
+Source Code:
+
+
+...............................................................................................................................................................................................................
+
+...............................................................................................................................................................................................................
+
+...............................................................................................................................................................................................................
+
+...............................................................................................................................................................................................................
+
+...............................................................................................................................................................................................................
+
+...............................................................................................................................................................................................................
+
+
+
+Flow Charts:	................................................................................................................................................................................
+
+
+Diagrams: 	................................................................................................................................................................................
+
+
+Listings: 	.................................................................................................................................................................................
+
+
+ATTACHMENT 3
+Escrow Agreement
+
+
+SUPPORTING MATERIAL
+
+Insert details of supporting material relevant to the Licensed Software, for example:
+
+
+* technical documentation sufficient to allow a competent computer programmer to understand and maintain the version of the software to which the documentation relates.
+
+* relevant maintenance tools and compilers and assemblers (if standard tools, description thereof will suffice) and third party software utilities.
+
+* description of code generation. 
+
+* description of third party software required for support and availability thereof.
+
+* identification of key personnel involved with the development of the software.
+
+* operational manuals, listings, flow charts etc.
+
+* details of machine/processor/system configuration.
+
+
+
+________________________________________________________________________________________________________________________
+Schedule S8 - Escrow Agreement	GITC V5.01	Page 1
+

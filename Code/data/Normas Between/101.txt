@@ -1,0 +1,150 @@
+The Supplier must supply to EnergyAustralia the Services:
+in accordance with the Services Specification, including without limitation, in accordance with any due dates for Services; 
+to the best of the Supplier's abilities and knowledge; 
+in a professional, efficient and safe manner, without negligence; 
+in compliance with all applicable standards, awards, laws and regulations (including without limitation, awards and laws applicable to the Supplier's employees); and 
+during any period in which the Supplier is at a location owned, operated or controlled to any extent by EnergyAustralia, in accordance with all applicable EnergyAustralia policies and procedures in force from time to time, as notified to the Supplier by EnergyAustralia.
+
+the Supplier will supply the Services as an independent contractor;
+this Agreement does not create a relationship of employer and employee, principal and agent, or partnership between EnergyAustralia and:
+the Supplier; 
+any Supplier's subcontractor; or
+any of the Supplier's or the Supplier's subcontractor's employees; and
+this Agreement does not give the Supplier, its subcontractors or their employees, authority to bind EnergyAustralia; and 
+acknowledges and agrees that:
+it is responsible for the payment of all taxes (including corporate tax, payroll tax, Pay-As-You-Go tax, training guarantee levy, fringe benefits tax, excise duties and similar imposts) and taxation obligations, except those arising under a GST, in respect of the Services;
+it is responsible for maintaining a workers' compensation insurance policy in respect of any person employed or engaged by the Supplier used to provide services to EnergyAustralia;
+it is responsible for the payment of superannuation for any person employed or engaged by the Supplier; and 
+neither the Supplier nor any of its employees, contractors or agents is entitled to any superannuation contributions from EnergyAustralia.   
+
+If under any statute EnergyAustralia is considered an employer or principal employer and is obliged to make payments in respect of the amounts paid or benefits provided to or in relation to any employee or subcontractor of the Supplier, the Supplier:
+must make all such payments on behalf of EnergyAustralia; and 
+indemnifies EnergyAustralia against all such payments made by EnergyAustralia, including:
+any additional tax, levy, or other payment whatsoever, including any interest, penalty or late fee that may be payable in respect of the late or non-payment of such tax, levy or other payment; and
+remuneration, annual leave, sick leave, long service leave or other leave, or any other payment or entitlement to be paid or provided to such persons.
+The parties agree that all amounts payable under this Agreement by EnergyAustralia are referred to on a GST Exclusive basis.
+
+If any supply under this Agreement is a Taxable Supply, the party making the supply may, in addition to the payment for the Taxable Supply, recover the amount of the GST applicable to the Taxable Supply.  Any amount of GST payable is payable at the same time as the payment for Services (or other supply) to which it relates.
+The party making a Taxable Supply under this Agreement must issue a Tax Invoice for that Taxable Supply to the recipient.  
+
+The Supplier must invoice EnergyAustralia for the Price at the times specified in the Services Specification, specifying how those amounts are calculated.
+
+Words or expressions used in this clause which are defined in the A New Tax System (Goods and Services) Act 1999 have the same meaning.
+
+On the Effective Date and otherwise on request from EnergyAustralia, the Supplier must: 
+
+provide a completed declaration in the form of Annexure A in accordance with the Pay-roll Tax Act 2007 (NSW), the Workers Compensation Act 1987 (NSW) and the Industrial Relations Act 1996 (Cth) stating:
+that all necessary workers compensation insurance premiums have been paid;
+that all pay-roll tax in respect of the Supplier's relevant employees' (as defined under the Pay-roll Tax Act 2007 (NSW)) wages paid or payable for supplying the Services has been paid;
+whether or not the Supplier is also a 'principal contractor' for the Services under the Pay-roll Tax Act 2007 (NSW), the Workers Compensation Act 1987 (NSW), or the Industrial Relations Act 1996 (NSW), and if the Supplier is a 'principal contractor' whether it has received a written statement in accordance with this clause 4.7  from its 'subcontractors' (as defined under the Pay-roll Tax Act 2007 (NSW), the Workers Compensation Act 1987 (NSW), or the Industrial Relations Act 1996 (NSW) );  
+that the Supplier is a registered employer under the Pay-roll Tax Act 2007 (NSW), or is not required to be registered; and
+that the Supplier has paid all relevant employees (as defined under the Industrial Relations Act 1996 (NSW)), all remuneration payable to them for the work and services to be provided under this Contract as at the date on which the statement was made; and
+in writing in a form acceptable to EnergyAustralia (acting reasonably) all contributions to an approved superannuation fund, in respect of the contractor, have been made by the Supplier under the terms of the Superannuation Guarantee (Administration) Act 1992 (Cth); and
+the Supplier has deducted or withheld all amounts of taxes under the PAYG or PPS income tax systems and that all amounts withheld or deducted have been submitted to the Australian Taxation Office as required.
+
+EnergyAustralia does not claim ownership of anything of the Supplier that is not developed, created or generated specifically for EnergyAustralia but does claim ownership of Service Materials.  Accordingly, the Supplier:
+presently assigns to EnergyAustralia all present and future Intellectual Property Rights in all Service Materials; and
+must at its own cost do all things reasonably requested by EnergyAustralia to enable EnergyAustralia to assure further the title and rights assigned under clause 5.1(a).
+
+On request by EnergyAustralia from time to time, the Supplier must supply to EnergyAustralia one copy of the Service Materials in their then current state.
+
+The Supplier warrants that:
+supplying the Services and Service Materials, it will not infringe the Intellectual Property Rights or Moral Rights of any person;
+it has all rights necessary to make the assignments under clause 5.1(a);
+use of the Services or the Service Materials by EnergyAustralia or its contractors in accordance with this Agreement will not infringe the Intellectual Property Rights or Moral Rights of any person;
+all Services will be supplied:
+in accordance with the applicable service levels (if any) specified in the Services Specification; and
+with due care and skill.
+
+The Supplier indemnifies EnergyAustralia on a full indemnity basis for all claims against, and losses and damages suffered by EnergyAustralia as a result of:
+any breach of the warranties in clauses 6.1(a), (b) and (c); and
+third party claims arising from the Services.
+
+The Supplier must effect and maintain in a form appropriate to the Supplier's activities and with and insurer acceptable to EnergyAustralia, comprehensive insurance in respect of the Services, including:
+workers compensation insurance in accordance with applicable law and awards and insurance against common law liability to the Supplier's workers engaged in connection with the Services;
+liability insurance, including public liability and product liability insurance, appropriate to the Supplier's activities, each for an amount not less than $20 million for any one occurrence, and in the aggregate, including loss of or damage to personal and real property of EnergyAustralia (including documents and records); and
+professional indemnity insurance for an amount of $10 million for any one claim and in the aggregate for breach of professional duty whether incurred in contract, tort or otherwise by reason of any act or omission of the Supplier,
+(together, the insurance policies).
+
+The Supplier must:
+effect the insurance policies referred to in clause 6.3 (c) before starting to supply the Services and maintain them for not less than 3 years following termination or expiration of this Agreement; 
+effect the insurance policies referred to in clauses 6.3(a) and (b) before starting to supply the Services and maintain them until termination or expiration of this Agreement, or as otherwise required by EnergyAustralia;
+ensure its subcontractors have sufficient appropriate insurance to satisfy their liabilities arising out of or in relation to this Agreement; and 
+provide, on EnergyAustralia's request, evidence satisfactory to EnergyAustralia of the insurance specified in this clause.
+
+Each party:
+may use Confidential Information of the other party solely for the purposes of this Agreement;
+except as permitted under clause 7.1(c), must keep confidential all Confidential Information of the other party; and
+may disclose Confidential Information of the other party only:
+to persons who:
+are aware and agree that the Confidential Information of the other party must be kept confidential; and
+either have a need to know (and only to the extent that each has a need to know), or have been specifically approved by the other party; or
+as required by law or stock exchange regulation.
+
+Even though information is the Confidential Information of a party, the other party does not have to comply with clause 7.1 in relation to that Confidential Information if:
+the Confidential Information becomes public knowledge during this Agreement; or
+the other party became aware of that Confidential Information from a third person,
+in circumstances where there was no breach of any obligation of confidence.
+
+Each party must comply with:
+the reasonable directions of the other party in relation to the handling of any Personal Information; and
+the Privacy Act 1988 (Cth).
+
+EnergyAustralia may disclose Confidential Information of the Supplier to any Minister, department or officer of the State or New South Wales for a legitimate government purpose.
+
+This Agreement terminates if:
+the Supplier completes supplying the Services in accordance with this Agreement (EnergyAustralia will notify the Supplier in writing when this happens);
+EnergyAustralia gives at least 14 days notice to the other party of a date that it wants this Agreement to terminate; or
+a party terminates this Agreement in accordance with clause 8.2.
+
+A party may terminate this Agreement with immediate effect by giving notice to the other party if:
+that other party breaches any material term of this Agreement not capable of remedy; or
+that other party breaches any material term of this Agreement capable of remedy and fails to remedy the breach within 30 days after receiving notice requiring it to do so.
+
+EnergyAustralia may terminate this Agreement with immediate effect by giving notice to the Supplier if:
+after the date this Agreement is executed, there is a change in control of the Supplier; or
+the Services are to be completed by a specified date or in accordance with a specified timetable, and the Services are not completed by that date or in accordance with that timetable, or if EnergyAustralia reasonably decides the Services will not be so completed.
+
+As soon as possible after termination of this Agreement, each party (first party) must return to the other party all Confidential Information of that other party in material form (including without limitation, those parts of all notes or records of the first party containing Confidential Information of the other party) in the first party's possession or control.
+
+
+The Supplier must not assign this Agreement or any right under this Agreement without EnergyAustralia's written consent.
+
+The Supplier must not subcontract to any person the performance of any of its obligations under this Agreement without EnergyAustralia's written consent.
+
+The Supplier agrees that EnergyAustralia may assign or transfer the whole of this Agreement and its related rights and obligations under this Agreement to any Entity that is not a competitor of the Supplier, including any Entity:
+to which the assets the subject of this Agreement are transferred;
+that assumes the management of the Services for a business or businesses that own the assets the subject of this Agreement; or
+to comply with or accommodate any law.
+
+The parties agree that it is their intention that all rights, obligations and liabilities under or in connection with this Agreement are to apply, even where the relevant circumstances involve a failure to take reasonable care and the existence of concurrent wrongdoers (as that term is defined in section 34(2) of the Civil Liability Act 2002 (NSW)), unlimited and otherwise unaffected by anything that, but for this clause 10.4, may by virtue of the provisions of the Civil Liability Act 2002 (NSW) have limited or otherwise affected those rights, obligations and liabilities. 
+
+A party notifying or giving notice under this Agreement must notify:
+in writing;
+addressed to the address of the recipient specified on the first page of this Agreement or as varied by notice given in accordance with this clause; and
+left at or sent by post or facsimile to that address.
+
+A notice given in accordance with clause 11.1 will be taken to have been received:
+if delivered by hand, to the recipient's address, on the date of delivery, as long as delivery is acknowledged in writing by the recipient;
+if sent by post, 3 working days after the posting; and
+if sent by facsimile on a working day at the recipient's, on the date of transmission, or if sent on a non-working day at the recipient's, on the next working day (in both cases as long as the sender's facsimile machine records a successful transmission).
+
+Neither party may start court proceedings (except proceedings seeking interlocutory relief) in respect of a Dispute unless it has first complied with this clause.
+
+A party claiming that a Dispute has arisen must notify the other party in writing of the event occurring that has given rise to the Dispute.
+
+If a Dispute is not resolved within a 20 day working period (or if the parties agree a longer period, that longer period), of a Dispute being notified under clause 12.2, the Dispute must be referred:
+for mediation, in accordance with the Australian Commercial Disputes Centre (ACDC) Mediation Guidelines; and
+to a mediator agreed by the parties, or if the parties do not agree on a mediator, a mediator nominated by the then current chief executive officer of ACDC or the CEO's nominee (or if no such person is available or willing to nominate a mediator, by the then President of the Law Society of New South Wales).
+
+Except where a party (First Party) waives its right in writing, a First Party's:
+consideration or negotiation of a request by the other party (Other Party) to vary this Agreement in a way that would vary any obligation of the Other Party under this Agreement; or
+failure to insist that the Other Party perform any obligation under this Agreement,
+is not a waiver of the First Party's right to:
+insist the Other Party perform any obligation; or
+claim damages for breach of any obligation.
+
+If the parties want to vary this Agreement they must do so by a document signed by an authorised representative of each party.
+This Agreement may be executed in counterparts.  All executed counterparts constitute one document.  
+This Agreement is governed by the law applicable in New South Wales and each party irrevocably and unconditionally submits to the non-exclusive jurisdiction of the courts of that state.
+

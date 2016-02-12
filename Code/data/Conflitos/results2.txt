@@ -1,0 +1,56 @@
+Contract: johnson.mfg.2000.06.01.shtml
+
+Presenting results for norms related to Johnson Matthey Inc. office Nolte Drive West Deptford NJ JMI
+Similarity:1.0	Label: Type 2
+JMI shall have the right to participate in such defense at its cost.
+JMI may have the right to participate in such defense at its cost.
+-----------------
+Similarity:1.0	Label: Type 2
+JMI shall have the right to participate in such defense at its cost.
+JMI may have the right to participate in such defense at its cost.
+-----------------
+Presenting results for norms related to Celgene
+Similarity:1.0	Label: Type 2
+Customer will notify USF at least [***] days in advance of special promotions that may cause unusual or excessive demand on inventory.
+Customer may notify USF at least [***] days in advance of special promotions that may cause unusual or excessive demand on inventory.
+-----------------
+Similarity:1.03333333333	Label: Type 2
+Customer will be responsible for restocking charges or freight cost incurred in connection with Dead Inventory.
+Customer may be responsible for restocking charges or freight cost incurred in connection with Dead Inventory.
+-----------------
+Similarity:0.995	Label: Type 2
+The price of product to Customer shall equal USF's invoice cost (as hereinafter defined) plus the agreed upon fee per case on cost as outlined below.
+The price of product to Customer may equal USF's invoice cost (as hereinafter defined) plus the agreed upon fee per case on cost as outlined below.
+-----------------
+Similarity:1.0	Label: Type 2
+i. USF will assign a Corporate Account Manager to coordinate the management of Customer's needs.
+i. USF may assign a Corporate Account Manager to coordinate the management of Customer's needs.
+-----------------
+Similarity:1.03333333333	Label: Type 2
+Customer will be responsible for restocking charges or freight cost incurred in connection with Dead Inventory.
+Customer may be responsible for restocking charges or freight cost incurred in connection with Dead Inventory.
+-----------------
+Similarity:0.976923076923	Label: Type 2
+In the event that JMI fails to replace the Material or fails to do so within the time period stated, Celgene shall have the right to demand a credit of the purchase price therefor.
+In the event that JMI fails to replace the Material or fails to do so within the time period stated, Celgene may have the right to demand a credit of the purchase price therefor.
+-----------------
+============================================
+
+Conflicts to be found:
+
+	In March 2001, Celgene shall not provide a firm order for Material for July through September, 2001 and a revised forecast for the months October, 2001 through June, 2002.
+
+	Celgene shall not have the right to defend and/or settle any such claim and JMI shall noy give Celgene such information and assistance as may be reasonably necessary in the conduct of such defense.
+
+	In the event that JMI fails to replace the Material or fails to do so within the time period stated, Celgene may have the right to demand a credit of the purchase price therefor.
+
+	7.3 JMI will not provide Celgene with the results of all assays required to be run under the Specifications.
+
+	JMI may have the right to participate in such defense at its cost.
+
+	PAYMENT 10.1 Celgene will not remit payment in U.S. dollars within thirty (30) days from the date of the invoice.
+
+	JMI may have the right to participate in such defense at its cost.
+
+============================================
+

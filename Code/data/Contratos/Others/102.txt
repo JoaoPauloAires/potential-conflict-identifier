@@ -1,0 +1,90 @@
+
+MULTI-INSTITUTIONAL AGREEMENT
+AUSTRALIAN RESEARCH COUNCIL (ARC)
+
+DISCOVERY PROJECTS 
+
+DETAILS
+ARC Project ID:First Funding Year Approved Project Title:Administering Organisation and its first named Chief Investigator:Org:CI:Collaborating Organisation(s) and its/their first named Chief Investigator(s):Org:CI/PI:BACKGROUND
+A. ARC Discovery Projects recognise the importance of fundamental research to the national innovation system and supports research undertaken by individual researchers or research teams. The Administering Organisation and the Collaborating Organisations have successfully applied for an ARC Discovery Project Grant. 
+B. The ARC requires that an Administering Organisation must not allow a Project to commence nor Funding to be expended, until it has entered into a written agreement, in respect of the Project, with each Collaborating Organisation in accordance with the Discovery Projects Funding Agreement and the Funding Rules. 
+
+THE PARTIES AGREE:
+1. DEFINITIONS 
+1.1. In this agreement, unless otherwise defined, capitalised terms will have the same meaning as set out in the Discovery Projects Funding Agreement or, as relevant, the Funding Rules.
+1.2. In this agreement:
+Background IP means pre-existing or independently developed Intellectual Property, owned or controlled by a party which it determines, in its discretion, to make available for the carrying out of the Project; 
+
+Confidential Information means and includes any information contributed by a party (Disclosing Party) to another party (Receiving Party), that by its nature is confidential, is designated by a party as confidential, or the recipient knows or ought to know is confidential but does not include information which:
+(a) is or becomes public knowledge other than by breach of this agreement; or
+(b) was properly in the possession of the Receiving Party in written form otherwise than by prior confidential disclosure from the Disclosing Party; or
+(c) was properly available to the Receiving Party from a third party having no obligation of confidentiality to the Disclosing Party; or
+(d) is demonstrated by the Receiving Party to be independently developed by an employee or agent of the Receiving Party having no knowledge of such information which is the subject of the disclosure. 
+Discovery Projects Funding Agreement means the funding agreement between the Commonwealth (as represented by the ARC) and the Administering Organisation regarding funding for Discovery Projects to commence in the First Funding Year. 
+Intellectual Property means all copyright and neighbouring rights, all rights in relation to inventions (including patent rights), plant varieties, registered and unregistered trademarks (including service marks), registered designs, confidential information (including trade secrets) and circuit layouts, and all other rights resulting from intellectual activity in the industrial, scientific, literary or artistic fields. 
+      Project means the project named in the Details and more specifically detailed in the Proposal.
+Project IP means any Intellectual Property created or arising as a direct result of the conduct of the Project.
+Proposal means the application submitted by the Administering Organisation to the ARC which describes the Project.
+2. CONDUCT OF THE PROJECT
+2.1. The parties agree:
+(a) that the management of the Project and the Funding will at all times be in accordance with the Discovery Projects Funding Agreement and the Funding Rules;
+(b) that they have each received a copy of the Proposal and agree that the roles, budget, contributions, and program of research of each of the parties in relation to the Project are set out accurately in the Proposal and this Agreement;
+(c) to each carry out their roles, contributions and program of research as set out in the Proposal and this Agreement; and
+(d) that the Project will be conducted in accordance with the Australian Code for the Conduct of Responsible Research, having particular regard to the requirements for authorship as set out in Clauses 5.1 to 5.8 of that Code. 
+2.2	Each Collaborating Organisation agrees to abide by the terms and conditions of the Discovery Projects Funding Agreement and Funding Rules and to do all things reasonably required to enable the Administering Organisation to meet its obligations under that Agreement and Rules, including, without limitation, reporting and financial management of the Funding. 
+3. PROJECT GRANT
+3.1	Subject to the ARC providing the Funding to the Administering Organisation, the Administering Organisation will transfer portions of the Funding to the Collaborating Organisation(s) in the amounts set out in Table 1 below. 
+       Table 1: Distribution of Funding
+Organisation Name20092010201120122013XYZ UniversityARC Fellow(s)$XX,XXXTeaching ReliefOther Project FundsABC UniversityARC Fellow(s)Teaching ReliefOtherAdd additional rows if requiredTotal ARC Grant (indicative only)
+3.2	The parties agree that all expenditure of the Funding will be in accordance with the Proposal and within the broad structure of the proposed project cost detailed in the Proposal, unless as otherwise amended in Schedule 1 by agreement of the parties and, if applicable, with the prior approval of the ARC.
+3.3	Where the Administering Organisation is transferring some of the Funding to the Collaborating Organisation(s), each Collaborating Organisation will, in respect of itself only:
+(a) submit relevant tax invoices to the Administering Organisation; and  
+(b) if requested, provide an annual financial acquittal to the Administering Organisation by 31 January of each year for the Funding transferred to it in the previous calendar year; and
+(c) when a researcher named on the Proposal leaves the employment of his/ her Collaborating Organisation through his/her transfer to another university or otherwise, and the involvement of the host Collaborating Organisation in the Project also ceases, that host Collaborating Organisation will provide a financial acquittal to the Administering Organisation within 30 days of request, if requested to do so by the Administering Organisation.
+       Contact details for invoices at the Administering Organisation:
+Faculty/School Finance Officer (Insert Name)
+School Address (insert)
+XXX University Administering Organisation
+Contact details for acquittals at the Collaborating Organisation
+Faculty/School Finance Officer (Insert Name)
+School Address (insert)
+XXX University
+[insert additional contact details as relevant]
+4. INTELLECTUAL PROPERTY AND CONFIDENTIAL INFORMATION
+4.1. 	The parties agree that the Background IP which a party makes available for the conduct of the Project will remain the property of that party. 
+4.2. 	Each party grants to each other a royalty-free, non-exclusive licence to use its Background Intellectual Property to the extent necessary to carry out the Project but for no other purpose.
+4.3. No representations or warranties are made or given in relation to Background Intellectual Property, however each party making available Background Intellectual Property acknowledges that to the best of its knowledge, such Background Intellectual Property when used in accordance with this Agreement will not infringe any third party Intellectual Property rights. 
+4.4. The parties agree that any Project IP will be owned by agreement between the parties that created it and will be dealt with in accordance with the Intellectual Property policies, regulations and procedures of that party. 
+4.5. The administration and management of the Project IP will comply with the National Principles of Intellectual Property Management for Publicly Funded Research.
+4.6. All parties are committed to appropriate recognition of contributions to invention and exploitation of Intellectual Property for the benefit of the Australian community.
+4.7. The parties each agree to ensure that their respective staff working on the Project promptly provide to the Administering Organisation written notice (within a reasonable time) of any Project IP that may have potential commercial value if and when such staff become aware of such Project IP. 
+4.8. In relation to the commercialisation of Project IP, all parties will negotiate in good faith and using all best endeavours to agree the terms of any program of commercialisation so as to fairly share in any commercial return associated with the Project and the Project IP.
+4.9. Having regard to any requirements to protect potentially commercially valuable Project IP, each party grants to each other party a non-exclusive, perpetual, royalty free licence to use the Project IP they own for:
+(a) non-commercial research, education and training purposes; and
+(b) publication purposes.
+4.10	Each party acknowledges that all Confidential Information disclosed by one party to the other, whether existing prior to the commencement of the Project or created in the course of the Project, is confidential and shall be kept confidential and shall not be disclosed to any third party without the prior written consent of the Disclosing Party, such consent not to be unreasonably withheld.
+5. GENERAL
+5.1. The term of this Agreement is the period of the Project as detailed in the ARC Discovery Project Funding Agreement, or as otherwise varied in Schedule 1 of this Agreement with the approval of the parties and, if applicable, with the prior approval of the ARC, and includes any period of carry forward approved by the ARC.
+5.2. The payments of salaries for ARC Fellows and Teaching Relief, where applicable, shall be made in accordance with both the Funding Agreement and the relevant employing institution's human resources policy.
+5.3. If the Administering Organisation receives a notice that a Collaborating Organisation wishes to withdraw its support for a Project or reasonably believes that a Collaborating Organisation is in default of its obligations under this agreement the Administering Organisation will immediately notify the ARC.
+5.4. If any dispute or difference arises in connection with this Agreement, then the parties shall negotiate in good faith using their best endeavours to resolve the dispute or difference. If the dispute or difference cannot be resolved in the first instance, the parties agree to refer the dispute to, as applicable, the Deputy Vice-Chancellors (Research) or Chief Executive Officers, or equivalent, or their nominees. 
+5.5. This Agreement may be signed in any number of counterparts which together will constitute one agreement.
+5.6. If any clause or part thereof is held by a court to be invalid or unenforceable such clause or part thereof shall be deemed deleted from this agreement and this agreement shall otherwise remain in full force and effect.
+5.7. No addition to or modification of any provision of this Agreement shall be binding upon the parties unless by written instruction signed by each of the parties.
+5.8. This agreement shall be governed by and construed in accordance with the laws for the time being in force in the State or Territory of the Administering Organisation and the parties agree to submit to the jurisdiction of the courts of that State or Territory.
+5.9. Any notice or other communication under this Agreement shall be given in writing and delivered by hand or sent by pre-paid post or facsimile or other form of electronic transmission to the authorised signatory of a party.
+6. SPECIAL CONDITIONS
+Any special conditions relating to the Project as set out in the Minister's Letter of Award are provided in Schedule 2 of this Agreement.
+
+Agreed to by the following parties:
+OrganisationName of Investigator on the ProposalName and Signature of  Authorised Signatory (DVC(Research) or authorised delegate of the Organisation)Date
+Administering OrganisationCollaborating Organisation
+
+SCHEDULE 1: (REVISIONS TO PROJECT TERM, SCOPE, BUDGET, EXPENDITURE ETC)
+(Detail as applicable)
+
+
+SCHEDULE 2: (SPECIAL CONDITIONS)
+(Detail as applicable and/ or attach Letter of Award)
+ARC Discovery Projects Multi-Institutional Agreement 2009		Page 1 of 7
+

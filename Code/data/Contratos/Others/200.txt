@@ -1,0 +1,217 @@
+
+
+
+
+
+
+
+
+
+The "Argus Authorised Version" Licence
+
+TERMS AND CONDITIONS OF USE OF SOFTWARE
+
+These Terms and Conditions apply to the use of the Software. In accepting the
+Software, using the Software or dealing with the Software in any way, you agree
+to be bound by these Terms and Conditions. If you do not accept these terms and
+conditions, you must refrain from using the Software and must promptly return or
+destroy, as directed by ArgusConnect, any copies of the Software that may be in
+your possession or control.
+
+ArgusConnect Pty. Ltd. ACN 107 558 387, Suite 4, Greenhill Enterprise Centre,
+University Drive, Mt Helen 3350 ("ArgusConnect") has agreed to grant to you a
+non-exclusive licence to use the Software for the Term and for the Purpose subject
+to these Terms and Conditions.
+
+In these Terms and Conditions:
+
+"End User" means those persons who have access to and use of the Software by
+reason of this Licence;
+
+"IPR" means any and all intellectual and industrial property rights existing
+anywhere in the world including rights in respect of or in connection with:
+
+(i) any confidential information;
+(ii) copyright (including future copyright and rights in the nature of or
+analogous to copyright);
+(iii) patents;
+(iv) trade marks;
+(v) designs; and
+(vi) circuit layouts,
+
+whether or not registered or registrable and includes any right to apply for the
+registration of such rights and includes all renewals and extensions;
+
+"Purpose" means the use of the Software in clinical environments;
+
+"Software" means "Argus Authorised Version ? Freeware Edition" and other Argus
+software products as detailed in the attached Schedule;
+
+"Term" means the period from when you accept these Terms and Conditions to the
+time when ArgusConnect informs you that the licence granted under these Terms and
+Conditions is revoked;
+
+"you" means you or the person or entity on behalf of whom you have acquired the
+Software, and "your" has a corresponding meaning.
+
+1. Permitted Purpose
+
+You must not use, nor permit any other person to use, the Software or improvements
+to it for any purpose other than the Purpose.
+
+2. Non-Exclusive Licence
+
+Nothing in these Terms and Conditions limits ArgusConnect's rights in, or to use
+or grant other persons rights to use, the Software for any purpose and in any format.
+
+3. Licencee Registration
+
+For this Licence to be effective, the licencee must complete the registration
+process that is associated with the activation of this Software including the
+providing of information on the licencee, on the location at which the product
+will be used and details of the operating environment. The licencee also undertakes
+to maintain the currency of this information with ArgusConnect or the nominated
+supporting agent.
+
+4. Consent
+
+In consideration that other healthcare practitioners need to identify all users
+of the software under this licence for the purposes of sending clinical information
+via Argus, you agree that Argus-specific addressing details of each user may be
+published on the Argus Users Directory and made available to other healthcare
+providers.  Details that will be exposed to other healthcare providers will be:
+-	the medical practice name
+-	the medical practice physical address
+-	the medical specialty
+-	the names of doctors in the practice
+-	the email address to be used to receive clinical information via Argus
+
+In agreeing to this condition:
+
+(a) You confirm that you have the authority to give consent to this condition on
+behalf of other end-user(s) of the software under this licence; and
+
+(b) You do give this consent.
+
+5. No Modifications or Sub-Licensing.
+
+(a) You must ensure that End Users do not make modifications or permit a third
+party to make modifications to the Software.
+
+(b) You must not grant or purport to grant a sub-licence or any rights in respect
+of the Software to any person.
+
+6. Assignment
+
+(a) You must not dispose of or assign any of your rights under these Terms and
+Conditions without the prior written consent of ArgusConnect.
+
+(b) ArgusConnect must not assign any IPR in the Software, or its rights under
+these Terms and Conditions, without your prior written consent except if the
+proposed assignee is a wholly owned subsidiary of ArgusConnect,and in any case
+ArgusConnect must ensure that the proposed assignee executes a deed or other form
+of acknowledgment that the proposed assignee agrees to and will be bound by these
+Terms and Conditions.
+
+7. No warranties
+
+(a) Subject to clause 5(b), all express and implied warranties,
+guarantees and conditions under statute or general law as to
+merchantability, description, quality, suitability or fitness of
+the goods for any purpose or as to design, assembly, installation, materials or
+workmanship or otherwise are expressly excluded.
+
+(b) Nothing in these Terms and Conditions is intended to be read or applied so
+as to exclude, restrict or modify or have the effect of excluding, restricting or
+modifying any condition, warranty, guarantee, right or remedy implied by law
+(including the Trade Practices Act 1974) and which by law cannot be excluded,
+restricted or modified.
+
+8. Infringement of ArgusConnect's Rights
+
+(a) You must as soon as reasonably practical notify ArgusConnect of any actual,
+threatened or suspected infringement of any of ArgusConnect's rights, including
+its IPR in, to or in connection with the Software of which you become aware during
+the term of the licence
+granted under these Terms and Conditions.
+
+(b) You must cooperate with and provide reasonable assistance to ArgusConnect in
+respect of any proceedings issued by ArgusConnect to enforce its rights, including
+its IPR, in and to the Software.
+
+9. Release
+
+(a) You assume all risks associated with operating the Software and ArgusConnect
+does not warrant that the Software will be error free or will meet your specific
+needs.
+
+(b) ArgusConnect does not warrant the accuracy of any data or information generated
+as a result of your use of the Software.
+
+(c) To the maximum extent permitted at law, you hereby release, indemnify and agree
+to hold harmless ArgusConnect against any claims for loss, damage, cost or expense
+that you or any person claiming through you may incur as a result of or in connection
+with the Software.
+
+10. Termination
+
+(a) The licence granted under these Terms and Conditions may be terminated by you
+by giving 2 weeks' written notice to ArgusConnect.
+
+(b) The licence granted under these Terms and Conditions may be revoked by ArgusConnect
+by giving 2 weeks' written notice to you.
+
+(c) The termination or revocation of the licence granted under these Terms and
+Conditions is without prejudice to any rights which have accrued to a party before
+the date of termination.
+
+11. Notice
+
+All notices required to be given by you under these Terms and Conditions must be
+in writing and served by delivering it to ArgusConnect's address as indicated in
+these Terms and Conditions, or by posting it by prepaid registered post to that address.
+
+12. Enforcement
+
+(a) Any clause or part of a clause of these Terms and Conditions which is ineffective
+in any jurisdiction is ineffective only to that extent and in that jurisdiction.
+
+(b) Where any clause or part of a clause is ineffective in a particular jurisdiction
+it may be severed without affecting any other part of these Terms and Conditions.
+
+13. Waiver
+
+No right under these Terms and Conditions or the licence granted under these Terms
+and Conditions is waived or deemed to be waived except by notice in writing signed
+by the party waiving the right.
+
+14. Neither these Terms and Conditions nor the licence granted under these Terms
+and Conditions creates any partnership, joint venture or agency relationship between
+the parties.
+
+15. Governing Law and Jurisdiction
+
+These Terms and Conditions and the licence granted under these Terms and Conditions
+are governed by the law of the State of Victoria. The parties irrevocably submit to
+the non-exclusive jurisdiction of the courts of the State of Victoria.
+
+16. Entire Agreement
+
+These Terms and Conditions constitute the entire agreement between the parties in
+relation to the licence and use of the Software. Any changes to these Terms and
+Conditions shall only be binding if agreed in writing and signed by the parties.
+
+--------------------------------------------------------------------------
+SCHEDULE
+
+ArgusMessenger - Authorised version
+ArgusMail - Authorised version
+ArgusAPI - Authorised version
+ArgusAgent - Authorised version
+ArgusAddressBookSetup - Authorised version
+
+
+
+
+	-  1  -
+

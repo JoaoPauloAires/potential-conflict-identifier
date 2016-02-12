@@ -1,0 +1,168 @@
+
+CONTRACTOR/CONSULTANT AGREEMENT (Sole Trader version)
+
+This Agreement dated ______________ is between:
+1. The University of New South Wales (ABN 57 195 873 179) (UNSW); and
+2. [Insert name of individual (ABN [insert])(Contractor),
+and comprises the Schedule, the Terms and Conditions, Annexure A (if indicated in Item 6 of the Schedule) and Annexure B (if indicated in Item 13 of the Schedule).
+SCHEDULE
+AGREEMENT TERMItem 1 (cl 2.1)Commencement date:[insert date]Item 2 (cl 2.1)Termination date:[insert date]Item 3 (cl 15.1)Notice required to terminate the Agreement:[insert notice period - normally 4 weeks]CONTACT DETAILS Item 4 (cl 18.3)UNSW's address
+Contact person: [insert]
+Address: [insert]
+Telephone: [insert]
+Email: [insert]Contractor's address
+Contact person: [insert]
+Address: [insert]
+Mobile: [insert]
+Email: [insert]SERVICES TO BE PROVIDED BY THE CONTRACTORItem 5 (cl 3.1)Description of Services* Item 6 (cl 3.1(b))Service standards* Not applicable
+* In accordance with Annexure AItem 7 (cl 3.1(c))Timetable for provision of services:?  Not applicable
+?  In accordance with the following timetable:Date:
+[Insert date]
+[Insert date]Milestone:
+[Insert Milestone]
+[Insert Milestone]Instalment
+$[insert amount]
+$[insert amount]Item 8 (cl 5.2)Equipment or facilities to be provided by UNSW for the Contractor's use* Not applicable
+* Office (including desk)
+* Access to telephone
+* Access to computer* Access to photocopying
+* UNSW email address
+* Car parking (fee applies)
+* Other - [insert] CONTRACTOR'S FEEItem 9 (cl 6)Contractor's Fee:$[insert] (including GST and superannuation) per [insert period - fortnight, month, session] 
+OR [Insert schedule of fees and payments]
+OR [In accordance with the timetable set out in Item 7]Item 10 (cl 7)Contractor's Expenses payable by the UNSW:* Not applicable
+* Travel* Other - [insert]INTELLECTUAL PROPERTYItem 11 (cl 8)IP arising from or in connection with the Services:* UNSW will own IP
+* Contractor will own IP* IP Arrangements as per special conditionsINSURANCE POLICIESItem 12 (cl 10.1)Insurance policies that Contractor must effect:* Public liability insurance (at least $10 million) (mandatory)
+* Professional indemnity insurance (required unless Business Unit waives requirement)
+* Other - [insert]SPECIAL CONDITIONSItem 13 (cl 14)Special conditions* Not applicable
+* In accordance with Annexure B
+
+TERMS AND CONDITIONS
+1. 
+1. DEFINITIONS AND INTERPRETATION
+1.1. In this Agreement:
+(a) Agreement Term means the term in clause 2.1, including any extension under clause 2.2. 
+(b) Confidential Information means any information (whether oral, writing or electronic) relating to a party that is not publicly available (other than by breach of this Agreement) and that by its nature is confidential (including but not limited to trade secrets and know how).
+(c) Fee means the fee payable under Item 9.
+(d) GST means Goods and Services Tax. 
+(e) Intellectual Property means all statutory and other proprietary rights in respect of inventions, copyright, trade marks, designs, patents, know-how, trade secrets and all other rights as defined by Article 2 of the Convention establishing the World Intellectual Property Organisation of July 1967 and all rights to apply for the same.
+(f) Personal Information has the meaning given to it in the Privacy and Personal Information Protection Act 1998 (NSW) (PPIP Act).
+(g) Services means the services in Item 6.
+(h) UNSW means the University of New South Wales and its officers, agents and employees.
+1.2. In this Agreement, unless the contrary appears:
+(a) The singular includes the plural and vice versa.
+(b) A reference to a person includes a body corporate or partnership and includes that person's successors, administrators, executors and assigns.
+(c) A reference to a law includes any amendment to it or replacement of it.
+1.3. Headings are inserted for convenience only and do not affect the interpretation of this Agreement. 
+2. AGREEMENT TERM
+2.1. This Agreement commences on the date specified in Item 1, and terminates on the date specified in Item 2, unless terminated earlier in accordance with clause 15 of this Agreement. 
+2.2. If the Contractor, with the agreement of UNSW, continues to provide the Services after the expiry of the Agreement Term, this Agreement continues to apply. 
+3. CONTRACTOR'S OBLIGATIONS
+3.1. The Contractor will perform the Services: 
+(a) in a diligent and professional manner, and with the necessary skill and care required to perform the Services;
+(b) according to any standards that normally apply to the Services and any service standards set under Item 6; 
+(c) before the end of the Agreement Term and according to the deadlines or milestones specified in any timetable set under Item 7.
+3.2. The Contractor is required to comply with the rules, regulations, procedures and policies of UNSW, as amended from time to time. This includes, without limitation, code of conduct, occupational health and safety, security, discrimination and harassment and privacy. UNSW rules, regulations, policies and procedures do not form part of this contract.
+3.3. The Contractor warrants that the Contractor has no conflict of interest in performing the Services as at the date of this Agreement. If the Contractor becomes aware of any actual or potential conflict of interest, the Contractor will immediately advise UNSW in writing, in which case UNSW may terminate the Agreement pursuant to clause 15.
+4. ASSIGNMENT AND SUB-CONTRACTING
+4.1. The Contractor must not assign or sub-contract any part of the Services without the prior written consent of UNSW. Any such written consent of UNSW does not relieve the Contractor from the Contractor's obligations under this Agreement.
+4.2. Subject to the Contractor's obligations under this Agreement (including with respect to conflict of interest), the Contractor may provide services to third parties. 
+5. EQUIPMENT
+5.1. The Contractor will provide all equipment necessary to perform the Services and is responsible at his/her cost for insuring the equipment and maintaining it in good working order during the Agreement Term. 
+5.2. If Item 8 specifies that UNSW will provide equipment or facilities for use by the Contractor, then the Contractor must:
+(a) use that equipment or those facilities only for the purpose of providing the Services;
+(b) ensure that equipment and those facilities are used according to any manufacturer's instructions and any instructions provided by UNSW; and
+(c) notify UNSW immediately if the Contractor becomes aware that the equipment or facilities are not working properly, or have become lost or stolen. 
+6. CONTRACTOR'S FEE
+6.1. To the extent that any GST is payable in respect of this Agreement, including in relation to the Services, the Contractor is liable to pay that GST and indemnifies UNSW against any failure to comply with this clause.
+6.2. Where this Agreement provides that the Contractor is to be paid by progressive payments, UNSW is entitled to defer payment until the Contractor has completed that part of the Services.
+6.3. The Contractor must provide invoices to UNSW in the form of a valid tax invoice. Where the Contractor has subcontracted any part of the Services, the invoice must be accompanied by a completed pro forma principal contractor's statement regarding workers compensation, pay-roll tax and remuneration.
+6.4. UNSW will pay the Contractor the invoiced Fee within 30 days of receipt of the tax invoice.
+7. EXPENSES
+If Item 10 specifies that UNSW is to reimburse the Contractor for any expenses, then UNSW will pay those expenses provided that the expenses are approved in writing in advance by UNSW and the Contractor has provided evidence that they have or will be incurred. 
+8. INTELLECTUAL PROPERTY 
+8.1. If Item 11 specifies that UNSW will own the intellectual property, then the Contractor: 
+(a) assigns to UNSW all Intellectual Property created by the Contractor (whether alone or with another person) arising from or in connection with the Services;
+(b) agrees that by virtue of this clause all Intellectual Property arising from or in connection with the Services is vested in UNSW;
+(c) grants UNSW consent to do or omit to do any act which would otherwise infringe the Contractor's moral rights under the Copyright Act 1968 (Cth) in relation to all works arising from or in connection with the Services; and
+(d) must do all things reasonably requested by UNSW to give effect to UNSW's rights under this clause. 
+8.2. If Item 11 specifies that the Contractor owns the Intellectual Property, then the Contractor hereby grants UNSW an irrevocable, perpetual, royalty-free, non-transferable and non-exclusive licence to use the Intellectual Property for:
+(a) purposes arising from or in connection with the Services; and
+(b) making copies for archival purposes.
+8.3. The Contractor warrants that all Intellectual Property created in connection with or arising from the Services will be original and will not infringe intellectual property of third parties, and indemnifies UNSW for any demand, cost or expenses as a result of any breaches by the Contractor of the intellectual property rights of third parties.
+8.4. The Contractor must not publish any articles, statements or any other information in connection with or arising from the Services without UNSW's prior approval in writing. 
+9. CONFIDENTIALITY AND PRIVACY 
+9.1. A party must not disclose the other party's Confidential Information, unless disclosure is required to provide the Services or is authorised in writing by the other party. These obligations continue beyond the expiry or termination of this Agreement. 
+9.2. The Contractor must handle all Personal Information in accordance with UNSW's Privacy Management Plan and the PPIP Act.
+10. INSURANCE
+10.1. The Contractor must effect and maintain during the Agreement Term the insurance policies specified in Item 12 and any other insurance policy required at law to provide the Services. 
+10.2. The Contractor must notify UNSW immediately if an insurance policy required under clause 10.1 is cancelled. 
+10.3. The Contractor must, if requested by UNSW, provide satisfactory evidence to UNSW of the existence and currency of the insurance policies referred to in clause 10.1. 
+10.4. If the Contractor suffers from any illness or injury arising from performing the Services, the Contractor is solely liable, and the Contractor is responsible for effecting and maintaining personal accident and illness insurance to cover such circumstances. 
+11. SUPERANNUATION 
+If superannuation is payable, UNSW will contribute the minimum amount to a complying superannuation fund. 
+12. INDEMNITY 
+12.1. The Contractor performs the Services at his/her own risk and UNSW will not be liable to the Contractor for any loss, damage, injury or death sustained by any person or to any property howsoever caused.
+12.2. The Contractor indemnifies UNSW against any claim, liability, loss or damage UNSW suffers because of the Contractor's failure to act or negligence with respect to death or injury of a person, damage to or destruction of property, or infringement of Intellectual Property in connection with the Services. 
+12.3. If UNSW becomes liable for the payment of any tax or deduction (including without limitation GST, PAYG Withholding and fringe benefits tax) UNSW may deduct the amount from any monies owing to the Contractor under this Agreement, or if no such monies or insufficient monies are owing, recover the amount from the Contractor as a debt.
+13. NEGATION OF EMPLOYMENT AND AGENCY
+The Contractor will provide the Services to UNSW as an independent contractor. Nothing in this Agreement constitutes, or shall be taken to mean that the relationship between the parties is an employment relationship, partnership or principal and agent. The Contractor will not represent itself as an employee or agent of UNSW. 
+14. SPECIAL CONDITIONS 
+14.1. The parties agree to comply with any special conditions specified in Item 13 and Annexure B of this Agreement. 
+14.2. To the extent that there is any inconsistency between these terms and conditions and the special conditions in Annexure B, these terms and conditions prevail.  
+15. TERMINATION OF AGREEMENT 
+15.1. Either party may terminate this Agreement at any time by providing the period of notice specified in Item 3, in writing, to the other party. 
+15.2. Either party may immediately terminate this Agreement if the other party breaches any term of this Agreement and such breach is not remedied within 28 days of the other party receiving written notice of such breach.
+15.3. UNSW may immediately terminate this agreement if the Contractor: 
+(a) fails to carry out the Services according to the terms of this Agreement; 
+(b) becomes bankrupt, or insolvent, or enters into a scheme or arrangement with its creditors; 
+(c) is charged with any offence involving fraud or dishonesty; or 
+(d) without reasonable cause suspends the carrying out of the Services. 
+15.4. Upon receipt of written notice of termination by UNSW, the Contractor will cease or reduce work under this Agreement in accordance with the tenure of the notice and will do everything possible to mitigate any consequential loss to either party. UNSW will only be liable to pay that part of the Fee that relates to Services provided up to the date of termination.
+15.5. If UNSW terminates this Agreement, such termination will not release the Contractor from liability in respect of any breach, or non-performance, of any obligation by the Contractor under this Agreement.
+15.6. Upon termination of this Agreement, the Contractor is required to return all UNSW property and equipment to UNSW.
+16. CONTINUING OBLIGATIONS
+The expiration or termination of this Agreement will not affect any provisions that are expressed to operate or have effect thereafter. 
+17. WAIVER
+The failure by a party to require performance of an obligation under this Agreement by the other party will not operate as a waiver of the obligation and the other party remains liable to perform all its obligations under this Agreement.
+18. GENERAL
+18.1. This Agreement cannot be varied, unless both parties agree in writing. 
+18.2. If any provision of this Agreement is held to be unenforceable, the remaining provisions will continue in full force and effect. 
+18.3. If written notice is required under this Agreement, such written notice must be delivered to the other party's address specified in Items 4. 
+18.4. This Agreement is governed by and is to be construed in accordance with the laws in force in New South Wales. 
+18.5. This Agreement forms the entire agreement between the parties in respect of the subject matter of this Agreement and supersedes all prior agreements, understandings, undertakings and negotiations in respect of the matters dealt with in this Agreement.
+
+
+
+ANNEXURE A - SERVICE STANDARDS
+
+
+
+[Insert service standards if applicable]
+
+
+ANNEXURE B - SPECIAL CONDITIONS
+
+In addition to the standard terms and conditions, the parties agree to the following special conditions:
+
+[Insert any special conditions]
+
+
+
+
+
+
+
+
+- 1 -
+
+
+- 2 -
+
+
+- 3 -
+
+Annexure A to Contractor Agreement
+
+Annexure B to Contractor Agreement
+
