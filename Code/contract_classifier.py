@@ -1,5 +1,5 @@
 """
-    This algorithm receives all contracts extracted from Xibin's base and then classify their sentences.
+    This algorithm receives all contracts extracted from Xibin's base and then classifies their sentences.
     After, it evaluates the f-measure for the task.
 """
 

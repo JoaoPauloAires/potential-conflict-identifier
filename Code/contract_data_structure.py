@@ -1,3 +1,7 @@
+"""
+    Creates a strucuture for conflict insertion into real contracts.
+"""
+
 import os
 import nltk
 from os.path import expanduser
