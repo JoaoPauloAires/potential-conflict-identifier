@@ -9,8 +9,9 @@ import hashlib
 class Conflict_finder:
 
     def __init__(self):
-        self.classifier = Classifier()      # Sentence classifier, which classifies a sentence either as norm or non-norm.
+        self.classifier = Classifier()      # Sentence classifier, which classifies a sentence as either norm or non-norm.
         self.party_norms = [[], []]           # Stores the norms applied to each party in the contract.
+        self.n_norm_pairs = 0
         self.modalVerbs = ['can', 'could', 'may', 'might', 'must', 'shall', 'should', 'will', 'ought']
         self.modal_dict = {
             'can'        :'permission',
@@ -30,10 +31,11 @@ class Conflict_finder:
             'will not'   :'prohibition',
             'must not'   :'prohibition',
             'ought not'  :'prohibition',
-            'should not' :'prohibition'            
+            'should not' :'prohibition'
         }
 
-    def process(self, path):
+    def process(self, path, *threshold):
+        self.threshold = threshold
         self.path = path
         self.read_contract()
         self.extract_contractual_norms()
@@ -70,11 +72,13 @@ class Conflict_finder:
         potential_conflicts = []
         index = 0
         text = ""
+
         for norm in self.party_norms:
             # Get a list of norms applied to the party.
             # Each element of the list is a tuple with (norm, modality_of_the_norm).
             text += "Presenting results for norms related to " + self.entities[index] + "\n"
             index += 1
+
             for i in range(len(norm)):
                 # From the list of norms, execute two loops to compare them and extract their semantic similarity.
                 ind = self.identify_modal(norm[i][0], True)     # Get index of the modal verb in the norm.
@@ -87,16 +91,38 @@ class Conflict_finder:
                         label = self.compare_modalities(norm[i][1], norm[j][1])     # Defide the type of possible conflict according to the norms' modalities.
                         if label:
                             # If the pair of norms fits into one of the conflict types, 
+
+                            self.n_norm_pairs += 1
                             norm2 = norm[j][0].split()
                             norm2 = ' '.join(norm2[ind+1:])
                             result = semantic_similarity.similarity(norm1, norm2)     # Get similarity.
-                            if result >= 0.6:
-                                # If similarity is lower or equal 0.6, we add it as a conflict.
-                                text += "Similarity:" + str(result) + "\tLabel: " + str(label) + "\n"
-                                text += norm[i][0] + "\n"
-                                text += norm[j][0]
-                                text += "\n-----------------\n"
-        return text            
+
+                            if isinstance(self.threshold[0], float):
+                                if result >= self.threshold:
+                                    # If similarity is lower or equal 0.6, we add it as a conflict.
+                                    text += "Similarity:" + str(result) + "\tLabel: " + str(label) + "\n"
+                                    text += norm[i][0] + "\n"
+                                    text += norm[j][0]
+                                    text += "\n-----------------\n"
+                                    potential_conflicts.append((norm[i][0], norm[j][0], result, label))
+
+                            elif isinstance(self.threshold[0], list):
+
+                                for thr in self.threshold[0]:
+                                    if result >= thr:
+                                        # If similarity is lower or equal 0.6, we add it as a conflict.
+                                        text += "Similarity:" + str(result) + "\tLabel: " + str(label) + "\n"
+                                        text += norm[i][0] + "\n"
+                                        text += norm[j][0]
+                                        text += "\n-----------------\n"
+                                        potential_conflicts.append((thr, norm[i][0], norm[j][0], result, label))
+                            else:
+                                print "There's something wrong."
+        potential_conflicts.append(self.n_norm_pairs)
+        print "N norm pairs: ", self.n_norm_pairs
+        
+        # print text                                
+        return potential_conflicts
 
     def compare_modalities(self, mod1, mod2):
         # Compare the modalities and return their conflict type, if it exists.
