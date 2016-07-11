@@ -14,7 +14,7 @@ a conflict detection algorithm.
 
 **Execute:**
 
--   To execute, run the following command:\
+-   To execute, run the following command:
     `python -B contract_data_structure.py`
 
 **Options:**
