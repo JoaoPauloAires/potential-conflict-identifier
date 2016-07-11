@@ -8,7 +8,7 @@ of the system.
 * * * * *
 
 This README explains how to execute `contract_data_structure.py` to
-introduce conflicts randomly in contracts from our corpus.[^1] The main
+introduce conflicts randomly in contracts from our corpus.[1] The main
 goal is to create contracts containing norm conflicts independently from
 a conflict detection algorithm.
 
@@ -127,5 +127,5 @@ same meaning), as the Example 3 shows.
 
 Thanks in advance.
 
-[^1]: This code is available at
+[1]: This code is available at
     <https://github.com/JoaoPauloAires/potential-conflict-identifier>
