@@ -1,8 +1,0 @@
-
-True positive: 96561
-True Negative: 205217
-False Positive: 105406
-False Negative: 9971
-Precision: 0.478102858388
-Recall: 0.906403709683
-F-Measure: 0.626005270682
