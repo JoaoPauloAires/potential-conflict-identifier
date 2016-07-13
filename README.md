@@ -1,3 +1,3 @@
 # Potential Conflict Identifier
 
-Repository containing the code and corpus used in the potential conflict identifier.
+Repository containing the code and corpora used in the potential conflict identifier.
