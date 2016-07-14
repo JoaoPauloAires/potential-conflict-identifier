@@ -15,9 +15,9 @@ class Structure:
 
 	def __init__(self):
 		self.home = expanduser("~")
-		self.path = self.home + "/Dropbox/PUCRS/Dissertation/Corpus/xIbinCorpus/noHTML/manufacturing/"
+		self.path = "data/manufacturing/"
 		self.contract_list = os.listdir(self.path)
-		self.directory = self.home + "/Dropbox/PUCRS/Dissertation/Code/data/ContractTest/"
+		self.directory = "data/ContractTest/"
 		self.sentence_classifier = Classifier()
 		self.contract_structure = {}
 		self.sentences = {}

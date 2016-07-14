@@ -59,7 +59,7 @@ if __name__ == "__main__":
     run_classifier(10)    
 
     c = Classifier(1)
-    norms = c.extract_norms(open(home + "/Dropbox/PUCRS/Dissertation/Corpus/xIbinCorpus/noHTML/manufacturing/adaptec.mfg.2001.04.01.shtml", 'r').read())
+    norms = c.extract_norms(open(home + "data/manufacturing/adaptec.mfg.2001.04.01.shtml", 'r').read())
 
     for norm in norms:
         print norm + "\n"
