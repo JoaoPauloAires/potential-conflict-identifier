@@ -26,7 +26,7 @@ def find_entities(block_entities):
     entities  = []
     nicknames = ['', '']
 
-    block_nick = re.compile(r'\(\"?.+?\"?\)')#|\( \& quot \; .+ \& quot \; \)')
+    block_nick = re.compile(r'\(\"?.+?\"?\)')
     extract_nick = re.compile(r'[\'\`\(\"\"\)]|& quot ;|Hereinafter |hereinafter | referred | to | as ')
 
     if block_entities.__contains__('AND'):
