@@ -4,7 +4,6 @@
 
 import os
 import nltk
-from os.path import expanduser
 from norm_classifier import * 
 from extracting_parties import *
 import random
@@ -14,7 +13,6 @@ import shutil
 class Structure:
 
 	def __init__(self):
-		self.home = expanduser("~")
 		self.path = "data/manufacturing/"
 		self.contract_list = os.listdir(self.path)
 		self.directory = "data/ContractTest/"

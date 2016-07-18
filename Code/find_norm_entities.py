@@ -2,20 +2,21 @@
 #Algorithm that receives either a contract file or folder path and returns the entities annotated in the norms.
 import os
 import nltk
-from normClassifier import *
+from norm_classifier import *
 from nltk.tag import stanford
-from nltk.tag.stanford import POSTagger
-from extractingParties import *
+# from nltk.tag.stanford import POSTagger
+from extracting_parties import *
 
-#global variables
-jar = 'stanford-postagger.jar'
-model = 'wsj-0-18-bidirectional-distsim.tagger'
-stanford = POSTagger(model, jar)
+# Global variables.
+# jar = 'stanford-postagger.jar'
+# model = 'wsj-0-18-bidirectional-distsim.tagger'
+# stanford = POSTagger(model, jar)
 output = open('data/annotated_entities.xml', 'w')
-classifier = Classifier(1)
+classifier = Classifier()
 
-#function that reads a contract, selects the norms and find the parties in it
 def annotate_norms(path):
+	# Function that reads a contract, selects the norms and find the parties in it.
+
 	file_name, file_extension = os.path.splitext(path)
 	if file_extension == '':
 		list_files = os.listdir(path)
@@ -36,7 +37,7 @@ def annotate_norms(path):
 		if entities and norms:
 			print entities, nicknames
 			annotate_entities(entities, nicknames, norms)
-			print "The contract " + contract + " have its norms and entities annotated.\n"
+			print "The contract " + contract + " had its norms and entities annotated.\n"
 		else:
 			print contract + " has no entities or norms founded!"
 	# return annotated_norms
@@ -96,5 +97,5 @@ def find_entity(word, phrase, party, index):
 
 
 if __name__ == "__main__":
-    a_norms = annotate_norms('/home/lsa/Dropbox/PUCRS/Dissertation/Corpus/xibinCorpus/noHTML/manufacturing/chiron.mfg.2000.04.13.shtml')
+    a_norms = annotate_norms('data/manufacturing/chiron.mfg.2000.04.13.shtml')
     output.close()
