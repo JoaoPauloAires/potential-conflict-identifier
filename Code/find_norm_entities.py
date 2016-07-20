@@ -31,20 +31,25 @@ def annotate_norms(path):
     for contract in list_files:
 
         print contract + " will now have its parties identified."
-        print path + contract
+        contract_path = path + contract
+        print contract_path
+
         
-        entities, nicknames = extract_parties(path + contract)
-        statinfo = os.stat(path + contract)
+        # Return the entities and nicknames present in the sentence.
+        entities, nicknames = extract_parties(contract_path)
+        statinfo = os.stat(contract_path)
         size = statinfo.st_size
-        contract_text = open(path + contract, 'r').read()
+        contract_text = open(contract_path, 'r').read()
         
         print contract + " will have its norms extracted. With " + str(size)
-        
+
+        # Extract norms from the contract.        
         norms = classifier.extract_norms(contract_text)
         
         print "Norms have been successful extracted!"
         
         if entities and norms:
+            # If entities and norms were correctly identified.
             print entities, nicknames
             annotate_entities(entities, nicknames, norms)
             print "The contract " + contract + " had its norms and entities annotated.\n"
@@ -55,37 +60,43 @@ def annotate_norms(path):
 
 def annotate_entities(entities, nicknames, norms):
     modalVerbs = ['can', 'could', 'may', 'might', 'must', 'shall', 'should', 'will', 'would', 'ought']
-    annotated_norms  = []
-    for norm_index in range(len(norms)):
+    # annotated_norms  = []
+    for norm in norms:
         flag = False
         index = -1        
-        norm = nltk.word_tokenize(norms[norm_index])
+        norm = nltk.word_tokenize(norm)     # Break norm sentence into tokens.
         for verb in modalVerbs:
+            # Identify the modal verb in the sentence.
             if verb in norm:
+                # Save the modal verb index on the norm sentnece.
                 index = norm.index(verb) + 1
                 break
         if index == -1:
+            # If the norm sentence has no modal verb, go to the next norm sentence.
             continue                
 
-        pre_m_verb = norm[:index]
+        pre_m_verb = norm[:index]   # Get the range in norm sentence that goes from the beggining to the index of the modal verb.
 
         for word in pre_m_verb[::-1]:
+            # Check the tokens in the range backwards searching for the entity.
             found = False
             for nickname in nicknames:
+                # Search for the nicknames among the tokens, if it finds, it breaks the last for.
                 nick = ' '.join(nickname.split()).split()
                 if word in nick:
                     found = find_entity(word, pre_m_verb, nick, nicknames.index(nickname) + 1)
                     break
 
             for ent in entities:
+                # Same case of the nicknames.
                 entity = ent.split()
                 if word in entity:
                     found = find_entity(word, pre_m_verb, entity, entities.index(ent) + 1)
             if found:
                 norm = found + norm[index:]
-                norms[norm_index] = ' '.join(norm)
+                norm = ' '.join(norm)
                 # annotated_norms.append(norms[norm_index])
-                output.write(norms[norm_index] + "\n\n")
+                output.write(norm + "\n\n")
                 break
     # return annotated_norms
 
