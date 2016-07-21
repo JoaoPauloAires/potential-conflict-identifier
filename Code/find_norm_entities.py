@@ -101,6 +101,8 @@ def annotate_entities(entities, nicknames, norms):
     # return annotated_norms
 
 def find_entity(word, phrase, party, index):
+    # If the entity is composed of two or more tokens, we look for all of them and address a tag <PARTY> to it.
+    
     final_phrase_index = phrase.index(word)
     final_party_index   = party.index(word)
     equal = True

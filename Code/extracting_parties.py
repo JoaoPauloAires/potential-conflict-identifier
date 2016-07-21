@@ -21,8 +21,9 @@ for entity in entities_list:
     key = hashlib.md5(entity[:-1]).digest()
     dictionary[key] = entity
 
-#function that finds entities in the sentence and returns a list with them
 def find_entities(block_entities):
+    # Function that finds entities in the sentence and returns a list with them.
+
     entities  = []
     nicknames = ['', '']
 
@@ -77,8 +78,9 @@ def find_entities(block_entities):
 
     return entities, nicknames
 
-#function that opens and process a contract
 def extract_parties(contract):
+    # Function that opens and process a contract in order to identify parties.
+
     entities = []
 
     regex = re.compile('BETWEEN[\r]*.+ AND.+', re.I)
@@ -88,7 +90,7 @@ def extract_parties(contract):
 
     fileName, fileExtension = os.path.splitext(contract)        
     if fileExtension == '':
-            return "You need to add a file path containing the file name.\nFor example: /path/to/file.txt"
+        return "You need to add a file path containing the file name.\nFor example: /path/to/file.txt"
             
     contract_text = ' '.join(open(contract, 'r').read().split())
     

@@ -36,12 +36,12 @@ class Classifier:
                 tokens = wt(sent)
                 for token in tokens:
                     if token in self.modal_verbs:
-                        output.append('norm')
+                        output.append((sent, 'norm'))
                         classified = 1
                         break
                 
                 if not classified:
-                    output.append('noNorm')
+                    output.append((sent, 'noNorm'))
 
             return output
 
