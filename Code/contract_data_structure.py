@@ -27,7 +27,7 @@ class Structure:
         self.modalVerbs = ['can', 'could', 'may', 'might', 'must', 'shall', 'should', 'will', 'ought']
 
     def start(self):
-
+        # Initialize the conflict insertion by asking for a username and an option to be selected.
         while self.username == '':
             self.username = raw_input("Please insert your name: ")
         if not self.access:
@@ -55,6 +55,7 @@ class Structure:
             self.start()
 
     def choose(self, choice):
+        # Based on choice, direct the user to a certain task.
         if choice == 1:
             try:
                 return self.pick_a_contract()
@@ -73,6 +74,7 @@ class Structure:
             self.start()
 
     def create_structure(self):
+        # Create a structure with norms and their entities to the selected contract.
         print "Creating the contract structure. . .\n"
         sent_tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
         contract_sentences = sent_tokenizer.tokenize(open(self.path + self.contract, 'r').read())
@@ -104,8 +106,6 @@ class Structure:
     def entity_norms(self, norm_set):
         # From norms, it extracts the ones that has at least one modal verb and then identifies the entity
         ent_norms = []
-
-        print "Len Norm_set", len(norm_set)
 
         for n in norm_set:
             if len(n) > 200 or len(n) == 0:
@@ -144,24 +144,27 @@ class Structure:
 
 
     def pick_a_contract(self):
+        # From a list of contracts, select one randomly.
         self.contract = random.choice(self.contract_list)
 
         self.create_structure()
         
-        print "You have got: " + self.contract + "\n"
+        print "You got: " + self.contract + "\n"
         
         return 1
 
     def pick_a_norm(self):
+        # From a list of norms identified in the contract, select one randomly.
         if self.contract:
             self.norm = random.choice(range(len(self.contract_structure[self.contract])))
             if self.norm != None:
-                print "You have got: " + self.contract_structure[self.contract][self.norm] + "\n"
+                print "You got: " + self.contract_structure[self.contract][self.norm] + "\n"
         else:
             print "Pick a contract before picking a norm.\n"
         return 1
 
     def make_a_conflict(self):
+        # From the selected norm, create a new one that conflicts with it.
         if self.norm:
             print "From the following norm, create a conflict or a redundancy.\n" + self.contract_structure[self.contract][self.norm] + "\n"
             self.new_norms.append(raw_input("Enter the norm: "))
@@ -170,6 +173,7 @@ class Structure:
         return 1
 
     def create_new_contract(self):
+        # Using the created conflict, create a new contract containing the conflict(s).
         if not os.path.exists(self.directory):
             os.makedirs(self.directory)
         
@@ -200,6 +204,7 @@ class Structure:
         return 0
 
     def remove_empty_folders(self):
+    	# For each user, we create a folder, if the user do not create a conflict, at the end of process remove empty folders.
         print "Searching for empty folders in /ContractTest.\n"
         folder_list = os.listdir(self.directory)
 

@@ -5,6 +5,7 @@ from sentence_similarity import semantic_similarity
 from norm_classifier import *
 from extracting_parties import *
 import hashlib
+import sys
 
 class Conflict_finder:
 
@@ -34,7 +35,8 @@ class Conflict_finder:
             'should not' :'prohibition'
         }
 
-    def process(self, path, *threshold):
+    def process(self, path, threshold=[0.6]):
+        print "Processing, it could take some time..."
         self.threshold = threshold
         self.path = path
         self.read_contract()
@@ -119,9 +121,10 @@ class Conflict_finder:
                             else:
                                 print "There's something wrong."
         potential_conflicts.append(self.n_norm_pairs)
-        print "N norm pairs: ", self.n_norm_pairs
         
-        # print text                                
+        if isinstance(self.threshold[0], float):
+            print text
+
         return potential_conflicts
 
     def compare_modalities(self, mod1, mod2):
@@ -195,4 +198,4 @@ class Conflict_finder:
 
 if __name__ == "__main__":
     finder = Conflict_finder()
-    print finder.process("data/ContractTest/Chang-03_07_2015-15:49:42/aortech.mfg.1998.12.23.shtml")
+    print finder.process("data/ContractTest/Dani3-22_06_2015-23:46:24/chiron.mfg.2003.10.02.shtml")
