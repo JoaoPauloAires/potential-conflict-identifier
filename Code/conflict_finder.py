@@ -1,9 +1,9 @@
 """
     This algorithm receives as input a contract path and returns potential conflicting norms.
 """
+from party_identification.extracting_parties import extract_parties
 from sentence_similarity import semantic_similarity
-from norm_classifier import *
-from extracting_parties import *
+from norm_identification.norm_classifier import *
 import hashlib
 import sys
 
@@ -100,7 +100,8 @@ class Conflict_finder:
                             result = semantic_similarity.similarity(norm1, norm2)     # Get similarity.
 
                             if isinstance(self.threshold[0], float):
-                                if result >= self.threshold:
+
+                                if result >= self.threshold[0]:
                                     # If similarity is lower or equal 0.6, we add it as a conflict.
                                     text += "Similarity:" + str(result) + "\tLabel: " + str(label) + "\n"
                                     text += norm[i][0] + "\n"
@@ -197,5 +198,10 @@ class Conflict_finder:
         self.party_norms[entity_num].append(self.identify_modal(norm, False))
 
 if __name__ == "__main__":
+
     finder = Conflict_finder()
-    print finder.process("data/ContractTest/Dani3-22_06_2015-23:46:24/chiron.mfg.2003.10.02.shtml")
+
+    if len(sys.argv) > 1:
+        finder.process(sys.argv[1])
+    else:
+        finder.process("data/ContractTest/Daniele-26_06_2015-22:09:43/foamtec.mfg.1998.01.30.shtml")

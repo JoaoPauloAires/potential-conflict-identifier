@@ -7,7 +7,7 @@ of the system.
 
 * * * * *
 
-This README explains how to execute `contract_data_structure.py` to
+This README explains how to execute `create_conflicting_norms.py` to
 introduce conflicts randomly in contracts from our corpus.[1] The main
 goal is to create contracts containing norm conflicts independently from
 a conflict detection algorithm.
@@ -15,7 +15,7 @@ a conflict detection algorithm.
 **Execute:**
 
 -   To execute, run the following command:
-    `python -B contract_data_structure.py`
+    `python -B create_conflicting_norms.py`
 
 **Options:**
 
@@ -65,7 +65,7 @@ a conflict detection algorithm.
 -   In this manual conflict insertion, you are intended to follow a
     series of steps.
 
-    1.  Execute `contract_data_structure.py`;
+    1.  Execute `create_conflicting_norms.py`;
 
     2.  Insert your first name, and pick a contract with option (1);
 
