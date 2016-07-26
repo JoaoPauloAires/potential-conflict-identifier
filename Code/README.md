@@ -76,11 +76,11 @@ a conflict detection algorithm.
 -   You have to create between 70 and 100 conflicts of 3 types. These
     types are:
 
-    -   Permission $\times$ Obligation (33%);
+    -   Permission x Obligation (33%);
 
-    -   Permission $\times$ Prohibition (33%);
+    -   Permission x Prohibition (33%);
 
-    -   Obligation $\times$ Prohibition (33%).
+    -   Obligation x Prohibition (33%).
 
 -   A regular norm has the following structure:
 
@@ -91,8 +91,8 @@ a conflict detection algorithm.
 Given a regular norm, you will choose option 3, which allows you to
 alter such norm. Then you have to alter it in order to generate a
 conflict, e.g., if you got the Example 1, you may choose to create
-either a Permission $\times$ Obligation conflict or an Obligation x
-Prohibition conflict. In the first case (Permission $\times$
+either a Permission x Obligation conflict or an Obligation x
+Prohibition conflict. In the first case (Permission x
 Obligation), a possible modification can be described as follows:
 
 -   **Example 2.:**
