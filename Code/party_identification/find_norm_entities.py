@@ -3,7 +3,6 @@
 import os
 import nltk
 from norm_identification.norm_classifier import *
-from nltk.tag import stanford
 from extracting_parties import *
 
 # Global variables.
