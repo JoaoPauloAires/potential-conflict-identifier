@@ -130,6 +130,6 @@ class Test_Conf_Finder:
 
 if __name__ == "__main__":
     start = time.time()
-    tcf = Test_Conf_Finder(THRESHOLD_RANGE, 'data/ContractTest/')
+    tcf = Test_Conf_Finder(THRESHOLD_RANGE, 'data/conflicting_contracts/')
     tcf.test_identifier()
     print time.time() - start

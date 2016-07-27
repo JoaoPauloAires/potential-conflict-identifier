@@ -15,7 +15,7 @@ class Structure:
     def __init__(self):
         self.path = "data/manufacturing/"
         self.contract_list = os.listdir(self.path)
-        self.directory = "data/ContractTest/"
+        self.directory = "data/conflicting_contracts/"
         self.sentence_classifier = Classifier()
         self.contract_structure = {}
         self.sentences = {}
@@ -205,7 +205,7 @@ class Structure:
 
     def remove_empty_folders(self):
     	# For each user, we create a folder, if the user do not create a conflict, at the end of process remove empty folders.
-        print "Searching for empty folders in /ContractTest.\n"
+        print "Searching for empty folders in /conflicting_contracts.\n"
         folder_list = os.listdir(self.directory)
 
         for folder in folder_list:

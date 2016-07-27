@@ -204,4 +204,4 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         finder.process(sys.argv[1])
     else:
-        finder.process("data/ContractTest/Daniele-26_06_2015-22:09:43/foamtec.mfg.1998.01.30.shtml")
+        finder.process("data/conflicting_contracts/Daniele-26_06_2015-22:09:43/foamtec.mfg.1998.01.30.shtml")

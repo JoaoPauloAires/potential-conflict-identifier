@@ -1,6 +1,6 @@
-norm = open("Normas Between/all_sentences.txt", 'r').readlines()
+norm = open("norms/all_sentences.txt", 'r').readlines()
 len_norm = len(norm)
-noNorm = open("nao_normas.txt", 'r').readlines()
+noNorm = open("no_norms.txt", 'r').readlines()
 len_noNorm = len(noNorm)
 
 modalVerbs = ['can', 'could', 'may', 'might', 'must', 'shall', 'should', 'will', 'would', 'ought']
