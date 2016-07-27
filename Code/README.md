@@ -2,7 +2,7 @@
 
 In this folder, we have the conflict finder main code and the subfolders for each process in the potential conflict identification.
 
-### Prerequisities
+## Prerequisities
 
 Before executing any code, be sure to have installed the following python library:
 
