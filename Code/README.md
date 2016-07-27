@@ -1,5 +1,4 @@
 # Conflict Finder
-* * *
 
 In this folder, we have the conflict finder main code and the subfolders for each process in the potential conflict identification.
 
@@ -21,4 +20,4 @@ To execute the other codes, run the following commands:
 
     python -B createa_conflicting_norms.py
     
-    python -b test_conflict_finder.py
+    python -B test_conflict_finder.py
