@@ -35,7 +35,7 @@ class Conflict_finder:
             'should not' :'prohibition'
         }
 
-    def process(self, path, threshold=[0.6]):
+    def process(self, path, threshold=0.6):
         print "Processing, it could take some time..."
         self.threshold = threshold
         self.path = path
@@ -99,9 +99,9 @@ class Conflict_finder:
                             norm2 = ' '.join(norm2[ind+1:])
                             result = semantic_similarity.similarity(norm1, norm2)     # Get similarity.
 
-                            if isinstance(self.threshold[0], float):
+                            if isinstance(self.threshold, float):
 
-                                if result >= self.threshold[0]:
+                                if result >= self.threshold:
                                     # If similarity is lower or equal 0.6, we add it as a conflict.
                                     text += "Similarity:" + str(result) + "\tLabel: " + str(label) + "\n"
                                     text += norm[i][0] + "\n"
@@ -109,9 +109,9 @@ class Conflict_finder:
                                     text += "\n-----------------\n"
                                     potential_conflicts.append((norm[i][0], norm[j][0], result, label))
 
-                            elif isinstance(self.threshold[0], list):
+                            elif isinstance(self.threshold, list):
 
-                                for thr in self.threshold[0]:
+                                for thr in self.threshold:
                                     if result >= thr:
                                         # If similarity is lower or equal 0.6, we add it as a conflict.
                                         text += "Similarity:" + str(result) + "\tLabel: " + str(label) + "\n"

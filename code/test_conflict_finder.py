@@ -1,7 +1,8 @@
 # -*- coding:utf-8 -*-
-from conflict_finder import Conflict_finder
-import time
 import os
+import time
+import sys
+from conflict_finder import Conflict_finder
 
 TP              = 0
 TN              = 1
@@ -24,7 +25,7 @@ class Test_Conf_Finder:
     def __init__(self, threshold_range, folders_path):
 
         self.threshold_range = threshold_range  # List of thresholds.
-        self.folders_path = folders_path        # Path for the folder where contracts w/ inserted conflicts are located.
+        self.folders_path = folders_path        # Path to the folder where contracts w/ inserted conflicts are located.
         self.dict_thr_tp_fp = dict()            # Dictionary to store true and false positives for each threshold.
         self.list_of_conf_norms_found = dict()
 
@@ -36,7 +37,7 @@ class Test_Conf_Finder:
 
     def test_identifier(self):
         # Check each folder in the folders_path and then each contract in the folder.
-        # Process contracts and compute the true and false positives.
+        # Process contracts and compute true and false positives.
 
         folders_list = os.listdir(self.folders_path)
 
@@ -102,8 +103,7 @@ class Test_Conf_Finder:
                     self.dict_thr_tp_fp[thr][TN] -= 1
 
             else:
-                print "Something's wrong, I don't know this threshold %.1f!!!" % p_conflict[0]
-
+                sys.exit("Something's wrong, I don't know this threshold %s!!!" % p_conflict[0])
 
     def write_results(self):
 
