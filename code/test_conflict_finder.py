@@ -103,7 +103,7 @@ class Test_Conf_Finder:
                     self.dict_thr_tp_fp[thr][TN] -= 1
 
             else:
-                sys.exit("Something's wrong, I don't know this threshold %s!!!" % p_conflict[0])
+                sys.exit("Something's wrong, I don't know this threshold %.1f!!!" % p_conflict[0])
 
     def write_results(self):
 
