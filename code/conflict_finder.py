@@ -1,11 +1,11 @@
 """
     This algorithm receives as input a contract path and returns potential conflicting norms.
 """
+import sys
+import hashlib
 from party_identification.extracting_parties import extract_parties
 from sentence_similarity import semantic_similarity
 from norm_identification.norm_classifier import *
-import hashlib
-import sys
 
 class Conflict_finder:
 
@@ -68,6 +68,9 @@ class Conflict_finder:
         if path:
             self.path = path[0]
         self.entities, self.nicknames = extract_parties(self.path)
+        print "Entitites", self.entities
+        print "nicknames", self.nicknames
+
         
     def calculate_similarity(self):
         # Calculates the similartity between two sentences based on the Wordnet WUP measure.
@@ -123,7 +126,7 @@ class Conflict_finder:
                                 print "There's something wrong."
         potential_conflicts.append(self.n_norm_pairs)
         
-        if isinstance(self.threshold[0], float):
+        if isinstance(self.threshold, float):
             print text
 
         return potential_conflicts
@@ -146,7 +149,7 @@ class Conflict_finder:
             norm = norm.split()
             if not index:
                 continue
-            for element in norm[:index][::-1]:  # Go through the words before the modal verb, which we believe is described te party name.
+            for element in norm[:index][::-1]:  # Go through the words before the modal verb, which we believe is described the party name.
                 if self.find_nickname(element, norm):
                     break
                 if self.find_entity(element, norm):
