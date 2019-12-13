@@ -77,6 +77,8 @@ class Test_Conf_Finder:
 
         print "\tProcessing the result..."
 
+        print "Result, inserted conflicts", result[-1], len(inserted_conflicts)
+
         for thr in self.threshold_range:
             self.dict_thr_tp_fp[thr][TN] += result[-1] - len(inserted_conflicts)      # True negatives
             self.dict_thr_tp_fp[thr][FN] += len(inserted_conflicts)                   # False negatives
@@ -103,7 +105,8 @@ class Test_Conf_Finder:
                     self.dict_thr_tp_fp[thr][TN] -= 1
 
             else:
-                sys.exit("Something's wrong, I don't know this threshold %.1f!!!" % p_conflict[0])
+                print "Something's wrong, I don't know this threshold {}!!!".format(p_conflict[0])
+                sys.exit(0)
 
     def write_results(self):
 
